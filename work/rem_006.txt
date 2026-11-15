@@ -1,0 +1,40 @@
+[240] @728aeb (70) {FC0106}Admin: ¡Inútiles! ¡No pueden\nvencer ni a una mosca!\p¡Yo me encargo!
+[241] @728b3a (37) Admin: ¡No puede ser!\n¡Es muy fuerte!
+[242] @728b6b (140) {FC0106}Admin: ¡Grr!\fNo puede ser, me has vencido,\npero no importa,\pnosotros ya tenemos lo que\pqueremos, es hora de largarnos de\paquí, ¡Jajajaja!
+[243] @728c22 (123) {FC0106}Admin: ¡Idiotas! ¡Solo tenían\nque traer la pokéball de\p{FC0108}SUICUNE{FC0106} y ya tendríamos todo\plo que buscábamos!\f¡Imbéciles!
+[244] @728ca0 (31) {FC0106}Admin: ¡Larguémonos de aquí!
+[245] @729d3a (21) {FC0104}{FD01}: ¡No debo huir!
+[246] @729dd2 (34) {FC0104}{FD01}: ¡Lance se encarga de ellos!
+[247] @72a1bd (84) Estoy buscando un buen entrenador\npara que cuide a este pequeñín.\f¿Conoces a alguno?
+[248] @72a214 (26) ¡Cuida bien de ese PIPLUP!
+[249] @72a231 (70) ¡Oh!\f¡Ésa es la medalla cascada!\f¿Te gustaría conservar a este\nPIPLUP?
+[250] @72a296 (46) ¡Qué lastima! ¡Ya encontraré\nalgún interesado!
+[251] @72a966 (20) ¿Lindo día no crees?
+[252] @72a99e (31)  ¿Has visto a un niño por aquí?
+[253] @72ab3b (94) {FC010C}Mama de ash: Hola {FD01}, ¿Cómo vas\nen tu aventura?\fSesure it's great, I want\nto give you this.
+[254] @72ac2f (77) {FC010C}Mama de ash: Es un mapa de la\nregión, te servirá en tu viaje.\f¡Suerte {FD01}!\n
+[255] @72acc1 (90) {FC0106}Mamá de Ash: Hola {FD01},\n¿Cómo va tu aventura?\fSeguro que genial, quiero\nobsequiarte esto.
+[256] @72adb5 (77) {FC0106}Mamá de Ash: Es un mapa de la\nregión, te servirá en tu viaje.\f¡Suerte {FD01}!\n
+[257] @72aeef (40) ¿Por qué tuvieron que cerrar mi\nescuela?
+[258] @72af23 (96) Mi pokémon favorito es\nCHARMANDER.\f¿Cuál es el tuyo?\f¡Vamos! ¡Todos tenemos un pokémon\nfavorito!
+[259] @72b006 (50) ¡Ahora puedo jugar batallas online con mis amigos!
+[260] @72b044 (97) El sistema de PC lo inventó Bill.\n¿Quién sabe que maravillosas\pcosas habrá inventado hasta ahora?
+[261] @72b197 (39) ¡Puedo hablar con mi suegra desde\naquí!
+[262] @72b1ca (42) ¡Oh, tu también vienes a ver los\ncombates!
+[263] @72b247 (38) ¡Estoy jugando al pokémon\nBlack&White!
+[264] @72b279 (46) ¡Misty es muy difícil de vencer\nen este juego!
+[265] @72b2b1 (40) ¡Grr!\f¡Éste CLAFAIRY es muy escurridizo!
+[266] @72b320 (29) ¡Una PC de última generación!
+[267] @72b3e8 (63) ¡Los CENTROS POKéMON curan a tus\nPOKéMON heridos o debilitados!
+[268] @72b433 (32) ¡Mi papá es muy sobre protector!
+[269] @72b45f (37) ¡Mi hermana es muy buena\nentrenadora!
+[270] @72b675 (37) ¡Yo vigilo la parte sur de ésta\nruta!
+[271] @72b6a6 (43) Mmm, tengo mucha hambre, ¿me\nconvidas algo?
+[272] @72b79a (88) Acabo de salir del BOSQUE VERDE,\ncasi me pica un BEEDRILL.\f¡Salí corriendo de inmediato!
+[273] @72b7fe (39) ¡Yo vigilo la parte norte de ésta\nruta!
+[274] @72b83f (38) ¡Eh! ¡Tienes POKéMON!\n¡Sí!\p¡Al ataque!
+[275] @72b868 (30) ¡No!\n¡Mi CATERPIE no pudo más!
+[276] @72b889 (38) ¡Ssh!\n¡Vas a espantar a los bichos!...
+[277] @72b8c9 (24) ¡No vas a poder conmigo!
+[278] @72b930 (17) ¡Soy un pescador!
+[279] @72b99c (21) ¡No tan rápido amigo!

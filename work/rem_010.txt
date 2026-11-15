@@ -1,0 +1,40 @@
+[400] @771eb7 (111) {FC0104}{FD01}: ¿Qué está pasando profesor?\f{FC010F}Birch: Me temo que esos {FC0106}Kakuna {FC010F}están\nevolucionando.\f{FC0104}{FD01}: ¿¡QUÉ!? 
+[401] @771f29 (53) {FC0104}Rocket 2: ¡Son demasiados!\f{FC0108}Rocket 1: ¡A correr!
+[402] @771f61 (283) {FC010F}Birch: Uff, eso sí que fue extraño\n¿No crees?, yo solo quería mostrarte\pese gran nido de {FC0106}Kakuna{FC010F} y resultó\pesta desagradable situación. Bueno\p{FC0104}{FD01}{FC010F}, nos veremos pronto,\pcontinuaré mi camino solo hacia\p{FC0106}Pueblo Paleta.\f{FC0104}{FD01}: Bien profesor, salude a {FC0105}Oak{FC0104}\nde mi parte.
+[403] @77207e (222) {FCFC01}È¡Soy BROCK! ¡LÍDER\ndel GIMNASIO de CIUDAD PLATEADA!\f{FC0105}Brock: Supongo que vienes a\ndesafiarme ¿no? Entonces debes\ptener mucho valor, para ser el\pprimer retador en mucho tiempo.\pBueno, no perdamos más tiempo. ¡A\pluchar!
+[404] @772166 (667) {FC0104}{FD01}: ¿Hola?\f{FC010F}Birch: Hola {FC0104}{FD01}{FC010F}, ¿Cómo has\nestado?\f{FC0104}{FD01}: Bien Prof. Ya he ganado mi\nprimer medalla para la liga de\p{FC0106}Kanto.\f{FC010F}Birch: ¡Felicitaciones\n{FC0104}{FD01}!{FC010F}¡Te lo tienes bien\pmerecido!\fBirch: Ahora cuéntame, ¿A dónde\nirás?\f{FC0104}{FD01}: Hacia {FC0106}Ciudad Celeste{FC0104} en\ndonde está el segundo gimnasio.\p¿Por qué pregunta?\f{FC010F}Birch: Es que necesitamos que\nvuelvas a {FC0106}Pueblo Paleta{FC010F}, asíTe he subestimado.\f¡Como prueba de tu victoria, aquí\ntienes la MEDALLA ROCA!\f{FC0602}¡{FD01} obtuvo la MEDALLA ROCA!{FC17FC}ÎÇÀ{FC08FE}{FC0856}{FC18FB}{FC0604}¡Es una MEDALLA oficial de la LIGA\nPOKéMON!\f¡Hará que tus POKéMON sean\nmucho más fuertes!\f¡Y la técnica del DESTELLO podrá\nser utilizada en todo momento!
+[405] @772404 (199) {FC0105}Brock: En el mundo de los\npokémon nunca tendrás nada fácil,\pasí que debes esforzarte para\pcumplir tus sueños.\fSi te gustan los retos, ¿Por qué\nno vas al gimnasio de CIUDAD\pCELESTE y retas a MISTY?
+[406] @772689 (27) la\pvelocidad a tu oponente.
+[407] @772924 (125) smo.¿Llevas POKé BALLS?\n¡Entonces tú tienes POKéMON!\f¡Es genial poder llevar y usar los\nPOKéMON en cualquier momento\py lugar!
+[408] @772a58 (33)  LA CASA del MAR\n¡BILL vive aquí!
+[409] @772a86 (25) ¡Es ahora o nunca joven! 
+[410] @772aa0 (168)  PISTAS ENTRENADOR\fLos ataques de los POKéMON\ndependen de sus PUNTOS de PODER\po PP.\f¡Para rellenar tus PP, deja que\ntus cansados POKéMON descansen\pen un CENTRO POKéMON!
+[411] @772b49 (127)  ¡Éste es el CENTRO POKéMON!\fNosotros curamos a los POKéMON\ndebilitados.\f¿Quieres que nos ocupemos de los\nPOKéMON de tu equipo?
+[412] @772bc9 (80)  Puedes usar ese PC de la esquina.\f¡Me lo dijo la recepcionista!\n¡Es muy amable!
+[413] @772c1a (108)  PISTAS ENTRENADOR\f¡Atrapa los POKéMON y amplía\ntu colección!\f¡Cuantos más tengas, más fácil\nte será luchar!
+[414] @772d04 (28) ¡Vuelve siempre que quieras!
+[415] @772d83 (52) ¡Parece que {FD02} está jugando\nahora mismo! ¡Conéctate!
+[416] @772dd9 (48)  ¡Auch! ¡Tropecé con un POKéMON\nrocoso, GEODUDE!
+[417] @772e17 (23) ¡Vuelve cuando quieras!
+[418] @772eca (60)  ¡Eh!\n¡Hay que tener disciplina para ser\pENTRENADOR POKéMON!
+[419] @772f20 (41) ¿Será posible?\n¡No me quedan más POKéMON!
+[420] @772f72 (40)  ¡Vaya!\n¡Voy a atrapar unos más fuertes!
+[421] @772f9b (42)  ¡Eh, espera!\n¿Por qué tienes tanta prisa?
+[422] @772fec (91) ¡A veces puedes encontrar cosas\nen el suelo!\f¡Estoy buscando los objetos\nque se me cayeron!
+[423] @7730aa (42)  Los niños pagan 50¥.\f¿Te gustaría entrar?
+[424] @7730ef (59)  ¡Hola!\n¡Me gustan los pantalones cortos!\f¡Son muy cómodos!
+[425] @77312b (39)  GAME HOUSE\n¡Vive los mejores combates!
+[426] @77316b (22) ¡No me lo puedo creer!
+[427] @773184 (75) ¿Estás guardando a tus POKéMON\nen el PC?\f¡Cada CAJA puede tener 30\nPOKéMON!
+[428] @77322d (23) ¡Eres de lo que no hay!
+[429] @773247 (38) ¡Deja de mirarme si no quieres\nluchar!
+[430] @7732d2 (37) ¡Con nuevos POKéMON te habría\nganado!
+[431] @7732fa (55) ¡Si una POKéMON BOX in the PC\nis full, use another BOX!
+[432] @773339 (42)  ¡Puedes luchar contra mis nuevos\nPOKéMON!
+[433] @7733b6 (57) ¡Los POKéMON entrenados son más\nfuertes que los salvajes!
+[434] @7733f0 (33)  ¡Oye!\n¡No llevas pantalón corto!
+[435] @773452 (25) ¡He perdido!\n¡He perdido!
+[436] @773499 (14)  ¿Eso es todo?
+[437] @773568 (23)  ¡Eh!\n¡Me has empujado!
+[438] @773580 (68)  ¡Uff!... Voy a descansar.\nUfff...\f¡Ese túnel a CELESTE es agotador!
+[439] @7735c5 (160)  ¡Anda, la MEDALLA ROCA!\nTe la ha dado BROCK, ¿no?\fBROCK es, además de fuerte, guay.\nTodos lo respetan y admiran mucho.\fYo quiero ser LÍDER de GIMNASIO\ncomo él.

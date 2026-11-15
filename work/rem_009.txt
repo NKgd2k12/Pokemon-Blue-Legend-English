@@ -1,0 +1,40 @@
+[360] @72e6af (227) ¿ {FC0106}Gary{FC010E}?\f{FC010F}Oak: Quería que esté en ésta\nreunión, pero prefirió tomar su\pcamino. Él puede cuidarse solo.\f{FC010E}Ash: Bien, entonces haré lo\nmismo. Gracias por el aviso Prof,\pestaré alerta. Nos vemos {FC0104}{FD01}{FC010E}.\f{FC0104}{FD01}: Adiós Ash.
+[361] @770000 (418) Riiiiinnnnnngggggg...\f{FC0104}{FD01}: Eh, seems it's coming from my \nbag. Hello?\f{FC0108}Prof. Birch: Hello {FD01}, I'm Birch,\nyour mom just gave me this\pnumber, she wants me to tell you\pshe bought you a new cell phone\pand left it in your bag. By the way,\premember you have to see\pprof. Oak to deliver that\ppackage, and say hi to the captain\pfor me.\f{FC0104}{FD01}: I have to find Oak.\f{FC0108}ATTENTION!! We have arrived\nat the port of Saffron City.
+[362] @7701aa (38) {FC0106}¡{FD01}, el profesor te\nestá esperando!
+[363] @77049e (140) {FC010F}Oak: {FD01}, we're here.\fThis is my laboratory,\nnow tell me, what brings you\phere.\f{FC0104}{FD01}: Prof. Birch sent me\nto deliver this package to you.
+[364] @770556 (389) {FC010F}Oak: Ahora sí, cuéntame algo de\ntu vida.\f{FC0104}{FD01}: Vengo de Villa Raíz y\nentreno Pokémon, aunque no tengo\pun combate hace mucho tiempo.\f{FC010F}Oak: Bueno aquí en Kanto hay un\ntorneo para gente como tú, talvez\pquieras participar.\f{FC0104}{FD01}: ¡Sí! sería fantástico, pero\nno traje a ninguno de mis pokémon\pconmigo.\f{FC010F}Oak: No te preocupes, puedo\ndarte uno de los míos.\f{FC0104}{FD01}: Sería un placer profesor.
+[365] @7706fc (24) {FC010F}¡Oak: Pero si es Ash!
+[366] @770715 (185) {FC010E}Ash: Hola prof, que tal?\f{FC010F}Oak: Te estaba esperanso, let me introduce\nyou to {FD01}, he is a trainer\pfrom Hoenn.{FC010E}Ash: Hoenn eh, I've been there,\ngood to meet you, as a fellow\ptrainer.
+[367] @7707cf (20)  entrenador como tu.
+[368] @7707e4 (101) {FC010E}Ash: Hola Prof, ¿Qué tal?\f{FC010F}Oak: Te estaba esperando, te presento\na {FD01}, viene de la región Hoenn.
+[369] @7708a2 (17) trenador como tu.
+[370] @770913 (149) {FC0104}{FD01}: Profesor, disculpe, pero ya\nno lo soporto\f¡QUIERO MI POKÉMON!\f{FC010F}Oak: Bueno no te desesperes\nThere are three Pokémon in those balls.\pPick one.
+[371] @7709b3 (73) {FC010E}Ash: ¡Hey, {FD01}!\fYa que tienes a tu nuevo Pokémon,\n¿Qué tal si luchamos?
+[372] @770a26 (100) {FC010E}Ash: Excelente batalla {FD01},\nhace mucho que no luchaba así.\fBueno, me despido.\f¡Nos veremos pronto!
+[373] @770a8b (69)  o, he aprendido mucho.\f{FC010E}Ash: Bueno me despido, nos\nveremos pronto!
+[374] @770baa (14)  por el aviso.
+[375] @770d10 (54) {FC010F}Oak: {FD01} tu viaje en\nKanto recién comienza, ¡Suerte!
+[376] @770dec (86) t¡La tecnología es increíble!\f¡Ahora puedes guardar y sacar\nobjetos y POKéMON, vía PC!
+[377] @770e46 (122) {FC0104}Sabes, en este Pueblo han pasado\nmuchísimas cosas, pero en todas\plas oportunidades Ash nos ha\psalvado, ¡El es el mejor!
+[378] @770edc (50) PISTAS ENTRENADOR\f¡Pulsa START para abrir el MENÚ!
+[379] @770f9e (25) {FC0104}{FD01}: ¡QUÉ RAYOS ES ESO!
+[380] @77106c (93) {FC010E}Ash: ¡Hey {FD01}! llegas justo a\ntiempo, estaba a punto de irme.\pVen te presentaré a mi madre.
+[381] @7712df (54) {FC010E}Ash: ¡Lo encontré! ¡Lo encontré!\f¿Se veía algo así?
+[382] @771316 (380)  {FC0104}{FD01}: ¡Sí! ¡Es ese!\f{FC010E}Ash: Mmm, lo suponía, ese\npokémon que viste se llama Ho-oh.\f{FC0104}{FD01}: ¿Ho-oh? ¿Qué sabes de él?\f{FC010E}Ash: También lo vi cuando\ncomencé mi viaje como entrenador\ppokémon.\fUna vez, uno de mis amigos de\nJohto me contó que ese pokémon\ppresagia algo, pero nunca me supo\pexplicar qué.\fAl menos eso es todo lo que sé.\f{FC0104}{FD01}: Gracias Ash, es que me\nmoría de curiosidad.
+[383] @771493 (30) es que me\nmoría de curiosidad.
+[384] @7714c3 (73) {FC010E}Ash: ¡Oh!\nMira la hora que es.\pTengo que irme sino voy a llegar\ptarde.
+[385] @771618 (74) {FC0104}{FD01}: ¡Ahh! un enjambre de {FC0106}BEEDRILL{FC0104},\nmejor me ale{FC010F}Birch: ¡AAAHHH!
+[386] @7716cc (28)  {FC0108}¡Mi Spearow es el mejor!
+[387] @7716ea (43) ¿Y tú quién eres? No eres de\nPueblo Paleta.
+[388] @7717bd (55)  ¡Hola! Yo soy la hermana de\n{FC0105}Gary{FC0104}.\f¿Cómo está el?
+[389] @7717f5 (66)  Es divertido dar un paseo de vez\nen cuando, ¿Por qué no lo haces?
+[390] @771838 (57)  ¿Quieres saber algo sobre los 2\ntipos de orugas POKéMON?
+[391] @7718a9 (78) ¡CATERPIE no tiene veneno; pero\nWEEDLE, sí!\f¡Cuidado con su PICOTAZO\nVENENOSO!
+[392] @771949 (32) {FC010F}Birch: ¡Alguien que me ayude!
+[393] @77196c (86) {FC010F}Birch: ¡{FC0104}{FD01}{FC010F}! Gracias al cielo\nestás aquí, por favor, ayúdame\pcon este pokémon.
+[394] @7719c5 (517) {FC010F}Birch: Gracias {FC0104}{FD01}{FC010F}, te debo\nuna. Si no hubieses estado aquí,\pquien sabe cómo habría terminado,\pintentaba ver de cerca a ese\p{FC0105}Beedrill {FC010F}cuando me\psorprendió, gracias nuevamente.\f{FC0104}{FD01}: De nada profesor, pero me\npuede decir, ¿Qué hace en\p{FC0106}Kanto{FC0104}?\f{FC010F}Birch: Buena pregunta, resulta\nque encontré nuevos datos sobre\pla investigación que estoy\pllevando junto con el profesor\p{FC0105}Oak{FC010F}, esta vez necesito\pdársela personalmente, me has\payudado muchísimo hasta ahora.\f{FC010F}Ven, acompáñame, quiero\nmostrarte algo.
+[395] @771c35 (148) {FC010F}Birch: {FC0104}{FD01} {FC010F}mira eso,\n¿Quiénes son esos tipos?\f{FC0104}{FD01}: Oh no, son los que me crucé\nantes. Seguro que no buscan nada\pbueno, debemos detenerlos.
+[396] @771ced (156) {FC0108}Rocket 1: Jeje, esos son los {FC0106}Kakuna\n{FC0108}que te dije.\f{FC0104}Rocket 2: Bien, no perdamos el tiempo\ny capturémoslos de una vez.\f{FC0104}{FD01}: ¡Alto ahí ustedes dos!
+[397] @771d8c (51) {FC0108}Rocket 1: ¡Deben ser los que\nnos espiaban antes!
+[398] @771dc7 (103) {FC0104}{FD01}: Ustedes no se robarán\nnada, no los dejaré\f{FC0108}Rocket 1: ¿A sí? Entonces te las\nverás con los dos.
+[399] @771e5e (86) {FC0104}Rocket 2: No importa, aún así nos\nllevaremos esos {FC0106}Kakuna{FC0104}.\f{FD01}: ¡No los dejaré!

@@ -1,0 +1,43 @@
+@1b0046 [95] ÀÁ{FC0303}Welcome to my hideout!\fIt shall be so until I can restore\nTEAM ROCKET to its former glory.
+@1bdfd7 [10] {FD02} usó {FD03}!
+@3e73fc [11] F F     Á {FDFF} È  \n
+@3fd407 [22] {FD20} envía a\n{FD06} y a {FD08}! 
+@3fd650 [11] {FD23} usó\n{FD16}! 
+@3fd688 [14] {FD1C} {FD1D}\nusó {FD16}! 
+@41658c [17] {FD01} usó     \n{FD03}.{FC09FF}But the effects of a REPEL\nlingered from earlier.{FC09FF}{FD01} used the\n{FD03}.\fWild POKéMON will be lured.{FC09FF}{FD01} used the\n{FD03}.\fWild POKéMON will be repelled.{FC09FF}The BOX is full.{FC09FF}POWDER QTY: {FD02}{FC09FF}POWDER
+@417494 [154] Este contiene la lista de tus pokémon,\n{FD01}.\fÁbrela para ver las características\ny los ataques de tus pokémon.\fTambién puedes darle un ítem\na tus pokémon.{FC09FF}
+@41999d [13] {F7}Á\nat {F905} {F7}À).
+@41a210 [15] {FD01} usó     \n{FD02}.
+@41a312 [54] In the end, {F7}  sent out {F7}À\nwhile {F7}Á countered with\n{F7}Â.
+@41a4c6 [59] {F7}  and {F7}À took on\n{F7}Á and {F7}Â in a\nMULTI BATTLE and got a {F7}Ç.
+@41a566 [53] After consideration, switched\n{F7}À in {F7}  with\n{F7}Â in {F7}Á.
+@41a60a [39] Switched {F7}À in {F7} \nwith {F7}Á in the party.
+@41a810 [71] Went to the POKéMON MART in\n{F7}  and spent ¥{F7}Á for\nitems including {F7}À«s).
+@41a858 [61] {F7}  went to the POKéMON MART in\n{F7}À and sold {F7}Â of\nthe item {F7}Á.
+@41aaec [60] {F7}È defeated {F7}Á POKéMON including\n{F7}À and caught one {F7}Â\nin {F7} .
+@41ab29 [74] Defeated {F7}Á POKéMON including\n{F7}À and caught {F7}Ç POKéMON\nincluding {F7}Â in {F7} .
+@41af0c [49] Took on {F7}  GYM LEADER\n{F7}À's {F7}Á with {F7}Â\nand won {F7}Ç!
+@41af3e [46] Took on ELITE FOUR {F7} 's\n{F7}À with {F7}Á and\nwon {F7}Â!
+@41af6d [42] In {F7} , took on\n{F7}À's {F7}Á with {F7}Â\nand won {F7}Ç!
+@45718d [19] 3\n4\n   {FC0100}  ÁÔèÇÓÑ 
+@457d44 [115] There is an offer to trade your\nregistered Lv. {F7}  {F7}À\fin exchange for a\nLv. {F7}Á {F7}Â.\fWill you accept this trade\noffer?
+@462e58 [20] {F801}  mï  Hé    ÊíÇÔÀ 
+@72373a [155] pitán {FC010F}de mi parte.\f{FC0104}{FD01}: No hay problema profesor,\nse los daré.\f{FC010F}Birch: Tengo que dejarte {FC0104}{FD01},{FC010F}\nseguro nos veremos pronto.\f{FC0104}{FD01}: Adiós profesor.
+@770000 [423] Riiiiinnnnnngggggg...\f{FC0104}{FD01}: Eh parece que viene de mi \nmochila. Hola?\f{FC0108}Prof. Birch: Hola {FD01} soy Birch,\nEste número me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770003 [420] iiinnnnnngggggg...\f{FC0104}{FD01}: Eh parece que viene de mi \nmochila. Hola?\f{FC0108}Prof. Birch: Hola {FD01} soy Birch,\nEste número me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770004 [419] iinnnnnngggggg...\f{FC0104}{FD01}: Eh parece que viene de mi \nmochila. Hola?\f{FC0108}Prof. Birch: Hola {FD01} soy Birch,\nEste número me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770008 [415] nnnngggggg...\f{FC0104}{FD01}: Eh parece que viene de mi \nmochila. Hola?\f{FC0108}Prof. Birch: Hola {FD01} soy Birch,\nEste número me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770050 [343] Birch: Hola {FD01} soy Birch,\nEste número me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770066 [321] ch,\nEste número me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770072 [309] ero me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770077 [304] e lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770078 [303]  lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@77008f [280] má, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@7701eb [330] {FC0106}Cap. Arenque: Hola {FD01}\ncuanto tiempo sin verte, desde\pque peeko se fue te hecho\pmucho de menos.\f{FC0104}{FD01}:Yo tambien siento lo de Peeko\nalgun día regresará...\f{FC0106}Pero como has crecido tu mamá\ndebe estar orgullosa, por cierto el \pprof Oak te está esperando afuera,\pdale un saludo de mi parte\f{FC0104}{FD01}: No se preocupe capitan se\nlo daré.
+@770200 [309]  {FD01}\ncuanto tiempo sin verte, desde\pque peeko se fue te hecho\pmucho de menos.\f{FC0104}{FD01}:Yo tambien siento lo de Peeko\nalgun día regresará...\f{FC0106}Pero como has crecido tu mamá\ndebe estar orgullosa, por cierto el \pprof Oak te está esperando afuera,\pdale un saludo de mi parte\f{FC0104}{FD01}: No se preocupe capitan se\nlo daré.
+@77049e [153] {FC010F}Oak: {FD01}, ya llegamos.\fÉste es mi laboratorio,\nahora cuéntame, que te trae por\paquí.\f{FC0104}{FD01}: El profesor Birch me mandó\na que le entregara éste paquete.
+@770ad1 [216] {FC010E}Ash: Me olvidaba, antes de que\nsalgas quiero recomendarte que no\pvayas al gimnasio de Ciudad\pVerde, Gary casi nunca está,\paunque con visitarlo no pierdes\pnada.\fPuedes ir al de Ciudad\nPlateada, yo comencé por éste.
+@771126 [115] {FC0106}Mamá de Ash: Hola {FD01} yo\nsoy la mamá de Ash, es un gusto\ppoder conocerte.\f{FC0104}{FD01}: Igualmente señora, es un\nplacer.
+@771bd0 [50] {FC010F}Birch: {FC0104}{FD01}{FC010F}, más {FC0105}Beedrill{FC010F},\nencárgate.
+@7725a0 [260] {FC0105}Brock: Eso es una MT, Máquina\nTécnica, son muy similares a las\pMO, solo que éstas las puedes\putilizar sólo una vez, así que\pdebes pensar a qué pokémon\pse la vas a enseñar.\fLa MT39 contiene TUMBA ROCAS, un\nataque que puede bajarle la\pvelocidad a tu oponente.
+@7748a4 [193] Actualmente Birch y yo estamos\ntrabajando juntos, y necesitamos\pque vengas a la región de Kanto,\pseguramente ya te lo comentó él\pmismo.\fBien, ahora necesito tus datos\npara completar tu pasaje.\p

@@ -1,0 +1,40 @@
+[280] @72ba08 (64) No soy especialmente grande, ¡pero\ntampoco soy ningún enclenque!
+[281] @72baba (35) ¿Sabes que los POKéMON\nevolucionan?
+[282] @72bae0 (17) ¡Oh! ¡He perdido!
+[283] @72baf4 (50) Los POKéMON evolucionan\nmuy rápido. ¡Son geniales!
+[284] @72bb40 (28) ¡Llegué al final del BOSQUE!
+[285] @72bb5f (12) ¡He perdido!
+[286] @72bb95 (62) ¡Vine aquí con unos amigos!\f¡Van en busca de combates\nPOKéMON!
+[287] @72bbdf (91) ¡Me quedé sin POKé BALLS con\nlas que atrapar a los POKéMON!\f¡Deberías llevar algunas extra!
+[288] @72bc46 (71) ¡Usa ANTÍDOTO contra el veneno!\n¡Lo conseguirás en las TIENDAS\pPOKéMON!
+[289] @72bc99 (82) PISTAS ENTRENADOR\fSi quieres evitar los combates,\n¡aléjate de las zonas de hierba!
+[290] @72bcf7 (108) PISTAS ENTRENADOR\f¡Debilita a los POKéMON antes\nde intentar capturarlos!\f¡Si están fuertes, podrían escapar!
+[291] @72bdc6 (114) ¡No hay muchos ENTRENADORES\nde POKéMON por aquí!\f¡Todos parecen CAZABICHOS, salvo\nBROCK, del GIMNASIO de PLATEADA!
+[292] @72be99 (43) ¡En ésta casa hay un tipo que\nregala bayas!
+[293] @72bf79 (113) ¡Dicen que los CLEFAIRY vinieron\nde la Luna!\f¡Aparecieron tras la caída de\nvarias PIEDRAS LUNARES\pen el MT. LUNA!
+[294] @72c0d8 (35) ¡No debería estar hablando\ncontigo!
+[295] @72c107 (72) ¡El Equipo Rocket arrasa otra vez!\f¡No te entrometas en nuestros\nplanes!
+[296] @72c15b (13) ¡No molestes!
+[297] @72c174 (75) PISTAS ENTRENADOR\f¡Todo POKéMON que luche en un\ncombate ganará EXPERIENCIA!
+[298] @72c275 (107) ¡Los POKéMON aprenden nuevos\nataques a medida que crecen!\f¡Pero hay ciertos ataques que\nhay que enseñarles!
+[299] @72c2ec (95) ¡Los POKéMON serán más fáciles\nde atrapar si están heridos o\pdormidos!\f¡Pero no siempre es así!
+[300] @72c357 (55) Sabes, es muy aburrido vivir\nsolo, ¡Cuida a tu familia!
+[301] @72c474 (92) ¿¡Qué!?\f¿Que el EQUIPO ROCKET está en el\nMUSEO?\f¡Estoy hablando por teléfono!\n¿Será posible?
+[302] @72c4dc (72) ¡Yo quiero un PIKACHU, así que\nvoy a intercambiar a mi CLEFAIRY\ppor uno!
+[303] @72c5e1 (62) ¡Cuantos libros! ¡Espero\nencontrar como evoluciona mi\pMACHOKE!
+[304] @72c62b (87) ¡Un misterioso anciano me vendió\neste extraño pez POKéMON!\f¡Es muy débil y cuesta 500¥!
+[305] @72c68e (95) ¡Podrían suceder cosas buenas si\nentrenaras rápidamente a tus\pPOKéMON, hasta a los más débiles!
+[306] @72c7ee (44) Dime, ¿Quieres comprar un Pack?\nCuesta ¥500.
+[307] @72c822 (35) Está bien, ¡Regresa cuando\nquieras!
+[308] @72c8fb (36) ¡Mi papá es un experto de las\nbayas!
+[309] @72c99b (40) ¡Ahgr! ¡El Equipo Rocket es muy\nmolesto!
+[310] @72c9c6 (72) ¡Qué golpe de suerte!\f¡Nunca pensé que conseguiría\nver huesos de dragón!
+[311] @72ca2e (43) ¡No quiero estar aquí con el\nEquipo Rocket!
+[312] @72ca5c (74) ¡Quiero un PIKACHU!\n¡Es tan mono!\f¡Le pedí a mi padre que me\natrapara uno!
+[313] @72cb0a (37) ¡Sí, pronto tendrás a tu\nPIKACHU!... 
+[314] @72cb4f (45) ¡El Equipo Rocket quiere robarse\nlos fósiles!
+[315] @72cbcd (26) ¡Esos tipos son muy malos!
+[316] @72ce25 (56) ¡Hay otros tipos de POKéMON\ndiferentes a los del bosque!
+[317] @72cf43 (21) ¡Ya llegas a CELESTE!
+[318] @72cfa0 (12) ¡Vas a caer!
+[319] @72d00c (32) ¡Si me ganas te regalo mi gorra!

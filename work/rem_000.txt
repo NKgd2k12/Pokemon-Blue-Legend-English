@@ -1,0 +1,40 @@
+[0] @1724f9 (132) ¡Eh, espera!\n¿Por qué tienes tanta¡Me rindo!\n¡¡A veces puedes encontrar cosas\nen el suelo!\f¡Estoand looking for the items\nI dropped!
+[1] @17281d (26) ¿Estás aquí para explorar?
+[2] @172844 (19) ¡Perder es lo peor!
+[3] @172863 (41) ¡Vine aquí para impresionar\na las chicas!
+[4] @1728d2 (22) ¿Cómo se sale de aquí?
+[5] @17290b (26) ¡Eh!\n¡No te pases conmigo!
+[6] @172a55 (46) ¡Cruza esta cueva y llegarás\na CIUDAD CELESTE!
+[7] @172a97 (50) ¡ZUBAT es muy fuerte!\n¡Atrapar uno sería muy útil!
+[8] @172ae0 (23) ¡Cuidado con los\nZUBAT!
+[9] @172f60 (96) {FC0106}Cap. Arenque: Desde unos meses\nestoy a cargo de este crucero\ppero sin Peeko no es lo mismo...
+[10] @173164 (167) {FD06}: I heard there was a CUT\nmaster on board.\fBut he was just a seasick old man!\fCUT itself is really useful.\nYup, it'll be handy.\fYou should go see him, too.\nSmell ya!
+[11] @17320c (95) Our CAPTAIN is a sword master.\nHe's awesome at using CUT.\fThey say he even teachCUT\nto POKéMON!
+[12] @173570 (46) Er-hem!\nIndeed I am le CHEF!\fLe main course is
+[13] @1738c3 (34) Oh, no!\nYou have no room for this!
+[14] @1740a1 (52) The CAPTAIN said he's awfully sick.\nHe was all pale.
+[15] @175fd3 (62) He's so helpless, he needed\nsomeone like me to look after him.
+[16] @17610f (38) No matter!\nMy brothers will avenge me!
+[17] @177fa4 (228) Welcome to the POKéMON LEAGUE.\fI am LORELEI of the ELITE FOUR.\fNo one can best me when it comes\nto icy POKéMON.\fFreezing moves are powerful.\fYour POKéMON will be at my mercy\nwhen they are frozen solid.\fHahaha!\nAre you ready?{FC0B56}À
+[18] @17844d (319) I am AGATHA of the ELITE FOUR.\fI hear OAK's taken a lot of\ninterest in you, child.\fThat old duff was once tough and\nhandsome.\fBut that was decades ago.\nHe's a shadow of his former self.\fNow he just wants to fiddle with\nhis POKéDEX.\fHe's wrong.\nPOKéMON are for battling!\f{FD01}! I'll show you how a real\nTRAINER battles!{FC0B56}À
+[19] @178764 (344) Ah! I've heard about you,\n{FD01}!\fI lead the ELITE FOUR.\fYou can call me LANCE the dragon\nTRAINER.\fYou know that dragons are\nmythical POKéMON.\fThey're hard to catch and raise,\nbut their powers are superior.\fThey're virtually indestructible.\nThere's no being clever with them.\fWell, are you ready to lose?\fYour LEAGUE challenge ends with\nme, {FD01}!{FC0B56}À
+[20] @1788bd (343) Ah!\nSo, you've returned, {FD01}!\fI lead the ELITE FOUR.\fYou can call me LANCE the dragon\nTRAINER.\fYou know that dragons are\nmythical POKéMON.\fThey're hard to catch and raise,\nbut their powers are superior.\fThey're virtually indestructible.\nThere's no being clever with them.\fWell, are you ready to lose?\fYour LEAGUE challenge ends with\nme, {FD01}!{FC0B56}À
+[21] @178e3f (131) NO!\nThat can't be!\pYou beat me at my best!\fAfter all that work to become\nthe LEAGUE CHAMP?\fMy reign is over already?\nIt's not fair!
+[22] @17a529 (280) MR. FUJI: Heh?\nYou came to save me?\fThank you. But, I came here of my\nown free will.\fI came to calm the spirit of\nCUBONE's mother.\fI think MAROWAK's spirit has\nfinally left us.\fI must thank you for your kind\nconcern.\fFollow me to my home, POKéMON\nHOUSE, at the foot of this tower.
+[23] @17ae8e (82) Oh! Here it comes again!\nNo! Go away! It's scaring me!\fWaaaaaaah!\nI want my daddy!
+[24] @17b109 (257) LORELEI: {FD01}?!\nWhat are you doing here?\fNo, we can catch up later.\nRight now, I need your help.\fHelp me kick these poachers out\nbefore they do anything else.\fThey've been catching POKéMON\nhere, then selling them off!\fAre you ready?\nYou take that one, please!
+[25] @17b7fa (223) I've made it so you can come back\nin through there.\fWhy don't you go get rested and\nrefreshed for what lies ahead?\fThe ADMIN after me outranks me\nthoroughly as a TRAINER.\fYou'd better steel yourself for one\nharsh challenge.
+[26] @17d550 (209) After an honest day of training,\nnothing beats a relaxing soak in\pthe hot spring pool.\fBRUNO, who's a senior ahead of me,\nvisits the SPA on occasion.\fHe comes to rehab injuries, both\nhis own and his POKéMON's.
+[27] @17eb95 (318) {FD06}: Hey, guess what?\fI went to BILL's and got him to\nshow me his rare POKéMON.\fThat added a lot of pages to my\nPOKéDEX!\fAfter all, BILL's world famous as a\nPOKéMANIAC.\fHe invented the POKéMON Storage\nSystem on PC, too.\fSince you're using his system,\nyou should go thank him.\fWell, I better get rolling!\nSmell ya later!
+[28] @17ecd4 (136) Oh, yeah, right.\fI feel sorry for you. No, really.\nYou're always plodding behind me.\fSo here, I'll give you a little\npresent as a favor.
+[29] @17fdd2 (240) Oh, hello, {FD01}!\nHow are you doing?\fIt's me, one of PROF. OAK's AIDES.\fDid you meet the other AIDE?\fHe had a package from PROF. OAK\nfor you, {FD01}.\fHe said he'd look for you around\nROUTE 2, {FD01}.\fIf you're in the ROUTE 2 area,\nplease look for him.
+[30] @180caa (306) Look, it's me, BILL.\nLong time no see!\fI hope you're still using my\nPC system.\fWell, listen, since we met up here,\nhow about spending time with me?\fThere's this little island in the far\nsouth called ONE ISLAND.\fA friend invited me, so I'm on my\nway out there.\fHow about it?\nDo you feel like coming with me?
+[31] @180ead (91) Looks like my pal's boat arrived,\ntoo.\fHe sent it specially here to\nCINNABAR to pick me up.
+[32] @181d2f (154) That fellow there, he moved here\nfrom CELADON CITY.\fHe started up a shop with his\nyounger brother.\fYou have to wonder if he knew what\nhe was getting into.
+[33] @181e47 (224) Listen, listen.\nDid you know?\fA famous TRAINER came to the\nISLAND a little while back.\fHe's one of the ELITE FOUR.\nHis name is BRUNO.\fHe went away disappointed when he\nfound out that they were all sold\pout of Rage Candybars.
+[34] @182b37 (427) {FD06}: Hey!\n{FD01}!\fWhat are you doing here in the\nSEVII ISLANDS?\fYou should quit copying me,\nyou know?\fAnyways, I already got my POKéMON\nEGG, so I'm done with this island.\fHeh, I bet you don't even know\nabout POKéMON EGGS.\fYou'll never fill your NATIONAL\nPOKéDEX that way.\fBy the way, I saw someone we both\nknow on this island.\fWhy don't you go look around if\nit makes you curious?\fMe, I don't have the time to\nwaste.\fBe smelling ya!
+[35] @183616 (40) Excuse me!\nYou looked at me, didn't you?
+[36] @1843d2 (95) SAFFRON's gatekeeper won't let us\ngo through.\fI know he's doing his job, but I\nthink he's mean.
+[37] @184c1d (15) Ha-hahah-ah-ha!
+[38] @184c2d (50) Ha-haha!\nNot laughing!\pHa-hay fever! Haha-ha-choo!
+[39] @184c60 (37) Haha-ha-choo!\nHa-choo!\pSnort! Snivel!

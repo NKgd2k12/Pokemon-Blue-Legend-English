@@ -1,0 +1,40 @@
+[440] @773666 (168)  ¡Un puñetazo con rabia\ncontenida!\f¡Condimentado con fuerza\ndescomunal!\f¡Cuando no queda energía,\nMEGAPUÑO es el ataque definitivo!\f¿Qué?\n¿Se lo enseño a algún POKéMON?
+[441] @773774 (29) ¡Oh! ¡Mi pobre hongo POKéMON!
+[442] @77379a (40) ¿A qué POKéMON quieres que se\nlo enseñe?
+[443] @7737c5 (133) ¡Ya usamos los puños de la\nmisma forma!\f¡Hala, vete antes de que le entren\nganas de luchar a mi colega:\pes un flipado de las patadas!
+[444] @77384d (56) ¡Cuando comprendas el significado\nde MEGAPUÑO, volverás!
+[445] @773888 (54) Este movimiento sólo se puede\naprender una vez, ¿vale?
+[446] @7738bf (175)  ¡Una buena patada con rabia\ncontenida!\f¡Condimentada con fuerza\ndescomunal!\f¡Cuando no quede energía,\nMEGAPATADA es el ataque\pdefinitivo!\f¿Qué?\n¿Se lo enseño a algún POKéMON?
+[447] @77396f (69)  ¡Puede que no haya más hongos\npor aquí!\fCreo que ya los tengo todos.
+[448] @773a25 (132) ¡Ya damos patadas de la\nmisma forma!\f¡Hala, vete antes de que le entren\nganas de luchar a mi colega:\pes un flipado de los puñetazos!
+[449] @773af0 (35)  ¡Mis POKéMON no lo han conseguido!
+[450] @773b7c (49)  ¡Uau! ¡Esto es mucho más grande\nde lo que creía!
+[451] @773bc7 (17) ¡Oh!\n¡He perdido!
+[452] @773bd9 (53)  ¡Wow!\n¡Me has impresionado!\p¡Pero si eres muy joven!
+[453] @773c4d (32) ¡No tienes edad para estar aquí!
+[454] @773d16 (222)  ¡Hola, aspirante al título!\f¡Un consejo!\f¡La LÍDER, MISTY, es profesional\ny usa POKéMON acuáticos!\f¡Puedes absorber toda su agua con\nlos POKéMON del tipo PLANTA!\f¡O dejarlos hechos polvo usando\nPOKéMON del tipo ELÉCTRICO!
+[455] @773e16 (83) ¡Has ganado a MISTY!\n¡No sé qué decirte!\f¡Tú y yo formaríamos un equipo\ninvencible!
+[456] @773f8d (24)  ¿Cómo he podido perder?
+[457] @773fa6 (25)  ¡Oye!\n¡Me has machacado!
+[458] @773fc0 (28)  ¡Hola!\n¡Mi chico es genial!
+[459] @774129 (115)  ¡{FD01}! ¡Por fin vienes a retarme!\n¡Espero que no te haya costado\pvenir hasta aquí! ¡Dejemos la\ppalabrería, a luchar!
+[460] @7741e0 (31)  ¡No estaba en muy buena forma!
+[461] @774220 (27) ¡Uauu!\n¡Ha sido mucha tela!
+[462] @77425c (32) ¡Muy bien, voy a acabar contigo!
+[463] @77427d (31)  ¡Vi tu hazaña desde la hierba!
+[464] @77429d (41)  ¡Ojalá mi chico fuera tan bueno\ncomo tú!
+[465] @7742dd (30) ¡Creía que no me ibas a ganar!
+[466] @774327 (100) ¡Uauuu!\n¡Eres demasiado!\f¡Muy bien!\f¡Toma la MEDALLA CASCADA para que\ntodos sepan que me has ganado!
+[467] @77438e (65) ¡La MT03 enseña HIDROBOMBA!\f¡Úsala con los POKéMON del tipo\nAGUA!
+[468] @7743d2 (243) ¡La MEDALLA CASCADA obligará a\ntodos los POKéMON por debajo del\pnivel 30 a obedecer!\f¡Incluidos los forasteros!\f¡Y podrás usar CORTAR siempre que\nquieras!\f¡Puedes CORTAR pequeños arbustos\npara abrir nuevos caminos!\f¡Voy a darte mi MT favorita!
+[469] @7744c8 (37) ¡{FD01} obtuvo la MT03\nde manos de MISTY!
+[470] @7744f0 (29) ¡Más vale que le hagas sitio!
+[471] @77450e (47)  ¡Me oculté porque me asustaron\nlos de la ruta!
+[472] @77453e (25)  ¡Te has esforzado mucho!
+[473] @7745a7 (53)  Mi amigo tiene unos POKéMON\nmuy monos. ¡Qué envidia!
+[474] @774667 (58)  ¡Estoy buscando a un coleccionista\nde POKéMON en el cabo!
+[475] @7746a2 (20)  ¡No estoy enfadada!
+[476] @7746b9 (42) ¿Vienes del MT. LUNA?\n¿Me das un CLEFAIRY?
+[477] @774721 (75) ¡Hay un POKéMANÍACO viviendo\nen el cabo!\f¿Has visto la colección que tiene?
+[478] @77476d (25)  ¡Sabía que iba a perder!
+[479] @774848 (87)  BULBASAUR es tu elección.\nEs fácil de criar.\f{FD01}, ¿Quieres al Pokémon\nplanta BULBASAUR?

@@ -1,0 +1,40 @@
+[200] @7228a8 (15) ¿Quién eres tú?
+[201] @7228ba (35) ¡Será mejor que se lo diga\nal JEFE!
+[202] @7228fa (34) ¡Respeta un poco al Equipo Rocket!
+[203] @72295c (47) ¡Eh, no estorbes! Intentamos\nrobar, ¿no lo ves?
+[204] @7229d7 (45) ¡No molestes al Jefe si no\nquieres problemas!
+[205] @722a6f (106) {FC0106}Admin: ¡No puede ser que tarden\nmás de media hora para desactivar\puna simple alarma! ¡Son unos\pineptos!
+[206] @722ada (22) ma!\f¡Son unos ineptos!
+[207] @722e7c (495) {FC010E}Steven: {FC0104}{FD01}, {FC010E}por fin despiertas,\nhace una hora estabas durmiendo.\f{FC0104}{FD01}: ¿Cómo estás {FC010E}Steven{FC0104}? Hace\ntiempo que no te veía.\f{FC010E}Steven: Es cierto, parece que nos\nvolvemos a cruzar cada vez que\pvamos de viaje, ¿No crees?, esta\pvez, parece que en {FC0106}Kanto {FC010E}nos\pdepara una nueva aventura.\f{FC0104}{FD01}: No si sea tan así, yo solo\nvoy a entregarle este paquete al\pprofesor {FC0106}Oak, {FC0104}en {FC0106}Pueblo Paleta.\f{FC010E}Steven: Créeme, seguro te gustará\ntanto que te terminarás quedando,\pyo ya estuve allí.
+[208] @72306e (201) {FC0104}{FD01}: ¿Crées que falte mucho? Me\nestoy aburriendo.\f{FC010E}Steven: Si quieres, te puedo\ncontar una historia, se trata\psobre {FC0106}Kanto{FC010E}, ¿Qué te parece?\f{FC0104}{FD01}: ¡Sería fantástico! Así\nllegaremos más rápido.
+[209] @723167 (450) {FC010E}Steven: El {FC0106}Equipo Rocket {FC010E}es un\ngrupo de ladrones de pokémon que\pmolestaban constantemente en\p{FC0106}Kanto, {FC010E}robaban pokémon salvajes y\pde entrenadores para explotarlos\py tratar de conquistar el mundo.\f{FC0104}{FD01}: ¿Así como el {FC010E}Equipo Aqua {FC0104}o\nel {FC0105}Equipo Magma?\f{FC010E}Steven: Así es, pero estos se\ndiferenciaban mucho, el Equipo\pAqua y Magma siempre estuvieron\pen competencia y se equilibraban\pentre ellos, al {FC0106}Equipo Rocket\p{FC010E}nada lo combatía.
+[210] @723559 (186) {FC0104}{FD01}: ¿Qué fue eso?\f{FC010E}Steven: Parece venir de tu\nmochila.\f{FC0104}{FD01}: Es cierto, ¡Oh! ¡Es un\nPoketelphone! Mom must have put it\phere before I left.\f{FC010E}Steven:\pAnswer it, someone is calling.
+[211] @723ba3 (31) ganado\pun enemigo muy poderoso.
+[212] @723bc8 (62) {FC0104}{FD01}: ¡Uff! Parece que me deshice\nde todo el equipo completo.
+[213] @723e14 (316) {FC0104}{FD01}: ¿Qué es esto?\f{FC0106}Eso es Destello, una máquina\noculta, con ella podrás enseñarle\pa tus pokémon ese ataque las\pveces que quieras, es muy útil\ppara iluminar cuevas.\f{FC0104}{FD01}: ¡Muchas gracias!\f{FC0106}Al menos podemos ayudarte en\nalgo, como you helped us.\pCome back any time\p{FC0104}{FD01}{FC0106}, you have a free pass\pto this museum.
+[214] @72476a (31) {FC010F}Oak: Birch, {FD01} ya está aquí.
+[215] @724864 (50) {FC010E}Ash: ¡Profesor Birch! ¡Cuanto\ntiempo sin verlo!
+[216] @724899 (412) {FC010E}Ash: ¡Hey, {FC0104}{FD01}! {FC010E}Perdón, no te\nhabía visto. ¿Cómo te va en la\pliga? ¿Ya has ganado alguna\pmedalla?\f{FC0104}{FD01}: Claro, hace muy poco vencí\na Brock, en {FC0106}Ciudad Plateada.\f{FC010E}Ash: Genial, ¿Brock no te dijo\nnada de mí?\f{FC0104}{FD01}: No, solo me dijo que yo le\nrecordaba a uno de sus amigos,\pquizás se refería a ti.\f{FC010E}Ash: Ahora debes ir a {FC0106}Ciudad\nCeleste {FC010E}¿No?\f{FC0104}{FD01}: Exacto, Brock me dijo que\nallí hay un gimnasio.
+[217] @724e1a (16)  stigación de la
+[218] @725182 (236) {FC010E}Ash: Bueno, {FC0104}{FD01}{FC010E}, parece que\nnos tendremos que encargar de\psalvar al mundo otra vez, parece\pque será divertido.\f{FC0104}{FD01}: ¿Salvar al mundo? ¿No te\nparece algo exagerado?\f{FC010E}Ash: Es cierto, a veces se me\nsuben los humos a la cabeza. 
+[219] @72543f (41) {FC0102}¡{FD01} recibió un RIOLU\ndel Profesor Oak!
+[220] @7256d0 (96) {FC0102}Recuerda, para correr con ellas,\ndebes presionar B. ¡Ahora puedes\pusarlas en cualquier sitio!
+[221] @725d7d (18) {FC0104}{FD01}: ¡Es Steven!
+[222] @726794 (14) ¡No puede ser!
+[223] @7267b6 (9)  de aquí.
+[224] @7267e0 (144) {FC0104}Enfermera: Parece que ese\nCHIMCHAR te ha tomado cariño, por\peso quiere ir contigo. Debes\pcuidarlo muy bien, como si fuera\ptuyo.\f{FD01}: ¡Lo haré!
+[225] @726a67 (55) {FC010E}Ash: ¡Te digo que sí puede!\f{FC0105}Misty: ¡Claro que no!
+[226] @726aa1 (47) {FC010E}Ash: ¡Pero claro que se pudo\nhaber escapado!
+[227] @726bda (36) {FC0105}Misty: ¡Hey! ¿Quién es ese\nchico?
+[228] @726c27 (122) {FC0104}{FD01}: ¡{FC010E}Ash{FC0104}! ¿Como va todo?\f{FC010E}Ash: Que bueno verte por aquí\n{FC0104}{FD01}{FC010E}, veo que vienes a retar al\plíder del gimnasio.
+[229] @726ca4 (55) {FC0105}Misty: ¡{FC010E}Ash{FC0105}! ¿No vas a\npresentarme a tu amigo?
+[230] @726ed3 (29) {FC010E}Ash: ¡Pero si es {FC0104}{FD01}{FC010E}!
+[231] @7272c7 (46) {FC0104}{FD01}: ¡Debo buscar al pokémon de\n{FC0105}Misty{FC0104}!
+[232] @72747f (108) {FC0105}Misty: {FC0104}{FD01}{FC0105}, ¿No pudiste\nencontrar a mi {FC0108}AZURRIL{FC0105}?\fEscapó hacia la {FC0106}Ruta 24{FC0105},\nbusca por allí.
+[233] @727b35 (296) {FC0106}???: ¡Hola! Soy un POKéMON...\n¡No, no lo soy!\f¡Llámame BILL!\fBill: ¡Soy un auténtico POKéMANÍACO!\n¿No me crees?\f¡Hablo en serio!\f¡Arruiné un experimento y me\nmezclé con un POKéMON!\f¿Qué me dices?\n¡Ayúdame a salir!\f¡Cuando esté en el TELETRANSPORTE\nvete a mi PC y ejecuta la\pSeparación Celular!
+[234] @727d79 (22) {FC0106}Bill: ¡Otra vez no!
+[235] @727d92 (190) {FC0106}Bill: No solo eso, además de\nhaber inventado eso, también\ptengo una vasta colección de\ppokémon, justamente por eso\pinventé el sistema. Así que fue\p{FC010E}Ash{FC0106} quien te mandó, ¿Cómo\pestá el?
+[236] @727eff (119) {FC0104}{FD01}: ¿El {FC0106}Equipo Rocket{FC0104}?\nYo puedo ayudar a detenerlos, ya\plos he derrotado en el museo de\p{FC0106}Ciudad Plateada{FC0104}.
+[237] @728a60 (11) {FC0104}{FD01}: ¡No!
+[238] @728aaa (26) {FC0108}Rocket 3: ¡No vencerás!
+[239] @728ac7 (23) {FC0104}Rocket 4: ¡Mi turno!

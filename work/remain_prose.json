@@ -1,0 +1,26 @@
+[
+ {
+  "off": 1592365,
+  "len": 51,
+  "text": "Ha-haha!\\nNot laughing!\\pHa-hay fever! Haha-ha-choo!",
+  "score": 6,
+  "ratio": 0.74,
+  "es": 3
+ },
+ {
+  "off": 7481427,
+  "len": 39,
+  "text": "Ha, ha, ha!\\nMy BOSS wanted this place!",
+  "score": 8,
+  "ratio": 0.7105263157894737,
+  "es": 3
+ },
+ {
+  "off": 1674851,
+  "len": 33,
+  "text": "Ha?\\nHe ohay heh ha hoo ee haheh!",
+  "score": 8,
+  "ratio": 0.71875,
+  "es": 2
+ }
+]

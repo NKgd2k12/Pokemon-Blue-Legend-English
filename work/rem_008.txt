@@ -1,0 +1,40 @@
+[320] @72d02f (22) ¡Claro que no lo haré!
+[321] @72d048 (25) ¡El MT. LUNA fue difícil!
+[322] @72d07b (26) ¿Ya venciste a mi hermano?
+[323] @72d098 (13) ¡Eres la ley!
+[324] @72d0e5 (26) ¡Estoy ansiosa por luchar!
+[325] @72d163 (12) ¡Eres bueno!
+[326] @72d172 (77) ¡Antes esta cueva solía estar\nrepleta de fósiles! Ahora no\pencuentro ninguno.
+[327] @72d1d9 (36) ¡Me encanta explorar cavernas\nsabes!
+[328] @72d200 (16) ¡Pero no perder!
+[329] @72d213 (69) Este túnel es difícil de cruzar,\n¡Y eso que es el más fácil de\pKanto!
+[330] @72d272 (24) ¡Ya casi llego al final!
+[331] @72d28d (23) ¡Pero no quería perder!
+[332] @72d2ed (25) ¡Le falta muy poco joven!
+[333] @72d66e (77) ¡Hey! ¡Puedes ir al\nrestaurante si quieres! ¡Yo\pestoy en mi hora de descanso!
+[334] @72d6c9 (64) ¿Estás haciendo una enciclopedia\nde los POKéMON? ¡Qué increíble!
+[335] @72d715 (74) ¿También entrenas POKéMON?\fAtrapar, luchar, ¡qué vida tan\ndura la nuestra!
+[336] @72d82a (15) as de\pla líder.
+[337] @72d8f9 (71) LÍDER del GIMNASIO POKéMON\nde PLATEADA: BROCK\p¡Es fuerte como una roca!
+[338] @72d94c (55) ¡CIUDAD CELESTE!\n¡Una misteriosa aura azulada la\prodea!
+[339] @72d9e1 (71) ¡Este BILL!\f¡Dicen que haría lo que fuera para\nconseguir POKéMON raros!
+[340] @72da34 (148) ¿Has oído hablar de BILL?\f¡Dicen que es un POKéMANÍACO!\fPero yo creo que la gente le tiene\nmucha envidia.\f¿Quién no querría presumir de sus\nPOKéMON?
+[341] @72dad4 (57) ¡BILL tiene muchísimos POKéMON!\n¡Y algunos son muy raros!
+[342] @72db19 (33) ¡Quiero intercambiar mis POKéMON!
+[343] @72db46 (219) Usa el REPELENTE para evitar a los\nbichos y a los POKéMON débiles.\f¡Pon a tu POKéMON más fuerte el\nprimero de la lista para conseguir\pmejores resultados!\fSi tu primer POKéMON es fuerte,\nel REPELENTE tendrá mayor efecto.
+[344] @72dc2d (85) ¿Has visto algún CARAMELORARO?\f¡Dicen que los POKéMON suben\nun nivel si se comen uno!
+[345] @72dd4d (134) A mi marido le gusta intercambiar\nPOKéMON.\fSi eres coleccionista, ¿podrías\nintercambiar con él?\f¡Te vendría de perlas para tu\nPOKéDEX!
+[346] @72dddf (48) ¿Por qué no me dejas ver las\nnoticias tranquilo?
+[347] @72de1f (24) ¿Te gusta mi nueva casa?
+[348] @72dfbf (22) ¡Que lindo es cocinar!
+[349] @72dfe1 (27) ¡Esta sopa tiene una mosca!
+[350] @72e036 (23) ¡Este puré esta rancio!
+[351] @72e0bc (37) ¡Si sigo comiendo así voy a\nexplotar!
+[352] @72e152 (23) ¡Este puré está rancio!
+[353] @72e1d8 (29) ¿Sabes si hacen pescado aquí?
+[354] @72e3f0 (33) ¡El EQUIPO ROCKET ataca de nuevo!
+[355] @72e41e (20) ¡Nos robaremos todo!
+[356] @72e44c (27) ¡No estorbes en los planes!
+[357] @72e474 (27) ¡Y eso no fue nada todavía!
+[358] @72e4a9 (25) ¡Nos robaremos a SUICUNE!
+[359] @72e4da (437)  {FC010E}Ash: ¿Qué deberíamos hacer\nprofesor?\f{FC010F}Oak: De momento, solo esperar.\nPrimero tenemos que saber cuál es\psu objetivo, estamos trabajando\pen eso ahora mismo.\f{FC0104}{FD01}: ¿Y qué pasó con {FC0106}Gary{FC0104}?\nLo vi salir de aquí antes de\pllegar.\f{FC010E}Ash: ¿{FC0106}Gary{FC010E}?\f{FC010F}Oak: Quería que esté en ésta\nreunión, pero prefirió tomar su\pcamino. Él puede cuidarse solo.\f{FC010E}Ash: Bien, entonces haré lo\nmismo. Gracias por el aviso Prof,\pestaré alerta. ¡Adiós!

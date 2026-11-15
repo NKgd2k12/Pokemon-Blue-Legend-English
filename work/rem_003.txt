@@ -1,0 +1,40 @@
+[120] @1a342f (57) Papa keeps lying to me, and won't\nlet me go out and play!
+[121] @1a56a7 (33) ¿Quieres ponerle un mote a tu\n{FD02}?
+[122] @1a56c9 (52)  ienes demasiados POKéMON.\nNo queda sitio para éste.
+[123] @1a59fe (37) ¡Hola!\f¿Quieres cambiar tu {FD02}\npor {FD03}?
+[124] @1a5aa5 (43) ¿Qué tal va el {FD03} que te\nenvié, más fuerte?
+[125] @1a6046 (336) MOM: Oh, good! You and your\nPOKéMON are looking great.\fI just heard from PROF. OAK.\fHe said that POKéMON's energy is\nmeasured in HP.\fIf your POKéMON lose their HP,\nyou can restore them at any\pPOKéMON CENTER.\fIf you're going to travel far away,\nthe smart TRAINER stocks up on\pPOTIONS at the POKéMON MART.\fMake me proud, honey!\fTake care!
+[126] @1aec28 (89) {FC0108}{FC0309}Favorite kind of POKéMON?\f{FC0605}{FC0102}{FC0303}No one can best me when it comes\nto icy POKéMON.
+[127] @1af04c (163) {FC0108}{FC0309}What is this person like?\f{FC0604}{FC0102}{FC0303}BRUNO, who's a senior ahead of me,\nvisits the SPA on occasion.\fHe comes to rehab injuries, both\nhis own and his POKéMON's.
+[128] @1afb0c (105) {FC0108}{FC0309}What does this person do?\f{FC0605}{FC0102}{FC0303}He's really kind.\fHe looks after abandoned and\norphaned POKéMON.
+[129] @1b0456 (173) {FC0108}{FC0309}From: LT. SURGE\nTo: {FD01}\f{FC0604}{FC0102}{FC0303}Hey, kid!\nYou electrified me in our battle!\fI didn't know that there were\ngutsy TRAINERS like you.\fIt made me change my mind about\nyou!
+[130] @1b0a50 (174) {FC0108}{FC0309}From: BILL\nTo: {FD01}\f{FC0604}{FC0102}{FC0303}Hey, there! CELIO had nothing but\npraise for you.\fHearing that makes me happy.\fWhen you catch some rare POKéMON,\ncome show me, okay? Promise!
+[131] @1b22b0 (87) Oh, no, no can do.\fYou're practically a living legend.\nI have no SITCKERS left to give.
+[132] @1b8a84 (221) The ID No. is a special number assigned\nspecifically to you as a TRAINER.\pTogether with the OT name, the ID No.\pis used to precisely identify the\pOriginal TRAINER.\pThe ID No. does not change even if the\pPOKéMON is traded.
+[133] @1bdb85 (114) Hello, {FD01}!\fIt's me, TEALA, the POKéMON\nCENTER 2F attendant.\fIs there something you needed to\nask me about linking?
+[134] @1c0db0 (47) ¡Totalmente lleno de libros sobre\nlos POKéMON!.
+[135] @1c0ecb (41) TIENDA POKéMON\n¡Compra todos tus objetos!
+[136] @1c0f99 (55) ¡Seguramente está lleno de cosas\nde lo más apetecibles!
+[137] @1c1060 (55) ¿Para que será esta máquina? \n¡Es mejor no fingers in!\p
+[138] @1c1217 (48) ¡Lucecitas de colores que\nse encienden y apagan!
+[139] @1c14f3 (45) Excuse me!\nYou keep looking at me, don't you?
+[140] @1c1c4f (38) Ha-hahah-ah-ha!\nI can't stop sneezing!
+[141] @1c3404 (18) ¡No pienso perder!
+[142] @1c35bc (46) ¿Vas a ver a BILL otra vez?\n¡Luchemos primero!
+[143] @1c3624 (49) Siempre estás de aquí para allá...\n¿No te cansas?
+[144] @1c3685 (51) Aunque perdí cuando luchamos,\nestuvo guay, ¿verdad?
+[145] @1c3b30 (61) Oh, no, didn't I tell you already?\nPlease, stay away from me!
+[146] @1c407f (89) What, you're sick of seeing\nSWIMMERS like me?\fAww, don't be hatin'!\nBattle with me again.
+[147] @1c59d5 (37) Cuéntame. ¿Eres varón?\n¿Eres mujer? \p
+[148] @1c5a04 (228) ¡Bienvenido a Pokémon Blue Legend!\nEste es un hackrom con base en Fire\nRed U v1.0 comenzado en el 2008.\n\nEsta beta se trata de un relanzamiento\nde la beta 1 original, finalizada en \nenero de 2011 con el fin de corregir \nerrores.
+[149] @1c5b74 (38) \n\nFecha de lanzamiento -Marzo de 2019-
+[150] @1c5bb9 (106) Para más información, busca el texto\nadjunto con esta Rom. \n\nSin más palabras,\n\n¡Que comience tu aventura!
+[151] @1c5c78 (125) ¡Bienvenido!\fMi nombre es Oak, soy un profesor \npokémon, como Birch a quien tú ya \pconoces.                                  
+[152] @1c5ec5 (46) ¡Ya lo recuerdo! ¡Lo tenia!\n¡Su nombre es {FD06}!\f
+[153] @1c5ef4 (116) ¡{FD01}!\fViajarás por todo Kanto por nuevas\naventuras.\pUna nueva leyenda en el mundo\pPokémon resurgirá.\pSuerte, vencerás
+[154] @3d51bb (48)  distinta.\nFunciona mejor al avanzar\nel combate.
+[155] @3d53e0 (49) icina en spray, que cura a un\nPOKéMON paralizado.
+[156] @3d546f (125) Medicina en spray, que cura heridas\ny restaura todos los PS de un\nPOKéA spray medicine that heals\nwounds and restores 200 HP.
+[157] @3d55d9 (11)  de los PS.
+[158] @3d5f51 (15)  de un POKéMON.
+[159] @3d6e68 (18) tado de confusión.

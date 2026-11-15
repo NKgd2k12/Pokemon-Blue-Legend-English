@@ -1,0 +1,7256 @@
+[
+ {
+  "off": 1608704,
+  "len": 25,
+  "str": "OKéMON LEAGUE\nFront Gate",
+  "sp": 1,
+  "en": 0,
+  "n": 4,
+  "ptrs": 28
+ },
+ {
+  "off": 4188291,
+  "len": 8,
+  "str": "\\xFCÁ Draw",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4188276,
+  "len": 7,
+  "str": "\\xFCÁ Win",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 3
+ },
+ {
+  "off": 4188283,
+  "len": 8,
+  "str": "\\xFCÁ Loss",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 3
+ },
+ {
+  "off": 1638656,
+  "len": 15,
+  "str": "o cure poison!",
+  "sp": 1,
+  "en": 0,
+  "n": 3,
+  "ptrs": 11
+ },
+ {
+  "off": 1599793,
+  "len": 5,
+  "str": "LES!",
+  "sp": 1,
+  "en": 0,
+  "n": 1,
+  "ptrs": 5
+ },
+ {
+  "off": 4188049,
+  "len": 15,
+  "str": "\\xFCÈÈ\\xFCÇÒÓÔYes\nNo",
+  "sp": 3,
+  "en": 1,
+  "n": 3,
+  "ptrs": 5
+ },
+ {
+  "off": 1640824,
+  "len": 42,
+  "str": "il KABUTOPS-\nUn primitivo y raro POKéMON-",
+  "sp": 2,
+  "en": 0,
+  "n": 7,
+  "ptrs": 8
+ },
+ {
+  "off": 4188064,
+  "len": 22,
+  "str": "\\xFCÈÈ\\xFCÇÒÓÔSwitch\nwhich?",
+  "sp": 2,
+  "en": 1,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 2421152,
+  "len": 7,
+  "str": "Normal",
+  "sp": 1,
+  "en": 0,
+  "n": 1,
+  "ptrs": 5
+ },
+ {
+  "off": 7487777,
+  "len": 303,
+  "str": ": Es que necesitamos que\nvuelvas a \\xFCÀÉPueblo Paleta\\xFCÀÔ, as\\x6F\\xFAte informas de los últimos\\xFAsucesos, y vemos que vamos a\\xFAhacer desde ahora'\fEn estos momentos me encuentro\ncon el Profesor Oak, ven al\\xFAlaboratorio lo más rápido que\\xFApuedas-\f\\xFCÀÇ\\xFDÀ: Esta bien profesor, no se\npreocupe, iré hacia all\\x6F ahora\\xFAmismo-",
+  "sp": 24,
+  "en": 6,
+  "n": 58,
+  "ptrs": 1
+ },
+ {
+  "off": 4180524,
+  "len": 29,
+  "str": "\\xFD $s \\xFDá\nprevents switching!\f",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 1838620,
+  "len": 33,
+  "str": "siera que mamá me cocinara\nalgo'",
+  "sp": 4,
+  "en": 1,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 1630672,
+  "len": 18,
+  "str": "n\nfuego CHIMCHAR?",
+  "sp": 1,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 4188172,
+  "len": 16,
+  "str": "\\xFCÁÁSAFARI BALLS",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4188188,
+  "len": 10,
+  "str": "\\xFCÁÁLeft: ",
+  "sp": 2,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 4317709,
+  "len": 17,
+  "str": "\\xFDÁ sent over \\xFDÇ-",
+  "sp": 2,
+  "en": 1,
+  "n": 4,
+  "ptrs": 2
+ },
+ {
+  "off": 4285097,
+  "len": 16,
+  "str": "\\xFDÁ/\\xFDÂ\nBALLS  \\xFDÇ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 1630539,
+  "len": 35,
+  "str": "tu nuevo pokémon, elige sin miedo-",
+  "sp": 2,
+  "en": 0,
+  "n": 6,
+  "ptrs": 4
+ },
+ {
+  "off": 4317058,
+  "len": 9,
+  "str": "\\xFDÁP LINK",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 1833829,
+  "len": 34,
+  "str": "Ô \\x6E\féËÌÂÁREPEL$s effect wore off'",
+  "sp": 3,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1640780,
+  "len": 40,
+  "str": "ERODACTYL-\nUn primitivo y raro POKéMON-",
+  "sp": 2,
+  "en": 0,
+  "n": 6,
+  "ptrs": 7
+ },
+ {
+  "off": 4286281,
+  "len": 14,
+  "str": "IN BAG:\\xFCÉ  \\xFDÁ",
+  "sp": 3,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4072480,
+  "len": 31,
+  "str": "GöÌËKöÌË ÌË ÈÇ  ÒÀÁ ÓÀÁ ÔÀÁ zi",
+  "sp": 2,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 4072488,
+  "len": 23,
+  "str": " ÌË ÈÇ  ÒÀÁ ÓÀÁ ÔÀÁ zi",
+  "sp": 2,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 1725558,
+  "len": 13,
+  "str": "\\xFDÁ fainted'\f",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4285751,
+  "len": 17,
+  "str": "Your COINS:\n\\xFDÁ\\xFCÌ",
+  "sp": 2,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4286020,
+  "len": 17,
+  "str": "POWDER QTY: \\xFDÁ\\xFCÌ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4285836,
+  "len": 18,
+  "str": "\\xFDÀ usó     \n\\xFDÂ-\\xFCÌ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4746921,
+  "len": 14,
+  "str": "o\nenvenenado-",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 1630504,
+  "len": 70,
+  "str": "Dentro de esas pokéballs te espera\ntu nuevo pokémon, elige sin miedo-",
+  "sp": 6,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 1581340,
+  "len": 9,
+  "str": "o\nKANTO!",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 1839240,
+  "len": 19,
+  "str": "no meter el dedo!\\xFA",
+  "sp": 2,
+  "en": 1,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4293000,
+  "len": 28,
+  "str": "TOTAL RECORD W:\\xFDÁ L:\\xFDÂ D:\\xFDÇ",
+  "sp": 2,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1839241,
+  "len": 18,
+  "str": "o meter el dedo!\\xFA",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 2
+ },
+ {
+  "off": 4187829,
+  "len": 27,
+  "str": "Huh? \\xFDÁ\nstopped evolving!\f",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4285124,
+  "len": 9,
+  "str": "\\xFDÁ COINS",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 2
+ },
+ {
+  "off": 4182698,
+  "len": 21,
+  "str": "Wild \\xFDÉ appeared!\\xFCË\\x7F",
+  "sp": 1,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 4183142,
+  "len": 15,
+  "str": "Ve! \\xFDÈ y\n\\xFDÊ!  ",
+  "sp": 1,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4183419,
+  "len": 11,
+  "str": "\\xFDÔ usó\n\\xFDÀ ",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 4754594,
+  "len": 44,
+  "str": "The \\xFDÁ BERRY transformed into\none \\xFDÂ BERRY-",
+  "sp": 2,
+  "en": 1,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1828196,
+  "len": 42,
+  "str": "Ô \\x6DqéËÌÂÁLooks like there$s nothing here'",
+  "sp": 3,
+  "en": 2,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4190592,
+  "len": 28,
+  "str": "\\xF9ú\\xF9úNO…Ë:êóË    \\xFCêóË]\\xF7ÒËË \\xF8",
+  "sp": 2,
+  "en": 0,
+  "n": 10,
+  "ptrs": 4
+ },
+ {
+  "off": 4191692,
+  "len": 57,
+  "str": "ËûËûNO…Ë:êóË    \\xFCêóË0ôÓËÏûÏûdO…Ë:êóË    \\xFCêóËmôÓË    \\xFCâ  ",
+  "sp": 2,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4318213,
+  "len": 15,
+  "str": "\\xFDÁ learned\n\\xFDÂ-",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 4318400,
+  "len": 34,
+  "str": "\\xFDÁ forgot \\xFDÇ-\fAnd'\f\\xFDÁ\nlearned \\xFDÂ-",
+  "sp": 2,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 4184978,
+  "len": 92,
+  "str": "Gana el el ENTRENADOR que consiga\ndebilitar los POKéMON de su rival\\xFAreduciendo sus PS a 0-\f",
+  "sp": 7,
+  "en": 1,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4185176,
+  "len": 51,
+  "str": "OAK: La clave está en causar daño a \ntu oponente-\f",
+  "sp": 5,
+  "en": 1,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4185237,
+  "len": 50,
+  "str": "OAK: Bajar las estadisticas\ntambien es muy útil-\f",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4185579,
+  "len": 280,
+  "str": "OAK: Hm'\nQue mal'\fSi vences, ganas dinero,\ny tu POKéMON experiencia-\fPero si pierdes, \\xFDó,\ndebes ser tú el que paga'\fPor esta vez, yo pagaré por ti,\nno te preocupes\fPero debes saber que las cosas\nno son iguales all\\x6F afuera-\fDebes hacerte fuerte\nAs\\x6F no habrá quién pueda vencerte-\f",
+  "sp": 30,
+  "en": 5,
+  "n": 56,
+  "ptrs": 2
+ },
+ {
+  "off": 4185298,
+  "len": 66,
+  "str": "OAK: Observa siempre a tu pokémon-\nSi sus PS llegan a 0 perderá-\f",
+  "sp": 6,
+  "en": 2,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4284596,
+  "len": 20,
+  "str": "HALL OF FAME No- \\xFDÁ",
+  "sp": 3,
+  "en": 2,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7504418,
+  "len": 21,
+  "str": "será, cu\\x6Fdalo mucho-",
+  "sp": 3,
+  "en": 0,
+  "n": 5,
+  "ptrs": 2
+ },
+ {
+  "off": 1640774,
+  "len": 46,
+  "str": "ósil AERODACTYL-\nUn primitivo y raro POKéMON-",
+  "sp": 4,
+  "en": 0,
+  "n": 7,
+  "ptrs": 2
+ },
+ {
+  "off": 4285183,
+  "len": 16,
+  "str": "\\xFDÁ is\nselected-",
+  "sp": 2,
+  "en": 1,
+  "n": 3,
+  "ptrs": 3
+ },
+ {
+  "off": 4285428,
+  "len": 21,
+  "str": "Threw away \\xFDÂ\n\\xFDÁ\\s]-",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 2
+ },
+ {
+  "off": 4285351,
+  "len": 20,
+  "str": "Deposited \\xFDÂ\n\\xFDÁ\\s]-",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4290501,
+  "len": 19,
+  "str": "Withdrew \\xFDÂ\n\\xFDÁ\\s]-",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4538264,
+  "len": 49,
+  "str": " ÊÀÛÏÔEÁ ÈÓçÉÒñÁ ÀÀÈÇÔßÁ âÔÈÇÔÀÁ àÒÊÉÔcÀ ÁÔèÇÎ\\x6FÀ",
+  "sp": 3,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 7522473,
+  "len": 71,
+  "str": ", solo puedo venderte\nuna vez al d\\x6Fa, sino se me\\xFAacabar\\x6Fan muy rápido-",
+  "sp": 10,
+  "en": 1,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 4301328,
+  "len": 16,
+  "str": "\\xFDÀ usó     \n\\xFDÁ-",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 4303316,
+  "len": 45,
+  "str": "Defeated \\xF7Á wild POKéMON including\n\\xF7À in \\xF7 -",
+  "sp": 2,
+  "en": 1,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4304996,
+  "len": 15,
+  "str": "Arrived in \\xFDÁ-",
+  "sp": 2,
+  "en": 1,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 4551220,
+  "len": 48,
+  "str": "\\xFDÁ! Awaiting\ncommunication from another player-",
+  "sp": 2,
+  "en": 1,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 4551268,
+  "len": 54,
+  "str": "\\xFDÁ! Awaiting link!\nPress START when everyone$s ready-",
+  "sp": 2,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4559416,
+  "len": 24,
+  "str": "Awaiting \\xFDÁ$s response'",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 2
+ },
+ {
+  "off": 4552448,
+  "len": 28,
+  "str": "\\xFDÁ!\nAwaiting other members!",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4557464,
+  "len": 31,
+  "str": "\\xFDÁ checked the\nTRADING BOARD-\f",
+  "sp": 2,
+  "en": 1,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4560132,
+  "len": 61,
+  "str": "BATTLES: \\xF7  WINS  \\xF7Á LOSSES\nTRADES:  \\xF7Â TIMES\f\"\\xF7Ç \\xF7È\n\\xF7É \\xF7Ê\"\f",
+  "sp": 3,
+  "en": 0,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 4289684,
+  "len": 155,
+  "str": "Este contiene la lista de tus pokémon,\n\\xFDÀ-\fÁbrela para ver las caracterìsticas\ny los ataques de tus pokémon-\fTambién puedes darle un ìtem\na tus pokémon-\\xFCÌ",
+  "sp": 17,
+  "en": 1,
+  "n": 28,
+  "ptrs": 1
+ },
+ {
+  "off": 4289623,
+  "len": 54,
+  "str": "OAK: Esto es importante para ti, es\nel menú pokémon-\f",
+  "sp": 7,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4287631,
+  "len": 29,
+  "str": "\\xFDÁ isn$t holding\nanything-\\xFCÌ",
+  "sp": 2,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 4288396,
+  "len": 14,
+  "str": "\\xFDÁ woke up-\\xFCÌ",
+  "sp": 2,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4288410,
+  "len": 24,
+  "str": "\\xFDÁ$s burn was healed-\\xFCÌ",
+  "sp": 2,
+  "en": 1,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 4288493,
+  "len": 21,
+  "str": "\\xFDÁ became healthy-\\xFCÌ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4288562,
+  "len": 32,
+  "str": "\\xFDÁ$s base \\xFDÂ\nstat was raised-\\xFCÌ",
+  "sp": 2,
+  "en": 1,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4288514,
+  "len": 21,
+  "str": "\\xFDÁ$s PP increased-\\xFCÌ",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4288272,
+  "len": 23,
+  "str": "\\xFDÁ already knows\n\\xFDÂ-\\xFCÌ",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 2
+ },
+ {
+  "off": 4287923,
+  "len": 15,
+  "str": "\\xFDÁ learned\n\\xFDÂ!",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 2
+ },
+ {
+  "off": 4287061,
+  "len": 32,
+  "str": "\\xFDÁ has already been\nselected-\\xFCÌ",
+  "sp": 3,
+  "en": 2,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 4599384,
+  "len": 21,
+  "str": "\\xF8À  mï  Hé    ÊìÇÔÀ ",
+  "sp": 1,
+  "en": 0,
+  "n": 5,
+  "ptrs": 2
+ },
+ {
+  "off": 7817380,
+  "len": 194,
+  "str": "Actualmente Birch y yo estamos\ntrabajando juntos, y necesitamos\\xFAque vengas a la región de Kanto,\\xFAseguramente ya te lo comentó él\\xFAmismo-\fBien, ahora necesito tus datos\npara completar tu pasaje-\\xFA",
+  "sp": 17,
+  "en": 1,
+  "n": 33,
+  "ptrs": 1
+ },
+ {
+  "off": 1858834,
+  "len": 57,
+  "str": "'Pikachu es de Ash- Este mundo es\nhabitado por Pokémon-\\xFA",
+  "sp": 6,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 1858891,
+  "len": 114,
+  "str": "Actualmente hay muchas especies\ndistintas y muchas por conocer-\fParece que ya sabes esto--- no voy\na joderte mas\\xFA",
+  "sp": 11,
+  "en": 2,
+  "n": 20,
+  "ptrs": 1
+ },
+ {
+  "off": 1859005,
+  "len": 43,
+  "str": "Ahora necesito tus datos\npara tu pasaje-\f\n",
+  "sp": 4,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 1859050,
+  "len": 39,
+  "str": "Bueno ahora debes decirme\ntu nombre-\f\n",
+  "sp": 3,
+  "en": 0,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 1859091,
+  "len": 27,
+  "str": "Asì que tu nombre es \\xFDÀ-\f\n",
+  "sp": 3,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 4298965,
+  "len": 33,
+  "str": "\\xF7  nature-\nHatched: \\xF7Á\nat \\xF9È \\xF7À-",
+  "sp": 2,
+  "en": 1,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4298932,
+  "len": 33,
+  "str": "\\xF7  nature-\nHatched: \\xF7Á\nat \\xF9È \\xF7À-",
+  "sp": 2,
+  "en": 1,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4632360,
+  "len": 17,
+  "str": "\nÉ\\xFCÉ\\xF8É:ÉlÉFÇ Ç¿Ç",
+  "sp": 3,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 1847329,
+  "len": 13,
+  "str": "le swimming-",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 2
+ },
+ {
+  "off": 1630515,
+  "len": 59,
+  "str": "sas pokéballs te espera\ntu nuevo pokémon, elige sin miedo-",
+  "sp": 4,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4645852,
+  "len": 69,
+  "str": "ÀÁÂ ÀÁ ÂÇÀËÌÀÉÊÀÇÈ   ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË/Â ßÉÌÁË4Â",
+  "sp": 3,
+  "en": 0,
+  "n": 11,
+  "ptrs": 8
+ },
+ {
+  "off": 4645867,
+  "len": 54,
+  "str": "ÀÇÈ   ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË/Â ßÉÌÁË4Â",
+  "sp": 3,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4645872,
+  "len": 49,
+  "str": " ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË/Â ßÉÌÁË4Â",
+  "sp": 3,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4645861,
+  "len": 60,
+  "str": "ÀËÌÀÉÊÀÇÈ   ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË/Â ßÉÌÁË4Â",
+  "sp": 3,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4313404,
+  "len": 11,
+  "str": "\\xFDÁ PLAYERS",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4645880,
+  "len": 41,
+  "str": "   ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË/Â ßÉÌÁË4Â",
+  "sp": 3,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 4645855,
+  "len": 66,
+  "str": " ÀÁ ÂÇÀËÌÀÉÊÀÇÈ   ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË/Â ßÉÌÁË4Â",
+  "sp": 3,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4645858,
+  "len": 63,
+  "str": " ÂÇÀËÌÀÉÊÀÇÈ   ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË/Â ßÉÌÁË4Â",
+  "sp": 3,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4675164,
+  "len": 13,
+  "str": "lÀ  OÚ  vÚ  ",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 4188568,
+  "len": 17,
+  "str": "\\xFDÁMIN- \\xFDÂ-\\xFDÇSEC-",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 2
+ },
+ {
+  "off": 1516889,
+  "len": 42,
+  "str": "y buscando los objetos\nque se me cayeron!",
+  "sp": 6,
+  "en": 1,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1517996,
+  "len": 43,
+  "str": "Dicen que aqu\\x6F hay unos fósiles\nmuy raros-",
+  "sp": 6,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 1518118,
+  "len": 29,
+  "str": "Esta cueva es muy tenebrosa-",
+  "sp": 4,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 1519335,
+  "len": 27,
+  "str": "Lo siento no puedes pasar-",
+  "sp": 3,
+  "en": 1,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7817575,
+  "len": 96,
+  "str": "\\xFCÀÉCap- Arenque: Desde hace unos\nmeses, soy el nuevo capitán del\\xFAcrucero, pero extraño a Peeko'",
+  "sp": 8,
+  "en": 1,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 1638803,
+  "len": 6,
+  "str": "éMON-",
+  "sp": 1,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 7802561,
+  "len": 13,
+  "str": "Casa de Ash-",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 7802574,
+  "len": 14,
+  "str": "Casa de Gary-",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 7802200,
+  "len": 62,
+  "str": "PUEBLO PALETA\\xFA\"El lugar que ve nacer a las\nmejores estrellas\"",
+  "sp": 5,
+  "en": 1,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 7802269,
+  "len": 40,
+  "str": "CIUDAD VERDE \n\"El eterno paraiso verde\"",
+  "sp": 2,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7811941,
+  "len": 38,
+  "str": "GIMNASIO CIUDAD VERDE\nLIDER: GARY OAK",
+  "sp": 1,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7809515,
+  "len": 109,
+  "str": "Gary nunca está en el gimnasio,\nse la pasa investigando con su\\xFAabuelo, si quieres retarlo, debes\\xFAaguantarte-",
+  "sp": 10,
+  "en": 0,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 7805178,
+  "len": 17,
+  "str": "Vale, pues nada-",
+  "sp": 1,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 7809443,
+  "len": 71,
+  "str": "Hacia adelante se encuentra el\nBOSQUE VERDE- Todo un desaf\\x6Fo\\xFAcruzarlo-",
+  "sp": 6,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 1569487,
+  "len": 62,
+  "str": "Tengo mucha hambre, pero no tengo\ndinero para comprarme nada-",
+  "sp": 8,
+  "en": 1,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 1572547,
+  "len": 48,
+  "str": "Pueden verse monedas en el fondo\nde ésta fuente",
+  "sp": 4,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 7810184,
+  "len": 36,
+  "str": "RUTA 1\nPUEBLO PALETA . CIUDAD VERDE",
+  "sp": 3,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7805196,
+  "len": 38,
+  "str": "RUTA 2\nCIUDAD VERDE . CIUDAD PLATEADA",
+  "sp": 3,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7517788,
+  "len": 14,
+  "str": "CUEVA DIGLETT",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 1587392,
+  "len": 17,
+  "str": "Ruta 3\nMT- LUNA-",
+  "sp": 1,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 1587636,
+  "len": 33,
+  "str": "RUTA 4\nMT- LUNA . CIUDAD CELESTE",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 1627282,
+  "len": 102,
+  "str": "Es una pelìcula en la TV-\nLa chica de pelo largo camina\\xFApor un puente de madera-\f'De seguro se caerá-",
+  "sp": 11,
+  "en": 0,
+  "n": 21,
+  "ptrs": 1
+ },
+ {
+  "off": 1725472,
+  "len": 33,
+  "str": "\\xFDÀ: Ya deberiamos haber llegado-",
+  "sp": 1,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 1629410,
+  "len": 61,
+  "str": "\\xFCÀÓAsh: Vamos \\xFDÀ, elige uno\nde los pokémon, no tengas miedo-",
+  "sp": 6,
+  "en": 1,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 1629557,
+  "len": 40,
+  "str": "\\xFCÀÓAsh: \\xFDÀ tu pokémon se ve\nmuy fuerte-",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1630486,
+  "len": 88,
+  "str": "\\xFCÀÔOak: Bueno \\xFDÀ-\fDentro de esas pokéballs te espera\ntu nuevo pokémon, elige sin miedo-",
+  "sp": 7,
+  "en": 0,
+  "n": 15,
+  "ptrs": 7
+ },
+ {
+  "off": 1631024,
+  "len": 112,
+  "str": "\\xFCÀÔOak: Cuando un pokémon salvaje\naparezca, debes luchar contra él\\xFAcon tus pokémon, as\\x6F ve de ciudad\\xFAen ciudad-",
+  "sp": 9,
+  "en": 1,
+  "n": 21,
+  "ptrs": 1
+ },
+ {
+  "off": 1631149,
+  "len": 70,
+  "str": "\\xFCÀÔOak: \\xFDÀ, a medida de\nque luches, tus pokémon se haran\\xFAmás fuertes-",
+  "sp": 6,
+  "en": 1,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 1629837,
+  "len": 12,
+  "str": "\\xFDÉ: Gramps!",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 1629522,
+  "len": 35,
+  "str": "\\xFDÉ received the \\xFDÁ\nfrom PROF- OAK!",
+  "sp": 3,
+  "en": 2,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 1633557,
+  "len": 53,
+  "str": "El profesor Oak tiene su\nprograma de radio en Jhoto!",
+  "sp": 3,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 7514715,
+  "len": 42,
+  "str": "Una misteriosa Pokéball, es del\nProfesor'",
+  "sp": 3,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 1632900,
+  "len": 46,
+  "str": "La opción guardar sirve mucho,\nÚsala seguido-",
+  "sp": 4,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 1632950,
+  "len": 56,
+  "str": "Todos los pokemons tienen\npuntos fuertes y debilidades-",
+  "sp": 4,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7810608,
+  "len": 86,
+  "str": "Inventarse motes es divertido, pero\ndif\\x6Fcil-\fEs más fácil recordar nombres\nsencillos-",
+  "sp": 6,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 7805043,
+  "len": 40,
+  "str": "Hace tiempo que no voy al BOSQUE\nVERDE-",
+  "sp": 7,
+  "en": 1,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1637261,
+  "len": 52,
+  "str": "VIRIDIAN POKéMON GYM\nLEADER: ?\fWINNING TRAINERS:\n\\xFDÉ",
+  "sp": 1,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 1637313,
+  "len": 63,
+  "str": "VIRIDIAN POKéMON GYM\nLEADER: GIOVANNI\fWINNING TRAINERS:\n\\xFDÉ, \\xFDÀ",
+  "sp": 1,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 1639212,
+  "len": 79,
+  "str": "Yo tengo algunas POCIONES-\fNunca sabes cuándo pueden\nnecesitarlas tus POKéMON-",
+  "sp": 9,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7812427,
+  "len": 29,
+  "str": "No tienes suficiente dinero-",
+  "sp": 3,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 1640773,
+  "len": 47,
+  "str": "Fósil AERODACTYL-\nUn primitivo y raro POKéMON-",
+  "sp": 4,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 1640821,
+  "len": 45,
+  "str": "Fósil KABUTOPS-\nUn primitivo y raro POKéMON-",
+  "sp": 4,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 1642459,
+  "len": 26,
+  "str": "\\xFDÀ recibió TM39\nde BROCK-",
+  "sp": 3,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7808416,
+  "len": 261,
+  "str": "\\xFCÀÈBrock: Eso es una MT, Máquina\nTécnica, son muy similares a las\\xFAMO, solo que éstas las puedes\\xFAutilizar sólo una vez, as\\x6F que\\xFAdebes pensar a qué pokémon\\xFAse la vas a enseñar-\fLa MT39 contiene TUMBA ROCAS, un\nataque que puede bajarle la\\xFAvelocidad a tu oponente-",
+  "sp": 26,
+  "en": 5,
+  "n": 51,
+  "ptrs": 1
+ },
+ {
+  "off": 1642958,
+  "len": 17,
+  "str": "No tienes lugar'",
+  "sp": 2,
+  "en": 1,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 1643630,
+  "len": 54,
+  "str": "PEWTER POKéMON GYM\nLEADER: BROCK\fWINNING TRAINERS:\n\\xFDÉ",
+  "sp": 1,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1643684,
+  "len": 58,
+  "str": "PEWTER POKéMON GYM\nLEADER: BROCK\fWINNING TRAINERS:\n\\xFDÉ, \\xFDÀ",
+  "sp": 1,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 1727054,
+  "len": 21,
+  "str": "Vale, si no quieres'",
+  "sp": 2,
+  "en": 1,
+  "n": 4,
+  "ptrs": 2
+ },
+ {
+  "off": 1647844,
+  "len": 21,
+  "str": "No vencerás a MISTY-",
+  "sp": 3,
+  "en": 2,
+  "n": 4,
+  "ptrs": 2
+ },
+ {
+  "off": 1648353,
+  "len": 56,
+  "str": "CERULEAN POKéMON GYM\nLEADER: MISTY\fWINNING TRAINERS:\n\\xFDÉ",
+  "sp": 1,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1648409,
+  "len": 60,
+  "str": "CERULEAN POKéMON GYM\nLEADER: MISTY\fWINNING TRAINERS:\n\\xFDÉ, \\xFDÀ",
+  "sp": 1,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 1659403,
+  "len": 61,
+  "str": "VERMILION POKéMON GYM\nLEADER: LT- SURGE\fWINNING TRAINERS:\n\\xFDÉ",
+  "sp": 1,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 1659464,
+  "len": 65,
+  "str": "VERMILION POKéMON GYM\nLEADER: LT- SURGE\fWINNING TRAINERS:\n\\xFDÉ, \\xFDÀ",
+  "sp": 1,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 1727985,
+  "len": 20,
+  "str": "\\xFDÀ obtained\nthe \\xFDÁ!",
+  "sp": 2,
+  "en": 1,
+  "n": 4,
+  "ptrs": 2
+ },
+ {
+  "off": 1669236,
+  "len": 55,
+  "str": "CELADON POKéMON GYM\nLEADER: ERIKA\fWINNING TRAINERS:\n\\xFDÉ",
+  "sp": 1,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1669291,
+  "len": 59,
+  "str": "CELADON POKéMON GYM\nLEADER: ERIKA\fWINNING TRAINERS:\n\\xFDÉ, \\xFDÀ",
+  "sp": 1,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 1674059,
+  "len": 54,
+  "str": "FUCHSIA POKéMON GYM\nLEADER: KOGA\fWINNING TRAINERS:\n\\xFDÉ",
+  "sp": 1,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1674113,
+  "len": 58,
+  "str": "FUCHSIA POKéMON GYM\nLEADER: KOGA\fWINNING TRAINERS:\n\\xFDÉ, \\xFDÀ",
+  "sp": 1,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 1674745,
+  "len": 70,
+  "str": "WARDEN: Hif fuff hefifoo!\fHa lof ha feef ee hafahi ho-\nHeff hee fwee!",
+  "sp": 2,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 1674851,
+  "len": 33,
+  "str": "Ha?\nHe ohay heh ha hoo ee haheh!",
+  "sp": 3,
+  "en": 1,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1678377,
+  "len": 57,
+  "str": "CINNABAR POKéMON GYM\nLEADER: BLAINE\fWINNING TRAINERS:\n\\xFDÉ",
+  "sp": 1,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1678434,
+  "len": 61,
+  "str": "CINNABAR POKéMON GYM\nLEADER: BLAINE\fWINNING TRAINERS:\n\\xFDÉ, \\xFDÀ",
+  "sp": 1,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 1687038,
+  "len": 57,
+  "str": "SAFFRON POKéMON GYM\nLEADER: SABRINA\fWINNING TRAINERS:\n\\xFDÉ",
+  "sp": 1,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 1687095,
+  "len": 61,
+  "str": "SAFFRON POKéMON GYM\nLEADER: SABRINA\fWINNING TRAINERS:\n\\xFDÉ, \\xFDÀ",
+  "sp": 1,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 1694164,
+  "len": 71,
+  "str": "Tengo 6 POKé BALLS en mi cinturón-\fPuedes llevar 6 POKéMON como\nmucho-",
+  "sp": 8,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 1694675,
+  "len": 50,
+  "str": "\\xFDÀ pagó la cantidad de 500/\ny compró el MAGIKARP'",
+  "sp": 6,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 1694782,
+  "len": 53,
+  "str": "Tienes demasiados POKéMON-\nNo queda sitio para éste-",
+  "sp": 4,
+  "en": 1,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7810248,
+  "len": 58,
+  "str": "Muy bien- Ten un poco de\npaciencia- Será sólo un momento-",
+  "sp": 9,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7810339,
+  "len": 94,
+  "str": "Gracias por esperar-\fMisión cumplida- Somos especialistas\nen devolver la forma a los\\xFAPOKéMON-",
+  "sp": 8,
+  "en": 1,
+  "n": 14,
+  "ptrs": 2
+ },
+ {
+  "off": 1725020,
+  "len": 16,
+  "str": "\\xFDÀ found\n\\xFDÁ \\xFDÂ!",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 3
+ },
+ {
+  "off": 1725149,
+  "len": 19,
+  "str": "\\xFDÀ found\n\\xFDÁ \\xFDÂ\\s]!",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 1724533,
+  "len": 21,
+  "str": "\\xFDÀ encendió el PC-  ",
+  "sp": 3,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 1724606,
+  "len": 31,
+  "str": "Sistema de almacenamiento\nPKMN",
+  "sp": 1,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 1724583,
+  "len": 23,
+  "str": "Accedió al PC-        ",
+  "sp": 3,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 1725861,
+  "len": 14,
+  "str": "\\xFDÁ used SURF!",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 1839872,
+  "len": 56,
+  "str": "Está saliendo un POKéMON\npor la TV, se le ve encantado-",
+  "sp": 8,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 1838617,
+  "len": 36,
+  "str": "Quisiera que mamá me cocinara\nalgo'",
+  "sp": 4,
+  "en": 1,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 1839260,
+  "len": 37,
+  "str": "Es un teléfono\nSerá mejor no usarlo-",
+  "sp": 7,
+  "en": 1,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 1839691,
+  "len": 39,
+  "str": "Muchas herramientas POKéMON\nordenadas-",
+  "sp": 1,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 1725301,
+  "len": 61,
+  "str": "Puedes asignar un objeto de la \nMOCHILA con el Botón SELECT-",
+  "sp": 9,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7814255,
+  "len": 65,
+  "str": "\\xFDÂ fue enviado al PC\nde alguien-\fSe ha guardado en la CAJA\n\"\\xFDÁ\"-",
+  "sp": 9,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 7815314,
+  "len": 76,
+  "str": "La CAJA \"\\xFDÇ\" del PC\nde alguien estaba llena-\f\\xFDÂ fue enviado a la CAJA\n\"\\xFDÁ\"-",
+  "sp": 9,
+  "en": 1,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 7815250,
+  "len": 62,
+  "str": "\\xFDÂ fue enviado al PC\nde BILL-\fSe ha guardado en la CAJA\n\"\\xFDÁ\"-",
+  "sp": 8,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 7815392,
+  "len": 73,
+  "str": "La CAJA \"\\xFDÇ\" del PC\nde BILL estaba llena-\f\\xFDÂ fue enviado a la CAJA\n\"\\xFDÁ\"-",
+  "sp": 8,
+  "en": 1,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 1729476,
+  "len": 18,
+  "str": "The \\xFDÁ flew away!",
+  "sp": 2,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7812328,
+  "len": 36,
+  "str": "La RUTA 4 está debajo del MT-\nLUNA-",
+  "sp": 6,
+  "en": 0,
+  "n": 7,
+  "ptrs": 2
+ },
+ {
+  "off": 7813559,
+  "len": 53,
+  "str": "A m\\x6F me encanta buscar POKéMON\nhongo en el MT- LUNA-",
+  "sp": 3,
+  "en": 2,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 7815582,
+  "len": 33,
+  "str": "Se ve que te encanta venir\naqu\\x6F-",
+  "sp": 4,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 1609755,
+  "len": 61,
+  "str": "Antes sol\\x6Fa estar aqu\\x6F el PUENTE\nPEPITA, pero lo demolieron'",
+  "sp": 4,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 1849050,
+  "len": 61,
+  "str": "Antes sol\\x6Fa estar aqu\\x6F el PUENTE\nPEPITA, pero lo demolieron'",
+  "sp": 4,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 7815616,
+  "len": 32,
+  "str": "Acabo de ver correr un AZURILL-",
+  "sp": 2,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7816734,
+  "len": 73,
+  "str": "Todo POKéMON tiene sus puntos\ndébiles-\fLo suyo es entrenar varios tipos-",
+  "sp": 7,
+  "en": 0,
+  "n": 12,
+  "ptrs": 2
+ },
+ {
+  "off": 7817199,
+  "len": 89,
+  "str": "Si tu POKéMON sufre confusión, lo\nmejor es que lo cambies por otro-\fEs la mejor táctica-",
+  "sp": 14,
+  "en": 0,
+  "n": 17,
+  "ptrs": 2
+ },
+ {
+  "off": 1610878,
+  "len": 45,
+  "str": "El coleccionista tiene muchos\nPOKéMON raros-",
+  "sp": 3,
+  "en": 0,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 1611036,
+  "len": 47,
+  "str": "La ruta de abajo es un atajo\na CIUDAD CELESTE-",
+  "sp": 6,
+  "en": 1,
+  "n": 10,
+  "ptrs": 2
+ },
+ {
+  "off": 1610269,
+  "len": 28,
+  "str": "Bueno, mi chica me animará-",
+  "sp": 6,
+  "en": 1,
+  "n": 5,
+  "ptrs": 2
+ },
+ {
+  "off": 1592349,
+  "len": 16,
+  "str": "Ha.hahah.ah.ha!",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 1592365,
+  "len": 51,
+  "str": "Ha.haha!\nNot laughing!\\xFAHa.hay fever! Haha.ha.choo!",
+  "sp": 3,
+  "en": 1,
+  "n": 10,
+  "ptrs": 2
+ },
+ {
+  "off": 1592416,
+  "len": 38,
+  "str": "Haha.ha.choo!\nHa.choo!\\xFASnort! Snivel!",
+  "sp": 2,
+  "en": 0,
+  "n": 7,
+  "ptrs": 2
+ },
+ {
+  "off": 7813909,
+  "len": 103,
+  "str": "Estoy buscando fósiles en las\nentrañas del MT- LUNA-\fA veces me ayuda BROCK,\ndel GIMNASIO de PLATEADA-",
+  "sp": 9,
+  "en": 2,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 1826775,
+  "len": 11,
+  "str": "\\xFDÁ usó \\xFDÂ!",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 2
+ },
+ {
+  "off": 7810893,
+  "len": 37,
+  "str": "Parece que puedes CORTAR\neste árbol-",
+  "sp": 5,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 1827704,
+  "len": 19,
+  "str": "\\xFDÁ used WATERFALL-",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 1827995,
+  "len": 14,
+  "str": "\\xFDÁ used DIVE-",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 2
+ },
+ {
+  "off": 1559638,
+  "len": 19,
+  "str": "\\xFDÁ min- \\xFDÂ-\\xFDÇ sec-",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4190312,
+  "len": 26,
+  "str": "öúöú\\xF8O…Ë~:?Ë    \\xFCêóËCzÒËä",
+  "sp": 3,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 4191812,
+  "len": 28,
+  "str": "ÊûÊûdO…Ë:êóË    \\xFCêóË\\x75úÓË  :",
+  "sp": 2,
+  "en": 0,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 4191716,
+  "len": 33,
+  "str": "ÏûÏûdO…Ë:êóË    \\xFCêóËmôÓË    \\xFCâ  ",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 5
+ },
+ {
+  "off": 4089888,
+  "len": 42,
+  "str": "lúlúdO…Ë:êóË    \\xFCêóË\\x69ÔÎËî î     Ç Ç  ¿  \\xFA",
+  "sp": 2,
+  "en": 0,
+  "n": 10,
+  "ptrs": 4
+ },
+ {
+  "off": 4093592,
+  "len": 66,
+  "str": "dúdú\\xF8P…Ë:êóË    \\xFCêóËa\\x67ÎËyúyú\\xF8P…Ë:êóË    \\xFCêóËa\\x67ÎË  Ç Ë Ç Œ Ç â Ç \n",
+  "sp": 2,
+  "en": 0,
+  "n": 21,
+  "ptrs": 2
+ },
+ {
+  "off": 4190268,
+  "len": 38,
+  "str": "ÊûÊûdO…Ë:êóË    \\xFCêóËCyÒË  Á Ë Á Œ Á \n",
+  "sp": 2,
+  "en": 0,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4190712,
+  "len": 44,
+  "str": "\\xFCú\\xFCúNO…Ë:êóË    \\xFCêóË\\xF9\\xF8ÒË  É  Ñ       Ñ  Ê n",
+  "sp": 3,
+  "en": 0,
+  "n": 13,
+  "ptrs": 5
+ },
+ {
+  "off": 4093616,
+  "len": 42,
+  "str": "yúyú\\xF8P…Ë:êóË    \\xFCêóËa\\x67ÎË  Ç Ë Ç Œ Ç â Ç \n",
+  "sp": 2,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 7798784,
+  "len": 424,
+  "str": "Riiiiinnnnnngggggg---\f\\xFCÀÇ\\xFDÀ: Eh parece que viene de mi \nmochila- Hola?\f\\xFCÀËProf- Birch: Hola \\xFDÀ soy Birch,\nEste número me lo acaaba de\\xFAdar tu mamá, quiere que te avise\\xFAque te compró un nuevo celular\\xFAy lo dejó en tu mochila, por cierto\\xFArecuerda que tienes que ver al\\xFAprof- Oak para entregarle ese\\xFApaquete y saluda al capitan\\xFAde mi parte-\f\\xFCÀÇ\\xFDÀ: Tengo que buscar a Oak-\f\\xFCÀËATENCION!! Hemos llegado\nal puerto de Ciudad Azafran-",
+  "sp": 37,
+  "en": 2,
+  "n": 78,
+  "ptrs": 8
+ },
+ {
+  "off": 4317464,
+  "len": 45,
+  "str": "\\xFCÀÁ\\xFCÁÀ\\xFCÂÂCommunication standby'\nPlease wait-",
+  "sp": 2,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 4317509,
+  "len": 38,
+  "str": "\\xFCÀÁ\\xFCÁÀ\\xFCÂÂThe trade has been canceled-",
+  "sp": 3,
+  "en": 2,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 4030216,
+  "len": 15,
+  "str": "te el combate-",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 7526515,
+  "len": 61,
+  "str": "ntregar objetos-\fAdemás, pueden llegar a usarlos\nen combate-",
+  "sp": 5,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 7798788,
+  "len": 420,
+  "str": "iinnnnnngggggg---\f\\xFCÀÇ\\xFDÀ: Eh parece que viene de mi \nmochila- Hola?\f\\xFCÀËProf- Birch: Hola \\xFDÀ soy Birch,\nEste número me lo acaaba de\\xFAdar tu mamá, quiere que te avise\\xFAque te compró un nuevo celular\\xFAy lo dejó en tu mochila, por cierto\\xFArecuerda que tienes que ver al\\xFAprof- Oak para entregarle ese\\xFApaquete y saluda al capitan\\xFAde mi parte-\f\\xFCÀÇ\\xFDÀ: Tengo que buscar a Oak-\f\\xFCÀËATENCION!! Hemos llegado\nal puerto de Ciudad Azafran-",
+  "sp": 37,
+  "en": 2,
+  "n": 78,
+  "ptrs": 3
+ },
+ {
+  "off": 4300662,
+  "len": 69,
+  "str": "Contiene importantes datos de los\nPKMN con los que te encuentras-   ",
+  "sp": 6,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4300731,
+  "len": 70,
+  "str": "Aqu\\x6F, entre otras cosas, puedes\norganizar los PKMN de tu equipo-     ",
+  "sp": 7,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4300801,
+  "len": 68,
+  "str": "Guarda en los bolsillos las cosas\nque encuentres, compres o te den-",
+  "sp": 6,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4300873,
+  "len": 38,
+  "str": "Muestra tus datos de tu partida-     ",
+  "sp": 3,
+  "en": 0,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 4300911,
+  "len": 72,
+  "str": "Guarda cuando quieras todos los datos\nde tu partida para descansar-    ",
+  "sp": 6,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4300983,
+  "len": 66,
+  "str": "Si quieres cambiar la velocidad del\ntexto, o sonido hazlo aqu\\x6F-  ",
+  "sp": 6,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4301049,
+  "len": 24,
+  "str": "Sales de este MENU-    ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7521751,
+  "len": 10,
+  "str": "Ô mK\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7521490,
+  "len": 10,
+  "str": "Ô hJ\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7527114,
+  "len": 10,
+  "str": "Ô Zf\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7526871,
+  "len": 10,
+  "str": "Ô me\\x72ËÌÁÁ",
+  "sp": 3,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7527893,
+  "len": 10,
+  "str": "Ô ki\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4041992,
+  "len": 83,
+  "str": "e sirve para llevar las\nBAYAS- Está en el bolsillo de\nobjetos clave de la MOCHILA-",
+  "sp": 11,
+  "en": 0,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 7803144,
+  "len": 28,
+  "str": "renador de la\nregión Hoenn-",
+  "sp": 4,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7817480,
+  "len": 94,
+  "str": "uramente ya te lo comentó él\\xFAmismo-\fBien, ahora necesito tus datos\npara completar tu pasaje-\\xFA",
+  "sp": 12,
+  "en": 0,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 7486224,
+  "len": 147,
+  "str": "dos-\f\\xFCÀÉAdmin: No puede ser'\fNo nos queda más remedio que\nlargarnos de aqu\\x6F- Ya nos\\xFAvolveremos a ver las caras- Te\\xFAhas ganado un enemigo poderoso-",
+  "sp": 15,
+  "en": 3,
+  "n": 29,
+  "ptrs": 1
+ },
+ {
+  "off": 4294061,
+  "len": 53,
+  "str": "Puedes sacar tus POKéMON\nalmacenados en una caja-   ",
+  "sp": 3,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4294114,
+  "len": 47,
+  "str": "Guarda algún POKéMON en alguna\nde tus cajas-  ",
+  "sp": 4,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4294161,
+  "len": 49,
+  "str": "Ordenas los POKéMON de las cajas\ny de tu equipo-",
+  "sp": 7,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4294210,
+  "len": 63,
+  "str": "Mover los objetos de los POKéMON\nde las cajas o de tu equipo- ",
+  "sp": 10,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4019113,
+  "len": 50,
+  "str": "Es la mejor- Atrapa siempre\nal POKéMON- No falla-",
+  "sp": 6,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4017958,
+  "len": 58,
+  "str": "Es muy buena- Tiene más \\x6Fndice\nde éxito que la SUPERBALL-",
+  "sp": 10,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4018128,
+  "len": 72,
+  "str": "Sirve para atrapar POKéMON\nsalvajes- Parece una cápsula-       \n       ",
+  "sp": 4,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4018202,
+  "len": 90,
+  "str": "Tiene una función especial-\nSe usa en la ZONA SAFARI-\nTiene acabado de camuflaje-\n       ",
+  "sp": 8,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4018295,
+  "len": 81,
+  "str": "Es algo distinta-\nFunciona bien con los POKéMON\nde tipo AGUA y BICHO-           ",
+  "sp": 10,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4018380,
+  "len": 79,
+  "str": "Es algo distinta-\nFunciona mejor con los POKéMON\ndel fondo del mar-           ",
+  "sp": 8,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4018461,
+  "len": 71,
+  "str": "Es algo distintEs algo distinta-\nFunciona mejor al avanzar\nel combate-",
+  "sp": 6,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4018533,
+  "len": 86,
+  "str": "Es algo distinta- Funciona mejor\ncon los POKéMON que son\niguales a los que ya tienes-",
+  "sp": 11,
+  "en": 1,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 7818012,
+  "len": 56,
+  "str": "Es algo distinta-\nFunciona mejor al avanzar\nel combate-",
+  "sp": 5,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4018710,
+  "len": 75,
+  "str": "Es muy acogedora- Hace que\nlos POKéMON se vuelvan cada\nvez más simpáticos-",
+  "sp": 10,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4018787,
+  "len": 76,
+  "str": "Es muy particular- Se hizo\npara conmemorar algo-\n                          ",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4018866,
+  "len": 75,
+  "str": "Medicina en spray, que cura heridas\ny restaura 20 PS de un POKéMON-\n      ",
+  "sp": 5,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4018943,
+  "len": 53,
+  "str": "Medicina en spray, que cura a un\nPOKéMON envenenado-",
+  "sp": 3,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4019005,
+  "len": 50,
+  "str": "Medicina en spray, que cura a un\nPOKéMON quemado-",
+  "sp": 3,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4019060,
+  "len": 48,
+  "str": "Medicina en spray, que descongela\na un POKéMON-",
+  "sp": 3,
+  "en": 1,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4019111,
+  "len": 52,
+  "str": "MeEs la mejor- Atrapa siempre\nal POKéMON- No falla-",
+  "sp": 5,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 7818084,
+  "len": 53,
+  "str": "Medicina en spray, que cura a un\nPOKéMON paralizado-",
+  "sp": 3,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4019227,
+  "len": 62,
+  "str": "Medicina que restaura todos los PS\ny el estado de un POKéMON-",
+  "sp": 8,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 7818156,
+  "len": 75,
+  "str": "Medicina en spray, que cura heridas\ny restaura todos los PS de un\nPOKéMON-",
+  "sp": 7,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4019381,
+  "len": 69,
+  "str": "Medicina en spray, que cura heridas\ny restaura 200 PS de un POKéMON-",
+  "sp": 5,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4019459,
+  "len": 68,
+  "str": "Medicina en spray, que cura heridas\ny restaura 50 PS de un POKéMON-",
+  "sp": 5,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4019536,
+  "len": 67,
+  "str": "Medicina en spray, que cura\nlos problemas de estado de un\nPOKéMON-",
+  "sp": 6,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4019608,
+  "len": 77,
+  "str": "Medicina que hace revivir a un\nPOKéMON debilitado-\nLe da la mitad de los PS-",
+  "sp": 8,
+  "en": 1,
+  "n": 15,
+  "ptrs": 1
+ },
+ {
+  "off": 7818252,
+  "len": 71,
+  "str": "Medicina que hace revivir a un\nPOKéMON debilitado-\nLe da todos los PS-",
+  "sp": 7,
+  "en": 1,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4019755,
+  "len": 66,
+  "str": "Agua de alto contenido mineral,\nque restaura 50 PS de un POKéMON-",
+  "sp": 5,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4019838,
+  "len": 60,
+  "str": "Chispeante bebida gaseosa que\nrestaura 60 PS de un POKéMON-",
+  "sp": 3,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4019906,
+  "len": 47,
+  "str": "Bebida dulce que restaura 80 PS\nde un POKéMON-",
+  "sp": 3,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4019974,
+  "len": 66,
+  "str": "Leche de alto valor nutritivo, que\nrestaura 100 PS de un POKéMON-",
+  "sp": 4,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4020047,
+  "len": 61,
+  "str": "Polvo medicinal muy amargo que\nrestaura 50 PS de un POKéMON-",
+  "sp": 4,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4020126,
+  "len": 51,
+  "str": "Ra\\x6Fz muy amarga que restaura\n200 PS de un POKéMON-",
+  "sp": 4,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4020195,
+  "len": 68,
+  "str": "Polvos muy amargos que curan\nlos problemas de estado de un\nPOKéMON-",
+  "sp": 6,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4020275,
+  "len": 74,
+  "str": "Hierba que hace revivir\na un POKéMON debilitado restaurando\ntodos sus PS-",
+  "sp": 6,
+  "en": 1,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4020355,
+  "len": 52,
+  "str": "Restaura 10 PP del ataque\nque elijas de un POKéMON-",
+  "sp": 5,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 7818336,
+  "len": 67,
+  "str": "Restaura completamente\nlos PP del ataque que elijas\nde un POKéMON-",
+  "sp": 6,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4020468,
+  "len": 51,
+  "str": "Restaura 10 PP de todos\nlos ataques de un POKéMON-",
+  "sp": 5,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 7818420,
+  "len": 66,
+  "str": "Restaura completamente\nlos PP de todos los ataques\nde un POKéMON-",
+  "sp": 6,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7818504,
+  "len": 87,
+  "str": "Dulce t\\x6Fpico de PUEBLO LAVACALDA\nque cura todos los problemas de\nestado de un POKéMON-",
+  "sp": 8,
+  "en": 0,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 4020719,
+  "len": 55,
+  "str": "Flauta de cristal que\nespabila a los POKéMON\nconfusos-",
+  "sp": 3,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4020781,
+  "len": 58,
+  "str": "Flauta que pone fin a\nla atracción que siente un\nPOKéMON-",
+  "sp": 6,
+  "en": 1,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4020842,
+  "len": 58,
+  "str": "Flauta de cristal negro que aleja\na los POKéMON salvajes-",
+  "sp": 3,
+  "en": 1,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4020920,
+  "len": 59,
+  "str": "Flauta de cristal blanco que atrae\na los POKéMON salvajes-",
+  "sp": 3,
+  "en": 1,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4020998,
+  "len": 52,
+  "str": "Zumo 100[ natural que restaura\n20 PS de un POKéMON-",
+  "sp": 3,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7818684,
+  "len": 70,
+  "str": "Recupera del todo a los POKéMON\ndebilitados restaurando todos sus\nPS-",
+  "sp": 5,
+  "en": 1,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4021114,
+  "len": 62,
+  "str": "Sal pura, procedente de lo\nmás profundo de la CUEVA\nCARDUMEN-",
+  "sp": 8,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4021189,
+  "len": 62,
+  "str": "Bella concha marina de lo más\nprofundo de la CUEVA CARDUMEN-\n",
+  "sp": 8,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7818768,
+  "len": 92,
+  "str": "Parte roja de un objeto antiguo-\nParece formar parte de una especie\nde herramienta antigua-",
+  "sp": 8,
+  "en": 0,
+  "n": 15,
+  "ptrs": 1
+ },
+ {
+  "off": 4021584,
+  "len": 51,
+  "str": "Nutritiva bebida que aumenta los PS\nde un POKéMON-",
+  "sp": 4,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4021654,
+  "len": 54,
+  "str": "Nutritiva bebida que aumenta\nel ATAQUE de un POKéMON-",
+  "sp": 5,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4021733,
+  "len": 55,
+  "str": "Nutritiva bebida que aumenta\nla DEFENSA de un POKéMON-",
+  "sp": 5,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4021813,
+  "len": 54,
+  "str": "Nutritiva bebida que sube\nla VELOCIDAD de un POKéMON-",
+  "sp": 5,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4021891,
+  "len": 53,
+  "str": "Nutritiva bebida que sube\nel AT- ESP- de un POKéMON-",
+  "sp": 4,
+  "en": 1,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4021971,
+  "len": 61,
+  "str": "Caramelo rebosante de energ\\x6Fa-\nAumenta 1 nivel a un POKéMON-",
+  "sp": 3,
+  "en": 1,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4022048,
+  "len": 65,
+  "str": "Aumenta algo los PP máximos del\nataque que elijas de un POKéMON-",
+  "sp": 9,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4022115,
+  "len": 57,
+  "str": "Nutritiva bebida que aumenta\nla DEF- ESP- de un POKéMON-",
+  "sp": 4,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4022195,
+  "len": 55,
+  "str": "Sube al máximo PP del ataque\nque elijas de un POKéMON-",
+  "sp": 8,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4022266,
+  "len": 78,
+  "str": "Evita que bajen las stats\ndel equipo POKéMON durante\ncinco turnos en combate-",
+  "sp": 4,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4022349,
+  "len": 82,
+  "str": "Aumenta el \\x6Fndice de golpe cr\\x6Ftico\nen combate- Al cambiar de\nPOKéMON, desaparece-",
+  "sp": 4,
+  "en": 0,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4022440,
+  "len": 75,
+  "str": "Aumenta el ATAQUE en combate-\nAl cambiar de POKéMON, el efecto\ndesaparece-",
+  "sp": 5,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4022524,
+  "len": 76,
+  "str": "Aumenta la DEFENSA en combate-\nAl cambiar de POKéMON, el efecto\ndesaparece-",
+  "sp": 5,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4022609,
+  "len": 78,
+  "str": "Aumenta la VELOCIDAD en combate-\nAl cambiar de POKéMON, el efecto\ndesaparece-",
+  "sp": 5,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4022692,
+  "len": 83,
+  "str": "Aumenta la PRECISIÓN de los\nataques en combate- Al cambiar\nde POKéMON, desaparece-",
+  "sp": 7,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4022778,
+  "len": 77,
+  "str": "Aumenta el AT- ESP- en combate-\nAl cambiar de POKéMON, el efecto\ndesaparece-",
+  "sp": 4,
+  "en": 1,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4022863,
+  "len": 71,
+  "str": "Llamativo muñeco-\nSirve para huir de un combate\ncon un POKéMON salvaje",
+  "sp": 7,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4022935,
+  "len": 71,
+  "str": "Llamativo objeto-\nSirve para huir de un combate\ncon un POKéMON salvaje",
+  "sp": 6,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4023007,
+  "len": 54,
+  "str": "Repele POKéMON salvajes\nen un recorrido de 200 pasos-",
+  "sp": 2,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4023064,
+  "len": 54,
+  "str": "Repele POKéMON salvajes\nen un recorrido de 250 pasos-",
+  "sp": 2,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7818876,
+  "len": 81,
+  "str": "Larga y resistente cuerda-\nSirve para huir de una cueva\nu otros sitios cerrados-",
+  "sp": 5,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4023196,
+  "len": 54,
+  "str": "Repele POKéMON salvajes\nen un recorrido de 100 pasos-",
+  "sp": 2,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4023253,
+  "len": 80,
+  "str": "Curiosa piedra que hace\nevolucionar a especies de POKéMON-\nEs roja como el sol-",
+  "sp": 6,
+  "en": 1,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4023341,
+  "len": 86,
+  "str": "Curiosa piedra que hace\nevolucionar a especies de POKéMON-\nEs negra como el azabache-",
+  "sp": 6,
+  "en": 1,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4023437,
+  "len": 84,
+  "str": "Curiosa piedra que hace\nevolucionar a especies de POKéMON-\nEs naranja como el fuego",
+  "sp": 7,
+  "en": 1,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4023522,
+  "len": 85,
+  "str": "Curiosa piedra que hace\nevolucionar a especies de POKéMON-\nTiene dibujado un trueno-",
+  "sp": 5,
+  "en": 1,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4023615,
+  "len": 87,
+  "str": "Curiosa piedra que hace\nevolucionar a especies de POKéMON-\nEs azul claro como el agua-",
+  "sp": 7,
+  "en": 1,
+  "n": 15,
+  "ptrs": 1
+ },
+ {
+  "off": 4023704,
+  "len": 84,
+  "str": "Curiosa piedra que hace\nevolucionar a especies de POKéMON-\nTiene dibujada una hoja-",
+  "sp": 5,
+  "en": 1,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4023790,
+  "len": 58,
+  "str": "Seta pequeña y poco comùn-\nHay gente a la que le encanta-",
+  "sp": 8,
+  "en": 1,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4023859,
+  "len": 57,
+  "str": "Seta grande y poco comùn-\nHay gente a la que le encanta-",
+  "sp": 6,
+  "en": 1,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4023927,
+  "len": 88,
+  "str": "Bonita y brillante perla plateada\nde tamaño más bien pequeño\nque se vende a bajo precio",
+  "sp": 8,
+  "en": 1,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4024016,
+  "len": 83,
+  "str": "Bonita y brillante perla plateada\nde tamaño muy grande que se\nvende a alto precio-",
+  "sp": 7,
+  "en": 1,
+  "n": 15,
+  "ptrs": 1
+ },
+ {
+  "off": 4024108,
+  "len": 62,
+  "str": "Bonita arena roja de tacto\nsedoso que se vende a alto precio-",
+  "sp": 3,
+  "en": 1,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4024184,
+  "len": 54,
+  "str": "Trozo de bonita gema roja\nque se vende a alto precio-",
+  "sp": 3,
+  "en": 1,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4024270,
+  "len": 77,
+  "str": "Pepita de oro puro que emite\nun brillo espectacular-\nSe vende a alto precio-",
+  "sp": 4,
+  "en": 1,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 7818972,
+  "len": 98,
+  "str": "Bella escama con forma de corazón-\nEs poco comùn- Brilla levemente\ncon los colores del arco iris-",
+  "sp": 10,
+  "en": 0,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 4025451,
+  "len": 65,
+  "str": "Cuando la lleve un POKéMON, lo\nliberará de parálisis en combate-",
+  "sp": 7,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4025520,
+  "len": 54,
+  "str": "Cuando la lleve un POKéMON,\nlo despertará en combate-",
+  "sp": 6,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4025582,
+  "len": 65,
+  "str": "Cuando la lleve un PKMN, lo curará\nde envenenamiento en combate-",
+  "sp": 7,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4025648,
+  "len": 62,
+  "str": "Cuando la lleve un PKMN, le curará\nlas quemaduras en combate-",
+  "sp": 7,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4025714,
+  "len": 56,
+  "str": "Cuando la lleve un POKéMON,\nlo descongelará en combate-",
+  "sp": 6,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4025780,
+  "len": 60,
+  "str": "Cuando la lleve un POKéMON,\nle restaurará 10 PP en combate-",
+  "sp": 6,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4025848,
+  "len": 60,
+  "str": "Cuando la lleve un POKéMON,\nle restaurará 10 PS en combate-",
+  "sp": 6,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4025916,
+  "len": 63,
+  "str": "Cuando la lleve un POKéMON,\nlo sacará del estado de confusión-",
+  "sp": 8,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4025985,
+  "len": 63,
+  "str": "Cuando la lleve un POKéMON,\nle curará los problemas de estado-",
+  "sp": 8,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4026056,
+  "len": 60,
+  "str": "Cuando la lleve un POKéMON,\nle restaurará 30 PS en combate-",
+  "sp": 6,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4026124,
+  "len": 48,
+  "str": "Al llevarla, restaura PS,\npero puede confundir-",
+  "sp": 3,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 4026188,
+  "len": 48,
+  "str": "Al llevarla, restaura PS,\npero puede confundir-",
+  "sp": 3,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 4026252,
+  "len": 48,
+  "str": "Al llevarla, restaura PS,\npero puede confundir-",
+  "sp": 3,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 4026316,
+  "len": 48,
+  "str": "Al llevarla, restaura PS,\npero puede confundir-",
+  "sp": 3,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 4026380,
+  "len": 48,
+  "str": "Al llevarla, restaura PS,\npero puede confundir-",
+  "sp": 3,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 4028190,
+  "len": 54,
+  "str": "Al llevarlo, lanza un destello\nque baja la PRECISIÓN-",
+  "sp": 6,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4028284,
+  "len": 86,
+  "str": "Al llevarla, restaura cualquier\ncaracter\\x6Fstica debilitada-\nSólo puede usarse una vez-",
+  "sp": 7,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4028383,
+  "len": 61,
+  "str": "Al llevarla, se crece con\nfacilidad, pero baja la VELOCIDAD-",
+  "sp": 6,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4028477,
+  "len": 79,
+  "str": "Al llevarlo, se toman puntos\nde EXP- de los combates,\nsin que haya que luchar-",
+  "sp": 9,
+  "en": 0,
+  "n": 15,
+  "ptrs": 1
+ },
+ {
+  "off": 4028575,
+  "len": 76,
+  "str": "Al llevarla, se puede golpear\nen primer lugar-\nEs una garra ligera y veloz-",
+  "sp": 7,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4028672,
+  "len": 52,
+  "str": "Al llevarla, calma los ánimos\ny fomenta la amistad-",
+  "sp": 6,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4028777,
+  "len": 82,
+  "str": "Al llevarla, los POKéMON\nse liberan del enamoramiento-\nSólo puede usarse una vez-",
+  "sp": 10,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4028871,
+  "len": 57,
+  "str": "Aumenta la fuerza de un ataque,\npero sólo deja usar ése-",
+  "sp": 10,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4028962,
+  "len": 57,
+  "str": "Al llevarla, puede debilitarte\ncuando hieres a tu rival-",
+  "sp": 4,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4029046,
+  "len": 54,
+  "str": "Al llevarlo, se fortalecen\nlos ataques de tipo BICHO-",
+  "sp": 6,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4029142,
+  "len": 59,
+  "str": "Si el que lo lleva lucha en un\ncombate, duplica el dinero-",
+  "sp": 7,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4029238,
+  "len": 71,
+  "str": "Al llevarlo el primero del equipo,\nlos POKéMON salvajes no se\nacercan-",
+  "sp": 7,
+  "en": 1,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4029331,
+  "len": 66,
+  "str": "Al llevarlo, suben el AT- ESP- y\nla DEF- ESP- de LATIOS y LATIAS-",
+  "sp": 6,
+  "en": 1,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4029413,
+  "len": 65,
+  "str": "Al llevarlo, sube el AT- ESP-\nde CLAMPERL-\nBrilla como la plata-",
+  "sp": 5,
+  "en": 1,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4029509,
+  "len": 68,
+  "str": "Al llevarla, sube la DEF- ESP-\nde CLAMPERL-\nTiene un brillo rosado-",
+  "sp": 5,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4029604,
+  "len": 54,
+  "str": "Se usa para huir de combates\ncontra POKéMON salvajes-",
+  "sp": 3,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4029698,
+  "len": 57,
+  "str": "El POKéMON que lleve esta piedra\nmágica no evolucionará-",
+  "sp": 6,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4029779,
+  "len": 78,
+  "str": "Al llevarla, quizá evites\ndebilitarte- Puede que al menos\nte quedes con 1 PS-",
+  "sp": 10,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4029873,
+  "len": 84,
+  "str": "Al llevarlo, ganarás muchos más\npuntos de EXP- en combate-\nEstá lleno de felicidad-",
+  "sp": 8,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4029975,
+  "len": 63,
+  "str": "Al llevarlo, la lente aumenta\nla posibilidad de golpe cr\\x6Ftico-",
+  "sp": 4,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4030074,
+  "len": 71,
+  "str": "Al llevarlo, la pel\\x6Fcula metálica\nfortalece los ataques de tipo\nACERO-",
+  "sp": 8,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4030174,
+  "len": 57,
+  "str": "Al llevarlos, van restaurando\nlos PS durante el combate-",
+  "sp": 4,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4030263,
+  "len": 62,
+  "str": "Peculiar escama que\npueden llevar los POKéMON\nde tipo DRAGÓN-",
+  "sp": 9,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4030329,
+  "len": 68,
+  "str": "Al llevarla, el AT- ESP- \nde PIKACHU aumentará-\nPuede dar calambre-",
+  "sp": 7,
+  "en": 1,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4030421,
+  "len": 75,
+  "str": "Al llevarla, la suavidad de la\narena fortalece los ataques\nde tipo TIERRA-",
+  "sp": 8,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4030518,
+  "len": 74,
+  "str": "Al llevarla, la robustez de la\npiedra fortalece los ataques\nde tipo ROCA-",
+  "sp": 8,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4030614,
+  "len": 78,
+  "str": "Al llevarla, la vitalidad de la\nsemilla fortalece los ataques\nde tipo PLANTA-",
+  "sp": 8,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4030714,
+  "len": 59,
+  "str": "Al llevarlas, se fortalecen\nlos ataques de tipo SINIESTRO-",
+  "sp": 6,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4030808,
+  "len": 76,
+  "str": "Al llevarlo, aumenta la decisión\ny se fortalecen los ataques\nde tipo LUCHA-",
+  "sp": 9,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4030899,
+  "len": 75,
+  "str": "Al llevarlo, el fuerte magnetismo\nfortalece los ataques de tipo\nELÉCTRICO-",
+  "sp": 7,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4030996,
+  "len": 94,
+  "str": "Al llevarla, la forma de lágrima de\nla gema hace que se fortalezcan\nlos ataques de tipo AGUA-",
+  "sp": 15,
+  "en": 0,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 4031094,
+  "len": 56,
+  "str": "Al llevarlo, se fortalecen\nlos ataques de tipo VOLADOR-",
+  "sp": 6,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4031190,
+  "len": 71,
+  "str": "Al llevarla, el contenido tóxico\nfortalece los ataques de tipo\nVENENO-",
+  "sp": 8,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4031291,
+  "len": 55,
+  "str": "Al llevarlo, se fortalezcan\nlos ataques de tipo HIELO-",
+  "sp": 6,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4031383,
+  "len": 84,
+  "str": "Al llevarlo, aumenta la energ\\x6Fa\noscura y se fortalecen\nlos ataques de tipo FANTASMA",
+  "sp": 8,
+  "en": 0,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4031566,
+  "len": 75,
+  "str": "Al llevarlo, actùa como combustible\ny fortalece los ataques de tipo\nFUEGO-",
+  "sp": 7,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4031660,
+  "len": 74,
+  "str": "Al llevarlo, la dureza del colmillo\nfortalece los ataques de tipo\nDRAGÓN-",
+  "sp": 9,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4031759,
+  "len": 77,
+  "str": "Al llevarlo, la delicadeza del\npañuelo fortalece los ataques\nde tipo NORMAL-",
+  "sp": 9,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4031854,
+  "len": 55,
+  "str": "Peculiar caja hecha en SILPH S-A-\nEstá llena de cosas-",
+  "sp": 5,
+  "en": 1,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4031930,
+  "len": 50,
+  "str": "Al llevarla y vencer al enemigo,\nrestaura los PS-",
+  "sp": 4,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4032022,
+  "len": 57,
+  "str": "Al llevarlo, los ataques tipo AGUA\nson algo más fuertes-",
+  "sp": 9,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4032105,
+  "len": 76,
+  "str": "Al llevarlo, gracias al aroma\nque libera, baja algo la\nPRECISIÓN del rival-",
+  "sp": 9,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4032192,
+  "len": 57,
+  "str": "Al llevarlo, CHANSEY dará\nposiblemente un golpe cr\\x6Ftico-",
+  "sp": 4,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 4032265,
+  "len": 72,
+  "str": "Si lo lleva DITTO, gracias a la\ndureza del polvo, aumentará\nsu DEFENSA-",
+  "sp": 8,
+  "en": 1,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4032340,
+  "len": 76,
+  "str": "Extraño tipo de hueso- Suelen\nllevarlo CUBONE o MAROWAK-\nAumenta el ATAQUE-",
+  "sp": 7,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4033044,
+  "len": 69,
+  "str": "Te servirá para llevar hasta 9-999\nmonedas- Se obtiene en el CASINO-",
+  "sp": 7,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 4033126,
+  "len": 94,
+  "str": "Detector de objetos invisibles\npor ondas sonoras- Emite una señal\ncuando encuentra un objeto-",
+  "sp": 10,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4033228,
+  "len": 66,
+  "str": "Pesca POKéMON salvajes en todo\ntipo de aguas-\nNo está nada nueva-",
+  "sp": 8,
+  "en": 1,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4033315,
+  "len": 70,
+  "str": "Una buena caña para pescar\nPOKéMON salvajes-\nEs de muy buena calidad-",
+  "sp": 7,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4033403,
+  "len": 70,
+  "str": "Es la mejor caña para pescar\nPOKéMON salvajes-\nEs de alta tecnolog\\x6Fa-",
+  "sp": 8,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4034775,
+  "len": 84,
+  "str": "Un poketeléfono, obsequio de\nmamá, con él que puedes recibir\nllamadas de tus amigos",
+  "sp": 11,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4034873,
+  "len": 53,
+  "str": "Una rara esfera que tiene un\nbrillo muy llamativo   ",
+  "sp": 5,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4746942,
+  "len": 53,
+  "str": "Es tard\\x6Fo, pero\nsi el rival\nte golpea\nno te moverás-",
+  "sp": 9,
+  "en": 1,
+  "n": 13,
+  "ptrs": 2
+ },
+ {
+  "off": 4751903,
+  "len": 36,
+  "str": "Araña al rival\ncon garras\nafiladas-",
+  "sp": 4,
+  "en": 0,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 4752916,
+  "len": 34,
+  "str": "Lanza agua a\nchorros para\natacar-",
+  "sp": 2,
+  "en": 1,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 4752581,
+  "len": 51,
+  "str": "Sube el AT- ESP-\ny la DEF- ESP-\ncon concentración-",
+  "sp": 6,
+  "en": 1,
+  "n": 10,
+  "ptrs": 2
+ },
+ {
+  "off": 4731868,
+  "len": 41,
+  "str": "Ahuyenta al rival\ny finaliza el\ncombate-",
+  "sp": 3,
+  "en": 0,
+  "n": 7,
+  "ptrs": 2
+ },
+ {
+  "off": 4734991,
+  "len": 39,
+  "str": "Envenena al rival\nde forma\nprogresiva-",
+  "sp": 3,
+  "en": 0,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 4746524,
+  "len": 46,
+  "str": "Tormenta de granizo\nque golpea en cada\nturno-",
+  "sp": 2,
+  "en": 0,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4752052,
+  "len": 49,
+  "str": "Robustece el\ncuerpo para\nsubir ATAQUE\ny DEFENSA-",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4751498,
+  "len": 53,
+  "str": "Dispara de 2 a 5\nráfagas consecu.\ntivas de semillas-",
+  "sp": 4,
+  "en": 1,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4745076,
+  "len": 36,
+  "str": "Su eficacia var\\x6Fa\nsegùn el agresor-",
+  "sp": 1,
+  "en": 0,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4745340,
+  "len": 49,
+  "str": "Sube los ataques\nde tipo FUEGO\ndurante 5 turnos-",
+  "sp": 4,
+  "en": 0,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4747284,
+  "len": 36,
+  "str": "Hace que el rival\nsólo use ataques-",
+  "sp": 6,
+  "en": 0,
+  "n": 7,
+  "ptrs": 2
+ },
+ {
+  "off": 4732703,
+  "len": 43,
+  "str": "Rayo de hielo\nque puede llegar\na congelar-",
+  "sp": 5,
+  "en": 1,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4732768,
+  "len": 47,
+  "str": "Tormenta de hielo\nque puede llegar\na congelar-",
+  "sp": 5,
+  "en": 1,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4733037,
+  "len": 50,
+  "str": "Es eficaz, pero\ndeja inmóvil al\natacante 1 turno-",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4736453,
+  "len": 48,
+  "str": "Reduce el daño que\ncausa el AT- ESP-\ndel rival-",
+  "sp": 6,
+  "en": 1,
+  "n": 10,
+  "ptrs": 2
+ },
+ {
+  "off": 4741207,
+  "len": 54,
+  "str": "Frena ataques,\npero puede fallar\nsi se usa sin cesar-",
+  "sp": 5,
+  "en": 0,
+  "n": 10,
+  "ptrs": 2
+ },
+ {
+  "off": 4745274,
+  "len": 52,
+  "str": "Refuerza los\nataques de\ntipo AGUA\ndurante 5 turnos-",
+  "sp": 4,
+  "en": 0,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4742593,
+  "len": 37,
+  "str": "Absorbe la\nmitad del daño\nproducido-",
+  "sp": 4,
+  "en": 0,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 4743781,
+  "len": 46,
+  "str": "Fuerza m\\x6Fstica\nque evita\nproblemas\nde estado-",
+  "sp": 3,
+  "en": 0,
+  "n": 9,
+  "ptrs": 2
+ },
+ {
+  "off": 4743707,
+  "len": 46,
+  "str": "Es más fuerte si\nno se aprecia\nal ENTRENADOR-",
+  "sp": 9,
+  "en": 1,
+  "n": 9,
+  "ptrs": 2
+ },
+ {
+  "off": 4744639,
+  "len": 52,
+  "str": "Ataca con una\ncola férrea\ny puede bajar\nla DEFENSA-",
+  "sp": 7,
+  "en": 0,
+  "n": 10,
+  "ptrs": 2
+ },
+ {
+  "off": 4734526,
+  "len": 54,
+  "str": "Duro ataque\neléctrico que\npuede paralizar\nal enemigo-",
+  "sp": 6,
+  "en": 0,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4734658,
+  "len": 45,
+  "str": "Un estruendo que\npuede paralizar\nal enemigo-",
+  "sp": 4,
+  "en": 0,
+  "n": 7,
+  "ptrs": 2
+ },
+ {
+  "off": 4734788,
+  "len": 38,
+  "str": "Fuerte, pero inùtil\ncontra voladores-",
+  "sp": 1,
+  "en": 0,
+  "n": 5,
+  "ptrs": 2
+ },
+ {
+  "off": 4743559,
+  "len": 47,
+  "str": "Ataque que aumenta\nsus efectos con\nla amistad-",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4735128,
+  "len": 52,
+  "str": "Fuerte ataque\nps\\x6Fquico que\npuede bajar\nla DEF- ESP-",
+  "sp": 4,
+  "en": 0,
+  "n": 11,
+  "ptrs": 2
+ },
+ {
+  "off": 4745755,
+  "len": 50,
+  "str": "Lanza una bola\nnegra que puede\nbajar la DEF- ESP-",
+  "sp": 4,
+  "en": 0,
+  "n": 10,
+  "ptrs": 2
+ },
+ {
+  "off": 4748018,
+  "len": 45,
+  "str": "Destruye barreras\ncomo REFLEJO\ny causa daño-",
+  "sp": 4,
+  "en": 0,
+  "n": 7,
+  "ptrs": 2
+ },
+ {
+  "off": 4735827,
+  "len": 41,
+  "str": "Crea espejismos\npara mejorar\nla EVASIÓN-",
+  "sp": 4,
+  "en": 0,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 4736583,
+  "len": 47,
+  "str": "Pared de luz\nque debilita los\nataques f\\x6Fsicos-",
+  "sp": 3,
+  "en": 0,
+  "n": 10,
+  "ptrs": 2
+ },
+ {
+  "off": 4752851,
+  "len": 42,
+  "str": "Ataque eléctrico\nmuy rápido\ne ineludible-",
+  "sp": 6,
+  "en": 0,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 4732354,
+  "len": 43,
+  "str": "Fuerte ataque que\npuede causar\nquemaduras-",
+  "sp": 3,
+  "en": 0,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 4741618,
+  "len": 48,
+  "str": "Explosión de lodo\nque puede llegar\na envenenar-",
+  "sp": 6,
+  "en": 1,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4742519,
+  "len": 42,
+  "str": "Tormenta de arena\nque dura varios\nturnos-",
+  "sp": 2,
+  "en": 0,
+  "n": 7,
+  "ptrs": 2
+ },
+ {
+  "off": 4737339,
+  "len": 53,
+  "str": "Llama que lo\nchamusca todo\ny suele causar\nquemadura-",
+  "sp": 4,
+  "en": 0,
+  "n": 9,
+  "ptrs": 2
+ },
+ {
+  "off": 4750546,
+  "len": 56,
+  "str": "Tira rocas al\nrival, lo para\ny suele bajarle\nVELOCIDAD-",
+  "sp": 5,
+  "en": 0,
+  "n": 10,
+  "ptrs": 2
+ },
+ {
+  "off": 4751568,
+  "len": 44,
+  "str": "Ataque tremenda.\nmente rápido\ne ineludible-",
+  "sp": 3,
+  "en": 0,
+  "n": 6,
+  "ptrs": 2
+ },
+ {
+  "off": 4746596,
+  "len": 47,
+  "str": "Agobia e impide\nel uso reiterado\nde un ataque-",
+  "sp": 4,
+  "en": 0,
+  "n": 9,
+  "ptrs": 2
+ },
+ {
+  "off": 4746873,
+  "len": 62,
+  "str": "Potencia el ATAQUE\nal estar quemado,\nparalizado o\nenvenenado-",
+  "sp": 4,
+  "en": 0,
+  "n": 9,
+  "ptrs": 2
+ },
+ {
+  "off": 4748698,
+  "len": 49,
+  "str": "Los efectos de este\nataque var\\x6Fan\nsegùn la zona-",
+  "sp": 5,
+  "en": 0,
+  "n": 11,
+  "ptrs": 2
+ },
+ {
+  "off": 4739422,
+  "len": 52,
+  "str": "Te duerme durante\n2 turnos para\ncurarte totalmente-",
+  "sp": 2,
+  "en": 0,
+  "n": 7,
+  "ptrs": 2
+ },
+ {
+  "off": 4743351,
+  "len": 48,
+  "str": "Reduce la\nposibilidad de que\nel enemigo ataque-",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4740235,
+  "len": 45,
+  "str": "Puede quitarle\nal rival el objeto\nque lleve-",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4743211,
+  "len": 35,
+  "str": "Alas r\\x6Fgidas que\ngolpean al rival-",
+  "sp": 2,
+  "en": 0,
+  "n": 8,
+  "ptrs": 2
+ },
+ {
+  "off": 4748348,
+  "len": 52,
+  "str": "Intercambia la\nhabilidad especial\ncon otro POKéMON-",
+  "sp": 3,
+  "en": 0,
+  "n": 7,
+  "ptrs": 2
+ },
+ {
+  "off": 4748632,
+  "len": 52,
+  "str": "Roba el efecto\ndel ataque\nque el rival\nuse después-",
+  "sp": 7,
+  "en": 0,
+  "n": 10,
+  "ptrs": 2
+ },
+ {
+  "off": 4750406,
+  "len": 48,
+  "str": "Ataque en toda\nregla que\nbaja mucho\ntu AT- ESP-",
+  "sp": 5,
+  "en": 1,
+  "n": 10,
+  "ptrs": 2
+ },
+ {
+  "off": 4729813,
+  "len": 70,
+  "str": "Corta con garras,\nguadañas, etc-\nFuera de combate\nse usa para cortar-",
+  "sp": 6,
+  "en": 0,
+  "n": 12,
+  "ptrs": 2
+ },
+ {
+  "off": 4732630,
+  "len": 64,
+  "str": "Lanza una gran ola\nal rival-\nFuera de combate\nsirve para nadar-",
+  "sp": 4,
+  "en": 0,
+  "n": 12,
+  "ptrs": 2
+ },
+ {
+  "off": 4733498,
+  "len": 66,
+  "str": "Potente ataque\nf\\x6Fsico- Fuera de\ncombate sirve para\nmover piedras-",
+  "sp": 3,
+  "en": 0,
+  "n": 12,
+  "ptrs": 2
+ },
+ {
+  "off": 4738848,
+  "len": 74,
+  "str": "Luz cegadora que\nbaja la PRECISIÓN-\nFuera de combate\nsirve para iluminar-",
+  "sp": 6,
+  "en": 0,
+  "n": 12,
+  "ptrs": 2
+ },
+ {
+  "off": 4745894,
+  "len": 67,
+  "str": "Ataque que puede\nbajar la DEFENSA-\nFuera de combate\nmachaca rocas-",
+  "sp": 6,
+  "en": 0,
+  "n": 11,
+  "ptrs": 2
+ },
+ {
+  "off": 4737414,
+  "len": 72,
+  "str": "Embiste con impulso\npara remontar\nuna cascada incluso\nfuera de combate-",
+  "sp": 4,
+  "en": 0,
+  "n": 11,
+  "ptrs": 2
+ },
+ {
+  "off": 4040730,
+  "len": 63,
+  "str": "Dicen que consigue despertar al\ninstante a cualquier POKéMON-\n",
+  "sp": 2,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4041561,
+  "len": 66,
+  "str": "Bici plegable con la que se va más\nrápido que con las DEPORTIVAS-",
+  "sp": 11,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4041631,
+  "len": 85,
+  "str": "Mapa que puede consultarse\nen cualquier momento-\nTambién indica dónde te encuentras-",
+  "sp": 8,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4041719,
+  "len": 62,
+  "str": "Dispositivo que busca a los\nENTRENADORES que quieren luchar-\n",
+  "sp": 7,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4041893,
+  "len": 87,
+  "str": "Tubo que contiene las MT y MO-\nEstá en el bolsillo de los objetos\nclave de la MOCHILA-",
+  "sp": 12,
+  "en": 0,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 4041985,
+  "len": 90,
+  "str": "Saco que sirve para llevar las\nBAYAS- Está en el bolsillo de\nobjetos clave de la MOCHILA-",
+  "sp": 12,
+  "en": 0,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 4291292,
+  "len": 7,
+  "str": "NORMAL",
+  "sp": 1,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 4072500,
+  "len": 11,
+  "str": "ÓÀÁ ÔÀÁ zi",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 4072496,
+  "len": 15,
+  "str": "ÒÀÁ ÓÀÁ ÔÀÁ zi",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4072504,
+  "len": 7,
+  "str": "ÔÀÁ zi",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4096911,
+  "len": 7,
+  "str": "NORMAL",
+  "sp": 1,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 4115200,
+  "len": 9,
+  "str": "SMELL YA",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4118602,
+  "len": 7,
+  "str": "¿ÇDôlº",
+  "sp": 2,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 4124284,
+  "len": 13,
+  "str": "BOSQUE VERDE",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 2
+ },
+ {
+  "off": 4124449,
+  "len": 11,
+  "str": "TUNEL ROCA",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 2
+ },
+ {
+  "off": 4124491,
+  "len": 14,
+  "str": "CUEVA CELESTE",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 2
+ },
+ {
+  "off": 7802184,
+  "len": 14,
+  "str": "PUEBLO PALETA",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4123912,
+  "len": 13,
+  "str": "CIUDAD VERDE",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 7804808,
+  "len": 16,
+  "str": "CIUDAD PLATEADA",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 7804828,
+  "len": 15,
+  "str": "CIUDAD CELESTE",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 7805236,
+  "len": 15,
+  "str": "PUEBLO LAVANDA",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 7808388,
+  "len": 15,
+  "str": "CIUDAD AZULONA",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 7810224,
+  "len": 14,
+  "str": "CIUDAD FUCSIA",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4124007,
+  "len": 12,
+  "str": "ISLA CANELA",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4124266,
+  "len": 8,
+  "str": "RUTA 24",
+  "sp": 1,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 4124275,
+  "len": 8,
+  "str": "RUTA 25",
+  "sp": 1,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 4292775,
+  "len": 21,
+  "str": "ENERGYPOWDER\\xFCÛ\\x74\\xFCÉ 50",
+  "sp": 1,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4292796,
+  "len": 20,
+  "str": "ENERGY ROOT\\xFCÛ\\x74\\xFCÉ 80",
+  "sp": 1,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4292816,
+  "len": 20,
+  "str": "HEAL POWDER\\xFCÛ\\x74\\xFCÉ 50",
+  "sp": 1,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4292836,
+  "len": 22,
+  "str": "REVIVAL HERB\\xFCÛ\\x6F\\xFCÉ 300",
+  "sp": 1,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 4292858,
+  "len": 19,
+  "str": "PROTEIN\\xFCÛ\\x65\\xFCÉ 1,000",
+  "sp": 1,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4292877,
+  "len": 16,
+  "str": "IRON\\xFCÛ\\x65\\xFCÉ 1,000",
+  "sp": 1,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4292893,
+  "len": 18,
+  "str": "CARBOS\\xFCÛ\\x65\\xFCÉ 1,000",
+  "sp": 1,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4292911,
+  "len": 19,
+  "str": "CALCIUM\\xFCÛ\\x65\\xFCÉ 1,000",
+  "sp": 1,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4292930,
+  "len": 16,
+  "str": "ZINC\\xFCÛ\\x65\\xFCÉ 1,000",
+  "sp": 1,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4175940,
+  "len": 16,
+  "str": "\\xFDÔ está\nconfuso",
+  "sp": 3,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 4176198,
+  "len": 24,
+  "str": "\\xFDº$s \\xFDÑ\nraised SP- DEF!",
+  "sp": 2,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 4176255,
+  "len": 24,
+  "str": "\\xFDº$s \\xFDÑ\nraised DEFENSE!",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4177486,
+  "len": 19,
+  "str": "\\xFDó picked up\n/\\xFD !\f",
+  "sp": 2,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4179591,
+  "len": 22,
+  "str": "\\xFDÚ$s \\xFDÑ\nis disabled!\f",
+  "sp": 2,
+  "en": 1,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4178541,
+  "len": 29,
+  "str": "NATURE POWER turned into\n\\xFDÑ!",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4179568,
+  "len": 23,
+  "str": "\\xFDÚ has no\nmoves left!\f",
+  "sp": 4,
+  "en": 3,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4179158,
+  "len": 26,
+  "str": "\\xFDÔ shrouded\nitself in \\xFDÑ!",
+  "sp": 2,
+  "en": 1,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4179805,
+  "len": 35,
+  "str": "\\xFDŒ$s \\xFDç\nprevents \\xFDÔ\\xFAfrom using \\xFDÑ!",
+  "sp": 2,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4181083,
+  "len": 25,
+  "str": "No es muy efectivo'     ",
+  "sp": 3,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4183632,
+  "len": 12,
+  "str": "\\xFDó usó\n\\xFDà! ",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 4184068,
+  "len": 22,
+  "str": "\\xFDÉ was sent to\n\\xFDú PC-",
+  "sp": 3,
+  "en": 2,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 4180181,
+  "len": 24,
+  "str": "\\xFDÙ$s \\xFDé\nprevents burns!",
+  "sp": 1,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4180205,
+  "len": 19,
+  "str": "\\xFDŒ$s \\xFDç\nblocks \\xFDÑ!",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4180394,
+  "len": 29,
+  "str": "\\xFDŒ$s \\xFDç\nmade \\xFDÑ ineffective!",
+  "sp": 2,
+  "en": 1,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 4179869,
+  "len": 25,
+  "str": "\\xFDŒ$s \\xFDç\nmade \\xFDÑ useless!",
+  "sp": 2,
+  "en": 1,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 4180622,
+  "len": 28,
+  "str": "\\xFDÙ$s \\xFDé\nprevents flinching!",
+  "sp": 1,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4180224,
+  "len": 19,
+  "str": "\\xFDÛ$s \\xFDè\nblocks \\xFDÑ!",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4184698,
+  "len": 18,
+  "str": "\\xFDó played the\n\\xFDà-",
+  "sp": 2,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4175095,
+  "len": 17,
+  "str": "\\xFDó whited out!\\xFCÌ",
+  "sp": 2,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4188103,
+  "len": 13,
+  "str": "\\xFCÉ Max\\xFCÉÁ HP",
+  "sp": 3,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4290369,
+  "len": 28,
+  "str": "Toma items desde tu PC-    ",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4290346,
+  "len": 23,
+  "str": "Guarda items en el PC-",
+  "sp": 1,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7799481,
+  "len": 125,
+  "str": "losa, por cierto el \\xFAprof Oak te está esperando afuera,\\xFAdale un saludo de mi parte\f\\xFCÀÇ\\xFDÀ: No se preocupe capitan se\nlo daré-",
+  "sp": 15,
+  "en": 1,
+  "n": 25,
+  "ptrs": 1
+ },
+ {
+  "off": 4487871,
+  "len": 87,
+  "str": "Suele imitar a sus enemigos- Cuando\nlo hace, su rival no puede apartar\nsus ojos de él-",
+  "sp": 10,
+  "en": 2,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 4487959,
+  "len": 89,
+  "str": "Viven en zonas frias y forman grupos de\ncuatro o cinco para cazar con gran\ncoordinacion-",
+  "sp": 5,
+  "en": 0,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4490205,
+  "len": 80,
+  "str": "Engulle su peso en comida una vez\nal d\\x6Fa- Se lo traga todo sin apenas\nmasticar-",
+  "sp": 7,
+  "en": 0,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 4492624,
+  "len": 89,
+  "str": "Es un pokémon muy precavido- Si siente\npeligro, se envuelve con el pelaje de\nsus orejas-",
+  "sp": 9,
+  "en": 0,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4492714,
+  "len": 89,
+  "str": "Ataca a sus enemigos con un golpe\nrápido de sus orejas- Sus picotazos\nson muy dolorosos-",
+  "sp": 10,
+  "en": 1,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4495510,
+  "len": 114,
+  "str": "Tiene un caracter salvaje- No duda en\ndesafiar a rivales mucho mayores- Puede\nllevarse volando Pokémons pequeños-",
+  "sp": 7,
+  "en": 2,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 4495625,
+  "len": 105,
+  "str": "En invierno cierra su capullo para\nprotegerse del frio- En primavera\nel capullo se abre y esparce polen-",
+  "sp": 5,
+  "en": 0,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 4495731,
+  "len": 93,
+  "str": "Atrae a las presas con un dulce aroma\ny las derrota con los latigos espinosos\nde sus brazos-",
+  "sp": 9,
+  "en": 1,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 4496809,
+  "len": 93,
+  "str": "Lucha con las espadas que salen\nde sus dos codos- Es un maestro\nde la cortesia y el esgrima-",
+  "sp": 11,
+  "en": 0,
+  "n": 19,
+  "ptrs": 1
+ },
+ {
+  "off": 4497106,
+  "len": 95,
+  "str": "Si siente peligro, todo su pelaje brilla-\nAprovecha la ceguera temporal de\nsu rival para huir-",
+  "sp": 5,
+  "en": 0,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4498994,
+  "len": 78,
+  "str": "Viaja en grandes bandadas- Aunque\nes pequeño, agita las alas con gran\nfuerza-",
+  "sp": 7,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4499770,
+  "len": 96,
+  "str": "Le encantan las cosas blancas y\nredondas- Imita a CHANSEY llevando\nuna roca con forma de huevo-",
+  "sp": 9,
+  "en": 1,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 4499867,
+  "len": 104,
+  "str": "Vive cerca del agua en bosques-\nEn el dia deja el bosque y va a tomar \nsol para endurecer su caparazon-",
+  "sp": 9,
+  "en": 1,
+  "n": 21,
+  "ptrs": 1
+ },
+ {
+  "off": 4499972,
+  "len": 81,
+  "str": "Intimida a sus enemigos desplazando\nel fuego en su cola para parecer mas\ngrande-",
+  "sp": 4,
+  "en": 1,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4506600,
+  "len": 93,
+  "str": "Prefiere entornos aridos- Sus ojos\nexpulsan gua para ajustar sus\nniveles de fluido corporal-",
+  "sp": 4,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4506694,
+  "len": 107,
+  "str": "La concha de su espalda es de tierra\ny se endurece cuando bebe agua-\nSi tiene sed, sus hojas se marchitan-",
+  "sp": 13,
+  "en": 0,
+  "n": 21,
+  "ptrs": 1
+ },
+ {
+  "off": 4506802,
+  "len": 113,
+  "str": "Vive en arboles- Crea bolas de pelo\nque crepitan con electricidad estatica-\nLas almacena en agujeros de arboles-",
+  "sp": 5,
+  "en": 0,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 4506916,
+  "len": 92,
+  "str": "Sus garras emiten electricidad que\npuede debilitar a sus rivales- Viven\nen grupos pequeños-",
+  "sp": 6,
+  "en": 1,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4507009,
+  "len": 122,
+  "str": "Cuando infla sus bolsas venenosas emite\nun fuerte sonido para intimidar- Pilla\ndesapersividos a sus rivales para picarles",
+  "sp": 6,
+  "en": 1,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 4508082,
+  "len": 101,
+  "str": "Al igual que una planta, hace la\nfotosintesis- Como consecuencia,\nsiempre está rodeado de aire puro-",
+  "sp": 12,
+  "en": 0,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4508184,
+  "len": 95,
+  "str": "Para protegerse, puede congelar\ncompletamente su pelaje, de modo\nque los pelos parecen agujas-",
+  "sp": 5,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4509239,
+  "len": 86,
+  "str": "Sus brazos disparan bolas de fuego\na más de 4400 grados- Vive en\ncráteres volcanicos-",
+  "sp": 7,
+  "en": 1,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4510354,
+  "len": 97,
+  "str": "Puede leer los pensamientos de su\nadversario a través de su aura- \nComprende el lenguaje humano-",
+  "sp": 6,
+  "en": 1,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4510452,
+  "len": 109,
+  "str": "Su aura se intensifica para alertar\na otros cuando está triste o tiene\nmiedo- Su cuerpo es ágil pero fuerte-",
+  "sp": 10,
+  "en": 1,
+  "n": 20,
+  "ptrs": 1
+ },
+ {
+  "off": 4512129,
+  "len": 84,
+  "str": "Vive por bosques y campos en busca\nde Pokémon de tipo bicho- Siempre\nve en bandadas",
+  "sp": 8,
+  "en": 0,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4512858,
+  "len": 93,
+  "str": "Sus ojos pueden ver a través de\ntodo- Localiza a las presas detrás\nde objetos y las captura-",
+  "sp": 12,
+  "en": 2,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 4513583,
+  "len": 107,
+  "str": "Es muy orgullosos, por lo que odia\naceptar comida de la gente- Vive\nen las costas de los paises nordicos- ",
+  "sp": 10,
+  "en": 0,
+  "n": 20,
+  "ptrs": 1
+ },
+ {
+  "off": 4513691,
+  "len": 104,
+  "str": "Vive solo, alejado de los demás- Caza\npresas en mares friois- Cada uno\npiensa que es el más importante-",
+  "sp": 8,
+  "en": 0,
+  "n": 19,
+  "ptrs": 1
+ },
+ {
+  "off": 4513796,
+  "len": 100,
+  "str": "Escala acantilados escarpados con\nagilidad- Vive en las montañas y su\nfuego se apaga cuando duerme-",
+  "sp": 8,
+  "en": 0,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4514706,
+  "len": 109,
+  "str": "Utiliza un tipo de artes marciales con\ntodos sus miembros- Su corona de fuego\ndemuestra su naturaleza \\x6Fgnea-",
+  "sp": 8,
+  "en": 0,
+  "n": 19,
+  "ptrs": 1
+ },
+ {
+  "off": 4514816,
+  "len": 93,
+  "str": "Muchos confunden a los grupos de\nTORTERRA que migran en busca de\nagua con bosques vivientes-",
+  "sp": 8,
+  "en": 1,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 4514910,
+  "len": 117,
+  "str": "Nada tan rapido como un barco- Los tres\ncuernos de su puco son muestra de su\nfuerza- El lider los tiene mas grandes-",
+  "sp": 12,
+  "en": 0,
+  "n": 23,
+  "ptrs": 1
+ },
+ {
+  "off": 4515251,
+  "len": 119,
+  "str": "La toxina producida en su saco de veneno\nes bombeada a las garras de sus nudillos\na través de conductos en sus brazos-",
+  "sp": 10,
+  "en": 2,
+  "n": 23,
+  "ptrs": 1
+ },
+ {
+  "off": 4515371,
+  "len": 101,
+  "str": "Toca a su enemigo con las puntas\nde sus dos colas y les suelta una\ndescarga de más de 20000 voltios-",
+  "sp": 12,
+  "en": 1,
+  "n": 20,
+  "ptrs": 1
+ },
+ {
+  "off": 4515473,
+  "len": 73,
+  "str": "Nunca aparece donde hay peleas-\nÚltimamente no se deja ver muy a\nmenudo-",
+  "sp": 8,
+  "en": 2,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 4284155,
+  "len": 19,
+  "str": "\\xFCÀÔ\\xFCÂÓPOKéMON LIST",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 2
+ },
+ {
+  "off": 4283872,
+  "len": 23,
+  "str": "\\xFCÀÔ\\xFCÂÓPOKéMON HABITATS",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 2
+ },
+ {
+  "off": 4284040,
+  "len": 13,
+  "str": "\\xFCÀÔ\\xFCÂÓSEARCH",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 2
+ },
+ {
+  "off": 4284080,
+  "len": 12,
+  "str": "\\xFCÀÔ\\xFCÂÓOTHER",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 2
+ },
+ {
+  "off": 4304188,
+  "len": 45,
+  "str": "\\xFDÁ used SWEET SCENT to attract\nwild POKéMON-",
+  "sp": 2,
+  "en": 1,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4552428,
+  "len": 19,
+  "str": "\\xFDÁ replied, \"No'\"\f",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 4552740,
+  "len": 18,
+  "str": "\\xFDÁ replied, \"No'\"",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 4305577,
+  "len": 14,
+  "str": "\\xFCÉ MAX-\\xFCÉÁ HP",
+  "sp": 3,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 1792063,
+  "len": 17,
+  "str": " Using \"\\xFDÁ$S PC\"",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 1801412,
+  "len": 21,
+  "str": "EXP- \\xF9ÛEXP- Points\\xF9Ñ",
+  "sp": 2,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 1801476,
+  "len": 14,
+  "str": "Lv- \\xF9ÛLevel\\xF9Ñ",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 1812255,
+  "len": 119,
+  "str": "Effect on the opposing POKéMON:\f   \\xF9ß: NORMAL, ICE, ROCK, DARK, STEEL\f   \\xF9à: POISON, FLYING, PSYCHIC, BUG\f   \\xF9á: GHOST",
+  "sp": 3,
+  "en": 2,
+  "n": 20,
+  "ptrs": 1
+ },
+ {
+  "off": 1812691,
+  "len": 87,
+  "str": "Effect on the opposing POKéMON:\f   \\xF9ß: PSYCHIC, GHOST\f   \\xF9à: DARK, STEEL\f   \\xF9á: NORMAL",
+  "sp": 3,
+  "en": 2,
+  "n": 15,
+  "ptrs": 1
+ },
+ {
+  "off": 1858283,
+  "len": 176,
+  "str": "También se han agregado algunas\nfuncionalidades y gráficos, adecuando\na lo que será la beta 2, que\nactualmente se encuentra en desarrollo\n\nFecha de lanzamiento .Marzo de 2019.",
+  "sp": 15,
+  "en": 1,
+  "n": 26,
+  "ptrs": 1
+ },
+ {
+  "off": 4648132,
+  "len": 14,
+  "str": "ŒFÁ î  ¿Àzz l",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 4313156,
+  "len": 9,
+  "str": "\\xFDÁ BERRY",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4317897,
+  "len": 11,
+  "str": "\\xF7Á players",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 7799808,
+  "len": 151,
+  "str": "k, llámame profesor-\fNo se preocupe señor, viene\nconmigo-\f\\xFCÀÇ\\xFDÀ: Gracias profesor me ha\nsalvado'\f\\xFCÀÔOak: Bueno, vamos a mi laboratorio,\nyo te llevaré-",
+  "sp": 15,
+  "en": 3,
+  "n": 25,
+  "ptrs": 2
+ },
+ {
+  "off": 4714860,
+  "len": 12,
+  "str": "ÛË ÓALBERTO",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4706924,
+  "len": 12,
+  "str": "ÎË ÓBRANDON",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4697996,
+  "len": 8,
+  "str": "ÁË ÒJAC",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4701964,
+  "len": 15,
+  "str": "ÉËÀ JO & HALEY",
+  "sp": 1,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 4707916,
+  "len": 15,
+  "str": "ÏËÀÁRIC & RENE",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 2
+ },
+ {
+  "off": 4709900,
+  "len": 15,
+  "str": "ÓËÀËISAC & MAG",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4702956,
+  "len": 10,
+  "str": "ÊËÁÏJORDY",
+  "sp": 2,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 4703948,
+  "len": 9,
+  "str": "ËËÁÓMIKE",
+  "sp": 2,
+  "en": 0,
+  "n": 1,
+  "ptrs": 2
+ },
+ {
+  "off": 4711884,
+  "len": 11,
+  "str": "ŒËÁÇCAMRYN",
+  "sp": 2,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 4719820,
+  "len": 12,
+  "str": "âËÁÒBRENNAN",
+  "sp": 2,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 4727756,
+  "len": 10,
+  "str": "îËÁÓMAURA",
+  "sp": 2,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 4718828,
+  "len": 14,
+  "str": "áËÁÀPRISCILLA",
+  "sp": 2,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 4710892,
+  "len": 12,
+  "str": "ÔËÁÉCHELSEA",
+  "sp": 3,
+  "en": 0,
+  "n": 1,
+  "ptrs": 2
+ },
+ {
+  "off": 4722796,
+  "len": 12,
+  "str": "éË ÀLORENZO",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4715852,
+  "len": 15,
+  "str": "ÑËÀÏKAT & KIPP",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4755190,
+  "len": 10,
+  "str": "\\x7A? S×¿X×¿",
+  "sp": 2,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 1774315,
+  "len": 13,
+  "str": "éMON JOURNAL",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 1517885,
+  "len": 36,
+  "str": "Debo encontrar POKéMON\nmás fuertes!",
+  "sp": 4,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4017960,
+  "len": 56,
+  "str": " muy buena- Tiene más \\x6Fndice\nde éxito que la SUPERBALL-",
+  "sp": 9,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7504911,
+  "len": 43,
+  "str": " tres\\xFAque ves ah\\x6F-\fSuerte, la necesitarás-",
+  "sp": 3,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 7504945,
+  "len": 9,
+  "str": "sitarás-",
+  "sp": 2,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 7503564,
+  "len": 49,
+  "str": "a \\xFCÀÉCueva\\xFACeleste\\xFCÀÇ-\f\\xFCÀÉBill: Oh, otra vez no'",
+  "sp": 3,
+  "en": 2,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4465179,
+  "len": 11,
+  "str": "W♀:A\"♀`áÑx",
+  "sp": 2,
+  "en": 1,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 7480558,
+  "len": 116,
+  "str": "mitado por culpa de estos\\xFAdetestables miembros del \\xFCÀÇEquipo\\xFARocket \\xFCÀÉque están en la ciudad\\xFAdesde hace unos d\\x6Fas-",
+  "sp": 12,
+  "en": 0,
+  "n": 21,
+  "ptrs": 1
+ },
+ {
+  "off": 4512167,
+  "len": 46,
+  "str": "Pokémon de tipo bicho- Siempre\nve en bandadas",
+  "sp": 4,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4023966,
+  "len": 49,
+  "str": "maño más bien pequeño\nque se vende a bajo precio",
+  "sp": 6,
+  "en": 1,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 7818303,
+  "len": 20,
+  "str": "Le da todos los PS-",
+  "sp": 3,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4314556,
+  "len": 15,
+  "str": "KéDEX Text\n\n\n\n",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4294007,
+  "len": 6,
+  "str": "KéMON",
+  "sp": 1,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ },
+ {
+  "off": 7484858,
+  "len": 108,
+  "str": "éfono! Seguro mamá lo puso\\xFAaqu\\x6F antes de que saliera y no me\\xFAavisó-\f\\xFCÀÓSteven: Contesta, te están\nllamando-",
+  "sp": 12,
+  "en": 2,
+  "n": 21,
+  "ptrs": 1
+ },
+ {
+  "off": 7485242,
+  "len": 156,
+  "str": "pitán \\xFCÀÔde mi parte-\f\\xFCÀÇ\\xFDÀ: No hay problema profesor,\nse los daré-\f\\xFCÀÔBirch: Tengo que dejarte \\xFCÀÇ\\xFDÀ,\\xFCÀÔ\nseguro nos veremos pronto-\f\\xFCÀÇ\\xFDÀ: Adiós profesor-",
+  "sp": 13,
+  "en": 1,
+  "n": 28,
+  "ptrs": 1
+ },
+ {
+  "off": 7799541,
+  "len": 65,
+  "str": " un saludo de mi parte\f\\xFCÀÇ\\xFDÀ: No se preocupe capitan se\nlo daré-",
+  "sp": 9,
+  "en": 1,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 4179833,
+  "len": 7,
+  "str": "ng \\xFDÑ!",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 4028315,
+  "len": 55,
+  "str": "\ncaracter\\x6Fstica debilitada-\nSólo puede usarse una vez-",
+  "sp": 6,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 4028343,
+  "len": 27,
+  "str": "Sólo puede usarse una vez-",
+  "sp": 6,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7800741,
+  "len": 63,
+  "str": "r ahi\nes un gusto conocerte, mas siendo\\xFAun entrenador como tu-",
+  "sp": 5,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 4029816,
+  "len": 41,
+  "str": "- Puede que al menos\nte quedes con 1 PS-",
+  "sp": 6,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4179820,
+  "len": 20,
+  "str": "s \\xFDÔ\\xFAfrom using \\xFDÑ!",
+  "sp": 2,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 4704212,
+  "len": 18,
+  "str": "   Œ♀C\\xF7ìÁ   GOLEM",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 1694179,
+  "len": 56,
+  "str": "LLS en mi cinturón-\fPuedes llevar 6 POKéMON como\nmucho-",
+  "sp": 7,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 1648435,
+  "len": 34,
+  "str": "R: MISTY\fWINNING TRAINERS:\n\\xFDÉ, \\xFDÀ",
+  "sp": 1,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 1727089,
+  "len": 14,
+  "str": "ste no es \\xFDÁ-",
+  "sp": 4,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7815321,
+  "len": 69,
+  "str": " \"\\xFDÇ\" del PC\nde alguien estaba llena-\f\\xFDÂ fue enviado a la CAJA\n\"\\xFDÁ\"-",
+  "sp": 8,
+  "en": 1,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 1659417,
+  "len": 47,
+  "str": "MON GYM\nLEADER: LT- SURGE\fWINNING TRAINERS:\n\\xFDÉ",
+  "sp": 1,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 4259856,
+  "len": 8,
+  "str": "hhhS{Sú",
+  "sp": 2,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 7487232,
+  "len": 93,
+  "str": "nos ayudaste a\\xFAnosotros- Regresa cuando quieras\\xFA\\xFCÀÇ\\xFDÀ\\xFCÀÉ, tienes el pase libre a éste\\xFAmuseo-",
+  "sp": 5,
+  "en": 2,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 7527625,
+  "len": 10,
+  "str": "Ô Yh\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7799254,
+  "len": 20,
+  "str": "\\xFCÀÉHey \\xFDÀ ven aqu\\x6F-",
+  "sp": 1,
+  "en": 0,
+  "n": 6,
+  "ptrs": 4
+ },
+ {
+  "off": 7799275,
+  "len": 331,
+  "str": "\\xFCÀÉCap- Arenque: Hola \\xFDÀ\ncuanto tiempo sin verte, desde\\xFAque peeko se fue te hecho\\xFAmucho de menos-\f\\xFCÀÇ\\xFDÀ:Yo tambien siento lo de Peeko\nalgun d\\x6Fa regresará---\f\\xFCÀÉPero como has crecido tu mamá\ndebe estar orgullosa, por cierto el \\xFAprof Oak te está esperando afuera,\\xFAdale un saludo de mi parte\f\\xFCÀÇ\\xFDÀ: No se preocupe capitan se\nlo daré-",
+  "sp": 29,
+  "en": 2,
+  "n": 64,
+  "ptrs": 4
+ },
+ {
+  "off": 7799736,
+  "len": 223,
+  "str": "\\xFCÀÔOak: As\\x6F que tú debes ser \\xFDÀ,\nes un placer conocerte, mi nombre\\xFAes Oak, llámame profesor-\fNo se preocupe señor, viene\nconmigo-\f\\xFCÀÇ\\xFDÀ: Gracias profesor me ha\nsalvado'\f\\xFCÀÔOak: Bueno, vamos a mi laboratorio,\nyo te llevaré-",
+  "sp": 21,
+  "en": 4,
+  "n": 41,
+  "ptrs": 1
+ },
+ {
+  "off": 7799966,
+  "len": 154,
+  "str": "\\xFCÀÔOak: \\xFDÀ, ya llegamos-\fÉste es mi laboratorio,\nahora cuéntame, que te trae por\\xFAaqu\\x6F-\f\\xFCÀÇ\\xFDÀ: El profesor Birch me mandó\na que le entregara éste paquete-",
+  "sp": 14,
+  "en": 2,
+  "n": 30,
+  "ptrs": 1
+ },
+ {
+  "off": 7800124,
+  "len": 23,
+  "str": "\\xFDÀ entregó el paquete-",
+  "sp": 3,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7800919,
+  "len": 75,
+  "str": "\\xFCÀÓAsh: Hoenn eh, es un gusto\nconocerte, más siendo un\\xFAentrenador como tú-",
+  "sp": 8,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 7801012,
+  "len": 91,
+  "str": "\\xFCÀÓAsh: Prof, aqu\\x6F traigo lo que me\npidió-\f\\xFCÀÔOak: La GS ball, hace mucho que la\nesperaba-",
+  "sp": 10,
+  "en": 1,
+  "n": 19,
+  "ptrs": 1
+ },
+ {
+  "off": 7801553,
+  "len": 217,
+  "str": "\\xFCÀÓAsh: Me olvidaba, antes de que\nsalgas quiero recomendarte que no\\xFAvayas al gimnasio de Ciudad\\xFAVerde, Gary casi nunca está,\\xFAaunque con visitarlo no pierdes\\xFAnada-\fPuedes ir al de Ciudad\nPlateada, yo comencé por éste-",
+  "sp": 24,
+  "en": 3,
+  "n": 37,
+  "ptrs": 5
+ },
+ {
+  "off": 7801785,
+  "len": 40,
+  "str": "\\xFCÀÔOak: \\xFDÀ ven aqu\\x6F, quiero darte\nalgo-",
+  "sp": 2,
+  "en": 0,
+  "n": 9,
+  "ptrs": 5
+ },
+ {
+  "off": 7801826,
+  "len": 27,
+  "str": "\\xFCÀÔOak: Quiero darte ésta'",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 5
+ },
+ {
+  "off": 7801853,
+  "len": 198,
+  "str": "\\xFCÀÔ'Pokédex- Te servirá mucho\na la hora de capturar pokémon-\\xFAAqu\\x6F se guardan todos los\\xFAdatos de los pokémon que viste y\\xFAcapturaste en tu viaje-\fÚsala bien-\f\\xFCÀÇ\\xFDÀ: Gracias profesor la\ncuidaré mucho-",
+  "sp": 20,
+  "en": 1,
+  "n": 37,
+  "ptrs": 5
+ },
+ {
+  "off": 7802053,
+  "len": 37,
+  "str": "\\xFDÀ recibió Pokédex del\nProfesor Oak-",
+  "sp": 3,
+  "en": 0,
+  "n": 6,
+  "ptrs": 5
+ },
+ {
+  "off": 7802090,
+  "len": 33,
+  "str": "\\xFCÀÔOak: Ésto también te servirá-",
+  "sp": 5,
+  "en": 0,
+  "n": 5,
+  "ptrs": 5
+ },
+ {
+  "off": 7802318,
+  "len": 30,
+  "str": "\\xFCÀÇEsta es mi casa\fBonita no?",
+  "sp": 4,
+  "en": 1,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7802894,
+  "len": 83,
+  "str": "\\xFCÀÇ\\xFDÀ: Creo que primero deber\\x6Fa\nir a visitar a Ash y contarle de\\xFAese raro pokémon'",
+  "sp": 3,
+  "en": 2,
+  "n": 19,
+  "ptrs": 1
+ },
+ {
+  "off": 7803174,
+  "len": 116,
+  "str": "\\xFCÀÉMamá de Ash: Hola \\xFDÀ yo\nsoy la mamá de Ash, es un gusto\\xFApoder conocerte-\f\\xFCÀÇ\\xFDÀ: Igualmente señora, es un\nplacer-",
+  "sp": 13,
+  "en": 0,
+  "n": 23,
+  "ptrs": 1
+ },
+ {
+  "off": 7803572,
+  "len": 38,
+  "str": "\\xFCÀÓAsh: Mmm, creo que por aqu\\x6F no-\f' ",
+  "sp": 5,
+  "en": 1,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 7803084,
+  "len": 88,
+  "str": "\\xFCÀÓAsh: Mamá, quiero presentarte a\nun amigo'\fEl es \\xFDÀ un entrenador de la\nregión Hoenn-",
+  "sp": 10,
+  "en": 1,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 7804608,
+  "len": 12,
+  "str": "Eres bueno-",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 2
+ },
+ {
+  "off": 7804727,
+  "len": 40,
+  "str": "Voy a seguir con mi racha de\nvictorias-",
+  "sp": 4,
+  "en": 1,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7804774,
+  "len": 32,
+  "str": "Tengo que capturar más pokémon-",
+  "sp": 5,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7804344,
+  "len": 93,
+  "str": "\\xFCÀÓAsh: Mamá, quiero presentarte a\nuna amiga'\fElla es \\xFDÀ una entrenadora de\nla región Hoenn-",
+  "sp": 9,
+  "en": 1,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 7805904,
+  "len": 51,
+  "str": "\\xFCÀÔBirch: \\xFCÀÇ\\xFDÀ\\xFCÀÔ, más \\xFCÀÈBeedrill\\xFCÀÔ,\nencárgate-",
+  "sp": 3,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7805965,
+  "len": 38,
+  "str": "\\xFCÀÔBirch: Bien \\xFCÀÇ\\xFDÀ\\xFCÀÔ, continuemos-",
+  "sp": 1,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7806533,
+  "len": 23,
+  "str": "\\xFCÀÇRocket 2: Mi turno-",
+  "sp": 1,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 7472101,
+  "len": 70,
+  "str": "\\xFCÀËBrendan: Bien, creo que ya\ntengo todo lo que necesito para\\xFApartir-",
+  "sp": 8,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 7472016,
+  "len": 13,
+  "str": "Otra vez no'",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 2
+ },
+ {
+  "off": 7472033,
+  "len": 66,
+  "str": "\\xFCÀËMay: Bien, creo que ya tengo\ntodo lo que necesito para partir-",
+  "sp": 8,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 7475573,
+  "len": 50,
+  "str": "\\xFCÀÇ\\xFDÀ: Que modales para ser un\nl\\x6Fder de gimnasio'",
+  "sp": 5,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 7477618,
+  "len": 52,
+  "str": "Bien, acércate al \\xFCÀÉcampo de batalla\\xFCÀÇ\npor favor-",
+  "sp": 7,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 7477743,
+  "len": 43,
+  "str": "Está bien, regresa cuando estés\npreparado-",
+  "sp": 6,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7477918,
+  "len": 31,
+  "str": "Veamos quién tiene más suerte'",
+  "sp": 6,
+  "en": 0,
+  "n": 5,
+  "ptrs": 8
+ },
+ {
+  "off": 7477951,
+  "len": 15,
+  "str": "Parece que tú'",
+  "sp": 3,
+  "en": 0,
+  "n": 3,
+  "ptrs": 8
+ },
+ {
+  "off": 7819287,
+  "len": 331,
+  "str": "\\xFCÀÉCap- Arenque: Hola \\xFDÀ cuánto\ntiempo sin verte-\fDesde que Peeko se fue te echo\nde menos-\f\\xFCÀÇ\\xFDÀ: Yo también siento lo de\nPeeko, algún d\\x6Fa regresará'\f\\xFCÀÉPero cómo has crecido, tu mamá\ndebe estar orgullosa, por cierto,\\xFAel profesor Oak te está esperando\\xFAafuera, dale un saludo de mi\\xFAparte-\f\\xFCÀÇ\\xFDÀ: No se preocupe capitán, se\nlo daré-",
+  "sp": 30,
+  "en": 2,
+  "n": 63,
+  "ptrs": 1
+ },
+ {
+  "off": 7479702,
+  "len": 51,
+  "str": "\\xFCÀÇ\\xFDÀ: Creo que primero deber\\x6Fa ir\nal \\xFCÀÉgimnasio-",
+  "sp": 3,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7479981,
+  "len": 90,
+  "str": "\\xFCÀËRocket 1: S\\x6Fgueme, hay algo más\nadelante que quiero mostrarte-\f\\xFCÀÇRocket 2: Está bien-",
+  "sp": 9,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 7480073,
+  "len": 40,
+  "str": "\\xFCÀËRocket 1: Alguien nos está\nespiando-",
+  "sp": 5,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7480118,
+  "len": 30,
+  "str": "\\xFCÀÇRocket 2: Vámonos de aqu\\x6F-",
+  "sp": 3,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7480388,
+  "len": 41,
+  "str": "\\xFCÀÉGracias al cielo- Acércate por\nfavor-",
+  "sp": 4,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7480765,
+  "len": 68,
+  "str": "\\xFCÀÉMuchas gracias, te prometo que\nte recompensaré de alguna manera-",
+  "sp": 7,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 7480886,
+  "len": 64,
+  "str": "\\xFCÀÇ\\xFDÀ: Debo ir a detener al\n\\xFCÀÉEquipo Rocket \\xFCÀÇantes de salir-",
+  "sp": 4,
+  "en": 1,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 7481035,
+  "len": 27,
+  "str": "No te saldrás con la tuya-",
+  "sp": 6,
+  "en": 1,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7481141,
+  "len": 23,
+  "str": "No podrás con el Jefe-",
+  "sp": 6,
+  "en": 1,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7481651,
+  "len": 27,
+  "str": "No te saldrás con la tuya-",
+  "sp": 6,
+  "en": 1,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7486473,
+  "len": 464,
+  "str": "|Â\n\\xFCÀÉGracias \\xFCÀÇ\\xFDÀ\\xFCÀÉ, de parte de\ntodo el personal de este museo\\xFAqueremos agradecerte por\\xFAayudarnos-\f\\xFCÀÇ\\xFDÀ: No hay problema, después de\ntodo, ahora ya sé cómo actúa el\\xFAEquipo Rocket, y quienes son sus\\xFAintegrantes-\f\\xFCÀÉOh no, para nada, esos tipos\nson solo un pequeño escuadrón del\\xFAreal, antes, cuando atacaban\\xFAciudades enteras, eran cientos,\\xFApero parece que ahora son mucho\\xFAmenos-\f\\xFCÀÇ\\xFDÀ: Tendré que tener cuidado\ncon esos tipos-\f\\xFCÀÉPor cierto, quiero darte esto'",
+  "sp": 44,
+  "en": 2,
+  "n": 80,
+  "ptrs": 1
+ },
+ {
+  "off": 7486476,
+  "len": 461,
+  "str": "\\xFCÀÉGracias \\xFCÀÇ\\xFDÀ\\xFCÀÉ, de parte de\ntodo el personal de este museo\\xFAqueremos agradecerte por\\xFAayudarnos-\f\\xFCÀÇ\\xFDÀ: No hay problema, después de\ntodo, ahora ya sé cómo actúa el\\xFAEquipo Rocket, y quienes son sus\\xFAintegrantes-\f\\xFCÀÉOh no, para nada, esos tipos\nson solo un pequeño escuadrón del\\xFAreal, antes, cuando atacaban\\xFAciudades enteras, eran cientos,\\xFApero parece que ahora son mucho\\xFAmenos-\f\\xFCÀÇ\\xFDÀ: Tendré que tener cuidado\ncon esos tipos-\f\\xFCÀÉPor cierto, quiero darte esto'",
+  "sp": 44,
+  "en": 2,
+  "n": 79,
+  "ptrs": 3
+ },
+ {
+  "off": 7482978,
+  "len": 24,
+  "str": "\\xFCÀË. Una hora después .",
+  "sp": 4,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7483706,
+  "len": 43,
+  "str": "\\xFCÀÓSteven: Ésta es la leyenda de\n\\xFCÀÈLugia'",
+  "sp": 6,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7484204,
+  "len": 185,
+  "str": "\\xFCÀÓSteven: Uno de sus principales\nplanes, era capturar a un pokémon\\xFAllamado \\xFCÀËLugia, \\xFCÀÓcre\\x6Fan que con él\\xFApod\\x6Fan controlar las aguas del\\xFAmar y con su poder, poder\\xFAconquistar \\xFCÀÉKanto'",
+  "sp": 14,
+  "en": 1,
+  "n": 34,
+  "ptrs": 1
+ },
+ {
+  "off": 7484391,
+  "len": 46,
+  "str": "\\xFCÀÓSteven: Pero \\xFCÀËLugia \\xFCÀÓsiempre\nescapaba'",
+  "sp": 3,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7484439,
+  "len": 295,
+  "str": "\\xFCÀÓSteven: Nunca lograron saber cual\nera la manera de controlar su\\xFAabominable poder, por eso nunca\\xFAlo pudieron capturar- Según\\xFAtengo entendido, el \\xFCÀÉEquipo Rocket\\xFA\\xFCÀÓdesapareció, no se cómo, pero el\\xFAhecho es que no lograron su meta-\f\\xFCÀÇ\\xFDÀ: Excelente historia, ojalá\npudiera cruzarme con ellos'",
+  "sp": 23,
+  "en": 2,
+  "n": 48,
+  "ptrs": 1
+ },
+ {
+  "off": 7485562,
+  "len": 84,
+  "str": "\\xFCÀÓSteven: Creo que es hora de irme,\nte veré pronto \\xFCÀÇ\\xFDÀ-\f\\xFDÀ: Nos vemos \\xFCÀÓSteven-",
+  "sp": 9,
+  "en": 0,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 7500376,
+  "len": 64,
+  "str": "\\xFCÀÇ\\xFDÀ: Todav\\x6Fa debo llevar a éste\npokémon al \\xFCÀÉCentro Pokémon-",
+  "sp": 3,
+  "en": 1,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 7493223,
+  "len": 51,
+  "str": "\\xFCÀÉBirch: Antes de irme, quiero\ndarte un obsequio-",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7492294,
+  "len": 254,
+  "str": "\\xFCÀÉBirch: Ahora ya sabes cómo está\nla situación- Por favor cu\\x6Fdate\\xFAmucho \\xFCÀÇ\\xFDÀ, \\xFCÀÉqué dir\\x6Fa tu madre\\xFAsi algo te pasara-\f\\xFCÀÇ\\xFDÀ: No se preocupe profesor-\f\\xFCÀÉBirch: Nos volveremos a ver en\ncuanto Samuel tenga novedades-\f\\xFCÀÇ\\xFDÀ: Entonces nos\nveremos pronto'",
+  "sp": 19,
+  "en": 2,
+  "n": 48,
+  "ptrs": 2
+ },
+ {
+  "off": 7492604,
+  "len": 65,
+  "str": "\\xFCÀÔOak: Un momento, todav\\x6Fa no te\nvayas- Tengo algo más para ti'",
+  "sp": 9,
+  "en": 1,
+  "n": 14,
+  "ptrs": 2
+ },
+ {
+  "off": 7493925,
+  "len": 45,
+  "str": "\\xFCÀÇParece que algo se rompió en\nalgún sitio'",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7494335,
+  "len": 45,
+  "str": "\\xFCÀÇParece que algo se rompió en\nalgún sitio'",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7496821,
+  "len": 71,
+  "str": "\\xFCÀÇ\\xFDÀ: Es un pokémon, y está mal\nherido-\fLo llevaré al centro pokémon-",
+  "sp": 11,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 7497180,
+  "len": 65,
+  "str": "\\xFCÀÇ\\xFDÀ: Hola enfermera, acabo de\nencontrar un pokémon mal herido'",
+  "sp": 5,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7497247,
+  "len": 51,
+  "str": "\\xFCÀÇEnfermera: Bien, no te preocupes,\ndéjame verlo'",
+  "sp": 4,
+  "en": 1,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7497300,
+  "len": 33,
+  "str": "\\xFCÀÇEnfermera: Listo, como nuevo'",
+  "sp": 1,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7497335,
+  "len": 49,
+  "str": "\\xFCÀËHey, veo que encontraron a\nmi \\xFCÀÇChimchar\\xFCÀË'",
+  "sp": 2,
+  "en": 1,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7497637,
+  "len": 27,
+  "str": "\\xFCÀËGrrr, me largo de aqu\\x6F-",
+  "sp": 2,
+  "en": 1,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7500369,
+  "len": 71,
+  "str": "ÚÚÚÚÚÚ\n\\xFCÀÇ\\xFDÀ: Todav\\x6Fa debo llevar a éste\npokémon al \\xFCÀÉCentro Pokémon-",
+  "sp": 5,
+  "en": 1,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 7498451,
+  "len": 255,
+  "str": "\\xFCÀÈMisty: Escucha, uno de mis\npokémon se escapó'\fBueno, no sé si escapó, pero lo\nnecesito para nuestro combate,\\xFAas\\x6F que tendrás que ir a buscarlo-\fEstoy casi segura que se fue para\nla \\xFCÀÉRuta 24\\xFCÀÈ- Te esperaré aqu\\x6F,\\xFAmientras, el gimnasio estará\\xFAcerrado'",
+  "sp": 25,
+  "en": 2,
+  "n": 48,
+  "ptrs": 1
+ },
+ {
+  "off": 7500536,
+  "len": 62,
+  "str": "\\xFCÀÇ\\xFDÀ: Todav\\x6Fa tengo que\nentregarle su pokémon a\\xFA\\xFCÀÈMisty\\xFCÀÇ'",
+  "sp": 2,
+  "en": 1,
+  "n": 14,
+  "ptrs": 2
+ },
+ {
+  "off": 7500678,
+  "len": 47,
+  "str": "\\xFCÀÇ\\xFDÀ: Ese debe ser el pokémon de\n\\xFCÀÈMisty\\xFCÀÇ'",
+  "sp": 4,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 7504242,
+  "len": 65,
+  "str": "\\xFCÀÉBill: Gracias por todo \\xFCÀÇ\\xFDÀ\\xFCÀÉ,\ntoma esto en agradecimiento'",
+  "sp": 6,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7504353,
+  "len": 86,
+  "str": "\\xFCÀÉBill: Éste huevo lo puso un de\nmis pokémon, no se que especie\\xFAserá, cu\\x6Fdalo mucho-",
+  "sp": 11,
+  "en": 1,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 7503443,
+  "len": 170,
+  "str": "\\xFCÀÇLance: Tenemos problemas\n\\xFCÀÉBill\\xFCÀÇ, otra vez el \\xFCÀÉEquipo\\xFARocket\\xFCÀÇ está intentando atacar a\\xFA.tú ya sabes quién. en la \\xFCÀÉCueva\\xFACeleste\\xFCÀÇ-\f\\xFCÀÉBill: Oh, otra vez no'",
+  "sp": 15,
+  "en": 2,
+  "n": 30,
+  "ptrs": 1
+ },
+ {
+  "off": 7503737,
+  "len": 268,
+  "str": "\\xFCÀÉBill: Entonces fuiste tú'\f\\xFCÀÇLance: Lo siento, esto es una\nmisión peligrosa para gente ajena\\xFAal asunto, no sabemos de lo que\\xFAson capaces ésta vez'\f\\xFCÀÉBill: Pero \\xFCÀÇLance\\xFCÀÉ, \\xFCÀÇ\\xFDÀ\\xFCÀÉ es\nun entrenador, y además es amigo\\xFAde \\xFCÀÓAsh\\xFCÀÉ, seguro nos será de\\xFAmucha ayuda'",
+  "sp": 21,
+  "en": 1,
+  "n": 49,
+  "ptrs": 1
+ },
+ {
+  "off": 7504182,
+  "len": 58,
+  "str": "\\xFCÀÉBill: Observa mi PC, all\\x6F\nestán mis pokémon favoritos-",
+  "sp": 6,
+  "en": 1,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7504616,
+  "len": 338,
+  "str": "\\xFCÀÇLance: Al parecer, el \\xFCÀÉEquipo\nRocket\\xFCÀÇ quiere capturar a\\xFA\\xFCÀËSUICUNE\\xFCÀÇ, que se encuentra en\\xFAésta cueva'\fLo que tenemos que hacer es\nimpedirlo, para eso tendremos que\\xFAvencer a todos los \\xFCÀÉRockets\\xFCÀÇ-\\xFAYo me encargaré de todos los que\\xFAestán del lado izquierdo de la\\xFAcueva, tu enfrenta a ésos tres\\xFAque ves ah\\x6F-\fSuerte, la necesitarás-",
+  "sp": 30,
+  "en": 4,
+  "n": 63,
+  "ptrs": 1
+ },
+ {
+  "off": 7504956,
+  "len": 132,
+  "str": "\\xFCÀÉBill: \\xFCÀÇ\\xFDÀ\\xFCÀÉ, yo debo irme, ya\nlos conduje hasta aqu\\x6F, y como no\\xFAtraigo pokémon con migo, no puedo\\xFAayudarlos mucho'\fNos vemos'",
+  "sp": 11,
+  "en": 2,
+  "n": 27,
+  "ptrs": 1
+ },
+ {
+  "off": 7506304,
+  "len": 49,
+  "str": "\\xFCÀÉAdmin: Ustedes dos, capturen a\n\\xFCÀËSUICUNE\\xFCÀÉ-",
+  "sp": 2,
+  "en": 1,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7506458,
+  "len": 68,
+  "str": "\\xFCÀÇRocket 2: Lo tenemos señor-\f\\xFCÀÉAdmin: Bien, traigan la\npokéball'",
+  "sp": 8,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 7506542,
+  "len": 36,
+  "str": "\\xFCÀÉAdmin: Ustedes dos, encárguense-",
+  "sp": 4,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7510771,
+  "len": 62,
+  "str": "\\xFCÀÉBill: \\xFCÀÇ\\xFDÀ\\xFCÀÉ, \\xFCÀÇLance \\xFCÀÉte\nespera en la Cueva Celeste-",
+  "sp": 4,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7510572,
+  "len": 65,
+  "str": "\\xFCÀÉBill: Gracias por todo \\xFCÀÇ\\xFDÀ\\xFCÀÉ,\ntoma esto en agradecimiento'",
+  "sp": 6,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7510683,
+  "len": 86,
+  "str": "\\xFCÀÉBill: Éste huevo lo puso un de\nmis pokémon, no sé qué especie\\xFAserá, cu\\x6Fdalo mucho-",
+  "sp": 11,
+  "en": 1,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 7509773,
+  "len": 170,
+  "str": "\\xFCÀÇLance: Tenemos problemas\n\\xFCÀÉBill\\xFCÀÇ, otra vez el \\xFCÀÉEquipo\\xFARocket\\xFCÀÇ está intentando atacar a\\xFA.tú ya sabes quién. en la \\xFCÀÉCueva\\xFACeleste\\xFCÀÇ-\f\\xFCÀÉBill: Oh, otra vez no'",
+  "sp": 15,
+  "en": 2,
+  "n": 30,
+  "ptrs": 1
+ },
+ {
+  "off": 7510067,
+  "len": 262,
+  "str": "\\xFCÀÉBill: Entonces fuiste tú'\f\\xFCÀÇLance: Lo siento, esto es una\nmisión peligrosa para gente ajena\\xFAal asunto, no sabemos de lo que\\xFAson capaces ésta vez'\f\\xFCÀÉBill: Pero \\xFCÀÇLance\\xFCÀÉ, \\xFCÀÇ\\xFDÀ\\xFCÀÉ\nentrena pokémon, además conoce a\\xFA\\xFCÀÓAsh\\xFCÀÉ, seguro nos será de mucha\\xFAayuda'",
+  "sp": 17,
+  "en": 2,
+  "n": 47,
+  "ptrs": 1
+ },
+ {
+  "off": 7510512,
+  "len": 58,
+  "str": "\\xFCÀÉBill: Observa mi PC, all\\x6F\nestán mis pokémon favoritos-",
+  "sp": 6,
+  "en": 1,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7512384,
+  "len": 27,
+  "str": "ÇÉÀ[0\\x72ËªïËÉÀ\\x660\\x72ËÔ C0\\x72ËÌÁ\\x6CÁ",
+  "sp": 3,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 7512380,
+  "len": 31,
+  "str": "Ô ªÑÇÉÀ[0\\x72ËªïËÉÀ\\x660\\x72ËÔ C0\\x72ËÌÁ\\x6CÁ",
+  "sp": 3,
+  "en": 0,
+  "n": 13,
+  "ptrs": 1
+ },
+ {
+  "off": 7514493,
+  "len": 28,
+  "str": "No me gusta salir de noche'",
+  "sp": 4,
+  "en": 2,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7514570,
+  "len": 45,
+  "str": "Ya estoy un poco vieja para ser\nentrenadora-",
+  "sp": 6,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7514627,
+  "len": 87,
+  "str": "Cuando era joven, yo sol\\x6Fa\ncapturar muchos pokémon como tú,\\xFAahora ya no tengo ninguno-",
+  "sp": 11,
+  "en": 1,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 7514768,
+  "len": 47,
+  "str": "Una Pokédex 3000, tiene sus\npáginas en blanco-",
+  "sp": 5,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7514992,
+  "len": 42,
+  "str": "guro que genial, quiero\nobsequiarte esto-",
+  "sp": 3,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7515062,
+  "len": 119,
+  "str": "\\xFCÀÏMama de ash: Últimamente Ash se\nla pasa fuera de casa, viajando\\xFApara cumplir su sueño, la verdad,\\xFAlo extraño mucho-",
+  "sp": 9,
+  "en": 0,
+  "n": 21,
+  "ptrs": 1
+ },
+ {
+  "off": 7515452,
+  "len": 119,
+  "str": "\\xFCÀÉMamá de Ash: Últimamente Ash se\nla pasa fuera de casa, viajando\\xFApara cumplir su sueño, la verdad,\\xFAlo extraño mucho-",
+  "sp": 10,
+  "en": 0,
+  "n": 21,
+  "ptrs": 1
+ },
+ {
+  "off": 7515771,
+  "len": 105,
+  "str": "De noche suele haber ladrones por\nestas zonas, por eso la custodio\\xFAde noche- Si sabes algo,\\xFAinfórmamelo-",
+  "sp": 13,
+  "en": 0,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 7516047,
+  "len": 73,
+  "str": "Sea de d\\x6Fa o de noche, tengo que\ncuidar a los ciudadanos de ésta\\xFAciudad-",
+  "sp": 9,
+  "en": 1,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 7516131,
+  "len": 24,
+  "str": "Déjame jugar tranquilo-",
+  "sp": 1,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 7516404,
+  "len": 58,
+  "str": "Nos gusta venir a observar las\nbatallas de vez en cuando-",
+  "sp": 6,
+  "en": 1,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7516473,
+  "len": 83,
+  "str": "También es divertido ver los\ncombates de otros entrenadores,\\xFApor eso estamos aqu\\x6F-",
+  "sp": 7,
+  "en": 0,
+  "n": 15,
+  "ptrs": 1
+ },
+ {
+  "off": 7516672,
+  "len": 58,
+  "str": "Combates eran los de antes'\fSi supieras lo bueno que era'",
+  "sp": 6,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7517001,
+  "len": 92,
+  "str": "Lo siento, aqu\\x6F solo pueden pasar\nentrenadores que tengan al menos\\xFAuna MEDALLA de GIMNASIO-",
+  "sp": 8,
+  "en": 0,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 7517104,
+  "len": 45,
+  "str": "Muero de ganas de atravesar el\nBOSQUE VERDE-",
+  "sp": 4,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7517328,
+  "len": 49,
+  "str": "Quiero salir a jugar, pero mi\nabuela no me deja'",
+  "sp": 6,
+  "en": 3,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 7517388,
+  "len": 63,
+  "str": "Mi nieto es muy escurridizo, si\nlo dejo ir, quizás no regrese-",
+  "sp": 9,
+  "en": 1,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 7517462,
+  "len": 42,
+  "str": "Hace 50 años que vivimos en\nCIUDAD VERDE-",
+  "sp": 5,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7517515,
+  "len": 115,
+  "str": "Antes, sol\\x6Fan venir menos\nentrenadores, pero desde que Gary\\xFAes el l\\x6Fder del gimnasio, muchos\\xFAhan venido a retarlo-",
+  "sp": 9,
+  "en": 1,
+  "n": 23,
+  "ptrs": 1
+ },
+ {
+  "off": 7517917,
+  "len": 48,
+  "str": "No le digas a nadie, pero yo odio\na los bichos-",
+  "sp": 6,
+  "en": 3,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7517976,
+  "len": 54,
+  "str": "Dicen que hay LEDYBA aqu\\x6F, pero\nsolo aparecen de d\\x6Fa-",
+  "sp": 4,
+  "en": 0,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 7518041,
+  "len": 54,
+  "str": "Quiero capturar un WEEDLE, pero\nno encuentro ninguno-",
+  "sp": 4,
+  "en": 1,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7518462,
+  "len": 25,
+  "str": "Mi WEEDLE no evoluciona-",
+  "sp": 2,
+  "en": 1,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7518551,
+  "len": 44,
+  "str": "No he pescado nada interesante\nhasta ahora-",
+  "sp": 4,
+  "en": 2,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7518659,
+  "len": 44,
+  "str": "Dicen que hay muchos BEEDRILL en\nel bosque-",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7518795,
+  "len": 53,
+  "str": "Vaya, pues se ve que tampoco\nsoy demasiado fuerte---",
+  "sp": 4,
+  "en": 0,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 7518850,
+  "len": 31,
+  "str": "As\\x6F no hay forma de ahorrar---",
+  "sp": 4,
+  "en": 2,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7519086,
+  "len": 28,
+  "str": "Tengo que volver a empezar-",
+  "sp": 2,
+  "en": 1,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7519599,
+  "len": 56,
+  "str": "SALIENDO DEL BOSQUE VERDE,\nSE ENCUENTRA CIUDAD PLATEADA",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7519676,
+  "len": 10,
+  "str": "Ô LC\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7519803,
+  "len": 83,
+  "str": "Desde que el Equipo Rocket está\naqu\\x6F, ya no es tan divertido\\xFAandar por las calles-",
+  "sp": 11,
+  "en": 1,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 7519962,
+  "len": 10,
+  "str": "Ô pD\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7520005,
+  "len": 85,
+  "str": "No sé por qué estoy aqu\\x6F, con el\nEquipo Rocket en las calles, no\\xFAdeber\\x6Fa estar aqu\\x6F-",
+  "sp": 11,
+  "en": 2,
+  "n": 23,
+  "ptrs": 1
+ },
+ {
+  "off": 7520237,
+  "len": 53,
+  "str": "Por culpa del Equipo Rocket no\npuedo ir al MT- LUNA-",
+  "sp": 6,
+  "en": 1,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7520301,
+  "len": 35,
+  "str": "Lo siento, no puedo dejarte\npasar-",
+  "sp": 3,
+  "en": 1,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7520347,
+  "len": 108,
+  "str": "No puedo decirte que hacemos\naqu\\x6F, pero te aseguro que no les\\xFAgustará nada a los ciudadanos de\\xFAesta ciudad-",
+  "sp": 14,
+  "en": 3,
+  "n": 22,
+  "ptrs": 1
+ },
+ {
+  "off": 7520715,
+  "len": 19,
+  "str": "CASA del BAYOLOGO-",
+  "sp": 2,
+  "en": 0,
+  "n": 3,
+  "ptrs": 1
+ },
+ {
+  "off": 7520745,
+  "len": 39,
+  "str": "MUSEO DE LA CIENCIA DE\nCIUDAD PLATEADA",
+  "sp": 4,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7520795,
+  "len": 44,
+  "str": "CIUDAD PLATEADA\nLa ciudad de roca grisácea-",
+  "sp": 7,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7520850,
+  "len": 24,
+  "str": "La puerta está cerrada-",
+  "sp": 5,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7521178,
+  "len": 63,
+  "str": "Desde que mi mujer no está, tengo\nque criar yo solo a mi hijo-",
+  "sp": 11,
+  "en": 2,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 7521252,
+  "len": 54,
+  "str": "Quiero entrar en WAH, pero no\ntengo ninguna PC cerca'",
+  "sp": 4,
+  "en": 1,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 7521337,
+  "len": 57,
+  "str": "Ahora la ciudad está más\ntranquila sin el EQUIPO ROCKET-",
+  "sp": 10,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 7521584,
+  "len": 95,
+  "str": "Voy a intercambiar mi POKéMON\ncon ese chico de ah\\x6F-\fComo tengo dos PIKACHU,\nvoy a pasarle uno-",
+  "sp": 9,
+  "en": 2,
+  "n": 20,
+  "ptrs": 1
+ },
+ {
+  "off": 7521690,
+  "len": 60,
+  "str": "Este mapa se ve muy bonito, Kanto\nes una región muy bonita-",
+  "sp": 8,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 7522182,
+  "len": 102,
+  "str": "Soy el BAYÓLOGO, dedico mi vida a\nla plantación de estos\\xFAmaravillosos frutos y me dedico a\\xFAvenderlos-",
+  "sp": 10,
+  "en": 3,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 7522464,
+  "len": 80,
+  "str": "Lo siento, solo puedo venderte\nuna vez al d\\x6Fa, sino se me\\xFAacabar\\x6Fan muy rápido-",
+  "sp": 11,
+  "en": 1,
+  "n": 19,
+  "ptrs": 1
+ },
+ {
+  "off": 7522376,
+  "len": 40,
+  "str": "Lo siento, no tienes suficiente\ndinero-",
+  "sp": 4,
+  "en": 1,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7522603,
+  "len": 81,
+  "str": "Sol\\x6Fa regalar Bayas, pero desde\nque mi papá me regañó, ya no lo\\xFAhago, lo siento-",
+  "sp": 10,
+  "en": 2,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 7522705,
+  "len": 10,
+  "str": "Ô LO\\x72ËÌÁÁ",
+  "sp": 3,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7523014,
+  "len": 66,
+  "str": "Antes pod\\x6Fa traer a mi hija\ntranquilamente al museo, ahora ya\\xFAno-",
+  "sp": 5,
+  "en": 1,
+  "n": 14,
+  "ptrs": 1
+ },
+ {
+  "off": 7523199,
+  "len": 47,
+  "str": "Ahora tenemos una exposición sobre\nel espacio-",
+  "sp": 7,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7523267,
+  "len": 10,
+  "str": "Ô vQ\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7523306,
+  "len": 38,
+  "str": "Me gusta venir aqu\\x6F de vez en\ncuando-",
+  "sp": 5,
+  "en": 1,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 7523375,
+  "len": 80,
+  "str": "Estos tipos son unos maleantes,\nsi tuviera a mis pokémon se las\\xFAver\\x6Fan conmigo-",
+  "sp": 8,
+  "en": 1,
+  "n": 16,
+  "ptrs": 1
+ },
+ {
+  "off": 7525741,
+  "len": 107,
+  "str": "Los POKéMON pueden CORTAR\npequeños arbustos-\fPor ejemplo, el que está casi\nenfrente de la tienda, también-",
+  "sp": 14,
+  "en": 0,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 7525849,
+  "len": 69,
+  "str": "De d\\x6Fa suelo pasármela pescando,\npor eso de noche vengo a la\\xFAciudad-",
+  "sp": 8,
+  "en": 1,
+  "n": 15,
+  "ptrs": 1
+ },
+ {
+  "off": 7524197,
+  "len": 34,
+  "str": "Solo puedo tener hasta 3 pokémon-",
+  "sp": 1,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7524293,
+  "len": 46,
+  "str": "Ten cuidado, este camino está\nlleno de rocas-",
+  "sp": 5,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7524520,
+  "len": 36,
+  "str": "Esos karatecas de ah\\x6F me dan\nmiedo-",
+  "sp": 3,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 7524673,
+  "len": 32,
+  "str": "Ya no encuentro muchos fósiles-",
+  "sp": 5,
+  "en": 1,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7525031,
+  "len": 45,
+  "str": "Ten cuidado con los ZUBAT, son\nmuy molestos-",
+  "sp": 4,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7525139,
+  "len": 35,
+  "str": "Acabo de ver correr a un CLEFAIRY-",
+  "sp": 2,
+  "en": 1,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7525733,
+  "len": 115,
+  "str": "ñ ÈºÀÈ\\x6CÁLos POKéMON pueden CORTAR\npequeños arbustos-\fPor ejemplo, el que está casi\nenfrente de la tienda, también-",
+  "sp": 13,
+  "en": 0,
+  "n": 21,
+  "ptrs": 1
+ },
+ {
+  "off": 7525929,
+  "len": 58,
+  "str": "De noche las cosas se ponen\npeligrosas aqu\\x6F, ten cuidado-",
+  "sp": 5,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 7526251,
+  "len": 119,
+  "str": "Antes sol\\x6Fa ir al puente pepita a\ndivertirme un poco con mis\\xFAamigos, pero desde que lo\\xFAdemolieron me aburro much\\x6Fsimo-",
+  "sp": 10,
+  "en": 3,
+  "n": 25,
+  "ptrs": 1
+ },
+ {
+  "off": 7526381,
+  "len": 77,
+  "str": "Lo siento, pero el gimnasio está\ncerrado, son órdenes estrictas de\\xFAla l\\x6Fder-",
+  "sp": 8,
+  "en": 0,
+  "n": 15,
+  "ptrs": 1
+ },
+ {
+  "off": 7526469,
+  "len": 107,
+  "str": "PISTAS ENTRENADOR\fA los POKéMON se les puede\nentregar objetos-\fAdemás, pueden llegar a usarlos\nen combate-",
+  "sp": 10,
+  "en": 2,
+  "n": 17,
+  "ptrs": 1
+ },
+ {
+  "off": 7526587,
+  "len": 51,
+  "str": "Restaurant Celeste\n\"Llena el estómago de combates\"",
+  "sp": 4,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7527566,
+  "len": 58,
+  "str": "Sabes, es muy complicado vivir\nsolo- Más si eres como yo-",
+  "sp": 9,
+  "en": 0,
+  "n": 11,
+  "ptrs": 1
+ },
+ {
+  "off": 7527635,
+  "len": 111,
+  "str": "Antes vend\\x6Fa polvo de bayas, pero\ndesde que el BAYÓLOGO de CIUDAD\\xFAPLATEADA dejó de enviarme bayas\\xFAya no puedo'",
+  "sp": 11,
+  "en": 1,
+  "n": 22,
+  "ptrs": 1
+ },
+ {
+  "off": 7528003,
+  "len": 43,
+  "str": "Por fin logramos reconstruir\nnuestra casa'",
+  "sp": 1,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7528057,
+  "len": 82,
+  "str": "A veces me gusta esperar a que\nalguien deje una mesa vac\\x6Fa para\\xFApoder pedir algo-",
+  "sp": 7,
+  "en": 3,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 7528150,
+  "len": 173,
+  "str": "Lo siento, aqu\\x6F no hacemos comida\npara pokémon, solo para personas-\\xFAPero puedes divertirte luchando\\xFAcon nuestros clientes, siempre\\xFAvienen aqu\\x6F a tener combates\\xFAentre ellos-",
+  "sp": 7,
+  "en": 2,
+  "n": 30,
+  "ptrs": 1
+ },
+ {
+  "off": 7528334,
+  "len": 38,
+  "str": "Ya no tengo tanta hambre como\nrecién-",
+  "sp": 5,
+  "en": 1,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7528543,
+  "len": 33,
+  "str": "Ya luchamos hoy, regresa mañana-",
+  "sp": 3,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7528827,
+  "len": 33,
+  "str": "Ya luchamos hoy, regresa mañana-",
+  "sp": 3,
+  "en": 0,
+  "n": 5,
+  "ptrs": 1
+ },
+ {
+  "off": 7528962,
+  "len": 47,
+  "str": "Por que no vuelves mañana y\nluchamos de nuevo-",
+  "sp": 7,
+  "en": 1,
+  "n": 9,
+  "ptrs": 1
+ },
+ {
+  "off": 7530687,
+  "len": 45,
+  "str": "ŒŒŒŒŒŒŒÚÚÚÚÚÚÚÚÙÙÚÚ\n\\xFCÀÇ\\xFDÀ: No deber\\x6Fa subir-",
+  "sp": 3,
+  "en": 1,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7801207,
+  "len": 55,
+  "str": "En ésas balls hay tres Pokémon-\\xFAEscoge el que quieras-",
+  "sp": 4,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 7801206,
+  "len": 56,
+  "str": "\nEn ésas balls hay tres Pokémon-\\xFAEscoge el que quieras-",
+  "sp": 4,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 7514559,
+  "len": 11,
+  "str": "Ô P8\\x72ËÌÁ\\x6CÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7488548,
+  "len": 11,
+  "str": "Ô m7\\x72ËÌÁ\\x6CÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 6,
+  "ptrs": 1
+ },
+ {
+  "off": 7520994,
+  "len": 10,
+  "str": "Ô xH\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7521242,
+  "len": 10,
+  "str": "Ô pI\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7519189,
+  "len": 10,
+  "str": "Ô kA\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7524557,
+  "len": 24,
+  "str": "\\ ª   qV\\x72ËÁW\\x72ËÔ àW\\x72ËÌÉÁ",
+  "sp": 3,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7526371,
+  "len": 10,
+  "str": "Ô yc\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7523833,
+  "len": 19,
+  "str": "Ô \\x6Da\\x72ËÌÁÁÔ ea\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 8,
+  "ptrs": 1
+ },
+ {
+  "off": 7526079,
+  "len": 10,
+  "str": "Ô Ob\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7512382,
+  "len": 29,
+  "str": "ªÑÇÉÀ[0\\x72ËªïËÉÀ\\x660\\x72ËÔ C0\\x72ËÌÁ\\x6CÁ",
+  "sp": 3,
+  "en": 0,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 7523842,
+  "len": 10,
+  "str": "Ô ea\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7526577,
+  "len": 10,
+  "str": "Ô Ad\\x72ËÌÂÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7529617,
+  "len": 24,
+  "str": "\\ \\x6BÀ  8p\\x72ËKp\\x72ËÔ Rp\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 10,
+  "ptrs": 1
+ },
+ {
+  "off": 7520462,
+  "len": 10,
+  "str": "Ô dF\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7520735,
+  "len": 10,
+  "str": "Ô uG\\x72ËÌÂÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7520705,
+  "len": 10,
+  "str": "Ô QG\\x72ËÌÂÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7528140,
+  "len": 10,
+  "str": "Ô bj\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7528373,
+  "len": 10,
+  "str": "Ô Ek\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7528407,
+  "len": 10,
+  "str": "Ô mk\\x72ËÌÁÁ",
+  "sp": 2,
+  "en": 0,
+  "n": 4,
+  "ptrs": 1
+ },
+ {
+  "off": 7798792,
+  "len": 416,
+  "str": "nnnngggggg---\f\\xFCÀÇ\\xFDÀ: Eh parece que viene de mi \nmochila- Hola?\f\\xFCÀËProf- Birch: Hola \\xFDÀ soy Birch,\nEste número me lo acaaba de\\xFAdar tu mamá, quiere que te avise\\xFAque te compró un nuevo celular\\xFAy lo dejó en tu mochila, por cierto\\xFArecuerda que tienes que ver al\\xFAprof- Oak para entregarle ese\\xFApaquete y saluda al capitan\\xFAde mi parte-\f\\xFCÀÇ\\xFDÀ: Tengo que buscar a Oak-\f\\xFCÀËATENCION!! Hemos llegado\nal puerto de Ciudad Azafran-",
+  "sp": 37,
+  "en": 2,
+  "n": 78,
+  "ptrs": 2
+ },
+ {
+  "off": 7798886,
+  "len": 322,
+  "str": "ch,\nEste número me lo acaaba de\\xFAdar tu mamá, quiere que te avise\\xFAque te compró un nuevo celular\\xFAy lo dejó en tu mochila, por cierto\\xFArecuerda que tienes que ver al\\xFAprof- Oak para entregarle ese\\xFApaquete y saluda al capitan\\xFAde mi parte-\f\\xFCÀÇ\\xFDÀ: Tengo que buscar a Oak-\f\\xFCÀËATENCION!! Hemos llegado\nal puerto de Ciudad Azafran-",
+  "sp": 31,
+  "en": 2,
+  "n": 62,
+  "ptrs": 1
+ },
+ {
+  "off": 7800650,
+  "len": 154,
+  "str": "do, te presento\na \\xFDÀ, el es un entrenador\\xFAde la region Hoenn-\\xFCÀÓAsh: Hoenn eh, yo estuve por ahi\nes un gusto conocerte, mas siendo\\xFAun entrenador como tu-",
+  "sp": 16,
+  "en": 2,
+  "n": 30,
+  "ptrs": 1
+ },
+ {
+  "off": 7803136,
+  "len": 36,
+  "str": "À un entrenador de la\nregión Hoenn-",
+  "sp": 6,
+  "en": 0,
+  "n": 7,
+  "ptrs": 1
+ },
+ {
+  "off": 7798864,
+  "len": 344,
+  "str": "Birch: Hola \\xFDÀ soy Birch,\nEste número me lo acaaba de\\xFAdar tu mamá, quiere que te avise\\xFAque te compró un nuevo celular\\xFAy lo dejó en tu mochila, por cierto\\xFArecuerda que tienes que ver al\\xFAprof- Oak para entregarle ese\\xFApaquete y saluda al capitan\\xFAde mi parte-\f\\xFCÀÇ\\xFDÀ: Tengo que buscar a Oak-\f\\xFCÀËATENCION!! Hemos llegado\nal puerto de Ciudad Azafran-",
+  "sp": 32,
+  "en": 2,
+  "n": 66,
+  "ptrs": 2
+ },
+ {
+  "off": 7799765,
+  "len": 194,
+  "str": "\\xFDÀ,\nes un placer conocerte, mi nombre\\xFAes Oak, llámame profesor-\fNo se preocupe señor, viene\nconmigo-\f\\xFCÀÇ\\xFDÀ: Gracias profesor me ha\nsalvado'\f\\xFCÀÔOak: Bueno, vamos a mi laboratorio,\nyo te llevaré-",
+  "sp": 18,
+  "en": 3,
+  "n": 33,
+  "ptrs": 1
+ },
+ {
+  "off": 7799552,
+  "len": 54,
+  "str": "de mi parte\f\\xFCÀÇ\\xFDÀ: No se preocupe capitan se\nlo daré-",
+  "sp": 8,
+  "en": 1,
+  "n": 12,
+  "ptrs": 3
+ },
+ {
+  "off": 7805185,
+  "len": 10,
+  "str": "ues nada-",
+  "sp": 1,
+  "en": 0,
+  "n": 2,
+  "ptrs": 1
+ },
+ {
+  "off": 7798904,
+  "len": 304,
+  "str": " lo acaaba de\\xFAdar tu mamá, quiere que te avise\\xFAque te compró un nuevo celular\\xFAy lo dejó en tu mochila, por cierto\\xFArecuerda que tienes que ver al\\xFAprof- Oak para entregarle ese\\xFApaquete y saluda al capitan\\xFAde mi parte-\f\\xFCÀÇ\\xFDÀ: Tengo que buscar a Oak-\f\\xFCÀËATENCION!! Hemos llegado\nal puerto de Ciudad Azafran-",
+  "sp": 29,
+  "en": 1,
+  "n": 58,
+  "ptrs": 1
+ },
+ {
+  "off": 7799296,
+  "len": 310,
+  "str": " \\xFDÀ\ncuanto tiempo sin verte, desde\\xFAque peeko se fue te hecho\\xFAmucho de menos-\f\\xFCÀÇ\\xFDÀ:Yo tambien siento lo de Peeko\nalgun d\\x6Fa regresará---\f\\xFCÀÉPero como has crecido tu mamá\ndebe estar orgullosa, por cierto el \\xFAprof Oak te está esperando afuera,\\xFAdale un saludo de mi parte\f\\xFCÀÇ\\xFDÀ: No se preocupe capitan se\nlo daré-",
+  "sp": 28,
+  "en": 2,
+  "n": 61,
+  "ptrs": 1
+ },
+ {
+  "off": 7798903,
+  "len": 305,
+  "str": "e lo acaaba de\\xFAdar tu mamá, quiere que te avise\\xFAque te compró un nuevo celular\\xFAy lo dejó en tu mochila, por cierto\\xFArecuerda que tienes que ver al\\xFAprof- Oak para entregarle ese\\xFApaquete y saluda al capitan\\xFAde mi parte-\f\\xFCÀÇ\\xFDÀ: Tengo que buscar a Oak-\f\\xFCÀËATENCION!! Hemos llegado\nal puerto de Ciudad Azafran-",
+  "sp": 29,
+  "en": 1,
+  "n": 59,
+  "ptrs": 2
+ },
+ {
+  "off": 7811840,
+  "len": 57,
+  "str": "a CAJA de POKéMON del PC\nestá llena, cambia a otra CAJA!",
+  "sp": 6,
+  "en": 2,
+  "n": 12,
+  "ptrs": 1
+ },
+ {
+  "off": 7798927,
+  "len": 281,
+  "str": "má, quiere que te avise\\xFAque te compró un nuevo celular\\xFAy lo dejó en tu mochila, por cierto\\xFArecuerda que tienes que ver al\\xFAprof- Oak para entregarle ese\\xFApaquete y saluda al capitan\\xFAde mi parte-\f\\xFCÀÇ\\xFDÀ: Tengo que buscar a Oak-\f\\xFCÀËATENCION!! Hemos llegado\nal puerto de Ciudad Azafran-",
+  "sp": 26,
+  "en": 1,
+  "n": 53,
+  "ptrs": 1
+ },
+ {
+  "off": 7800039,
+  "len": 81,
+  "str": "rae por\\xFAaqu\\x6F-\f\\xFCÀÇ\\xFDÀ: El profesor Birch me mandó\na que le entregara éste paquete-",
+  "sp": 8,
+  "en": 2,
+  "n": 18,
+  "ptrs": 1
+ },
+ {
+  "off": 7798898,
+  "len": 310,
+  "str": "ero me lo acaaba de\\xFAdar tu mamá, quiere que te avise\\xFAque te compró un nuevo celular\\xFAy lo dejó en tu mochila, por cierto\\xFArecuerda que tienes que ver al\\xFAprof- Oak para entregarle ese\\xFApaquete y saluda al capitan\\xFAde mi parte-\f\\xFCÀÇ\\xFDÀ: Tengo que buscar a Oak-\f\\xFCÀËATENCION!! Hemos llegado\nal puerto de Ciudad Azafran-",
+  "sp": 30,
+  "en": 2,
+  "n": 60,
+  "ptrs": 1
+ },
+ {
+  "off": 7798787,
+  "len": 421,
+  "str": "iiinnnnnngggggg---\f\\xFCÀÇ\\xFDÀ: Eh parece que viene de mi \nmochila- Hola?\f\\xFCÀËProf- Birch: Hola \\xFDÀ soy Birch,\nEste número me lo acaaba de\\xFAdar tu mamá, quiere que te avise\\xFAque te compró un nuevo celular\\xFAy lo dejó en tu mochila, por cierto\\xFArecuerda que tienes que ver al\\xFAprof- Oak para entregarle ese\\xFApaquete y saluda al capitan\\xFAde mi parte-\f\\xFCÀÇ\\xFDÀ: Tengo que buscar a Oak-\f\\xFCÀËATENCION!! Hemos llegado\nal puerto de Ciudad Azafran-",
+  "sp": 37,
+  "en": 2,
+  "n": 78,
+  "ptrs": 1
+ },
+ {
+  "off": 7810816,
+  "len": 7,
+  "str": "KéMON!",
+  "sp": 1,
+  "en": 0,
+  "n": 1,
+  "ptrs": 1
+ }
+]

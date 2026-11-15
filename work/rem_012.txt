@@ -1,0 +1,7 @@
+[480] @774948 (29) os\npara completar tu pasaje.\p
+[481] @774a5f (86) ¡Hm! Ése es SQUIRTLE.\nSí, es muy bonito.\f{FD01}, ¿te decides por el\nPokémon agua SQUIRTLE?
+[482] @774abe (79) ¡Ah! CHARMANDER\nDicen que son leales.\f{FD01}, ¿quieres al Pokémon\nfuego CHARMANDER?
+[483] @774be4 (18)  PS de un\nPOKéMON.
+[484] @774d4b (19) tado de un POKéMON.
+[485] @774d75 (59) lauta de cristal azul que\ndespierta a los POKéMON\ndormidos.
+[486] @775162 (173) aré.{FC010F}Oak: Además, recuerda, si\nnecesitas curar a tus pokémon,\ppuedes usar la máquina que tienes\pa mi derecha.\f{FD01} tu viaje en Kanto recién\ncomienza, ¡Te deseo mucha suerte!

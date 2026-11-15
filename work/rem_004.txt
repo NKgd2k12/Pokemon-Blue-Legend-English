@@ -1,0 +1,40 @@
+[160] @3d77bf (18) de usarse una vez.
+[161] @3d800d (18) es\nde tipo TIERRA.
+[162] @3d8256 (27) n\nlos ataques de tipo AGUA.
+[163] @3d83d7 (19) es de tipo FANTASMA
+[164] @3d83ec (93) Al llevarla, la energía telequiné-\ntica de la cuchara fortalece\nlos ataques de tipo PSÍQUICO.
+[165] @3d8740 (16) tará\nsu DEFENSA.
+[166] @3dabdd (22) a dónde te encuentras.
+[167] @3daced (14) de la MOCHILA.
+[168] @3dad47 (19) lave de la MOCHILA.
+[169] @3fb265 (28) {FD00} ganó {FD01}\n{FD30} Puntos de EXP\f
+[170] @3fcc74 (21) ¡Es muy efectivo!    
+[171] @3fcdb3 (46) No! There's no running\nfrom a TRAINER battle!\f
+[172] @3fd297 (18) ¡Un {FD06} salvaje!   
+[173] @3fdbef (100) Bueno, creo que eso es todo, solo te\nqueda aprender con la experiencia.\f¡Vamos que Ash no te venza!\f
+[174] @3fdd23 (58) OAK: ¡No puedes huir de una\nbatalla contra un\pENTRENADOR!\f
+[175] @4169d9 (428) {FC09FF}It won't have any effect.{FC09FF}This can't be used on\nthat POKéMON.{FC09FF}{FD02} can't be switched\nout!{FC09FF}{FD02} is already\nin battle!{FC09FF}{FD02} has already been\nselected.{FC09FF}{FD02} has no energy\nleft to battle!{FC09FF}You can't switch {FD02}'s\nPOKéMON with one of yours!{FC09FF}An EGG can't battle!{FC09FF}This can't be used until a new\nBADGE is obtained.{FC09FF}No more than three POKéMON\nmay enter.{FC09FF}No more than two POKéMON\nmay enter.{FC09FF}Send the removed MAIL to\nyour PC?
+[176] @417513 (28) le un ítem\na tus pokémon.{FC09FF}
+[177] @417774 (55) There are no items.{FC09FF}There is no more\nroom in the BAG.
+[178] @44c5df (27) a sus rivales para picarles
+[179] @44d34a (22) o es ágil pero fuerte.
+[180] @44e4c0 (18) tiene mas grandes.
+[181] @44e60e (27) de conductos en sus brazos.
+[182] @72042d (40) {FC0108}May: ¡Pero mira a quién tenemos\naquí!
+[183] @720458 (44) {FC0108}Brendan: ¡Pero mira a quién\ntenemos aquí!
+[184] @721883 (224) ¡Hola! Ésta es la {FC0105}casa de juegos\n{FC0104}de {FC0106}Ciudad Verde{FC0104}, aquí podrás tener\p{FC0105}batallas {FC0104}con diferentes\pentrenadores todos los días, pero\ppara luchar debes tener{FC0106} 3 pokémon.{FC0104}\fDime, ¿Quieres tener tu combate\ndiario?
+[185] @7219a8 (68) ¡Oh! Veo que ya has luchado el día\nde hoy, por favor, vuelve mañana.
+[186] @721a1c (70) ¡Oh! Lo siento, debes tener {FC0106}3\npokémon {FC0104}exactamente para combatir.
+[187] @722375 (42) Se parecen a los tipos que dijo\n{FC0108}Steven.
+[188] @72246f (225) {FC0106}Tu entrenas pokémon, ¿No es\ncierto?\f{FC0104}{FD01}: Si, por supuesto.\f{FC0106}Yo soy el dueño de este museo,\npero últimamente estoy muy\plibeen held up by these\pawful members of {FC0104}TEAM\pRocket {FC0106}who have been in town\pfor a few days now.
+[189] @722562 (9) nos días.
+[190] @72256e (32) {FC0106}¿Podrías ayudarnos con ellos?
+[191] @722698 (33) ¡Aquí no pueden entrar los niños!
+[192] @7226bc (12) ¡Muy fuerte!
+[193] @72271f (19) ¡He metido la pata!
+[194] @722768 (25) ¡Eh, no nos molestes más!
+[195] @722791 (29) ¿No quieres unirte al Equipo?
+[196] @7227be (64) Jeje, nos robaremos todos los\nfósiles.\f¡Oh! No debí decirte eso.
+[197] @72281a (44) ¡El Equipo Rocket se ha apoderado\ndel Museo!
+[198] @722853 (41) ¡Ja, ja, ja!\n¡Mi JEFE buscaba este lugar!
+[199] @722898 (13) ¡Nos invaden!

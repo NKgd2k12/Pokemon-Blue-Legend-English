@@ -1,0 +1,40 @@
+[80] @19126c (38) ¡Eres bueno, pero no\ntanto como BROCK!
+[81] @191298 (152) ¡Puedo decirte lo que se requiere\npara ser un campeón de POKéMON!\f¡No soy ENTRENADOR, pero puedo\ndecirte cómo ganar!\f¡Déjame que te lleve a la\nvictoria!
+[82] @19133c (23) ¡Muy bien!\n¡Vamos allá!
+[83] @191412 (19) ¡Es gratis!\n¡Vamos!
+[84] @19143c (26) ¡Lo sabía!\n¡Tienes madera!
+[85] @191ffb (125) That BILL!\fI heard that he'll do whatever it\ntakes to get rare POKéMON.\fHe's not above doing all sorts\nof things, I've heard.
+[86] @192481 (51) ¡Soy demasiado buena para ti!\f¡MISTY puede esperar!
+[87] @1924d0 (18) ¡Me has machacado!
+[88] @192524 (28) ¡Soy el primero!\n¡Al ataque!
+[89] @192556 (63) ¡MISTY es cada vez más fuerte!\f¡No perderá con alguien como tú!
+[90] @192688 (88) You beat MISTY!\nSee, what'd I tell ya?\fYou and me, kid, we make a pretty\ndarn-good team!
+[91] @193033 (489) There's something new on the second\nfloor of POKéMON CENTERS, at the\pDIRECT CORNER.\fThey installed a Wireless Adapter\nmachine for crushing BERRIES.\fThis is where you come in.\fI have a favor to ask, one that\nI can entrust only to you.\fCould you make BERRY POWDER for\nme using that machine?\fDon't forget, the machine is at the\nDIRECT CORNER of POKéMON CENTERS.\fI'll concoct medicine for you if\nyou bring me some BERRY POWDER.\fDon't forget, crush BERRIES into\nBERRY POWDER and bring it to me.
+[92] @193465 (120) TEAM ROCKET will do anything for\nthe sake of money!\fThere is no job too dirty, no deed\ntoo heinous, no crime too wicked!
+[93] @193652 (97) This is really MR. FUJI's house.\fHe's really kind.\fHe looks after abandoned and\norphaned POKéMON.
+[94] @19406f (63) Oh, no!\fI had a nice gift for you, but you\nhave no room for it!
+[95] @19477c (227) Take that BIKE VOUCHER to the\nBIKE SHOP in CERULEAN CITY.\fExchange that for a BICYCLE\nfree of charge!\fDon't worry, my favorite FEAROW\nwill FLY me anywhere I need to go.\fSo, I have no need for a BICYCLE.\fI hope you like cycling!
+[96] @19488e (67) Hello, {FD01}!\fDid you come see me about my\nPOKéMON again?\fNo?\nToo bad!
+[97] @195004 (175) LT. SURGE installed the traps in\nthe GYM himself.\fHe set up double locks everywhere.\nLet me give you a hint.\fWhen you open the first lock, the\nsecond lock is right next to it.
+[98] @1950b4 (311) Yo!\nChamp in the making!\fLT. SURGE has a nickname.\fPeople refer to him as the\nLightning American!\fHe's an expert on electric\nPOKéMON.\fBIRD/WATER-type POKéMON match\npoorly against the ELECTRIC type.\fBeware of paralysis, too.\fLT. SURGE is very cautious.\fHe's locked himself in, so it won't\nbe easy getting to him.
+[99] @1979c1 (118) Go ahead! Laugh!\nI'm flat-out busted!\fNo more slots for me!\nI'm going straight!\fHere!\nI won't be needing this anymore!
+[100] @19832e (277) KOGA: Fwahahaha!\fA mere child like you dares to\nchallenge me?\fThe very idea makes me shiver\nwith mirth!\fVery well, I shall show you true\nterror as a ninja master.\fPoison brings steady doom.\nSleep renders foes helpless.\fDespair to the creeping horror of\nPOISON-type POKéMON!{FC0B56}À
+[101] @198c1f (91) Hmm?\nYou've met BILL?\fHe's my grandson!\fHe always liked collecting things,\neven as a child!
+[102] @198df9 (69) WARDEN: Hif fuff hefifoo!\fHa lof ha feef ee hafahi ho.\nHeff hee fwee!
+[103] @198e63 (32) Ha?\nHe ohay heh ha hoo ee haheh!
+[104] @198eca (203) WARDEN: Thanks, son!\nYou're a real lifesaver!\fNo one could understand a word\nthat I said, not a one!\fI was too ashamed to show my face\naround the OFFICE, even.\fLet me give you something for your\ntrouble.
+[105] @198f96 (209) WARDEN: Thank you, lassie!\nYou're a real lifesaver!\fNo one could understand a word\nthat I said, not a one!\fI was too ashamed to show my face\naround the OFFICE, even.\fLet me give you something for your\ntrouble.
+[106] @19937e (58) Oh, no!\fI had a gift for you, but you have\nno room for it!
+[107] @19acf1 (147) {FD01}: Hi.\nYou must like POKéMON.\f{FD01}: No, not me.\nI asked you.\f{FD01}: Pardon?\nYou're weird!\p \pCOPYCAT: Hmm? Quit mimicking?\pBut that's my favorite hobby!
+[108] @19d64f (254) Hi! Remember me?\nI'm one of PROF. OAK's AIDES.\fIf your POKéDEX has complete data\non ten species, I'm supposed to\pgive you a reward.\fPROF. OAK entrusted me with\nHM05 for you.\fSo, {FD01}, let me ask you.\fHave you gathered data on at least\nten kinds of POKéMON?
+[109] @19da9a (103) HOMBRE: ¡Hola, majo!\n¡Tengo una oferta sólo para ti!\f¡Te daré un MAGIKARP por 500¥\nde nada!\f¿Qué dices?
+[110] @19db34 (103) HOMBRE: ¡Hola, maja!\n¡Tengo una oferta sólo para ti!\f¡Te daré un MAGIKARP por 500¥\nde nada!\f¿Qué dices?
+[111] @19dc07 (31) ¿No? ¡Pues lo hacía como favor!
+[112] @19dc78 (29) ¡No tienes suficiente dinero!
+[113] @19dc9a (46) HOMBRE: ¡Que sepas que no acepto\ndevoluciones!
+[114] @19dcdb (50) ¡Si tienes demasiados POKéMON,\nguárdalos en el PC!
+[115] @1a02cf (219) That cruise ship S.S. ANNE is in\nVERMILION CITY.\fI hear there are lots of TRAINERS\non board, too.\fThey invited me to their party, but\nI can't stand fancy do's.\fWhy don't you go instead of me?\nGo on and have a good time.
+[116] @1a0598 (181) Ah!\nWelcome, my friend!\fLet me tell you something. There's\na hidden room in the basement.\fA TRAINER named {FD02} is\nwaiting there now.\fTell me, you did come to challenge\n{FD02}, am I right?
+[117] @1a1470 (112) BILL: No, no! There was almost\nnothing left for me to do.\fCELIO, I have to hand it to you.\nYou've learned a lot.
+[118] @1a1ef3 (136) {FD01}, what's your favorite kind\nof POKéMON?\fBILL is a POKéMANIAC, so he loves\nevery kind.\fApparently, the first one he caught\nwas an ABRA.
+[119] @1a2b88 (218) I'm the POKéMON MOVE MANIAC.\fI know every single move that\nPOKéMON learn growing up.\fI'm also a mushroom maniac.\fBring me two TINYMUSHROOMS,\nor one BIG MUSHROOM.\fIf you do that for me, I'll teach\na move to one POKéMON.

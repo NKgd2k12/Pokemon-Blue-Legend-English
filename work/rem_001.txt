@@ -1,0 +1,40 @@
+[40] @185616 (107) I guess you get to be good at\nwhat you like.\fWell, you beat me at POKéMON,\nbut you can't top me at fishing.
+[41] @186ffa (44) JED: Oh, no!\nMy love has seen me as a loser!
+[42] @188b29 (133) That loosened me up.\nI'm ready for the POKéMON LEAGUE!\f{FD01}, you need more practice.\fBut hey, you know that!\nI'm out of here. Smell ya!
+[43] @188f2c (15) ¡Hey no corras!
+[44] @188f53 (27) ¡He hecho lo que he podido!
+[45] @188f76 (29) ¡Ya casi cruzas toda la ruta!
+[46] @188fc9 (15) ¡Esto es serio!
+[47] @189165 (53) ¡Los ENTRENADORES de la zona\nvienen aquí a practicar!
+[48] @1891eb (34) Soy un buen chico.\n¡Y tengo novia!
+[49] @1892a9 (38) ¡Sabía que tendría que luchar\ncontigo!
+[50] @1893a7 (47) ¡Acabo de bajar del MT. LUNA,\npero estoy listo!
+[51] @1893fb (34) ¡Aaaaargh!\nMe ha mordido un ZUBAT.
+[52] @189459 (15) ¡Me has ganado!
+[53] @1894de (42) ¿Vas a ver a BILL?\n¡Pues luchemos primero!
+[54] @18950a (10) ¡Me rindo!
+[55] @18a01f (51) Oh, no, don't come here!\nPlease, stay away from me!
+[56] @18b35a (103) There're no rare POKéMON around\nthese parts! Not a one!\fThat burns me up, man.\nI'll take it out on you!
+[57] @18b959 (46) I'm practicing in secret so no one\ncan see me.
+[58] @18ba47 (15) Oh, no, no, no.
+[59] @18bae0 (76) When I can't be with my boyfriend,\nI spend time with the POKéMON he\pgave me.
+[60] @18d7d3 (161) DAISY: Hi, {FD01}!\nGood timing.\fI'm about to have some tea.\nWould you like to join me?\fOh, but look.\nYour POKéMON are a little dirty.\fWould you like me to groom one?
+[61] @18dcb9 (40) {FD06}: Hey! Gramps! No fair!\nWhat about me?
+[62] @18de1a (13) Ash: ¡Éso es!
+[63] @18e177 (26) OAK: ¡No te vayas todavía!
+[64] @18e194 (77) Ah! CHIMCHAR\nDicen que son muy leales.\f{FD01}, quieres al pokémon\nfuego CHIMCHAR?
+[65] @18e207 (88) Hm! PIPLUP es tu eleccion.\nSi es muy bonito.\f{FD01}, te decides por el \npokémon agua PIPLUP?
+[66] @18e272 (85) TURTWIG es tu elección.\nEs muy facil de criar.\f{FD01}, quieres al pokémon\nplanta TURTWIG?
+[67] @18e30d (31) ¡{FD01} recibió a {FD02}\ndel PROF. OAK!
+[68] @18e9e5 (46) Una Pokedex 2000!\ntiene sus páginas en blanco.
+[69] @18ea19 (40) Son POKéBALLS.\n¡Éstas contienen POKéMON!
+[70] @18ea45 (32) El último pokémon del prof. Oak.
+[71] @18ea66 (28) ¡Pulsar START, abre el MENU!
+[72] @18ebe6 (28) ¡Soy ayudante del PROF. OAK!
+[73] @18ec0b (260) Hola, {FD01}. Seguro que has\nhecho buenas migas con tus\pPOKéMON.\fA todo esto, ¿conoces a DALIA?\fSi le enseñas a DALIA tus POKéMON,\nsabrá decirte si les gustas o no.\fY puede que les dé un lavado de\ncara para que estén presentables.\pPero no vayas diciéndolo por ahí.
+[74] @18ed81 (92) ¡El PROF. OAK es un experto\nen POKéMON!\f¡Es admirado por muchos de los\nENTRENADORES POKéMON!
+[75] @18ef59 (170) {FD06}: Hey, I heard that!\fGramps, what's with favoring\n{FD01} over me all the time?\fI went and collected more POKéMON,\nand faster, too.\fYou should just let me handle\neverything.
+[76] @190c8f (48) Meteorito caído en el MT. LUNA.\n«¿PIEDRA LUNAR?)
+[77] @190cd4 (378) So, you're here. I'm BROCK.\nI'm PEWTER's GYM LEADER.\fMy rock-hard willpower is evident\neven in my POKéMON.\fMy POKéMON are all rock hard, and\nhave true-grit determination.\fThat's right - my POKéMON are all\nthe ROCK type!\fFuhaha! You're going to challenge\nme knowing that you'll lose?\fThat's the TRAINER's honor that\ncompels you to challenge me.\fFine, then!\nShow me your best!{FC0B56}À
+[78] @1911ec (65) ¡Alto ahí, enclenque!\f¡Todavía estás a años luz de retar\na BROCK!
+[79] @191237 (52) ¡Wow!\f¡Años luz no suponen tiempo!\n¡Miden distancia!
