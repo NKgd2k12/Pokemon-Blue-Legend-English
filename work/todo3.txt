@@ -1,0 +1,517 @@
+[0] @1724f9 (137) ¡Eh, espera!\n¿Por qué tienes tanta¡Me rindo!\n¡¡A veces puedes encontrar cosas\nen el suelo!\f¡Estoy buscando los objetos\nque se me cayeron!
+[1] @17281d (26) ¿Estás aquí para explorar?
+[2] @172844 (19) ¡Perder es lo peor!
+[3] @172863 (41) ¡Vine aquí para impresionar\na las chicas!
+[4] @1728d2 (22) ¿Cómo se sale de aquí?
+[5] @17290b (26) ¡Eh!\n¡No te pases conmigo!
+[6] @17293c (36) ¡Debo encontrar POKéMON\nmás fuertes!
+[7] @172972 (40) ¿Qué?\nEstoy esperando aquí a mis amigos.
+[8] @172a22 (32) isteEsta cueva es muy tenebrosa.
+[9] @172a55 (46) ¡Cruza esta cueva y llegarás\na CIUDAD CELESTE!
+[10] @172a97 (50) ¡ZUBAT es muy fuerte!\n¡Atrapar uno sería muy útil!
+[11] @172ae0 (23) ¡Cuidado con los\nZUBAT!
+[12] @172f60 (96) {FC0106}Cap. Arenque: Desde unos meses\nestoy a cargo de este crucero\ppero sin Peeko no es lo mismo...
+[13] @1775dc (10) ÈÒçè ÀÊúòŒ
+[14] @184c1d (15) Ha-hahah-ah-ha!
+[15] @184c2d (50) Ha-haha!\nNot laughing!\pHa-hay fever! Haha-ha-choo!
+[16] @184c60 (37) Haha-ha-choo!\nHa-choo!\pSnort! Snivel!
+[17] @188f53 (27) ¡He hecho lo que he podido!
+[18] @188f76 (29) ¡Ya casi cruzas toda la ruta!
+[19] @188fc9 (15) ¡Esto es serio!
+[20] @188ff9 (27) ¡He hecho lo que he podido!
+[21] @18908c (12) ¡Bien hecho!
+[22] @18909e (27) ¡He hecho lo que he podido!
+[23] @189165 (53) ¡Los ENTRENADORES de la zona\nvienen aquí a practicar!
+[24] @1891eb (34) Soy un buen chico.\n¡Y tengo novia!
+[25] @1892a9 (38) ¡Sabía que tendría que luchar\ncontigo!
+[26] @1893a7 (47) ¡Acabo de bajar del MT. LUNA,\npero estoy listo!
+[27] @1893fb (34) ¡Aaaaargh!\nMe ha mordido un ZUBAT.
+[28] @189459 (15) ¡Me has ganado!
+[29] @1894de (42) ¿Vas a ver a BILL?\n¡Pues luchemos primero!
+[30] @18950a (10) ¡Me rindo!
+[31] @18ddea (17) ¿QUÉ?\n¡Imposible!
+[32] @18de1a (13) Ash: ¡Éso es!
+[33] @18e177 (26) OAK: ¡No te vayas todavía!
+[34] @18e194 (77) Ah! CHIMCHAR\nDicen que son muy leales.\f{FD01}, quieres al pokémon\nfuego CHIMCHAR?
+[35] @18e207 (88) Hm! PIPLUP es tu eleccion.\nSi es muy bonito.\f{FD01}, te decides por el \npokémon agua PIPLUP?
+[36] @18e272 (85) TURTWIG es tu elección.\nEs muy facil de criar.\f{FD01}, quieres al pokémon\nplanta TURTWIG?
+[37] @18e30d (31) ¡{FD01} recibió a {FD02}\ndel PROF. OAK!
+[38] @18e9e5 (46) Una Pokedex 2000!\ntiene sus páginas en blanco.
+[39] @18ea19 (40) Son POKéBALLS.\n¡Éstas contienen POKéMON!
+[40] @18ea45 (32) El último pokémon del prof. Oak.
+[41] @18ea66 (28) ¡Pulsar START, abre el MENU!
+[42] @18ebe6 (28) ¡Soy ayudante del PROF. OAK!
+[43] @18ec0b (260) Hola, {FD01}. Seguro que has\nhecho buenas migas con tus\pPOKéMON.\fA todo esto, ¿conoces a DALIA?\fSi le enseñas a DALIA tus POKéMON,\nsabrá decirte si les gustas o no.\fY puede que les dé un lavado de\ncara para que estén presentables.\pPero no vayas diciéndolo por ahí.
+[44] @18ed81 (92) ¡El PROF. OAK es un experto\nen POKéMON!\f¡Es admirado por muchos de los\nENTRENADORES POKéMON!
+[45] @190c8f (48) Meteorito caído en el MT. LUNA.\n«¿PIEDRA LUNAR?)
+[46] @1911ec (65) ¡Alto ahí, enclenque!\f¡Todavía estás a años luz de retar\na BROCK!
+[47] @19126c (38) ¡Eres bueno, pero no\ntanto como BROCK!
+[48] @191298 (152) ¡Puedo decirte lo que se requiere\npara ser un campeón de POKéMON!\f¡No soy ENTRENADOR, pero puedo\ndecirte cómo ganar!\f¡Déjame que te lleve a la\nvictoria!
+[49] @19133c (23) ¡Muy bien!\n¡Vamos allá!
+[50] @191412 (19) ¡Es gratis!\n¡Vamos!
+[51] @19143c (26) ¡Lo sabía!\n¡Tienes madera!
+[52] @192481 (51) ¡Soy demasiado buena para ti!\f¡MISTY puede esperar!
+[53] @1924d0 (18) ¡Me has machacado!
+[54] @192524 (28) ¡Soy el primero!\n¡Al ataque!
+[55] @192556 (63) ¡MISTY es cada vez más fuerte!\f¡No perderá con alguien como tú!
+[56] @198df9 (69) WARDEN: Hif fuff hefifoo!\fHa lof ha feef ee hafahi ho.\nHeff hee fwee!
+[57] @198e63 (32) Ha?\nHe ohay heh ha hoo ee haheh!
+[58] @19da9a (103) HOMBRE: ¡Hola, majo!\n¡Tengo una oferta sólo para ti!\f¡Te daré un MAGIKARP por 500¥\nde nada!\f¿Qué dices?
+[59] @19db34 (103) HOMBRE: ¡Hola, maja!\n¡Tengo una oferta sólo para ti!\f¡Te daré un MAGIKARP por 500¥\nde nada!\f¿Qué dices?
+[60] @19dc07 (31) ¿No? ¡Pues lo hacía como favor!
+[61] @19dc78 (29) ¡No tienes suficiente dinero!
+[62] @19dc9a (46) HOMBRE: ¡Que sepas que no acepto\ndevoluciones!
+[63] @19dcdb (50) ¡Si tienes demasiados POKéMON,\nguárdalos en el PC!
+[64] @19e01e (11) Êîç\nîÛîñÉâ?
+[65] @1a508a (28) ¿A qué PC quieres acceder?  
+[66] @1a56a7 (33) ¿Quieres ponerle un mote a tu\n{FD02}?
+[67] @1a56c9 (52)  ienes demasiados POKéMON.\nNo queda sitio para éste.
+[68] @1a59fe (37) ¡Hola!\f¿Quieres cambiar tu {FD02}\npor {FD03}?
+[69] @1a5a6a (20) ¿Qué?\nÉste no es {FD02}.
+[70] @1a5aa5 (43) ¿Qué tal va el {FD03} que te\nenvié, más fuerte?
+[71] @1a92d0 (11) ÒÀà ÛÌÀéÉéÔ
+[72] @1a92e6 (11) ÒÀà ÛÌÀéÉéÔ
+[73] @1a92fe (11) ÒÀà ÛÌÀéÉéÔ
+[74] @1a932d (10) ÔßÉííÌëÉéÔ
+[75] @1a933f (10) çéÌ Éé ëÌÎ
+[76] @1a9356 (11) ÂçééÌÂí íÒÌ
+[77] @1a937c (10) áç+Ìë çáÌé
+[78] @1c04bb (13) ùÏ! ÉÇñÑ ÒñÉ!
+[79] @1c0db0 (47) ¡Totalmente lleno de libros sobre\nlos POKéMON!.
+[80] @1c0e40 (46) ¡Oh! ¡Delicioso!\n¡Alguien está cocinando aquí!
+[81] @1c0e73 (55) Qué mueble tan genial.\n¡Caben muchas cosas allí dentro!
+[82] @1c0ecb (41) TIENDA POKéMON\n¡Compra todos tus objetos!
+[83] @1c0f99 (55) ¡Seguramente está lleno de cosas\nde lo más apetecibles!
+[84] @1c1060 (58) ¿Para que será esta máquina? \n¡Es mejor no meter el dedo!\p
+[85] @1c1217 (48) ¡Lucecitas de colores que\nse encienden y apagan!
+[86] @1c3445 (86) Soy un buen chico.\n¡Y tengo novia!\f¡Verás cómo se queda cuando\nme vea luchar esta vez!
+[87] @1c34d4 (47) ¡Sabía que tendría que luchar\ncontigo otra vez!
+[88] @1c353b (47) ¡Acabo de bajar del MT. LUNA,\npero estoy listo!
+[89] @1c35bc (46) ¿Vas a ver a BILL otra vez?\n¡Luchemos primero!
+[90] @1c3624 (49) Siempre estás de aquí para allá...\n¿No te cansas?
+[91] @1c3685 (51) Aunque perdí cuando luchamos,\nestuvo guay, ¿verdad?
+[92] @1c59d5 (37) Cuéntame. ¿Eres varón?\n¿Eres mujer? \p
+[93] @1c5a04 (228) ¡Bienvenido a Pokémon Blue Legend!\nEste es un hackrom con base en Fire\nRed U v1.0 comenzado en el 2008.\n\nEsta beta se trata de un relanzamiento\nde la beta 1 original, finalizada en \nenero de 2011 con el fin de corregir \nerrores.
+[94] @1c5bb9 (106) Para más información, busca el texto\nadjunto con esta Rom. \n\nSin más palabras,\n\n¡Que comience tu aventura!
+[95] @1c5c78 (125) ¡Bienvenido!\fMi nombre es Oak, soy un profesor \npokémon, como Birch a quien tú ya \pconoces.                                  
+[96] @1c5ec5 (46) ¡Ya lo recuerdo! ¡Lo tenia!\n¡Su nombre es {FD06}!\f
+[97] @1c5ef4 (116) ¡{FD01}!\fViajarás por todo Kanto por nuevas\naventuras.\pUna nueva leyenda en el mundo\pPokémon resurgirá.\pSuerte, vencerás
+[98] @1cc137 (15) Âï9ÎËÈÈéûÁ   Œ 
+[99] @3d4efe (97)                                         Es muy buena. Tiene más índice\nde éxito que la SUPERBALL.
+[100] @3d51bb (48)  distinta.\nFunciona mejor al avanzar\nel combate.
+[101] @3d53a4 (54) MONMeEs la mejor. Atrapa siempre\nal POKéMON. No falla.
+[102] @3d53e0 (49) icina en spray, que cura a un\nPOKéMON paralizado.
+[103] @3d546f (138) Medicina en spray, que cura heridas\ny restaura todos los PS de un\nPOKéMedicina en spray, que cura heridas\ny restaura 200 PS de un POKéMON.
+[104] @3d83ec (93) Al llevarla, la energía telequiné-\ntica de la cuchara fortalece\nlos ataques de tipo PSÍQUICO.
+[105] @3df14c (14) ÑÛó ÀìËÛ ÈÁÏÁ.
+[106] @3df531 (19) ÈÈïÉÏÉú èÇÛÁŒ. ŒËÎ+
+[107] @3e1529 (53) Ó :Ó   x   RÓ  R{FC0000}RRÔ yVhzyVRÓÔVRÓ VSy VRi Vhi :j{FD00} 
+[108] @3e162f (33) T   l               lÓ   yÔ  RiÒ 
+[109] @3e1653 (46)             lTiÔ liÓ  j{FD00} T{FD00} jy l{FDDF}ÓjRiÔghzÔ:
+[110] @3e254a (10)   Ç Ë Ë Ë 
+[111] @3e2b1e (11)   Ç Ê Ë Ê \n
+[112] @3e7358 (20)  Ë  È È  Ë  {FD7F}È     
+[113] @3f895a (29) ÙÙ:ìÙÙ               :   :   
+[114] @3f89c6 (30) ÙÙ ìÙÙ:ìÙÙ:ìÙÙ:ìÙÙ:çÙÙ:çÙÙ:ÙÙÙ
+[115] @3fa1c4 (24) Ô  :Ô  :Ô  :Ô  :Ô  :Ô  :
+[116] @3fa1e8 (20) Ô  :Ô  :Ô  :Ô  :Ô  :
+[117] @3fcc74 (21) ¡Es muy efectivo!    
+[118] @3fd297 (18) ¡Un {FD06} salvaje!   
+[119] @3fdbef (100) Bueno, creo que eso es todo, solo te\nqueda aprender con la experiencia.\f¡Vamos que Ash no te venza!\f
+[120] @3fdd23 (58) OAK: ¡No puedes huir de una\nbatalla contra un\pENTRENADOR!\f
+[121] @3fe6d5 (16) ¿Qué hará\n{FD12}?   
+[122] @3feb65 (11) ÁÁÁ ÁÀÀÔÉ  
+[123] @402316 (9) ŒÊŒÔ{F9FF}ÙíÙ
+[124] @404544 (17) Ñ\nÑ{FD03}E{FC1401}\fÑ\pÑ{F914}{F883}
+[125] @40c03a (11)   É Ç Ê Ç \n
+[126] @4127e6 (7) ËÊÙá\f7Ô
+[127] @4127f7 (6) Ô ÙÙÙÊ
+[128] @416262 (26) ¿Qué quieres hacer ahora? 
+[129] @417e68 (8) ÓÚòÁ& ÊË
+[130] @418681 (14) ¡Hasta otra!  
+[131] @41b3da (14) {F7} ç{F7}ÀéÊòè ÁìÓ+
+[132] @42fd5a (19) RR{FCC801}×îÎ{FCCB07}dE{FCCF04}B\fE
+[133] @4379c8 (10)  Ë0ŒÂÙ ÇÙÙ
+[134] @43f23a (11)   Ç È Ë È \n
+[135] @43f6c4 (16) :Ê:Ê:Ê:Ê:Ê:Ê:Ê:Ê
+[136] @43f6e6 (16) :Ê:Ê:Ê:Ê:Ê:Ê:Ê:Ê
+[137] @43f6ff (8) :Ê:Ê:Ê:Ê
+[138] @45b850 (12) ÔéëÙÚßáàìîÛÑ
+[139] @45cedc (28)     999Ô-99Ô-99Ô999Ô999Ô99\p 
+[140] @45d379 (286) Ô  :Ô    :Ô  :Ô  :Ô  :Ô  :Ô  :Ô  :Ô  :Ô                                                                :Ô  :Ô  :Ô  :Ô  :Ô  :Ô  :Ô  :Ô    :Ô  :Ô  :Ô  :Ô  :Ô  :Ô  :Ô  :Ô                                                                :Ô  :Ô  :Ô  :Ô  :Ô  :Ô  :Ô  :Ô    :Ô  :Ô  :Ô  :Ô  :Ô  :
+[141] @45d4dc (24)     :Ô  :Ô  :Ô  :Ô  :Ô  
+[142] @463fc9 (14)  ÀÁÂ\f{FDFF} ÀÂÈÀÀ 
+[143] @46521a (7) W&ÙÙò¡Ù
+[144] @465239 (9)  {F2}âÙœòÀÔÙ
+[145] @46e2fb (13)    ÇÁ \n   ÉÂÀ
+[146] @46e421 (31)         ÇÁàŒÔÀ  ÇÁàŒÔÀ  ÂÁâŒÔÀ 
+[147] @46f2b2 (32) Ñ {F8FF}Œ ÂÑÂ ê {FCFF20} {F8FF}ÇÑÉ Œ Ñ Œ {F8FF}  
+[148] @46f99d (16) :È:E:E:È:È:E:6:È
+[149] @470e68 (28)     Ùw-ÔÙx-ÔQz-Ôzz-Ôzz-Ô99\pÔ
+[150] @470e98 (7) Ù{F1}ÙÙÙì{F1}
+[151] @470ee2 (112) {F1}ÙÙ{F1}{F1}ÙÙ{F1}{F1}ÙÙììÙÙììÙÙììÙÙììÙÙììÙÙììÙÙììÙÙììÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙ{F1}{F1}ÙÙ{F1}{F1}ÙÙ{F1}{F1}ÙÙ{F1}{F1}ÙÙ{F1}{F1}ÙÙ{F1}{F1}ÙÙ{F1}{F1}ÙÙ{F1}{F1}ÙÙììÙÙì
+[152] @470f84 (13) ÙÙÙÙÙÙÙÙÙ{F1}{F1}ÙÙ
+[153] @4710c8 (28)     Ùw-ÔÙx-ÔQz-Ôzz-Ôzz-Ô99\pÔ
+[154] @4711e8 (28)     Ùw-ÔÙx-ÔQz-Ôzz-Ôzz-Ô99\pÔ
+[155] @471308 (28)     Ùw-ÔÙx-ÔQz-Ôzz-Ôzz-Ô99\pÔ
+[156] @471428 (28)     Ùw-ÔÙw.ÔAj.Ôzi?ÔjS?Ô99\pÔ
+[157] @471548 (28)     Ùw-ÔÙw.ÔAj.Ôzi?ÔjS?Ô99\pÔ
+[158] @471590 (28) z99zizziziizziizAAAAÙÙÙÙÙÙÙÙ
+[159] @4716d0 (28) ?P?PyjyjyjyjyjyjAAAAÙÙÙÙÙÙÙÙ
+[160] @4717ac (28) Ùgi{FC11EB}z{FDBB}wz{FDED}jiÔyjiÔyjiÔh{FDFF} 
+[161] @4718ac (28) ÙÙÙÙÙÙÙÙiiii999PvzzTvzzTvzzT
+[162] @47caa8 (12) ÈíÀ ÌË  JOEY
+[163] @47dc94 (14) K ' & ú ÓÀ×   
+[164] @47e73e (8) ÑíêŒÈÑÂÏ
+[165] @4a6cac (28) ÏÚèíëìâáÓÎÂ{FDF7}{F1}ztsqprqwv{F2}{F1}{F9F8}\n
+[166] @4a6e8c (55) ÈÂ {F8EF}pfYSRRWbhqt{F2}{F1}{F7}{F4}{F5}{F2}{F2}{F1}{F4}{F6}{FC0207}ÔŒâÑçÛÑÏÌÁ{FCF7F1}zuussvu:y{F6}{F2}\f{F7}
+[167] @4a7037 (53) {FDF7}{F1}tleXVRUUagnu:{F7}{FD04}ËÒŒŒÛÔÚÎÓÊÊÇÀÂ{FD01}{F9FE}{F7}{F9F6}{F2}{F4}z{F1}y:z{F1}{F1}{F3}{F7}{F9FE}
+[168] @4a79f9 (12) ÎÏÏÎÉÊÎÑáßÙÌ
+[169] @4a7f3f (30) ÁÁ\n{F9FC}ÀÉÌËÀ{F7}wplicXYdimqrpoqw{F1}{F5}\p
+[170] @4a8935 (36) ÀÁ\n{F9FA}{FDFB}{F4}{F4}{FD02}ÂÈÓÑÑÑÛŒÌÁ\pzqmnpqw{F7} ÀÂÉÉÂ
+[171] @4a9f94 (37) {F5}{F1}{F2}{F3}:z{F6}\f\p{F8F9}{F8F6}{F7}\p\nÀÂÂÂÁÀ    ÀÀÀ  {FDFA}\p\f{FDFE}
+[172] @4a9fba (12) ÀÂÉÎÓÛßßÛÔÌÇ
+[173] @4aa00c (13) ÁÇÈÁ{FDFA}{F9F9}\f ÇÂÁ
+[174] @4abf1e (34)  ÀÀÁÂÂÂÇÀ{FDFA}\p{FD00}ÂÇ {FCFC00}ÁÉÌÇ{FDF7}{F1}{F805}ËÓßàÓ
+[175] @4ad52b (11)  úç\nÚÚ{F9EF}ÏÏ{F5}
+[176] @4ae134 (46) {F9F4}{F3}{F2}ywxsinpickssx{F5}{F9F8}{F7}{F7}{F7}{FC0003}ËÓÒËËßíïòóéŒÛéßËÇÈÈÁ
+[177] @4aed0b (26)  ÂÈÉÊÈÂÈÊÉÉÊÈÁ ÁÇÈÇÇÂÇÉÊÉÀ
+[178] @4afc12 (81) {FDFD} ÁÉÉÂ {FDFC}{FCFEFF}\n\f{F9F8}{F7}{F6}{F4}{F2}zyyyxurnkkmnmligffeaXWZdhheaYbhlmkiffiosrpqty{F1}{F4}{F2}ytuy{F1}{F4}{F4}{F2}{F1}{F3}{F8FD}
+[179] @4afcdd (15) ÁÇÇÈÈÇÈÈÂ  ÀÁÁÀ
+[180] @4afd70 (55)  ÀÂÇÇÇÈÊÏÙÛÚÚÑàââàÛÔÓÔÙÙŒÓÏÌÉÉÊÈ \n{FDFA}{F9FB}{FCF9F5}{F4}{F5}{F6}{F7}{F7}{F7}{F6}{F5}{F4}{F5}{F6}{F6}{F7}\f
+[181] @72042d (40) {FC0108}May: ¡Pero mira a quién tenemos\naquí!
+[182] @720458 (44) {FC0108}Brendan: ¡Pero mira a quién\ntenemos aquí!
+[183] @721883 (224) ¡Hola! Ésta es la {FC0105}casa de juegos\n{FC0104}de {FC0106}Ciudad Verde{FC0104}, aquí podrás tener\p{FC0105}batallas {FC0104}con diferentes\pentrenadores todos los días, pero\ppara luchar debes tener{FC0106} 3 pokémon.{FC0104}\fDime, ¿Quieres tener tu combate\ndiario?
+[184] @7219a8 (68) ¡Oh! Veo que ya has luchado el día\nde hoy, por favor, vuelve mañana.
+[185] @721a1c (70) ¡Oh! Lo siento, debes tener {FC0106}3\npokémon {FC0104}exactamente para combatir.
+[186] @722356 (30) {FC0104}{FD01}: ¿Qué tramarán esos dos?
+[187] @722375 (42) Se parecen a los tipos que dijo\n{FC0108}Steven.
+[188] @72246f (242) {FC0106}Tu entrenas pokémon, ¿No es\ncierto?\f{FC0104}{FD01}: Si, por supuesto.\f{FC0106}Yo soy el dueño de este museo,\npero últimamente estoy muy\plimitado por culpa de estos\pdetestables miembros del {FC0104}Equipo\pRocket {FC0106}que están en la ciudad\pdesde hace unos días.
+[189] @72256e (32) {FC0106}¿Podrías ayudarnos con ellos?
+[190] @722698 (33) ¡Aquí no pueden entrar los niños!
+[191] @7226bc (12) ¡Muy fuerte!
+[192] @722702 (26) ¡Oye, tú!\n¿Qué haces aquí?
+[193] @72271f (19) ¡He metido la pata!
+[194] @722768 (25) ¡Eh, no nos molestes más!
+[195] @722784 (10) ¡Me rindo!
+[196] @722791 (29) ¿No quieres unirte al Equipo?
+[197] @7227be (64) Jeje, nos robaremos todos los\nfósiles.\f¡Oh! No debí decirte eso.
+[198] @72281a (44) ¡El Equipo Rocket se ha apoderado\ndel Museo!
+[199] @722853 (41) ¡Ja, ja, ja!\n¡Mi JEFE buscaba este lugar!
+[200] @722898 (13) ¡Nos invaden!
+[201] @7228a8 (15) ¿Quién eres tú?
+[202] @7228ba (35) ¡Será mejor que se lo diga\nal JEFE!
+[203] @7228fa (34) ¡Respeta un poco al Equipo Rocket!
+[204] @72295c (47) ¡Eh, no estorbes! Intentamos\nrobar, ¿no lo ves?
+[205] @7229d7 (45) ¡No molestes al Jefe si no\nquieres problemas!
+[206] @722a6f (106) {FC0106}Admin: ¡No puede ser que tarden\nmás de media hora para desactivar\puna simple alarma! ¡Son unos\pineptos!
+[207] @722ada (22) ma!\f¡Son unos ineptos!
+[208] @722e7c (495) {FC010E}Steven: {FC0104}{FD01}, {FC010E}por fin despiertas,\nhace una hora estabas durmiendo.\f{FC0104}{FD01}: ¿Cómo estás {FC010E}Steven{FC0104}? Hace\ntiempo que no te veía.\f{FC010E}Steven: Es cierto, parece que nos\nvolvemos a cruzar cada vez que\pvamos de viaje, ¿No crees?, esta\pvez, parece que en {FC0106}Kanto {FC010E}nos\pdepara una nueva aventura.\f{FC0104}{FD01}: No si sea tan así, yo solo\nvoy a entregarle este paquete al\pprofesor {FC0106}Oak, {FC0104}en {FC0106}Pueblo Paleta.\f{FC010E}Steven: Créeme, seguro te gustará\ntanto que te terminarás quedando,\pyo ya estuve allí.
+[209] @72306e (201) {FC0104}{FD01}: ¿Crées que falte mucho? Me\nestoy aburriendo.\f{FC010E}Steven: Si quieres, te puedo\ncontar una historia, se trata\psobre {FC0106}Kanto{FC010E}, ¿Qué te parece?\f{FC0104}{FD01}: ¡Sería fantástico! Así\nllegaremos más rápido.
+[210] @723167 (450) {FC010E}Steven: El {FC0106}Equipo Rocket {FC010E}es un\ngrupo de ladrones de pokémon que\pmolestaban constantemente en\p{FC0106}Kanto, {FC010E}robaban pokémon salvajes y\pde entrenadores para explotarlos\py tratar de conquistar el mundo.\f{FC0104}{FD01}: ¿Así como el {FC010E}Equipo Aqua {FC0104}o\nel {FC0105}Equipo Magma?\f{FC010E}Steven: Así es, pero estos se\ndiferenciaban mucho, el Equipo\pAqua y Magma siempre estuvieron\pen competencia y se equilibraban\pentre ellos, al {FC0106}Equipo Rocket\p{FC010E}nada lo combatía.
+[211] @723559 (204) {FC0104}{FD01}: ¿Qué fue eso?\f{FC010E}Steven: Parece venir de tu\nmochila.\f{FC0104}{FD01}: Es cierto, ¡Oh! ¡Es un\nPoketeléfono! Seguro mamá lo puso\paquí antes de que saliera y no me\pavisó.\f{FC010E}Steven: Contesta, te están\nllamando.
+[212] @723ba3 (31) ganado\pun enemigo muy poderoso.
+[213] @723bc8 (62) {FC0104}{FD01}: ¡Uff! Parece que me deshice\nde todo el equipo completo.
+[214] @723e14 (328) {FC0104}{FD01}: ¿Qué es esto?\f{FC0106}Eso es Destello, una máquina\noculta, con ella podrás enseñarle\pa tus pokémon ese ataque las\pveces que quieras, es muy útil\ppara iluminar cuevas.\f{FC0104}{FD01}: ¡Muchas gracias!\f{FC0106}Al menos podemos ayudarte en\nalgo, como nos ayudaste a\pnosotros. Regresa cuando quieras\p{FC0104}{FD01}{FC0106}, tienes el pase libre a éste\pmuseo.
+[215] @72476a (31) {FC010F}Oak: Birch, {FD01} ya está aquí.
+[216] @724864 (50) {FC010E}Ash: ¡Profesor Birch! ¡Cuanto\ntiempo sin verlo!
+[217] @724899 (412) {FC010E}Ash: ¡Hey, {FC0104}{FD01}! {FC010E}Perdón, no te\nhabía visto. ¿Cómo te va en la\pliga? ¿Ya has ganado alguna\pmedalla?\f{FC0104}{FD01}: Claro, hace muy poco vencí\na Brock, en {FC0106}Ciudad Plateada.\f{FC010E}Ash: Genial, ¿Brock no te dijo\nnada de mí?\f{FC0104}{FD01}: No, solo me dijo que yo le\nrecordaba a uno de sus amigos,\pquizás se refería a ti.\f{FC010E}Ash: Ahora debes ir a {FC0106}Ciudad\nCeleste {FC010E}¿No?\f{FC0104}{FD01}: Exacto, Brock me dijo que\nallí hay un gimnasio.
+[218] @724e1a (16)  stigación de la
+[219] @725182 (236) {FC010E}Ash: Bueno, {FC0104}{FD01}{FC010E}, parece que\nnos tendremos que encargar de\psalvar al mundo otra vez, parece\pque será divertido.\f{FC0104}{FD01}: ¿Salvar al mundo? ¿No te\nparece algo exagerado?\f{FC010E}Ash: Es cierto, a veces se me\nsuben los humos a la cabeza. 
+[220] @72543f (41) {FC0102}¡{FD01} recibió un RIOLU\ndel Profesor Oak!
+[221] @72569c (49) {FC0102}¡{FD01} recibió las DEPORTIVAS\ndel Profesor Birch!
+[222] @7256d0 (96) {FC0102}Recuerda, para correr con ellas,\ndebes presionar B. ¡Ahora puedes\pusarlas en cualquier sitio!
+[223] @725d62 (24) {FC0104}{FD01}: ¡Qué escurridizo!
+[224] @725d7d (18) {FC0104}{FD01}: ¡Es Steven!
+[225] @726794 (14) ¡No puede ser!
+[226] @7267c2 (27) {FC0102}¡{FD01} recibió un CHIMCHAR!
+[227] @7267e0 (144) {FC0104}Enfermera: Parece que ese\nCHIMCHAR te ha tomado cariño, por\peso quiere ir contigo. Debes\pcuidarlo muy bien, como si fuera\ptuyo.\f{FD01}: ¡Lo haré!
+[228] @726a67 (55) {FC010E}Ash: ¡Te digo que sí puede!\f{FC0105}Misty: ¡Claro que no!
+[229] @726aa1 (47) {FC010E}Ash: ¡Pero claro que se pudo\nhaber escapado!
+[230] @726bda (36) {FC0105}Misty: ¡Hey! ¿Quién es ese\nchico?
+[231] @726c27 (122) {FC0104}{FD01}: ¡{FC010E}Ash{FC0104}! ¿Como va todo?\f{FC010E}Ash: Que bueno verte por aquí\n{FC0104}{FD01}{FC010E}, veo que vienes a retar al\plíder del gimnasio.
+[232] @726ca4 (55) {FC0105}Misty: ¡{FC010E}Ash{FC0105}! ¿No vas a\npresentarme a tu amigo?
+[233] @726ed3 (29) {FC010E}Ash: ¡Pero si es {FC0104}{FD01}{FC010E}!
+[234] @726f97 (55) {FC0105}Misty: ¡{FC010E}Ash{FC0105}! ¿No vas a\npresentarme a tu novia?
+[235] @7272c7 (46) {FC0104}{FD01}: ¡Debo buscar al pokémon de\n{FC0105}Misty{FC0104}!
+[236] @72747f (108) {FC0105}Misty: {FC0104}{FD01}{FC0105}, ¿No pudiste\nencontrar a mi {FC0108}AZURRIL{FC0105}?\fEscapó hacia la {FC0106}Ruta 24{FC0105},\nbusca por allí.
+[237] @727b35 (296) {FC0106}???: ¡Hola! Soy un POKéMON...\n¡No, no lo soy!\f¡Llámame BILL!\fBill: ¡Soy un auténtico POKéMANÍACO!\n¿No me crees?\f¡Hablo en serio!\f¡Arruiné un experimento y me\nmezclé con un POKéMON!\f¿Qué me dices?\n¡Ayúdame a salir!\f¡Cuando esté en el TELETRANSPORTE\nvete a mi PC y ejecuta la\pSeparación Celular!
+[238] @727d79 (22) {FC0106}Bill: ¡Otra vez no!
+[239] @727d92 (190) {FC0106}Bill: No solo eso, además de\nhaber inventado eso, también\ptengo una vasta colección de\ppokémon, justamente por eso\pinventé el sistema. Así que fue\p{FC010E}Ash{FC0106} quien te mandó, ¿Cómo\pestá el?
+[240] @727eff (119) {FC0104}{FD01}: ¿El {FC0106}Equipo Rocket{FC0104}?\nYo puedo ayudar a detenerlos, ya\plos he derrotado en el museo de\p{FC0106}Ciudad Plateada{FC0104}.
+[241] @7281b5 (41) {FC0102}¡{FD01} recibió un HUEVO de parte\nde Bill!
+[242] @72827c (42) {FC0106}Bill: ¡Hey! ¡Todavía estoy aquí\ndentro!
+[243] @728ac7 (23) {FC0104}Rocket 4: ¡Mi turno!
+[244] @728aeb (70) {FC0106}Admin: ¡Inútiles! ¡No pueden\nvencer ni a una mosca!\p¡Yo me encargo!
+[245] @728b3a (37) Admin: ¡No puede ser!\n¡Es muy fuerte!
+[246] @728b6b (140) {FC0106}Admin: ¡Grr!\fNo puede ser, me has vencido,\npero no importa,\pnosotros ya tenemos lo que\pqueremos, es hora de largarnos de\paquí, ¡Jajajaja!
+[247] @728c22 (123) {FC0106}Admin: ¡Idiotas! ¡Solo tenían\nque traer la pokéball de\p{FC0108}SUICUNE{FC0106} y ya tendríamos todo\plo que buscábamos!\f¡Imbéciles!
+[248] @728ca0 (31) {FC0106}Admin: ¡Larguémonos de aquí!
+[249] @728fc8 (30) {FC0104}{FD01}: ¡Uff! ¡Eso fue difícil!
+[250] @72912f (11) ÚÚÚŒŒÚÚÚÚÀ\n
+[251] @72913b (10) ŒÚÚÚŒŒÚÚÀ\n
+[252] @729633 (22) {FC0106}Bill: ¡Otra vez no!
+[253] @72964c (188) {FC0106}Bill: No solo eso, además de\nhaberlo inventado, también tengo\puna vasta colección de pokémon,\pjustamente por eso inventé el\psistema. Así que fue {FC010E}Ash{FC0106}\pquien te mandó, ¿Cómo está el?
+[254] @7297b9 (119) {FC0104}{FD01}: ¿El {FC0106}Equipo Rocket{FC0104}?\nYo puedo ayudar a detenerlos, ya\plos he derrotado en el museo de\p{FC0106}Ciudad Plateada{FC0104}.
+[255] @729a6f (41) {FC0102}¡{FD01} recibió un HUEVO de parte\nde Bill!
+[256] @729dd2 (34) {FC0104}{FD01}: ¡Lance se encarga de ellos!
+[257] @72a1bd (84) Estoy buscando un buen entrenador\npara que cuide a este pequeñín.\f¿Conoces a alguno?
+[258] @72a214 (26) ¡Cuida bien de ese PIPLUP!
+[259] @72a231 (70) ¡Oh!\f¡Ésa es la medalla cascada!\f¿Te gustaría conservar a este\nPIPLUP?
+[260] @72a27a (25) {FC0102}¡{FD01} recibió un PIPLUP!
+[261] @72a296 (46) ¡Qué lastima! ¡Ya encontraré\nalgún interesado!
+[262] @72a99e (31)  ¿Has visto a un niño por aquí?
+[263] @72ab3b (94) {FC010C}Mama de ash: Hola {FD01}, ¿Cómo vas\nen tu aventura?\fSeguro que genial, quiero\nobsequiarte esto.
+[264] @72ab9c (23) {FC0102}¡{FD01} recibió un MAPA!
+[265] @72ac2f (77) {FC010C}Mama de ash: Es un mapa de la\nregión, te servirá en tu viaje.\f¡Suerte {FD01}!\n
+[266] @72acc1 (90) {FC0106}Mamá de Ash: Hola {FD01},\n¿Cómo va tu aventura?\fSeguro que genial, quiero\nobsequiarte esto.
+[267] @72ad22 (23) {FC0102}¡{FD01} recibió un MAPA!
+[268] @72adb5 (77) {FC0106}Mamá de Ash: Es un mapa de la\nregión, te servirá en tu viaje.\f¡Suerte {FD01}!\n
+[269] @72aeef (40) ¿Por qué tuvieron que cerrar mi\nescuela?
+[270] @72af23 (96) Mi pokémon favorito es\nCHARMANDER.\f¿Cuál es el tuyo?\f¡Vamos! ¡Todos tenemos un pokémon\nfavorito!
+[271] @72b006 (50) ¡Ahora puedo jugar batallas online con mis amigos!
+[272] @72b044 (97) El sistema de PC lo inventó Bill.\n¿Quién sabe que maravillosas\pcosas habrá inventado hasta ahora?
+[273] @72b0b1 (50) ¡Ahora puedo jugar batallas\nonline con mis amigos!
+[274] @72b197 (39) ¡Puedo hablar con mi suegra desde\naquí!
+[275] @72b1ca (42) ¡Oh, tu también vienes a ver los\ncombates!
+[276] @72b247 (38) ¡Estoy jugando al pokémon\nBlack&White!
+[277] @72b279 (46) ¡Misty es muy difícil de vencer\nen este juego!
+[278] @72b2b1 (40) ¡Grr!\f¡Éste CLAFAIRY es muy escurridizo!
+[279] @72b2e5 (40) ¡Grr!\f¡Éste CLAFAIRY es muy escurridizo!
+[280] @72b320 (29) ¡Una PC de última generación!
+[281] @72b3e8 (63) ¡Los CENTROS POKéMON curan a tus\nPOKéMON heridos o debilitados!
+[282] @72b433 (32) ¡Mi papá es muy sobre protector!
+[283] @72b45f (37) ¡Mi hermana es muy buena\nentrenadora!
+[284] @72b675 (37) ¡Yo vigilo la parte sur de ésta\nruta!
+[285] @72b6a6 (43) Mmm, tengo mucha hambre, ¿me\nconvidas algo?
+[286] @72b79a (88) Acabo de salir del BOSQUE VERDE,\ncasi me pica un BEEDRILL.\f¡Salí corriendo de inmediato!
+[287] @72b7fe (39) ¡Yo vigilo la parte norte de ésta\nruta!
+[288] @72b83f (38) ¡Eh! ¡Tienes POKéMON!\n¡Sí!\p¡Al ataque!
+[289] @72b868 (30) ¡No!\n¡Mi CATERPIE no pudo más!
+[290] @72b889 (38) ¡Ssh!\n¡Vas a espantar a los bichos!...
+[291] @72b8c9 (24) ¡No vas a poder conmigo!
+[292] @72b8e5 (22) ¡Eso fue sorprendente!
+[293] @72b930 (17) ¡Soy un pescador!
+[294] @72ba08 (64) No soy especialmente grande, ¡pero\ntampoco soy ningún enclenque!
+[295] @72baba (35) ¿Sabes que los POKéMON\nevolucionan?
+[296] @72bae0 (17) ¡Oh! ¡He perdido!
+[297] @72baf4 (50) Los POKéMON evolucionan\nmuy rápido. ¡Son geniales!
+[298] @72bb40 (28) ¡Llegué al final del BOSQUE!
+[299] @72bb5f (12) ¡He perdido!
+[300] @72bb95 (62) ¡Vine aquí con unos amigos!\f¡Van en busca de combates\nPOKéMON!
+[301] @72bbdf (91) ¡Me quedé sin POKé BALLS con\nlas que atrapar a los POKéMON!\f¡Deberías llevar algunas extra!
+[302] @72bc46 (71) ¡Usa ANTÍDOTO contra el veneno!\n¡Lo conseguirás en las TIENDAS\pPOKéMON!
+[303] @72bc99 (82) PISTAS ENTRENADOR\fSi quieres evitar los combates,\n¡aléjate de las zonas de hierba!
+[304] @72bcf7 (108) PISTAS ENTRENADOR\f¡Debilita a los POKéMON antes\nde intentar capturarlos!\f¡Si están fuertes, podrían escapar!
+[305] @72bdc6 (114) ¡No hay muchos ENTRENADORES\nde POKéMON por aquí!\f¡Todos parecen CAZABICHOS, salvo\nBROCK, del GIMNASIO de PLATEADA!
+[306] @72be99 (43) ¡En ésta casa hay un tipo que\nregala bayas!
+[307] @72bf79 (113) ¡Dicen que los CLEFAIRY vinieron\nde la Luna!\f¡Aparecieron tras la caída de\nvarias PIEDRAS LUNARES\pen el MT. LUNA!
+[308] @72c0d8 (35) ¡No debería estar hablando\ncontigo!
+[309] @72c107 (72) ¡El Equipo Rocket arrasa otra vez!\f¡No te entrometas en nuestros\nplanes!
+[310] @72c174 (75) PISTAS ENTRENADOR\f¡Todo POKéMON que luche en un\ncombate ganará EXPERIENCIA!
+[311] @72c275 (107) ¡Los POKéMON aprenden nuevos\nataques a medida que crecen!\f¡Pero hay ciertos ataques que\nhay que enseñarles!
+[312] @72c2ec (95) ¡Los POKéMON serán más fáciles\nde atrapar si están heridos o\pdormidos!\f¡Pero no siempre es así!
+[313] @72c357 (55) Sabes, es muy aburrido vivir\nsolo, ¡Cuida a tu familia!
+[314] @72c474 (92) ¿¡Qué!?\f¿Que el EQUIPO ROCKET está en el\nMUSEO?\f¡Estoy hablando por teléfono!\n¿Será posible?
+[315] @72c4dc (72) ¡Yo quiero un PIKACHU, así que\nvoy a intercambiar a mi CLEFAIRY\ppor uno!
+[316] @72c5e1 (62) ¡Cuantos libros! ¡Espero\nencontrar como evoluciona mi\pMACHOKE!
+[317] @72c62b (87) ¡Un misterioso anciano me vendió\neste extraño pez POKéMON!\f¡Es muy débil y cuesta 500¥!
+[318] @72c68e (95) ¡Podrían suceder cosas buenas si\nentrenaras rápidamente a tus\pPOKéMON, hasta a los más débiles!
+[319] @72c7ee (44) Dime, ¿Quieres comprar un Pack?\nCuesta ¥500.
+[320] @72c822 (35) Está bien, ¡Regresa cuando\nquieras!
+[321] @72c8fb (36) ¡Mi papá es un experto de las\nbayas!
+[322] @72c99b (40) ¡Ahgr! ¡El Equipo Rocket es muy\nmolesto!
+[323] @72c9c6 (72) ¡Qué golpe de suerte!\f¡Nunca pensé que conseguiría\nver huesos de dragón!
+[324] @72ca2e (43) ¡No quiero estar aquí con el\nEquipo Rocket!
+[325] @72ca5c (74) ¡Quiero un PIKACHU!\n¡Es tan mono!\f¡Le pedí a mi padre que me\natrapara uno!
+[326] @72cb0a (37) ¡Sí, pronto tendrás a tu\nPIKACHU!... 
+[327] @72cb4f (45) ¡El Equipo Rocket quiere robarse\nlos fósiles!
+[328] @72cbcd (26) ¡Esos tipos son muy malos!
+[329] @72ce0d (21) ¡Has ganado otra vez!
+[330] @72ce25 (56) ¡Hay otros tipos de POKéMON\ndiferentes a los del bosque!
+[331] @72cf43 (21) ¡Ya llegas a CELESTE!
+[332] @72cfa0 (12) ¡Vas a caer!
+[333] @72d00c (32) ¡Si me ganas te regalo mi gorra!
+[334] @72d02f (22) ¡Claro que no lo haré!
+[335] @72d048 (25) ¡El MT. LUNA fue difícil!
+[336] @72d07b (26) ¿Ya venciste a mi hermano?
+[337] @72d098 (13) ¡Eres la ley!
+[338] @72d0e5 (26) ¡Estoy ansiosa por luchar!
+[339] @72d163 (12) ¡Eres bueno!
+[340] @72d172 (77) ¡Antes esta cueva solía estar\nrepleta de fósiles! Ahora no\pencuentro ninguno.
+[341] @72d1d9 (36) ¡Me encanta explorar cavernas\nsabes!
+[342] @72d200 (16) ¡Pero no perder!
+[343] @72d213 (69) Este túnel es difícil de cruzar,\n¡Y eso que es el más fácil de\pKanto!
+[344] @72d272 (24) ¡Ya casi llego al final!
+[345] @72d28d (23) ¡Pero no quería perder!
+[346] @72d2ed (25) ¡Le falta muy poco joven!
+[347] @72d5d8 (69)  De día suelo pasármela pescando,\npor eso de noche vengo a la\pciudad.
+[348] @72d66e (77) ¡Hey! ¡Puedes ir al\nrestaurante si quieres! ¡Yo\pestoy en mi hora de descanso!
+[349] @72d6c9 (64) ¿Estás haciendo una enciclopedia\nde los POKéMON? ¡Qué increíble!
+[350] @72d715 (74) ¿También entrenas POKéMON?\fAtrapar, luchar, ¡qué vida tan\ndura la nuestra!
+[351] @72d8f9 (71) LÍDER del GIMNASIO POKéMON\nde PLATEADA: BROCK\p¡Es fuerte como una roca!
+[352] @72d94c (55) ¡CIUDAD CELESTE!\n¡Una misteriosa aura azulada la\prodea!
+[353] @72d98f (70) LÍDER del GIMNASIO POKéMON\nde CELESTE: MISTY\p¡La sirena distorsionada!
+[354] @72d9e1 (71) ¡Este BILL!\f¡Dicen que haría lo que fuera para\nconseguir POKéMON raros!
+[355] @72da34 (148) ¿Has oído hablar de BILL?\f¡Dicen que es un POKéMANÍACO!\fPero yo creo que la gente le tiene\nmucha envidia.\f¿Quién no querría presumir de sus\nPOKéMON?
+[356] @72dad4 (57) ¡BILL tiene muchísimos POKéMON!\n¡Y algunos son muy raros!
+[357] @72db19 (33) ¡Quiero intercambiar mis POKéMON!
+[358] @72db46 (219) Usa el REPELENTE para evitar a los\nbichos y a los POKéMON débiles.\f¡Pon a tu POKéMON más fuerte el\nprimero de la lista para conseguir\pmejores resultados!\fSi tu primer POKéMON es fuerte,\nel REPELENTE tendrá mayor efecto.
+[359] @72dc2d (85) ¿Has visto algún CARAMELORARO?\f¡Dicen que los POKéMON suben\nun nivel si se comen uno!
+[360] @72dd4d (134) A mi marido le gusta intercambiar\nPOKéMON.\fSi eres coleccionista, ¿podrías\nintercambiar con él?\f¡Te vendría de perlas para tu\nPOKéDEX!
+[361] @72dddf (48) ¿Por qué no me dejas ver las\nnoticias tranquilo?
+[362] @72de1f (24) ¿Te gusta mi nueva casa?
+[363] @72dfbf (22) ¡Que lindo es cocinar!
+[364] @72dfe1 (27) ¡Esta sopa tiene una mosca!
+[365] @72e036 (23) ¡Este puré esta rancio!
+[366] @72e050 (12) ¡Eres bueno!
+[367] @72e0bc (37) ¡Si sigo comiendo así voy a\nexplotar!
+[368] @72e0f0 (37) ¡Uff! ¡Cuanta comida! ¡Vuelve\nmañana!
+[369] @72e152 (23) ¡Este puré está rancio!
+[370] @72e16c (12) ¡Eres bueno!
+[371] @72e1d8 (29) ¿Sabes si hacen pescado aquí?
+[372] @72e3f0 (33) ¡El EQUIPO ROCKET ataca de nuevo!
+[373] @72e41e (20) ¡Nos robaremos todo!
+[374] @72e44c (27) ¡No estorbes en los planes!
+[375] @72e474 (27) ¡Y eso no fue nada todavía!
+[376] @72e4a9 (25) ¡Nos robaremos a SUICUNE!
+[377] @72e4da (437)  {FC010E}Ash: ¿Qué deberíamos hacer\nprofesor?\f{FC010F}Oak: De momento, solo esperar.\nPrimero tenemos que saber cuál es\psu objetivo, estamos trabajando\pen eso ahora mismo.\f{FC0104}{FD01}: ¿Y qué pasó con {FC0106}Gary{FC0104}?\nLo vi salir de aquí antes de\pllegar.\f{FC010E}Ash: ¿{FC0106}Gary{FC010E}?\f{FC010F}Oak: Quería que esté en ésta\nreunión, pero prefirió tomar su\pcamino. Él puede cuidarse solo.\f{FC010E}Ash: Bien, entonces haré lo\nmismo. Gracias por el aviso Prof,\pestaré alerta. ¡Adiós!
+[378] @72e6af (227) ¿ {FC0106}Gary{FC010E}?\f{FC010F}Oak: Quería que esté en ésta\nreunión, pero prefirió tomar su\pcamino. Él puede cuidarse solo.\f{FC010E}Ash: Bien, entonces haré lo\nmismo. Gracias por el aviso Prof,\pestaré alerta. Nos vemos {FC0104}{FD01}{FC010E}.\f{FC0104}{FD01}: Adiós Ash.
+[379] @750cb8 (33) ÛŒŒŒŒÛÛÛÛŒŒÛÛÛÛÙÙÙÙÙÙÙÛÛÛŒÛÛÛÛÛÀ\n
+[380] @750cda (33) êêÛŒŒŒÛÛÛÛŒŒÛÛÛÛÙÙÙÙÙÙÙÛÛÛŒÛÛÛÛÀ\n
+[381] @7701aa (38) {FC0106}¡{FD01}, el profesor te\nestá esperando!
+[382] @7701ea (331)  {FC0106}Cap. Arenque: Hola {FD01}\ncuanto tiempo sin verte, desde\pque peeko se fue te hecho\pmucho de menos.\f{FC0104}{FD01}:Yo tambien siento lo de Peeko\nalgun día regresará...\f{FC0106}Pero como has crecido tu mamá\ndebe estar orgullosa, por cierto el \pprof Oak te está esperando afuera,\pdale un saludo de mi parte\f{FC0104}{FD01}: No se preocupe capitan se\nlo daré.
+[383] @770556 (389) {FC010F}Oak: Ahora sí, cuéntame algo de\ntu vida.\f{FC0104}{FD01}: Vengo de Villa Raíz y\nentreno Pokémon, aunque no tengo\pun combate hace mucho tiempo.\f{FC010F}Oak: Bueno aquí en Kanto hay un\ntorneo para gente como tú, talvez\pquieras participar.\f{FC0104}{FD01}: ¡Sí! sería fantástico, pero\nno traje a ninguno de mis pokémon\pconmigo.\f{FC010F}Oak: No te preocupes, puedo\ndarte uno de los míos.\f{FC0104}{FD01}: Sería un placer profesor.
+[384] @7706fc (24) {FC010F}¡Oak: Pero si es Ash!
+[385] @770715 (206) {FC010E}Ash: Hola prof, que tal?\f{FC010F}Oak: Te estaba esperando, te presento\na {FD01}, el es un entrenador\pde la region Hoenn.{FC010E}Ash: Hoenn eh, yo estuve por ahi\nes un gusto conocerte, mas siendo\pun entrenador como tu.
+[386] @7707e4 (101) {FC010E}Ash: Hola Prof, ¿Qué tal?\f{FC010F}Oak: Te estaba esperando, te presento\na {FD01}, viene de la región Hoenn.
+[387] @7708a2 (17) trenador como tu.
+[388] @770913 (154) {FC0104}{FD01}: Profesor, disculpe, pero ya\nno lo soporto\f¡QUIERO MI POKÉMON!\f{FC010F}Oak: Bueno no te desesperes\nEn ésas balls hay tres Pokémon.\pEscoge el que quieras.
+[389] @7709b3 (73) {FC010E}Ash: ¡Hey, {FD01}!\fYa que tienes a tu nuevo Pokémon,\n¿Qué tal si luchamos?
+[390] @770a26 (100) {FC010E}Ash: Excelente batalla {FD01},\nhace mucho que no luchaba así.\fBueno, me despido.\f¡Nos veremos pronto!
+[391] @770a8b (69)  o, he aprendido mucho.\f{FC010E}Ash: Bueno me despido, nos\nveremos pronto!
+[392] @770baa (14)  por el aviso.
+[393] @770d10 (54) {FC010F}Oak: {FD01} tu viaje en\nKanto recién comienza, ¡Suerte!
+[394] @770dec (86) t¡La tecnología es increíble!\f¡Ahora puedes guardar y sacar\nobjetos y POKéMON, vía PC!
+[395] @770e46 (122) {FC0104}Sabes, en este Pueblo han pasado\nmuchísimas cosas, pero en todas\plas oportunidades Ash nos ha\psalvado, ¡El es el mejor!
+[396] @770edc (50) PISTAS ENTRENADOR\f¡Pulsa START para abrir el MENÚ!
+[397] @770f9e (25) {FC0104}{FD01}: ¡QUÉ RAYOS ES ESO!
+[398] @77106c (93) {FC010E}Ash: ¡Hey {FD01}! llegas justo a\ntiempo, estaba a punto de irme.\pVen te presentaré a mi madre.
+[399] @7712df (54) {FC010E}Ash: ¡Lo encontré! ¡Lo encontré!\f¿Se veía algo así?
+[400] @771316 (380)  {FC0104}{FD01}: ¡Sí! ¡Es ese!\f{FC010E}Ash: Mmm, lo suponía, ese\npokémon que viste se llama Ho-oh.\f{FC0104}{FD01}: ¿Ho-oh? ¿Qué sabes de él?\f{FC010E}Ash: También lo vi cuando\ncomencé mi viaje como entrenador\ppokémon.\fUna vez, uno de mis amigos de\nJohto me contó que ese pokémon\ppresagia algo, pero nunca me supo\pexplicar qué.\fAl menos eso es todo lo que sé.\f{FC0104}{FD01}: Gracias Ash, es que me\nmoría de curiosidad.
+[401] @771493 (30) es que me\nmoría de curiosidad.
+[402] @7714c3 (73) {FC010E}Ash: ¡Oh!\nMira la hora que es.\pTengo que irme sino voy a llegar\ptarde.
+[403] @771618 (74) {FC0104}{FD01}: ¡Ahh! un enjambre de {FC0106}BEEDRILL{FC0104},\nmejor me ale{FC010F}Birch: ¡AAAHHH!
+[404] @77166c (59) {FC0104}{FD01}: ¡Ahh! un enjambre de\n{FC0106}BEEDRILL{FC0104}, mejor me alejo.
+[405] @7716cc (28)  {FC0108}¡Mi Spearow es el mejor!
+[406] @7716ea (43) ¿Y tú quién eres? No eres de\nPueblo Paleta.
+[407] @7717bd (55)  ¡Hola! Yo soy la hermana de\n{FC0105}Gary{FC0104}.\f¿Cómo está el?
+[408] @7717f5 (66)  Es divertido dar un paseo de vez\nen cuando, ¿Por qué no lo haces?
+[409] @771838 (57)  ¿Quieres saber algo sobre los 2\ntipos de orugas POKéMON?
+[410] @771872 (40)  Hace tiempo que no voy al BOSQUE\nVERDE.
+[411] @7718a9 (78) ¡CATERPIE no tiene veneno; pero\nWEEDLE, sí!\f¡Cuidado con su PICOTAZO\nVENENOSO!
+[412] @771949 (32) {FC010F}Birch: ¡Alguien que me ayude!
+[413] @77196c (86) {FC010F}Birch: ¡{FC0104}{FD01}{FC010F}! Gracias al cielo\nestás aquí, por favor, ayúdame\pcon este pokémon.
+[414] @7719c5 (517) {FC010F}Birch: Gracias {FC0104}{FD01}{FC010F}, te debo\nuna. Si no hubieses estado aquí,\pquien sabe cómo habría terminado,\pintentaba ver de cerca a ese\p{FC0105}Beedrill {FC010F}cuando me\psorprendió, gracias nuevamente.\f{FC0104}{FD01}: De nada profesor, pero me\npuede decir, ¿Qué hace en\p{FC0106}Kanto{FC0104}?\f{FC010F}Birch: Buena pregunta, resulta\nque encontré nuevos datos sobre\pla investigación que estoy\pllevando junto con el profesor\p{FC0105}Oak{FC010F}, esta vez necesito\pdársela personalmente, me has\payudado muchísimo hasta ahora.\f{FC010F}Ven, acompáñame, quiero\nmostrarte algo.
+[415] @771c35 (148) {FC010F}Birch: {FC0104}{FD01} {FC010F}mira eso,\n¿Quiénes son esos tipos?\f{FC0104}{FD01}: Oh no, son los que me crucé\nantes. Seguro que no buscan nada\pbueno, debemos detenerlos.
+[416] @771ced (156) {FC0108}Rocket 1: Jeje, esos son los {FC0106}Kakuna\n{FC0108}que te dije.\f{FC0104}Rocket 2: Bien, no perdamos el tiempo\ny capturémoslos de una vez.\f{FC0104}{FD01}: ¡Alto ahí ustedes dos!
+[417] @771d8c (51) {FC0108}Rocket 1: ¡Deben ser los que\nnos espiaban antes!
+[418] @771dc7 (103) {FC0104}{FD01}: Ustedes no se robarán\nnada, no los dejaré\f{FC0108}Rocket 1: ¿A sí? Entonces te las\nverás con los dos.
+[419] @771e5e (86) {FC0104}Rocket 2: No importa, aún así nos\nllevaremos esos {FC0106}Kakuna{FC0104}.\f{FD01}: ¡No los dejaré!
+[420] @771eb7 (111) {FC0104}{FD01}: ¿Qué está pasando profesor?\f{FC010F}Birch: Me temo que esos {FC0106}Kakuna {FC010F}están\nevolucionando.\f{FC0104}{FD01}: ¿¡QUÉ!? 
+[421] @771f29 (53) {FC0104}Rocket 2: ¡Son demasiados!\f{FC0108}Rocket 1: ¡A correr!
+[422] @771f61 (283) {FC010F}Birch: Uff, eso sí que fue extraño\n¿No crees?, yo solo quería mostrarte\pese gran nido de {FC0106}Kakuna{FC010F} y resultó\pesta desagradable situación. Bueno\p{FC0104}{FD01}{FC010F}, nos veremos pronto,\pcontinuaré mi camino solo hacia\p{FC0106}Pueblo Paleta.\f{FC0104}{FD01}: Bien profesor, salude a {FC0105}Oak{FC0104}\nde mi parte.
+[423] @77207e (222) {FCFC01}È¡Soy BROCK! ¡LÍDER\ndel GIMNASIO de CIUDAD PLATEADA!\f{FC0105}Brock: Supongo que vienes a\ndesafiarme ¿no? Entonces debes\ptener mucho valor, para ser el\pprimer retador en mucho tiempo.\pBueno, no perdamos más tiempo. ¡A\pluchar!
+[424] @772166 (667) {FC0104}{FD01}: ¿Hola?\f{FC010F}Birch: Hola {FC0104}{FD01}{FC010F}, ¿Cómo has\nestado?\f{FC0104}{FD01}: Bien Prof. Ya he ganado mi\nprimer medalla para la liga de\p{FC0106}Kanto.\f{FC010F}Birch: ¡Felicitaciones\n{FC0104}{FD01}!{FC010F}¡Te lo tienes bien\pmerecido!\fBirch: Ahora cuéntame, ¿A dónde\nirás?\f{FC0104}{FD01}: Hacia {FC0106}Ciudad Celeste{FC0104} en\ndonde está el segundo gimnasio.\p¿Por qué pregunta?\f{FC010F}Birch: Es que necesitamos que\nvuelvas a {FC0106}Pueblo Paleta{FC010F}, asíTe he subestimado.\f¡Como prueba de tu victoria, aquí\ntienes la MEDALLA ROCA!\f{FC0602}¡{FD01} obtuvo la MEDALLA ROCA!{FC17FC}ÎÇÀ{FC08FE}{FC0856}{FC18FB}{FC0604}¡Es una MEDALLA oficial de la LIGA\nPOKéMON!\f¡Hará que tus POKéMON sean\nmucho más fuertes!\f¡Y la técnica del DESTELLO podrá\nser utilizada en todo momento!
+[425] @772404 (199) {FC0105}Brock: En el mundo de los\npokémon nunca tendrás nada fácil,\pasí que debes esforzarte para\pcumplir tus sueños.\fSi te gustan los retos, ¿Por qué\nno vas al gimnasio de CIUDAD\pCELESTE y retas a MISTY?
+[426] @772924 (125) smo.¿Llevas POKé BALLS?\n¡Entonces tú tienes POKéMON!\f¡Es genial poder llevar y usar los\nPOKéMON en cualquier momento\py lugar!
+[427] @7729a2 (71)  Hacia adelante se encuentra el\nBOSQUE VERDE. Todo un desafío\pcruzarlo.
+[428] @7729ea (109)  Gary nunca está en el gimnasio,\nse la pasa investigando con su\pabuelo, si quieres retarlo, debes\paguantarte.
+[429] @772a58 (33)  LA CASA del MAR\n¡BILL vive aquí!
+[430] @772a86 (25) ¡Es ahora o nunca joven! 
+[431] @772aa0 (168)  PISTAS ENTRENADOR\fLos ataques de los POKéMON\ndependen de sus PUNTOS de PODER\po PP.\f¡Para rellenar tus PP, deja que\ntus cansados POKéMON descansen\pen un CENTRO POKéMON!
+[432] @772b49 (127)  ¡Éste es el CENTRO POKéMON!\fNosotros curamos a los POKéMON\ndebilitados.\f¿Quieres que nos ocupemos de los\nPOKéMON de tu equipo?
+[433] @772bc9 (80)  Puedes usar ese PC de la esquina.\f¡Me lo dijo la recepcionista!\n¡Es muy amable!
+[434] @772c1a (108)  PISTAS ENTRENADOR\f¡Atrapa los POKéMON y amplía\ntu colección!\f¡Cuantos más tengas, más fácil\nte será luchar!
+[435] @772d04 (28) ¡Vuelve siempre que quieras!
+[436] @772d83 (52) ¡Parece que {FD02} está jugando\nahora mismo! ¡Conéctate!
+[437] @772dd9 (48)  ¡Auch! ¡Tropecé con un POKéMON\nrocoso, GEODUDE!
+[438] @772e17 (23) ¡Vuelve cuando quieras!
+[439] @772e2f (86)  Inventarse motes es divertido, pero\ndifícil.\fEs más fácil recordar nombres\nsencillos.
+[440] @772eca (60)  ¡Eh!\n¡Hay que tener disciplina para ser\pENTRENADOR POKéMON!
+[441] @772f20 (41) ¿Será posible?\n¡No me quedan más POKéMON!
+[442] @772f72 (40)  ¡Vaya!\n¡Voy a atrapar unos más fuertes!
+[443] @772f9b (42)  ¡Eh, espera!\n¿Por qué tienes tanta prisa?
+[444] @772fdf (10) ¡Me rindo!
+[445] @772fec (91) ¡A veces puedes encontrar cosas\nen el suelo!\f¡Estoy buscando los objetos\nque se me cayeron!
+[446] @773092 (23) ¡Vuelve cuando quieras!
+[447] @7730aa (42)  Los niños pagan 50¥.\f¿Te gustaría entrar?
+[448] @7730ef (59)  ¡Hola!\n¡Me gustan los pantalones cortos!\f¡Son muy cómodos!
+[449] @77312b (39)  GAME HOUSE\n¡Vive los mejores combates!
+[450] @77316b (22) ¡No me lo puedo creer!
+[451] @773184 (75) ¿Estás guardando a tus POKéMON\nen el PC?\f¡Cada CAJA puede tener 30\nPOKéMON!
+[452] @77322d (23) ¡Eres de lo que no hay!
+[453] @773247 (38) ¡Deja de mirarme si no quieres\nluchar!
+[454] @773292 (39)  GAME HOUSE\n¡Vive los mejores combates!
+[455] @7732d2 (37) ¡Con nuevos POKéMON te habría\nganado!
+[456] @7732fa (62) ¡Si una CAJA de POKéMON del PC\nestá llena, cambia a otra CAJA!
+[457] @773339 (42)  ¡Puedes luchar contra mis nuevos\nPOKéMON!
+[458] @7733b6 (57) ¡Los POKéMON entrenados son más\nfuertes que los salvajes!
+[459] @773452 (25) ¡He perdido!\n¡He perdido!
+[460] @773499 (14)  ¿Eso es todo?
+[461] @773568 (23)  ¡Eh!\n¡Me has empujado!
+[462] @773580 (68)  ¡Uff!... Voy a descansar.\nUfff...\f¡Ese túnel a CELESTE es agotador!
+[463] @7735c5 (160)  ¡Anda, la MEDALLA ROCA!\nTe la ha dado BROCK, ¿no?\fBROCK es, además de fuerte, guay.\nTodos lo respetan y admiran mucho.\fYo quiero ser LÍDER de GIMNASIO\ncomo él.
+[464] @773666 (168)  ¡Un puñetazo con rabia\ncontenida!\f¡Condimentado con fuerza\ndescomunal!\f¡Cuando no queda energía,\nMEGAPUÑO es el ataque definitivo!\f¿Qué?\n¿Se lo enseño a algún POKéMON?
+[465] @773774 (29) ¡Oh! ¡Mi pobre hongo POKéMON!
+[466] @77379a (40) ¿A qué POKéMON quieres que se\nlo enseñe?
+[467] @7737c5 (133) ¡Ya usamos los puños de la\nmisma forma!\f¡Hala, vete antes de que le entren\nganas de luchar a mi colega:\pes un flipado de las patadas!
+[468] @77384d (56) ¡Cuando comprendas el significado\nde MEGAPUÑO, volverás!
+[469] @773888 (54) Este movimiento sólo se puede\naprender una vez, ¿vale?
+[470] @7738bf (175)  ¡Una buena patada con rabia\ncontenida!\f¡Condimentada con fuerza\ndescomunal!\f¡Cuando no quede energía,\nMEGAPATADA es el ataque\pdefinitivo!\f¿Qué?\n¿Se lo enseño a algún POKéMON?
+[471] @77396f (69)  ¡Puede que no haya más hongos\npor aquí!\fCreo que ya los tengo todos.
+[472] @7739fa (40) ¿A qué POKéMON quieres que se\nlo enseñe?
+[473] @773a25 (132) ¡Ya damos patadas de la\nmisma forma!\f¡Hala, vete antes de que le entren\nganas de luchar a mi colega:\pes un flipado de los puñetazos!
+[474] @773aac (67) ¡Cuando comprendas el significado\nde MEGAPATADA, volverás llorando!
+[475] @773af0 (35)  ¡Mis POKéMON no lo han conseguido!
+[476] @773b14 (103)  Estoy buscando fósiles en las\nentrañas del MT. LUNA.\fA veces me ayuda BROCK,\ndel GIMNASIO de PLATEADA.
+[477] @773b7c (49)  ¡Uau! ¡Esto es mucho más grande\nde lo que creía!
+[478] @773bc7 (17) ¡Oh!\n¡He perdido!
+[479] @773bd9 (53)  ¡Wow!\n¡Me has impresionado!\p¡Pero si eres muy joven!
+[480] @773c4d (32) ¡No tienes edad para estar aquí!
+[481] @773d16 (222)  ¡Hola, aspirante al título!\f¡Un consejo!\f¡La LÍDER, MISTY, es profesional\ny usa POKéMON acuáticos!\f¡Puedes absorber toda su agua con\nlos POKéMON del tipo PLANTA!\f¡O dejarlos hechos polvo usando\nPOKéMON del tipo ELÉCTRICO!
+[482] @773e16 (83) ¡Has ganado a MISTY!\n¡No sé qué decirte!\f¡Tú y yo formaríamos un equipo\ninvencible!
+[483] @773e6a (290)  ¡Hola, aspirante al título!\f¡Un consejo!\f¡La LÍDER, MISTY, es profesional\ny usa POKéMON acuáticos!\f¡Puedes absorber toda su agua con\nlos POKéMON del tipo PLANTA!\f¡O dejarlos hechos polvo usando\nPOKéMON del tipo ELÉCTRICO!\f¿Quieres otra pista? ¿Por qué no\nintentas entrar con menos POKéMON?
+[484] @773f8d (24)  ¿Cómo he podido perder?
+[485] @773fa6 (25)  ¡Oye!\n¡Me has machacado!
+[486] @773fc0 (28)  ¡Hola!\n¡Mi chico es genial!
+[487] @77401f (27) ¡He hecho lo que he podido!
+[488] @774129 (115)  ¡{FD01}! ¡Por fin vienes a retarme!\n¡Espero que no te haya costado\pvenir hasta aquí! ¡Dejemos la\ppalabrería, a luchar!
+[489] @77419d (33)  Se ve que te encanta venir\naquí.
+[490] @7741bf (32)  Acabo de ver correr un AZURILL.
+[491] @7741e0 (31)  ¡No estaba en muy buena forma!
+[492] @774220 (27) ¡Uauu!\n¡Ha sido mucha tela!
+[493] @77423e (27) ¡He hecho lo que he podido!
+[494] @77425c (32) ¡Muy bien, voy a acabar contigo!
+[495] @77427d (31)  ¡Vi tu hazaña desde la hierba!
+[496] @77429d (41)  ¡Ojalá mi chico fuera tan bueno\ncomo tú!
+[497] @7742dd (30) ¡Creía que no me ibas a ganar!
+[498] @774327 (100) ¡Uauuu!\n¡Eres demasiado!\f¡Muy bien!\f¡Toma la MEDALLA CASCADA para que\ntodos sepan que me has ganado!
+[499] @77438e (65) ¡La MT03 enseña HIDROBOMBA!\f¡Úsala con los POKéMON del tipo\nAGUA!
+[500] @7743d2 (243) ¡La MEDALLA CASCADA obligará a\ntodos los POKéMON por debajo del\pnivel 30 a obedecer!\f¡Incluidos los forasteros!\f¡Y podrás usar CORTAR siempre que\nquieras!\f¡Puedes CORTAR pequeños arbustos\npara abrir nuevos caminos!\f¡Voy a darte mi MT favorita!
+[501] @7744c8 (37) ¡{FD01} obtuvo la MT03\nde manos de MISTY!
+[502] @7744f0 (29) ¡Más vale que le hagas sitio!
+[503] @77450e (47)  ¡Me oculté porque me asustaron\nlos de la ruta!
+[504] @77453e (25)  ¡Te has esforzado mucho!
+[505] @774558 (58)  ¡Hola!\n¡Mi chico es genial!\p¡Y hoy me encuentro en forma!
+[506] @7745a7 (53)  Mi amigo tiene unos POKéMON\nmuy monos. ¡Qué envidia!
+[507] @774667 (58)  ¡Estoy buscando a un coleccionista\nde POKéMON en el cabo!
+[508] @7746b9 (42) ¿Vienes del MT. LUNA?\n¿Me das un CLEFAIRY?
+[509] @774721 (75) ¡Hay un POKéMANÍACO viviendo\nen el cabo!\f¿Has visto la colección que tiene?
+[510] @77476d (25)  ¡Sabía que iba a perder!
+[511] @774848 (87)  BULBASAUR es tu elección.\nEs fácil de criar.\f{FD01}, ¿Quieres al Pokémon\nplanta BULBASAUR?
+[512] @7748a3 (194)  Actualmente Birch y yo estamos\ntrabajando juntos, y necesitamos\pque vengas a la región de Kanto,\pseguramente ya te lo comentó él\pmismo.\fBien, ahora necesito tus datos\npara completar tu pasaje.\p
+[513] @774a5f (86) ¡Hm! Ése es SQUIRTLE.\nSí, es muy bonito.\f{FD01}, ¿te decides por el\nPokémon agua SQUIRTLE?
+[514] @774abe (79) ¡Ah! CHARMANDER\nDicen que son leales.\f{FD01}, ¿quieres al Pokémon\nfuego CHARMANDER?
+[515] @774d75 (59) lauta de cristal azul que\ndespierta a los POKéMON\ndormidos.
+[516] @775162 (173) aré.{FC010F}Oak: Además, recuerda, si\nnecesitas curar a tus pokémon,\ppuedes usar la máquina que tienes\pa mi derecha.\f{FD01} tu viaje en Kanto recién\ncomienza, ¡Te deseo mucha suerte!

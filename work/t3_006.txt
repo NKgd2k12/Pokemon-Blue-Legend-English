@@ -1,0 +1,40 @@
+[240] @727eff (119) {FC0104}{FD01}: ¿El {FC0106}Equipo Rocket{FC0104}?\nYo puedo ayudar a detenerlos, ya\plos he derrotado en el museo de\p{FC0106}Ciudad Plateada{FC0104}.
+[241] @7281b5 (41) {FC0102}¡{FD01} recibió un HUEVO de parte\nde Bill!
+[242] @72827c (42) {FC0106}Bill: ¡Hey! ¡Todavía estoy aquí\ndentro!
+[243] @728ac7 (23) {FC0104}Rocket 4: ¡Mi turno!
+[244] @728aeb (70) {FC0106}Admin: ¡Inútiles! ¡No pueden\nvencer ni a una mosca!\p¡Yo me encargo!
+[245] @728b3a (37) Admin: ¡No puede ser!\n¡Es muy fuerte!
+[246] @728b6b (140) {FC0106}Admin: ¡Grr!\fNo puede ser, me has vencido,\npero no importa,\pnosotros ya tenemos lo que\pqueremos, es hora de largarnos de\paquí, ¡Jajajaja!
+[247] @728c22 (123) {FC0106}Admin: ¡Idiotas! ¡Solo tenían\nque traer la pokéball de\p{FC0108}SUICUNE{FC0106} y ya tendríamos todo\plo que buscábamos!\f¡Imbéciles!
+[248] @728ca0 (31) {FC0106}Admin: ¡Larguémonos de aquí!
+[249] @728fc8 (30) {FC0104}{FD01}: ¡Uff! ¡Eso fue difícil!
+[250] @72912f (11) ÚÚÚŒŒÚÚÚÚÀ\n
+[251] @72913b (10) ŒÚÚÚŒŒÚÚÀ\n
+[252] @729633 (22) {FC0106}Bill: ¡Otra vez no!
+[253] @72964c (188) {FC0106}Bill: No solo eso, además de\nhaberlo inventado, también tengo\puna vasta colección de pokémon,\pjustamente por eso inventé el\psistema. Así que fue {FC010E}Ash{FC0106}\pquien te mandó, ¿Cómo está el?
+[254] @7297b9 (119) {FC0104}{FD01}: ¿El {FC0106}Equipo Rocket{FC0104}?\nYo puedo ayudar a detenerlos, ya\plos he derrotado en el museo de\p{FC0106}Ciudad Plateada{FC0104}.
+[255] @729a6f (41) {FC0102}¡{FD01} recibió un HUEVO de parte\nde Bill!
+[256] @729dd2 (34) {FC0104}{FD01}: ¡Lance se encarga de ellos!
+[257] @72a1bd (84) Estoy buscando un buen entrenador\npara que cuide a este pequeñín.\f¿Conoces a alguno?
+[258] @72a214 (26) ¡Cuida bien de ese PIPLUP!
+[259] @72a231 (70) ¡Oh!\f¡Ésa es la medalla cascada!\f¿Te gustaría conservar a este\nPIPLUP?
+[260] @72a27a (25) {FC0102}¡{FD01} recibió un PIPLUP!
+[261] @72a296 (46) ¡Qué lastima! ¡Ya encontraré\nalgún interesado!
+[262] @72a99e (31)  ¿Has visto a un niño por aquí?
+[263] @72ab3b (94) {FC010C}Mama de ash: Hola {FD01}, ¿Cómo vas\nen tu aventura?\fSeguro que genial, quiero\nobsequiarte esto.
+[264] @72ab9c (23) {FC0102}¡{FD01} recibió un MAPA!
+[265] @72ac2f (77) {FC010C}Mama de ash: Es un mapa de la\nregión, te servirá en tu viaje.\f¡Suerte {FD01}!\n
+[266] @72acc1 (90) {FC0106}Mamá de Ash: Hola {FD01},\n¿Cómo va tu aventura?\fSeguro que genial, quiero\nobsequiarte esto.
+[267] @72ad22 (23) {FC0102}¡{FD01} recibió un MAPA!
+[268] @72adb5 (77) {FC0106}Mamá de Ash: Es un mapa de la\nregión, te servirá en tu viaje.\f¡Suerte {FD01}!\n
+[269] @72aeef (40) ¿Por qué tuvieron que cerrar mi\nescuela?
+[270] @72af23 (96) Mi pokémon favorito es\nCHARMANDER.\f¿Cuál es el tuyo?\f¡Vamos! ¡Todos tenemos un pokémon\nfavorito!
+[271] @72b006 (50) ¡Ahora puedo jugar batallas online con mis amigos!
+[272] @72b044 (97) El sistema de PC lo inventó Bill.\n¿Quién sabe que maravillosas\pcosas habrá inventado hasta ahora?
+[273] @72b0b1 (50) ¡Ahora puedo jugar batallas\nonline con mis amigos!
+[274] @72b197 (39) ¡Puedo hablar con mi suegra desde\naquí!
+[275] @72b1ca (42) ¡Oh, tu también vienes a ver los\ncombates!
+[276] @72b247 (38) ¡Estoy jugando al pokémon\nBlack&White!
+[277] @72b279 (46) ¡Misty es muy difícil de vencer\nen este juego!
+[278] @72b2b1 (40) ¡Grr!\f¡Éste CLAFAIRY es muy escurridizo!
+[279] @72b2e5 (40) ¡Grr!\f¡Éste CLAFAIRY es muy escurridizo!

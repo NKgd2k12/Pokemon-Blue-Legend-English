@@ -1,0 +1,40 @@
+[0] @1724f9 (137) ¡Eh, espera!\n¿Por qué tienes tanta¡Me rindo!\n¡¡A veces puedes encontrar cosas\nen el suelo!\f¡Estoy buscando los objetos\nque se me cayeron!
+[1] @17281d (26) ¿Estás aquí para explorar?
+[2] @172844 (19) ¡Perder es lo peor!
+[3] @172863 (41) ¡Vine aquí para impresionar\na las chicas!
+[4] @1728d2 (22) ¿Cómo se sale de aquí?
+[5] @17290b (26) ¡Eh!\n¡No te pases conmigo!
+[6] @17293c (36) ¡Debo encontrar POKéMON\nmás fuertes!
+[7] @172972 (40) ¿Qué?\nEstoy esperando aquí a mis amigos.
+[8] @172a22 (32) isteEsta cueva es muy tenebrosa.
+[9] @172a55 (46) ¡Cruza esta cueva y llegarás\na CIUDAD CELESTE!
+[10] @172a97 (50) ¡ZUBAT es muy fuerte!\n¡Atrapar uno sería muy útil!
+[11] @172ae0 (23) ¡Cuidado con los\nZUBAT!
+[12] @172f60 (96) {FC0106}Cap. Arenque: Desde unos meses\nestoy a cargo de este crucero\ppero sin Peeko no es lo mismo...
+[13] @1775dc (10) ÈÒçè ÀÊúòŒ
+[14] @184c1d (15) Ha-hahah-ah-ha!
+[15] @184c2d (50) Ha-haha!\nNot laughing!\pHa-hay fever! Haha-ha-choo!
+[16] @184c60 (37) Haha-ha-choo!\nHa-choo!\pSnort! Snivel!
+[17] @188f53 (27) ¡He hecho lo que he podido!
+[18] @188f76 (29) ¡Ya casi cruzas toda la ruta!
+[19] @188fc9 (15) ¡Esto es serio!
+[20] @188ff9 (27) ¡He hecho lo que he podido!
+[21] @18908c (12) ¡Bien hecho!
+[22] @18909e (27) ¡He hecho lo que he podido!
+[23] @189165 (53) ¡Los ENTRENADORES de la zona\nvienen aquí a practicar!
+[24] @1891eb (34) Soy un buen chico.\n¡Y tengo novia!
+[25] @1892a9 (38) ¡Sabía que tendría que luchar\ncontigo!
+[26] @1893a7 (47) ¡Acabo de bajar del MT. LUNA,\npero estoy listo!
+[27] @1893fb (34) ¡Aaaaargh!\nMe ha mordido un ZUBAT.
+[28] @189459 (15) ¡Me has ganado!
+[29] @1894de (42) ¿Vas a ver a BILL?\n¡Pues luchemos primero!
+[30] @18950a (10) ¡Me rindo!
+[31] @18ddea (17) ¿QUÉ?\n¡Imposible!
+[32] @18de1a (13) Ash: ¡Éso es!
+[33] @18e177 (26) OAK: ¡No te vayas todavía!
+[34] @18e194 (77) Ah! CHIMCHAR\nDicen que son muy leales.\f{FD01}, quieres al pokémon\nfuego CHIMCHAR?
+[35] @18e207 (88) Hm! PIPLUP es tu eleccion.\nSi es muy bonito.\f{FD01}, te decides por el \npokémon agua PIPLUP?
+[36] @18e272 (85) TURTWIG es tu elección.\nEs muy facil de criar.\f{FD01}, quieres al pokémon\nplanta TURTWIG?
+[37] @18e30d (31) ¡{FD01} recibió a {FD02}\ndel PROF. OAK!
+[38] @18e9e5 (46) Una Pokedex 2000!\ntiene sus páginas en blanco.
+[39] @18ea19 (40) Son POKéBALLS.\n¡Éstas contienen POKéMON!

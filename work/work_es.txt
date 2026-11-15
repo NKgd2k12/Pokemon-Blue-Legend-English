@@ -1,0 +1,592 @@
+#0 @172559 [41] y buscando los objetos\nque se me cayeron!
+#1 @17293d [35] Debo encontrar POKéMON\nmás fuertes!
+#2 @1729ac [42] Dicen que aquí hay unos fósiles\nmuy raros.
+#3 @172a26 [28] Esta cueva es muy tenebrosa.
+#4 @172ee7 [26] Lo siento no puedes pasar.
+#5 @17325c [18] es CUT\nto POKéMON!
+#6 @173570 [46] Er-hem!\nIndeed I am le CHEF!\fLe main course is
+#7 @17482c [17] No!\nUnbelievable!
+#8 @1759ca [17] me study POKéMON.
+#9 @175a2f [43] TEAM ROCKET has taken control\nof SILPH CO.!
+#10 @17a004 [18] Ghost! No!\nKwaaah!
+#11 @17f2cf [61] Tengo mucha hambre, pero no tengo\ndinero para comprarme nada.
+#12 @17fec3 [47] Pueden verse monedas en el fondo\nde ésta fuente
+#13 @181e33 [19] y more merchandise.
+#14 @18211c [8] o\nKANTO!
+#15 @1838c0 [16] Ruta 3\nMT. LUNA.
+#16 @1839b4 [32] RUTA 4\nMT. LUNA - CIUDAD CELESTE
+#17 @183ec0 [19] No!\nYou're kidding!
+#18 @184143 [9] y a game!
+#19 @18490f [12] atronize me!
+#20 @184ad5 [27] Hahahaha!\nYou beat me fair!
+#21 @184c1d [15] Ha-hahah-ah-ha!
+#22 @184c2d [50] Ha-haha!\nNot laughing!\pHa-hay fever! Haha-ha-choo!
+#23 @184c60 [37] Haha-ha-choo!\nHa-choo!\pSnort! Snivel!
+#24 @1850dc [12] ve me alone!
+#25 @186612 [10] No, wrong!
+#26 @18921d [27] Bueno, mi chica me animará.
+#27 @18947e [44] El coleccionista tiene muchos\nPOKéMON raros.
+#28 @18951c [46] La ruta de abajo es un atajo\na CIUDAD CELESTE.
+#29 @18dce2 [60] {FC010E}Ash: Vamos {FD01}, elige uno\nde los pokémon, no tengas miedo.
+#30 @18dd75 [39] {FC010E}Ash: {FD01} tu pokémon se ve\nmuy fuerte.
+#31 @18e116 [87] {FC010F}Oak: Bueno {FD01}.\fDentro de esas pokéballs te espera\ntu nuevo pokémon, elige sin miedo.
+#32 @18e128 [69] Dentro de esas pokéballs te espera\ntu nuevo pokémon, elige sin miedo.
+#33 @18e133 [58] sas pokéballs te espera\ntu nuevo pokémon, elige sin miedo.
+#34 @18e14b [34] tu nuevo pokémon, elige sin miedo.
+#35 @18e330 [111] {FC010F}Oak: Cuando un pokémon salvaje\naparezca, debes luchar contra él\pcon tus pokémon, así ve de ciudad\pen ciudad.
+#36 @18e3ad [69] {FC010F}Oak: {FD01}, a medida de\nque luches, tus pokémon se haran\pmás fuertes.
+#37 @18ea84 [45] La opción guardar sirve mucho,\nÚsala seguido.
+#38 @18eab6 [55] Todos los pokemons tienen\npuntos fuertes y debilidades.
+#39 @18ed15 [52] El profesor Oak tiene su\nprograma de radio en Jhoto!
+#40 @190100 [14] o cure poison!
+#41 @190183 [21] he\nsuffering POKéMON.
+#42 @19032c [78] Yo tengo algunas POCIONES.\fNunca sabes cuándo pueden\nnecesitarlas tus POKéMON.
+#43 @190945 [46] Fósil AERODACTYL.\nUn primitivo y raro POKéMON.
+#44 @190946 [45] ósil AERODACTYL.\nUn primitivo y raro POKéMON.
+#45 @19094c [39] ERODACTYL.\nUn primitivo y raro POKéMON.
+#46 @190975 [44] Fósil KABUTOPS.\nUn primitivo y raro POKéMON.
+#47 @190978 [41] il KABUTOPS.\nUn primitivo y raro POKéMON.
+#48 @190fdb [25] {FD01} recibió TM39\nde BROCK.
+#49 @1924e4 [20] No vencerás a MISTY.
+#50 @198df9 [69] WARDEN: Hif fuff hefifoo!\fHa lof ha feef ee hafahi ho.\nHeff hee fwee!
+#51 @198e63 [32] Ha?\nHe ohay heh ha hoo ee haheh!
+#52 @199afc [25] Fire is weak against H2O.
+#53 @19d9d4 [70] Tengo 6 POKé BALLS en mi cinturón.\fPuedes llevar 6 POKéMON como\nmucho.
+#54 @19d9e3 [55] LLS en mi cinturón.\fPuedes llevar 6 POKéMON como\nmucho.
+#55 @19dc3e [52] Tienes demasiados POKéMON.\nNo queda sitio para éste.
+#56 @19fd60 [10] Excuse me!
+#57 @1a0dfc [26] he\nreigning POKéMON CHAMP!
+#58 @1a4d47 [42] precisely because\nmy neighbor measured me.
+#59 @1a5075 [20] {FD01} encendió el PC.  
+#60 @1a50a7 [22] Accedió al PC.        
+#61 @1a50be [30] Sistema de almacenamiento\nPKMN
+#62 @1a5375 [60] Puedes asignar un objeto de la \nMOCHILA con el Botón SELECT.
+#63 @1a5420 [32] {FD01}: Ya deberiamos haber llegado.
+#64 @1a5a71 [13] ste no es {FD02}.
+#65 @1b7d3e [6] ID No.
+#66 @1b7e02 [6] ID No.
+#67 @1ba30a [21] Own move type: NORMAL
+#68 @1ba320 [24] Own POKéMON type: NORMAL
+#69 @1c1088 [18] no meter el dedo!\p
+#70 @1c1089 [17] o meter el dedo!\p
+#71 @1c109c [36] Es un teléfono\nSerá mejor no usarlo.
+#72 @1c124b [38] Muchas herramientas POKéMON\nordenadas.
+#73 @1c1300 [55] Está saliendo un POKéMON\npor la TV, se le ve encantado.
+#74 @1c1c4f [38] Ha-hahah-ah-ha!\nI can't stop sneezing!
+#75 @1c2800 [19] ese off some loser!
+#76 @1c2890 [16] y POKéMON\nagain?
+#77 @1c28da [17] le brother\nagain?
+#78 @1c3021 [12] le swimming.
+#79 @1c39f8 [12] me exercise?
+#80 @1c5aeb [175] También se han agregado algunas\nfuncionalidades y gráficos, adecuando\na lo que será la beta 2, que\nactualmente se encuentra en desarrollo\n\nFecha de lanzamiento -Marzo de 2019-
+#81 @1c5d4b [113] Actualmente hay muchas especies\ndistintas y muchas por conocer.\fParece que ya sabes esto... no voy\na joderte mas\p
+#82 @1c5dbd [42] Ahora necesito tus datos\npara tu pasaje.\f\n
+#83 @1c5dea [38] Bueno ahora debes decirme\ntu nombre.\f\n
+#84 @1c5e13 [26] Así que tu nombre es {FD01}.\f\n
+#85 @1d3228 [10]  ï VÀí Ô T
+#86 @3d4f26 [57] Es muy buena. Tiene más índice\nde éxito que la SUPERBALL.
+#87 @3d4f28 [55]  muy buena. Tiene más índice\nde éxito que la SUPERBALL.
+#88 @3d4f78 [84] Es buena. Tiene más índice\nde éxito que la POKé BALL.         \n                     
+#89 @3d4fd0 [71] Sirve para atrapar POKéMON\nsalvajes. Parece una cápsula.       \n       
+#90 @3d501a [89] Tiene una función especial.\nSe usa en la ZONA SAFARI.\nTiene acabado de camuflaje.\n       
+#91 @3d5077 [80] Es algo distinta.\nFunciona bien con los POKéMON\nde tipo AGUA y BICHO.           
+#92 @3d50cc [78] Es algo distinta.\nFunciona mejor con los POKéMON\ndel fondo del mar.           
+#93 @3d511d [70] Es algo distintEs algo distinta.\nFunciona mejor al avanzar\nel combate.
+#94 @3d5165 [85] Es algo distinta. Funciona mejor\ncon los POKéMON que son\niguales a los que ya tienes.
+#95 @3d5216 [74] Es muy acogedora. Hace que\nlos POKéMON se vuelvan cada\nvez más simpáticos.
+#96 @3d5263 [75] Es muy particular. Se hizo\npara conmemorar algo.\n                          
+#97 @3d52b2 [74] Medicina en spray, que cura heridas\ny restaura 20 PS de un POKéMON.\n      
+#98 @3d52ff [52] Medicina en spray, que cura a un\nPOKéMON envenenado.
+#99 @3d533d [49] Medicina en spray, que cura a un\nPOKéMON quemado.
+#100 @3d5374 [47] Medicina en spray, que descongela\na un POKéMON.
+#101 @3d53a7 [51] MeEs la mejor. Atrapa siempre\nal POKéMON. No falla.
+#102 @3d53a9 [49] Es la mejor. Atrapa siempre\nal POKéMON. No falla.
+#103 @3d541b [61] Medicina que restaura todos los PS\ny el estado de un POKéMON.
+#104 @3d54b5 [68] Medicina en spray, que cura heridas\ny restaura 200 PS de un POKéMON.
+#105 @3d5503 [67] Medicina en spray, que cura heridas\ny restaura 50 PS de un POKéMON.
+#106 @3d5550 [66] Medicina en spray, que cura\nlos problemas de estado de un\nPOKéMON.
+#107 @3d5598 [76] Medicina que hace revivir a un\nPOKéMON debilitado.\nLe da la mitad de los PS.
+#108 @3d562b [65] Agua de alto contenido mineral,\nque restaura 50 PS de un POKéMON.
+#109 @3d567e [59] Chispeante bebida gaseosa que\nrestaura 60 PS de un POKéMON.
+#110 @3d56c2 [46] Bebida dulce que restaura 80 PS\nde un POKéMON.
+#111 @3d5706 [65] Leche de alto valor nutritivo, que\nrestaura 100 PS de un POKéMON.
+#112 @3d574f [60] Polvo medicinal muy amargo que\nrestaura 50 PS de un POKéMON.
+#113 @3d579e [50] Raíz muy amarga que restaura\n200 PS de un POKéMON.
+#114 @3d57e3 [67] Polvos muy amargos que curan\nlos problemas de estado de un\nPOKéMON.
+#115 @3d5833 [73] Hierba que hace revivir\na un POKéMON debilitado restaurando\ntodos sus PS.
+#116 @3d5883 [51] Restaura 10 PP del ataque\nque elijas de un POKéMON.
+#117 @3d58f4 [50] Restaura 10 PP de todos\nlos ataques de un POKéMON.
+#118 @3d59ef [54] Flauta de cristal que\nespabila a los POKéMON\nconfusos.
+#119 @3d5a2d [57] Flauta que pone fin a\nla atracción que siente un\nPOKéMON.
+#120 @3d5a6a [57] Flauta de cristal negro que aleja\na los POKéMON salvajes.
+#121 @3d5ab8 [58] Flauta de cristal blanco que atrae\na los POKéMON salvajes.
+#122 @3d5b06 [51] Zumo 100( natural que restaura\n20 PS de un POKéMON.
+#123 @3d5b7a [61] Sal pura, procedente de lo\nmás profundo de la CUEVA\nCARDUMEN.
+#124 @3d5bc5 [61] Bella concha marina de lo más\nprofundo de la CUEVA CARDUMEN.\n
+#125 @3d5d50 [50] Nutritiva bebida que aumenta los PS\nde un POKéMON.
+#126 @3d5d96 [53] Nutritiva bebida que aumenta\nel ATAQUE de un POKéMON.
+#127 @3d5de5 [54] Nutritiva bebida que aumenta\nla DEFENSA de un POKéMON.
+#128 @3d5e35 [53] Nutritiva bebida que sube\nla VELOCIDAD de un POKéMON.
+#129 @3d5e83 [52] Nutritiva bebida que sube\nel AT. ESP. de un POKéMON.
+#130 @3d5ed3 [60] Caramelo rebosante de energía.\nAumenta 1 nivel a un POKéMON.
+#131 @3d5f20 [64] Aumenta algo los PP máximos del\nataque que elijas de un POKéMON.
+#132 @3d5f63 [56] Nutritiva bebida que aumenta\nla DEF. ESP. de un POKéMON.
+#133 @3d5fb3 [54] Sube al máximo PP del ataque\nque elijas de un POKéMON.
+#134 @3d5ffa [77] Evita que bajen las stats\ndel equipo POKéMON durante\ncinco turnos en combate.
+#135 @3d604d [81] Aumenta el índice de golpe crítico\nen combate. Al cambiar de\nPOKéMON, desaparece.
+#136 @3d60a8 [74] Aumenta el ATAQUE en combate.\nAl cambiar de POKéMON, el efecto\ndesaparece.
+#137 @3d60fc [75] Aumenta la DEFENSA en combate.\nAl cambiar de POKéMON, el efecto\ndesaparece.
+#138 @3d6151 [77] Aumenta la VELOCIDAD en combate.\nAl cambiar de POKéMON, el efecto\ndesaparece.
+#139 @3d61a4 [82] Aumenta la PRECISIÓN de los\nataques en combate. Al cambiar\nde POKéMON, desaparece.
+#140 @3d61fa [76] Aumenta el AT. ESP. en combate.\nAl cambiar de POKéMON, el efecto\ndesaparece.
+#141 @3d624f [70] Llamativo muñeco.\nSirve para huir de un combate\ncon un POKéMON salvaje
+#142 @3d6297 [70] Llamativo objeto.\nSirve para huir de un combate\ncon un POKéMON salvaje
+#143 @3d62df [53] Repele POKéMON salvajes\nen un recorrido de 200 pasos.
+#144 @3d6318 [53] Repele POKéMON salvajes\nen un recorrido de 250 pasos.
+#145 @3d639c [53] Repele POKéMON salvajes\nen un recorrido de 100 pasos.
+#146 @3d63d5 [79] Curiosa piedra que hace\nevolucionar a especies de POKéMON.\nEs roja como el sol.
+#147 @3d642d [85] Curiosa piedra que hace\nevolucionar a especies de POKéMON.\nEs negra como el azabache.
+#148 @3d648d [83] Curiosa piedra que hace\nevolucionar a especies de POKéMON.\nEs naranja como el fuego
+#149 @3d64e2 [84] Curiosa piedra que hace\nevolucionar a especies de POKéMON.\nTiene dibujado un trueno.
+#150 @3d653f [86] Curiosa piedra que hace\nevolucionar a especies de POKéMON.\nEs azul claro como el agua.
+#151 @3d6598 [83] Curiosa piedra que hace\nevolucionar a especies de POKéMON.\nTiene dibujada una hoja.
+#152 @3d65ee [57] Seta pequeña y poco comùn.\nHay gente a la que le encanta.
+#153 @3d6633 [56] Seta grande y poco comùn.\nHay gente a la que le encanta.
+#154 @3d6677 [87] Bonita y brillante perla plateada\nde tamaño más bien pequeño\nque se vende a bajo precio
+#155 @3d669e [48] maño más bien pequeño\nque se vende a bajo precio
+#156 @3d66d0 [82] Bonita y brillante perla plateada\nde tamaño muy grande que se\nvende a alto precio.
+#157 @3d672c [61] Bonita arena roja de tacto\nsedoso que se vende a alto precio.
+#158 @3d6778 [53] Trozo de bonita gema roja\nque se vende a alto precio.
+#159 @3d67ce [76] Pepita de oro puro que emite\nun brillo espectacular.\nSe vende a alto precio.
+#160 @3d6c6b [64] Cuando la lleve un POKéMON, lo\nliberará de parálisis en combate.
+#161 @3d6cb0 [53] Cuando la lleve un POKéMON,\nlo despertará en combate.
+#162 @3d6cee [64] Cuando la lleve un PKMN, lo curará\nde envenenamiento en combate.
+#163 @3d6d30 [61] Cuando la lleve un PKMN, le curará\nlas quemaduras en combate.
+#164 @3d6d72 [55] Cuando la lleve un POKéMON,\nlo descongelará en combate.
+#165 @3d6db4 [59] Cuando la lleve un POKéMON,\nle restaurará 10 PP en combate.
+#166 @3d6df8 [59] Cuando la lleve un POKéMON,\nle restaurará 10 PS en combate.
+#167 @3d6e3c [62] Cuando la lleve un POKéMON,\nlo sacará del estado de confusión.
+#168 @3d6e81 [62] Cuando la lleve un POKéMON,\nle curará los problemas de estado.
+#169 @3d6ec8 [59] Cuando la lleve un POKéMON,\nle restaurará 30 PS en combate.
+#170 @3d6f0c [47] Al llevarla, restaura PS,\npero puede confundir.
+#171 @3d6f4c [47] Al llevarla, restaura PS,\npero puede confundir.
+#172 @3d6f8c [47] Al llevarla, restaura PS,\npero puede confundir.
+#173 @3d6fcc [47] Al llevarla, restaura PS,\npero puede confundir.
+#174 @3d700c [47] Al llevarla, restaura PS,\npero puede confundir.
+#175 @3d771e [53] Al llevarlo, lanza un destello\nque baja la PRECISIÓN.
+#176 @3d777c [85] Al llevarla, restaura cualquier\ncaracterística debilitada.\nSólo puede usarse una vez.
+#177 @3d779b [54] \ncaracterística debilitada.\nSólo puede usarse una vez.
+#178 @3d77b7 [26] Sólo puede usarse una vez.
+#179 @3d77df [60] Al llevarla, se crece con\nfacilidad, pero baja la VELOCIDAD.
+#180 @3d783d [78] Al llevarlo, se toman puntos\nde EXP. de los combates,\nsin que haya que luchar.
+#181 @3d789f [75] Al llevarla, se puede golpear\nen primer lugar.\nEs una garra ligera y veloz.
+#182 @3d7900 [51] Al llevarla, calma los ánimos\ny fomenta la amistad.
+#183 @3d7969 [81] Al llevarla, los POKéMON\nse liberan del enamoramiento.\nSólo puede usarse una vez.
+#184 @3d79c7 [56] Aumenta la fuerza de un ataque,\npero sólo deja usar ése.
+#185 @3d7a22 [56] Al llevarla, puede debilitarte\ncuando hieres a tu rival.
+#186 @3d7a76 [53] Al llevarlo, se fortalecen\nlos ataques de tipo BICHO.
+#187 @3d7ad6 [58] Si el que lo lleva lucha en un\ncombate, duplica el dinero.
+#188 @3d7b36 [70] Al llevarlo el primero del equipo,\nlos POKéMON salvajes no se\nacercan.
+#189 @3d7b93 [65] Al llevarlo, suben el AT. ESP. y\nla DEF. ESP. de LATIOS y LATIAS.
+#190 @3d7be5 [64] Al llevarlo, sube el AT. ESP.\nde CLAMPERL.\nBrilla como la plata.
+#191 @3d7c45 [67] Al llevarla, sube la DEF. ESP.\nde CLAMPERL.\nTiene un brillo rosado.
+#192 @3d7ca4 [53] Se usa para huir de combates\ncontra POKéMON salvajes.
+#193 @3d7d02 [56] El POKéMON que lleve esta piedra\nmágica no evolucionará.
+#194 @3d7d53 [77] Al llevarla, quizá evites\ndebilitarte. Puede que al menos\nte quedes con 1 PS.
+#195 @3d7d78 [40] . Puede que al menos\nte quedes con 1 PS.
+#196 @3d7db1 [83] Al llevarlo, ganarás muchos más\npuntos de EXP. en combate.\nEstá lleno de felicidad.
+#197 @3d7e17 [62] Al llevarlo, la lente aumenta\nla posibilidad de golpe crítico.
+#198 @3d7e7a [70] Al llevarlo, la película metálica\nfortalece los ataques de tipo\nACERO.
+#199 @3d7ede [56] Al llevarlos, van restaurando\nlos PS durante el combate.
+#200 @3d7f08 [14] te el combate.
+#201 @3d7f37 [61] Peculiar escama que\npueden llevar los POKéMON\nde tipo DRAGÓN.
+#202 @3d7f79 [67] Al llevarla, el AT. ESP. \nde PIKACHU aumentará.\nPuede dar calambre.
+#203 @3d7fd5 [74] Al llevarla, la suavidad de la\narena fortalece los ataques\nde tipo TIERRA.
+#204 @3d8036 [73] Al llevarla, la robustez de la\npiedra fortalece los ataques\nde tipo ROCA.
+#205 @3d8096 [77] Al llevarla, la vitalidad de la\nsemilla fortalece los ataques\nde tipo PLANTA.
+#206 @3d80fa [58] Al llevarlas, se fortalecen\nlos ataques de tipo SINIESTRO.
+#207 @3d8158 [75] Al llevarlo, aumenta la decisión\ny se fortalecen los ataques\nde tipo LUCHA.
+#208 @3d81b3 [74] Al llevarlo, el fuerte magnetismo\nfortalece los ataques de tipo\nELÉCTRICO.
+#209 @3d8214 [93] Al llevarla, la forma de lágrima de\nla gema hace que se fortalezcan\nlos ataques de tipo AGUA.
+#210 @3d8276 [55] Al llevarlo, se fortalecen\nlos ataques de tipo VOLADOR.
+#211 @3d82d6 [70] Al llevarla, el contenido tóxico\nfortalece los ataques de tipo\nVENENO.
+#212 @3d833b [54] Al llevarlo, se fortalezcan\nlos ataques de tipo HIELO.
+#213 @3d8397 [83] Al llevarlo, aumenta la energía\noscura y se fortalecen\nlos ataques de tipo FANTASMA
+#214 @3d844e [74] Al llevarlo, actùa como combustible\ny fortalece los ataques de tipo\nFUEGO.
+#215 @3d84ac [73] Al llevarlo, la dureza del colmillo\nfortalece los ataques de tipo\nDRAGÓN.
+#216 @3d850f [76] Al llevarlo, la delicadeza del\npañuelo fortalece los ataques\nde tipo NORMAL.
+#217 @3d856e [54] Peculiar caja hecha en SILPH S.A.\nEstá llena de cosas.
+#218 @3d85ba [49] Al llevarla y vencer al enemigo,\nrestaura los PS.
+#219 @3d8616 [56] Al llevarlo, los ataques tipo AGUA\nson algo más fuertes.
+#220 @3d8669 [75] Al llevarlo, gracias al aroma\nque libera, baja algo la\nPRECISIÓN del rival.
+#221 @3d86c0 [56] Al llevarlo, CHANSEY dará\nposiblemente un golpe crítico.
+#222 @3d8709 [71] Si lo lleva DITTO, gracias a la\ndureza del polvo, aumentará\nsu DEFENSA.
+#223 @3d8754 [75] Extraño tipo de hueso. Suelen\nllevarlo CUBONE o MAROWAK.\nAumenta el ATAQUE.
+#224 @3d8a14 [68] Te servirá para llevar hasta 9.999\nmonedas. Se obtiene en el CASINO.
+#225 @3d8a66 [93] Detector de objetos invisibles\npor ondas sonoras. Emite una señal\ncuando encuentra un objeto.
+#226 @3d8acc [65] Pesca POKéMON salvajes en todo\ntipo de aguas.\nNo está nada nueva.
+#227 @3d8b23 [69] Una buena caña para pescar\nPOKéMON salvajes.\nEs de muy buena calidad.
+#228 @3d8b7b [69] Es la mejor caña para pescar\nPOKéMON salvajes.\nEs de alta tecnología.
+#229 @3d90d7 [83] Un poketeléfono, obsequio de\nmamá, con él que puedes recibir\nllamadas de tus amigos
+#230 @3d9139 [52] Una rara esfera que tiene un\nbrillo muy llamativo   
+#231 @3da81a [62] Dicen que consigue despertar al\ninstante a cualquier POKéMON.\n
+#232 @3dab59 [65] Bici plegable con la que se va más\nrápido que con las DEPORTIVAS.
+#233 @3dab9f [84] Mapa que puede consultarse\nen cualquier momento.\nTambién indica dónde te encuentras.
+#234 @3dabf7 [61] Dispositivo que busca a los\nENTRENADORES que quieren luchar.\n
+#235 @3daca5 [86] Tubo que contiene las MT y MO.\nEstá en el bolsillo de los objetos\nclave de la MOCHILA.
+#236 @3dad01 [89] Saco que sirve para llevar las\nBAYAS. Está en el bolsillo de\nobjetos clave de la MOCHILA.
+#237 @3dad08 [82] e sirve para llevar las\nBAYAS. Está en el bolsillo de\nobjetos clave de la MOCHILA.
+#238 @3e2420 [30] G{F5}ÌËK{F5}ÌË ÌË ÈÇ  ÒÀÁ ÓÀÁ ÔÀÁ zi
+#239 @3e2428 [22]  ÌË ÈÇ  ÒÀÁ ÓÀÁ ÔÀÁ zi
+#240 @3e2430 [14] ÒÀÁ ÓÀÁ ÔÀÁ zi
+#241 @3e2434 [10] ÓÀÁ ÔÀÁ zi
+#242 @3e2438 [6] ÔÀÁ zi
+#243 @3e838f [6] NORMAL
+#244 @3e8a39 [10] LET ME WIN
+#245 @3e8a77 [8] NO MATCH
+#246 @3e8f34 [7] GIVE ME
+#247 @3e8f93 [6] SEE YA
+#248 @3e8f9a [9] EXCUSE ME
+#249 @3ecb00 [8] SMELL YA
+#250 @3eed08 [12] CIUDAD VERDE
+#251 @3eed67 [11] ISLA CANELA
+#252 @3eee6a [7] RUTA 24
+#253 @3eee73 [7] RUTA 25
+#254 @3eee7c [12] BOSQUE VERDE
+#255 @3eef21 [10] TUNEL ROCA
+#256 @3eef4b [13] CUEVA CELESTE
+#257 @3fb844 [15] {FD0F} está\nconfuso
+#258 @3fc28a [31] {FD0F}'s status\nreturned to normal!
+#259 @3fcb14 [17] o scared to move!
+#260 @3fd3f7 [15] {FD20} envía a \n{FD06}!
+#261 @3fd57b [10] {FD0F} usó\n{FD01} 
+#262 @3fdb92 [91] Gana el el ENTRENADOR que consiga\ndebilitar los POKéMON de su rival\preduciendo sus PS a 0.\f
+#263 @3fdc58 [50] OAK: La clave está en causar daño a \ntu oponente.\f
+#264 @3fdc95 [49] OAK: Bajar las estadisticas\ntambien es muy útil.\f
+#265 @3fdcd2 [65] OAK: Observa siempre a tu pokémon.\nSi sus PS llegan a 0 perderá.\f
+#266 @3fe791 [14] {FC0505}{FC040D}ÓÔYes\nNo
+#267 @3fe7a0 [21] {FC0505}{FC040D}ÓÔSwitch\nwhich?
+#268 @3fe892 [13] a NORMAL move
+#269 @416741 [7] SEE YA!
+#270 @4169a9 [8] NO ENTRY
+#271 @417411 [7] No use.
+#272 @417457 [53] OAK: Esto es importante para ti, es\nel menú pokémon.\f
+#273 @41772a [22] Guarda items en el PC.
+#274 @417741 [27] Toma items desde tu PC.    
+#275 @417adc [6] NORMAL
+#276 @417c4b [9] NO THANKS
+#277 @417d4c [9] NO THANKS
+#278 @4185a5 [7] SEE YA!
+#279 @4185ad [52] Puedes sacar tus POKéMON\nalmacenados en una caja.   
+#280 @4185e2 [46] Guarda algún POKéMON en alguna\nde tus cajas.  
+#281 @418611 [48] Ordenas los POKéMON de las cajas\ny de tu equipo.
+#282 @418642 [62] Mover los objetos de los POKéMON\nde las cajas o de tu equipo. 
+#283 @418ec3 [7] No data
+#284 @419822 [30] {F7}  nature.\nMet in {F7}Á at {F905} {F7}À.
+#285 @419841 [30] {F7}  nature.\nMet in {F7}Á at {F905} {F7}À.
+#286 @419860 [41] {F7}  nature.\nApparently met in {F7}Á\nat {F905} {F7}À.
+#287 @41988a [41] {F7}  nature.\nApparently met in {F7}Á\nat {F905} {F7}À.
+#288 @4198b4 [32] {F7}  nature.\nHatched: {F7}Á\nat {F905} {F7}À.
+#289 @4198d5 [32] {F7}  nature.\nHatched: {F7}Á\nat {F905} {F7}À.
+#290 @41992f [61] {F7}  nature. Met in a fateful\nencounter «hatched: {F7}Á\nat {F905} {F7}À).
+#291 @41996d [61] {F7}  nature. Met in a fateful\nencounter «hatched: {F7}Á\nat {F905} {F7}À).
+#292 @4199ab [72] {F7}  nature. Apparently met in\na fateful encounter «hatched:\n{F7}Á at {F905} {F7}À).
+#293 @4199f4 [72] {F7}  nature. Apparently met in\na fateful encounter «hatched:\n{F7}Á at {F905} {F7}À).
+#294 @419c45 [7] No data
+#295 @419f76 [68] Contiene importantes datos de los\nPKMN con los que te encuentras.   
+#296 @419fbb [69] Aquí, entre otras cosas, puedes\norganizar los PKMN de tu equipo.     
+#297 @41a001 [67] Guarda en los bolsillos las cosas\nque encuentres, compres o te den.
+#298 @41a049 [37] Muestra tus datos de tu partida.     
+#299 @41a06f [71] Guarda cuando quieras todos los datos\nde tu partida para descansar.    
+#300 @41a0b7 [65] Si quieres cambiar la velocidad del\ntexto, o sonido hazlo aquí.  
+#301 @41a0f9 [23] Sales de este MENU.    
+#302 @41a5d9 [32] Switched around {F7}À and\n{F7}Á in {F7} .
+#303 @41a896 [61] Sold items including {F7}À at\nthe POKéMON MART in {F7} ,\nworth ¥{F7}Á.
+#304 @41a9d4 [44] Defeated {F7}Á wild POKéMON including\n{F7}À in {F7} .
+#305 @41e2c9 [10] {F7}Á players
+#306 @447abf [86] Suele imitar a sus enemigos. Cuando\nlo hace, su rival no puede apartar\nsus ojos de él.
+#307 @447b17 [88] Viven en zonas frias y forman grupos de\ncuatro o cinco para cazar con gran\ncoordinacion.
+#308 @4483dd [79] Engulle su peso en comida una vez\nal día. Se lo traga todo sin apenas\nmasticar.
+#309 @448d50 [88] Es un pokémon muy precavido. Si siente\npeligro, se envuelve con el pelaje de\nsus orejas.
+#310 @448daa [88] Ataca a sus enemigos con un golpe\nrápido de sus orejas. Sus picotazos\nson muy dolorosos.
+#311 @449896 [113] Tiene un caracter salvaje. No duda en\ndesafiar a rivales mucho mayores. Puede\nllevarse volando Pokémons pequeños.
+#312 @449909 [104] En invierno cierra su capullo para\nprotegerse del frio. En primavera\nel capullo se abre y esparce polen.
+#313 @449973 [92] Atrae a las presas con un dulce aroma\ny las derrota con los latigos espinosos\nde sus brazos.
+#314 @449da9 [92] Lucha con las espadas que salen\nde sus dos codos. Es un maestro\nde la cortesia y el esgrima.
+#315 @449ed2 [94] Si siente peligro, todo su pelaje brilla.\nAprovecha la ceguera temporal de\nsu rival para huir.
+#316 @44a632 [77] Viaja en grandes bandadas. Aunque\nes pequeño, agita las alas con gran\nfuerza.
+#317 @44a93a [95] Le encantan las cosas blancas y\nredondas. Imita a CHANSEY llevando\nuna roca con forma de huevo.
+#318 @44a99b [103] Vive cerca del agua en bosques.\nEn el dia deja el bosque y va a tomar \nsol para endurecer su caparazon.
+#319 @44aa04 [80] Intimida a sus enemigos desplazando\nel fuego en su cola para parecer mas\ngrande.
+#320 @44c3e8 [92] Prefiere entornos aridos. Sus ojos\nexpulsan gua para ajustar sus\nniveles de fluido corporal.
+#321 @44c446 [106] La concha de su espalda es de tierra\ny se endurece cuando bebe agua.\nSi tiene sed, sus hojas se marchitan.
+#322 @44c4b2 [112] Vive en arboles. Crea bolas de pelo\nque crepitan con electricidad estatica.\nLas almacena en agujeros de arboles.
+#323 @44c524 [91] Sus garras emiten electricidad que\npuede debilitar a sus rivales. Viven\nen grupos pequeños.
+#324 @44c581 [121] Cuando infla sus bolsas venenosas emite\nun fuerte sonido para intimidar. Pilla\ndesapersividos a sus rivales para picarles
+#325 @44c9b2 [100] Al igual que una planta, hace la\nfotosintesis. Como consecuencia,\nsiempre está rodeado de aire puro.
+#326 @44ca18 [94] Para protegerse, puede congelar\ncompletamente su pelaje, de modo\nque los pelos parecen agujas.
+#327 @44ce37 [85] Sus brazos disparan bolas de fuego\na más de 4400 grados. Vive en\ncráteres volcanicos.
+#328 @44d292 [96] Puede leer los pensamientos de su\nadversario a través de su aura. \nComprende el lenguaje humano.
+#329 @44d2f4 [108] Su aura se intensifica para alertar\na otros cuando está triste o tiene\nmiedo. Su cuerpo es ágil pero fuerte.
+#330 @44d981 [83] Vive por bosques y campos en busca\nde Pokémon de tipo bicho. Siempre\nve en bandadas
+#331 @44d9a7 [45] Pokémon de tipo bicho. Siempre\nve en bandadas
+#332 @44dc5a [92] Sus ojos pueden ver a través de\ntodo. Localiza a las presas detrás\nde objetos y las captura.
+#333 @44df2f [106] Es muy orgullosos, por lo que odia\naceptar comida de la gente. Vive\nen las costas de los paises nordicos. 
+#334 @44df9b [103] Vive solo, alejado de los demás. Caza\npresas en mares friois. Cada uno\npiensa que es el más importante.
+#335 @44e004 [99] Escala acantilados escarpados con\nagilidad. Vive en las montañas y su\nfuego se apaga cuando duerme.
+#336 @44e392 [108] Utiliza un tipo de artes marciales con\ntodos sus miembros. Su corona de fuego\ndemuestra su naturaleza ígnea.
+#337 @44e400 [92] Muchos confunden a los grupos de\nTORTERRA que migran en busca de\nagua con bosques vivientes.
+#338 @44e45e [116] Nada tan rapido como un barco. Los tres\ncuernos de su puco son muestra de su\nfuerza. El lider los tiene mas grandes.
+#339 @44e5b3 [118] La toxina producida en su saco de veneno\nes bombeada a las garras de sus nudillos\na través de conductos en sus brazos.
+#340 @44e62b [100] Toca a su enemigo con las puntas\nde sus dos colas y les suelta una\ndescarga de más de 20000 voltios.
+#341 @44e691 [72] Nunca aparece donde hay peleas.\nÚltimamente no se deja ver muy a\nmenudo.
+#342 @453f98 [48]  ÊÀÛÏÔEÁ ÈÓçÉÒñÁ ÀÀÈÇÔßÁ âÔÈÇÔÀÁ àÒÊÉÔcÀ ÁÔèÇÎíÀ
+#343 @45944c [19] It's a NORMAL CARD.
+#344 @46e3dc [68] ÀÁÂ ÀÁ ÂÇÀËÌÀÉÊÀÇÈ   ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË¥Â ßÉÌÁË4Â
+#345 @46e3df [65]  ÀÁ ÂÇÀËÌÀÉÊÀÇÈ   ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË¥Â ßÉÌÁË4Â
+#346 @46e3e2 [62]  ÂÇÀËÌÀÉÊÀÇÈ   ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË¥Â ßÉÌÁË4Â
+#347 @46e3e5 [59] ÀËÌÀÉÊÀÇÈ   ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË¥Â ßÉÌÁË4Â
+#348 @46e3eb [53] ÀÇÈ   ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË¥Â ßÉÌÁË4Â
+#349 @46e3f0 [48]  ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË¥Â ßÉÌÁË4Â
+#350 @46e3f8 [40]    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË¥Â ßÉÌÁË4Â
+#351 @47565c [12] lÀ  OÚ  vÚ  
+#352 @47af8c [7] ÁË ÒJAC
+#353 @47c2ec [9] ÊËÁÏJORDY
+#354 @47c6cc [8] ËËÁÓMIKE
+#355 @47d26c [11] ÎË ÓBRANDON
+#356 @47d64c [14] ÏËÀÁRIC & RENE
+#357 @47de0c [14] ÓËÀËISAC & MAG
+#358 @47e1ec [11] ÔËÁÉCHELSEA
+#359 @47e5cc [10] ŒËÁÇCAMRYN
+#360 @47f16c [11] ÛË ÓALBERTO
+#361 @47f54c [14] ÑËÀÏKAT & KIPP
+#362 @4800ec [13] áËÁÀPRISCILLA
+#363 @4804cc [11] âËÁÒBRENNAN
+#364 @481122 [14] {F7}íÔ   ALAKAZAM
+#365 @4823cc [9] îËÁÓMAURA
+#366 @482bd5 [69] Corta con garras,\nguadañas, etc.\nFuera de combate\nse usa para cortar.
+#367 @482f80 [14] he\nfoe flinch.
+#368 @4833dc [40] Ahuyenta al rival\ny finaliza el\ncombate.
+#369 @4835c2 [42] Fuerte ataque que\npuede causar\nquemaduras.
+#370 @4836d6 [63] Lanza una gran ola\nal rival.\nFuera de combate\nsirve para nadar.
+#371 @48371f [42] Rayo de hielo\nque puede llegar\na congelar.
+#372 @483760 [46] Tormenta de hielo\nque puede llegar\na congelar.
+#373 @48386d [49] Es eficaz, pero\ndeja inmóvil al\natacante 1 turno.
+#374 @483a3a [65] Potente ataque\nfísico. Fuera de\ncombate sirve para\nmover piedras.
+#375 @483e3e [53] Duro ataque\neléctrico que\npuede paralizar\nal enemigo.
+#376 @483ec2 [44] Un estruendo que\npuede paralizar\nal enemigo.
+#377 @483f44 [37] Fuerte, pero inùtil\ncontra voladores.
+#378 @48400f [38] Envenena al rival\nde forma\nprogresiva.
+#379 @484098 [51] Fuerte ataque\npsíquico que\npuede bajar\nla DEF. ESP.
+#380 @484353 [40] Crea espejismos\npara mejorar\nla EVASIÓN.
+#381 @4845c5 [47] Reduce el daño que\ncausa el AT. ESP.\ndel rival.
+#382 @484647 [46] Pared de luz\nque debilita los\nataques físicos.
+#383 @48493b [52] Llama que lo\nchamusca todo\ny suele causar\nquemadura.
+#384 @484986 [71] Embiste con impulso\npara remontar\nuna cascada incluso\nfuera de combate.
+#385 @484f20 [73] Luz cegadora que\nbaja la PRECISIÓN.\nFuera de combate\nsirve para iluminar.
+#386 @48515e [51] Te duerme durante\n2 turnos para\ncurarte totalmente.
+#387 @48548b [44] Puede quitarle\nal rival el objeto\nque lleve.
+#388 @485857 [53] Frena ataques,\npero puede fallar\nsi se usa sin cesar.
+#389 @4859f2 [47] Explosión de lodo\nque puede llegar\na envenenar.
+#390 @485d77 [41] Tormenta de arena\nque dura varios\nturnos.
+#391 @485dc1 [36] Absorbe la\nmitad del daño\nproducido.
+#392 @48602b [34] Alas rígidas que\ngolpean al rival.
+#393 @486062 [18] he user's DEFENSE.
+#394 @4860b7 [47] Reduce la\nposibilidad de que\nel enemigo ataque.
+#395 @486187 [46] Ataque que aumenta\nsus efectos con\nla amistad.
+#396 @48621b [45] Es más fuerte si\nno se aprecia\nal ENTRENADOR.
+#397 @486265 [45] Fuerza mística\nque evita\nproblemas\nde estado.
+#398 @4865bf [51] Ataca con una\ncola férrea\ny puede bajar\nla DEFENSA.
+#399 @486774 [35] Su eficacia varía\nsegùn el agresor.
+#400 @48683a [51] Refuerza los\nataques de\ntipo AGUA\ndurante 5 turnos.
+#401 @48687c [48] Sube los ataques\nde tipo FUEGO\ndurante 5 turnos.
+#402 @486a1b [49] Lanza una bola\nnegra que puede\nbajar la DEF. ESP.
+#403 @486aa6 [66] Ataque que puede\nbajar la DEFENSA.\nFuera de combate\nmachaca rocas.
+#404 @486d1c [45] Tormenta de granizo\nque golpea en cada\nturno.
+#405 @486d64 [46] Agobia e impide\nel uso reiterado\nde un ataque.
+#406 @486e79 [61] Potencia el ATAQUE\nal estar quemado,\nparalizado o\nenvenenado.
+#407 @486ea9 [13] o\nenvenenado.
+#408 @486ebe [52] Es tardío, pero\nsi el rival\nte golpea\nno te moverás.
+#409 @487014 [35] Hace que el rival\nsólo use ataques.
+#410 @4872f2 [44] Destruye barreras\ncomo REFLEJO\ny causa daño.
+#411 @48743c [51] Intercambia la\nhabilidad especial\ncon otro POKéMON.
+#412 @487558 [51] Roba el efecto\ndel ataque\nque el rival\nuse después.
+#413 @48759a [48] Los efectos de este\nataque varían\nsegùn la zona.
+#414 @487c46 [47] Ataque en toda\nregla que\nbaja mucho\ntu AT. ESP.
+#415 @487cd2 [55] Tira rocas al\nrival, lo para\ny suele bajarle\nVELOCIDAD.
+#416 @48808a [52] Dispara de 2 a 5\nráfagas consecu-\ntivas de semillas.
+#417 @4880d0 [43] Ataque tremenda-\nmente rápido\ne ineludible.
+#418 @48821f [35] Araña al rival\ncon garras\nafiladas.
+#419 @4882b4 [48] Robustece el\ncuerpo para\nsubir ATAQUE\ny DEFENSA.
+#420 @4884c5 [50] Sube el AT. ESP.\ny la DEF. ESP.\ncon concentración.
+#421 @4885d3 [41] Ataque eléctrico\nmuy rápido\ne ineludible.
+#422 @488614 [33] Lanza agua a\nchorros para\natacar.
+#423 @7203a1 [65] {FC0108}May: Bien, creo que ya tengo\ntodo lo que necesito para partir.
+#424 @7203e5 [69] {FC0108}Brendan: Bien, creo que ya\ntengo todo lo que necesito para\ppartir.
+#425 @721972 [51] Bien, acércate al {FC0106}campo de batalla{FC0104}\npor favor.
+#426 @7219ef [42] Está bien, regresa cuando estés\npreparado.
+#427 @722196 [50] {FC0104}{FD01}: Creo que primero debería ir\nal {FC0106}gimnasio.
+#428 @7222ad [89] {FC0108}Rocket 1: Sígueme, hay algo más\nadelante que quiero mostrarte.\f{FC0104}Rocket 2: Está bien.
+#429 @722309 [39] {FC0108}Rocket 1: Alguien nos está\nespiando.
+#430 @722336 [29] {FC0104}Rocket 2: Vámonos de aquí.
+#431 @722444 [40] {FC0106}Gracias al cielo. Acércate por\nfavor.
+#432 @7224ee [115] mitado por culpa de estos\pdetestables miembros del {FC0104}Equipo\pRocket {FC0106}que están en la ciudad\pdesde hace unos días.
+#433 @7225bd [67] {FC0106}Muchas gracias, te prometo que\nte recompensaré de alguna manera.
+#434 @722636 [63] {FC0104}{FD01}: Debo ir a detener al\n{FC0106}Equipo Rocket {FC0104}antes de salir.
+#435 @7226cb [26] No te saldrás con la tuya.
+#436 @722735 [22] No podrás con el Jefe.
+#437 @722933 [26] No te saldrás con la tuya.
+#438 @7229a6 [12] No molestes.
+#439 @722e62 [23] {FC0108}- Una hora después -
+#440 @7235ba [107] éfono! Seguro mamá lo puso\paquí antes de que saliera y no me\pavisó.\f{FC010E}Steven: Contesta, te están\nllamando.
+#441 @723f00 [92] nos ayudaste a\pnosotros. Regresa cuando quieras\p{FC0104}{FD01}{FC0106}, tienes el pase libre a éste\pmuseo.
+#442 @725667 [50] {FC0106}Birch: Antes de irme, quiero\ndarte un obsequio.
+#443 @726475 [70] {FC0104}{FD01}: Es un pokémon, y está mal\nherido.\fLo llevaré al centro pokémon.
+#444 @7267a5 [26] {FC0108}Grrr, me largo de aquí.
+#445 @727251 [70] ÚÚÚÚÚÚ\n{FC0104}{FD01}: Todavía debo llevar a éste\npokémon al {FC0106}Centro Pokémon.
+#446 @727258 [63] {FC0104}{FD01}: Todavía debo llevar a éste\npokémon al {FC0106}Centro Pokémon.
+#447 @728136 [57] {FC0106}Bill: Observa mi PC, allí\nestán mis pokémon favoritos.
+#448 @7281e1 [85] {FC0106}Bill: Éste huevo lo puso un de\nmis pokémon, no se que especie\pserá, cuídalo mucho.
+#449 @728222 [20] será, cuídalo mucho.
+#450 @72840f [42]  tres\pque ves ahí.\fSuerte, la necesitarás.
+#451 @728431 [8] sitarás.
+#452 @728980 [48] {FC0106}Admin: Ustedes dos, capturen a\n{FC0108}SUICUNE{FC0106}.
+#453 @728a6e [35] {FC0106}Admin: Ustedes dos, encárguense.
+#454 @7299f0 [57] {FC0106}Bill: Observa mi PC, allí\nestán mis pokémon favoritos.
+#455 @729a9b [85] {FC0106}Bill: Éste huevo lo puso un de\nmis pokémon, no sé qué especie\pserá, cuídalo mucho.
+#456 @72a9ca [44] Ya estoy un poco vieja para ser\nentrenadora.
+#457 @72aa03 [86] Cuando era joven, yo solía\ncapturar muchos pokémon como tú,\pahora ya no tengo ninguno.
+#458 @72aa90 [46] Una Pokédex 3000, tiene sus\npáginas en blanco.
+#459 @72ab70 [41] guro que genial, quiero\nobsequiarte esto.
+#460 @72abb6 [118] {FC010C}Mama de ash: Últimamente Ash se\nla pasa fuera de casa, viajando\ppara cumplir su sueño, la verdad,\plo extraño mucho.
+#461 @72ad3c [118] {FC0106}Mamá de Ash: Últimamente Ash se\nla pasa fuera de casa, viajando\ppara cumplir su sueño, la verdad,\plo extraño mucho.
+#462 @72ae7b [104] De noche suele haber ladrones por\nestas zonas, por eso la custodio\pde noche. Si sabes algo,\pinfórmamelo.
+#463 @72af8f [72] Sea de día o de noche, tengo que\ncuidar a los ciudadanos de ésta\pciudad.
+#464 @72b0f4 [57] Nos gusta venir a observar las\nbatallas de vez en cuando.
+#465 @72b139 [82] También es divertido ver los\ncombates de otros entrenadores,\ppor eso estamos aquí.
+#466 @72b349 [91] Lo siento, aquí solo pueden pasar\nentrenadores que tengan al menos\puna MEDALLA de GIMNASIO.
+#467 @72b3b0 [44] Muero de ganas de atravesar el\nBOSQUE VERDE.
+#468 @72b4cc [62] Mi nieto es muy escurridizo, si\nlo dejo ir, quizás no regrese.
+#469 @72b516 [41] Hace 50 años que vivimos en\nCIUDAD VERDE.
+#470 @72b54b [114] Antes, solían venir menos\nentrenadores, pero desde que Gary\pes el líder del gimnasio, muchos\phan venido a retarlo.
+#471 @72b65c [13] CUEVA DIGLETT
+#472 @72b6dd [47] No le digas a nadie, pero yo odio\na los bichos.
+#473 @72b718 [53] Dicen que hay LEDYBA aquí, pero\nsolo aparecen de día.
+#474 @72b759 [53] Quiero capturar un WEEDLE, pero\nno encuentro ninguno.
+#475 @72b8fe [24] Mi WEEDLE no evoluciona.
+#476 @72b957 [43] No he pescado nada interesante\nhasta ahora.
+#477 @72b9c3 [43] Dicen que hay muchos BEEDRILL en\nel bosque.
+#478 @72ba4b [52] Vaya, pues se ve que tampoco\nsoy demasiado fuerte...
+#479 @72ba82 [30] Así no hay forma de ahorrar...
+#480 @72bb6e [27] Tengo que volver a empezar.
+#481 @72bd6f [55] SALIENDO DEL BOSQUE VERDE,\nSE ENCUENTRA CIUDAD PLATEADA
+#482 @72be3b [82] Desde que el Equipo Rocket está\naquí, ya no es tan divertido\pandar por las calles.
+#483 @72bf05 [84] No sé por qué estoy aquí, con el\nEquipo Rocket en las calles, no\pdebería estar aquí.
+#484 @72bfed [52] Por culpa del Equipo Rocket no\npuedo ir al MT. LUNA.
+#485 @72c02d [34] Lo siento, no puedo dejarte\npasar.
+#486 @72c05b [107] No puedo decirte que hacemos\naquí, pero te aseguro que no les\pgustará nada a los ciudadanos de\pesta ciudad.
+#487 @72c1cb [18] CASA del BAYOLOGO.
+#488 @72c1e9 [38] MUSEO DE LA CIENCIA DE\nCIUDAD PLATEADA
+#489 @72c21b [43] CIUDAD PLATEADA\nLa ciudad de roca grisácea.
+#490 @72c252 [23] La puerta está cerrada.
+#491 @72c39a [62] Desde que mi mujer no está, tengo\nque criar yo solo a mi hijo.
+#492 @72c439 [56] Ahora la ciudad está más\ntranquila sin el EQUIPO ROCKET.
+#493 @72c530 [94] Voy a intercambiar mi POKéMON\ncon ese chico de ahí.\fComo tengo dos PIKACHU,\nvoy a pasarle uno.
+#494 @72c59a [59] Este mapa se ve muy bonito, Kanto\nes una región muy bonita.
+#495 @72c786 [101] Soy el BAYÓLOGO, dedico mi vida a\nla plantación de estos\pmaravillosos frutos y me dedico a\pvenderlos.
+#496 @72c848 [39] Lo siento, no tienes suficiente\ndinero.
+#497 @72c8a0 [79] Lo siento, solo puedo venderte\nuna vez al día, sino se me\pacabarían muy rápido.
+#498 @72c8a9 [70] , solo puedo venderte\nuna vez al día, sino se me\pacabarían muy rápido.
+#499 @72c92b [80] Solía regalar Bayas, pero desde\nque mi papá me regañó, ya no lo\phago, lo siento.
+#500 @72cac6 [65] Antes podía traer a mi hija\ntranquilamente al museo, ahora ya\pno.
+#501 @72cb7f [46] Ahora tenemos una exposición sobre\nel espacio.
+#502 @72cbea [37] Me gusta venir aquí de vez en\ncuando.
+#503 @72cc2f [79] Estos tipos son unos maleantes,\nsi tuviera a mis pokémon se las\pverían conmigo.
+#504 @72cf65 [33] Solo puedo tener hasta 3 pokémon.
+#505 @72cfc5 [45] Ten cuidado, este camino está\nlleno de rocas.
+#506 @72d0a8 [35] Esos karatecas de ahí me dan\nmiedo.
+#507 @72d141 [31] Ya no encuentro muchos fósiles.
+#508 @72d2a7 [44] Ten cuidado con los ZUBAT, son\nmuy molestos.
+#509 @72d313 [34] Acabo de ver correr a un CLEFAIRY.
+#510 @72d56d [106] Los POKéMON pueden CORTAR\npequeños arbustos.\fPor ejemplo, el que está casi\nenfrente de la tienda, también.
+#511 @72d5d9 [68] De día suelo pasármela pescando,\npor eso de noche vengo a la\pciudad.
+#512 @72d629 [57] De noche las cosas se ponen\npeligrosas aquí, ten cuidado.
+#513 @72d76b [118] Antes solía ir al puente pepita a\ndivertirme un poco con mis\pamigos, pero desde que lo\pdemolieron me aburro muchísimo.
+#514 @72d7ed [76] Lo siento, pero el gimnasio está\ncerrado, son órdenes estrictas de\pla líder.
+#515 @72d845 [106] PISTAS ENTRENADOR\fA los POKéMON se les puede\nentregar objetos.\fAdemás, pueden llegar a usarlos\nen combate.
+#516 @72d873 [60] ntregar objetos.\fAdemás, pueden llegar a usarlos\nen combate.
+#517 @72dc8e [57] Sabes, es muy complicado vivir\nsolo. Más si eres como yo.
+#518 @72de79 [81] A veces me gusta esperar a que\nalguien deje una mesa vacía para\ppoder pedir algo.
+#519 @72ded6 [172] Lo siento, aquí no hacemos comida\npara pokémon, solo para personas.\pPero puedes divertirte luchando\pcon nuestros clientes, siempre\pvienen aquí a tener combates\pentre ellos.
+#520 @72df8e [37] Ya no tengo tanta hambre como\nrecién.
+#521 @72e05f [32] Ya luchamos hoy, regresa mañana.
+#522 @72e17b [32] Ya luchamos hoy, regresa mañana.
+#523 @72e202 [46] Por que no vuelves mañana y\nluchamos de nuevo.
+#524 @72e8bf [44] ŒŒŒŒŒŒŒÚÚÚÚÚÚÚÚÙÙÚÚ\n{FC0104}{FD01}: No debería subir.
+#525 @72e8d3 [24] {FC0104}{FD01}: No debería subir.
+#526 @7701d6 [19] {FC0106}Hey {FD01} ven aquí.
+#527 @7702b9 [124] losa, por cierto el \pprof Oak te está esperando afuera,\pdale un saludo de mi parte\f{FC0104}{FD01}: No se preocupe capitan se\nlo daré.
+#528 @7702f5 [64]  un saludo de mi parte\f{FC0104}{FD01}: No se preocupe capitan se\nlo daré.
+#529 @770300 [53] de mi parte\f{FC0104}{FD01}: No se preocupe capitan se\nlo daré.
+#530 @7704e7 [80] rae por\paquí.\f{FC0104}{FD01}: El profesor Birch me mandó\na que le entregara éste paquete.
+#531 @77053c [22] {FD01} entregó el paquete.
+#532 @77074a [153] do, te presento\na {FD01}, el es un entrenador\pde la region Hoenn.{FC010E}Ash: Hoenn eh, yo estuve por ahi\nes un gusto conocerte, mas siendo\pun entrenador como tu.
+#533 @7707a5 [62] r ahi\nes un gusto conocerte, mas siendo\pun entrenador como tu.
+#534 @770857 [74] {FC010E}Ash: Hoenn eh, es un gusto\nconocerte, más siendo un\pentrenador como tú.
+#535 @7708b4 [90] {FC010E}Ash: Prof, aquí traigo lo que me\npidió.\f{FC010F}Oak: La GS ball, hace mucho que la\nesperaba.
+#536 @770976 [55] \nEn ésas balls hay tres Pokémon.\pEscoge el que quieras.
+#537 @770977 [54] En ésas balls hay tres Pokémon.\pEscoge el que quieras.
+#538 @770bb9 [39] {FC010F}Oak: {FD01} ven aquí, quiero darte\nalgo.
+#539 @770cc5 [36] {FD01} recibió Pokédex del\nProfesor Oak.
+#540 @770cea [32] {FC010F}Oak: Ésto también te servirá.
+#541 @770d48 [13] PUEBLO PALETA
+#542 @770dce [29] {FC0104}Esta es mi casa\fBonita no?
+#543 @770ec1 [12] Casa de Ash.
+#544 @770ece [13] Casa de Gary.
+#545 @771100 [35] À un entrenador de la\nregión Hoenn.
+#546 @771108 [27] renador de la\nregión Hoenn.
+#547 @7716c0 [11] Eres bueno.
+#548 @771737 [39] Voy a seguir con mi racha de\nvictorias.
+#549 @771766 [31] Tengo que capturar más pokémon.
+#550 @771788 [15] CIUDAD PLATEADA
+#551 @77179c [14] CIUDAD CELESTE
+#552 @771873 [39] Hace tiempo que no voy al BOSQUE\nVERDE.
+#553 @7718fa [16] Vale, pues nada.
+#554 @771901 [9] ues nada.
+#555 @77190c [37] RUTA 2\nCIUDAD VERDE - CIUDAD PLATEADA
+#556 @771934 [14] PUEBLO LAVANDA
+#557 @771c0d [37] {FC010F}Birch: Bien {FC0104}{FD01}{FC010F}, continuemos.
+#558 @771e45 [22] {FC0104}Rocket 2: Mi turno.
+#559 @772584 [14] CIUDAD AZULONA
+#560 @7729a3 [70] Hacia adelante se encuentra el\nBOSQUE VERDE. Todo un desafío\pcruzarlo.
+#561 @7729eb [108] Gary nunca está en el gimnasio,\nse la pasa investigando con su\pabuelo, si quieres retarlo, debes\paguantarte.
+#562 @772c88 [35] RUTA 1\nPUEBLO PALETA - CIUDAD VERDE
+#563 @772cb0 [13] CIUDAD FUCSIA
+#564 @772cc8 [57] Muy bien. Ten un poco de\npaciencia. Será sólo un momento.
+#565 @772d23 [93] Gracias por esperar.\fMisión cumplida. Somos especialistas\nen devolver la forma a los\pPOKéMON.
+#566 @772e30 [85] Inventarse motes es divertido, pero\ndifícil.\fEs más fácil recordar nombres\nsencillos.
+#567 @772f4d [36] Parece que puedes CORTAR\neste árbol.
+#568 @773300 [56] a CAJA de POKéMON del PC\nestá llena, cambia a otra CAJA!
+#569 @773365 [37] GIMNASIO CIUDAD VERDE\nLIDER: GARY OAK
+#570 @7734e8 [35] La RUTA 4 está debajo del MT.\nLUNA.
+#571 @77354b [28] No tienes suficiente dinero.
+#572 @7739b7 [52] A mí me encanta buscar POKéMON\nhongo en el MT. LUNA.
+#573 @773b15 [102] Estoy buscando fósiles en las\nentrañas del MT. LUNA.\fA veces me ayuda BROCK,\ndel GIMNASIO de PLATEADA.
+#574 @77419e [32] Se ve que te encanta venir\naquí.
+#575 @7741c0 [31] Acabo de ver correr un AZURILL.
+#576 @774594 [18] Eres espectacular.
+#577 @77461e [72] Todo POKéMON tiene sus puntos\ndébiles.\fLo suyo es entrenar varios tipos.
+#578 @7747ef [88] Si tu POKéMON sufre confusión, lo\nmejor es que lo cambies por otro.\fEs la mejor táctica.
+#579 @774908 [93] uramente ya te lo comentó él\pmismo.\fBien, ahora necesito tus datos\npara completar tu pasaje.\p
+#580 @774b1c [55] Es algo distinta.\nFunciona mejor al avanzar\nel combate.
+#581 @774b64 [52] Medicina en spray, que cura a un\nPOKéMON paralizado.
+#582 @774bac [74] Medicina en spray, que cura heridas\ny restaura todos los PS de un\nPOKéMON.
+#583 @774c0c [70] Medicina que hace revivir a un\nPOKéMON debilitado.\nLe da todos los PS.
+#584 @774c3f [19] Le da todos los PS.
+#585 @774c60 [66] Restaura completamente\nlos PP del ataque que elijas\nde un POKéMON.
+#586 @774cb4 [65] Restaura completamente\nlos PP de todos los ataques\nde un POKéMON.
+#587 @774d08 [86] Dulce típico de PUEBLO LAVACALDA\nque cura todos los problemas de\nestado de un POKéMON.
+#588 @774dbc [69] Recupera del todo a los POKéMON\ndebilitados restaurando todos sus\nPS.
+#589 @774e10 [91] Parte roja de un objeto antiguo.\nParece formar parte de una especie\nde herramienta antigua.
+#590 @774e7c [80] Larga y resistente cuerda.\nSirve para huir de una cueva\nu otros sitios cerrados.
+#591 @774edc [97] Bella escama con forma de corazón.\nEs poco comùn. Brilla levemente\ncon los colores del arco iris.

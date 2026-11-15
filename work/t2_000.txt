@@ -1,0 +1,36 @@
+[0] @1724f9 (137) ¡Eh, espera!\n¿Por qué tienes tanta¡Me rindo!\n¡¡A veces puedes encontrar cosas\nen el suelo!\f¡Estoy buscando los objetos\nque se me cayeron!
+[1] @172a22 (32) isteEsta cueva es muy tenebrosa.
+[2] @184c1d (15) Ha-hahah-ah-ha!
+[3] @184c2d (50) Ha-haha!\nNot laughing!\pHa-hay fever! Haha-ha-choo!
+[4] @184c60 (37) Haha-ha-choo!\nHa-choo!\pSnort! Snivel!
+[5] @18e194 (77) Ah! CHIMCHAR\nDicen que son muy leales.\f{FD01}, quieres al pokémon\nfuego CHIMCHAR?
+[6] @1911ec (65) ¡Alto ahí, enclenque!\f¡Todavía estás a años luz de retar\na BROCK!
+[7] @198df9 (69) WARDEN: Hif fuff hefifoo!\fHa lof ha feef ee hafahi ho.\nHeff hee fwee!
+[8] @198e63 (32) Ha?\nHe ohay heh ha hoo ee haheh!
+[9] @1a5a6a (20) ¿Qué?\nÉste no es {FD02}.
+[10] @1c1060 (58) ¿Para que será esta máquina? \n¡Es mejor no meter el dedo!\p
+[11] @3d4efe (97)                                         Es muy buena. Tiene más índice\nde éxito que la SUPERBALL.
+[12] @3d53a4 (54) MONMeEs la mejor. Atrapa siempre\nal POKéMON. No falla.
+[13] @3d546f (138) Medicina en spray, que cura heridas\ny restaura todos los PS de un\nPOKéMedicina en spray, que cura heridas\ny restaura 200 PS de un POKéMON.
+[14] @3d6778 (53) Trozo de bonita gema roja\nque se vende a alto precio.
+[15] @72246f (242) {FC0106}Tu entrenas pokémon, ¿No es\ncierto?\f{FC0104}{FD01}: Si, por supuesto.\f{FC0106}Yo soy el dueño de este museo,\npero últimamente estoy muy\plimitado por culpa de estos\pdetestables miembros del {FC0104}Equipo\pRocket {FC0106}que están en la ciudad\pdesde hace unos días.
+[16] @723559 (204) {FC0104}{FD01}: ¿Qué fue eso?\f{FC010E}Steven: Parece venir de tu\nmochila.\f{FC0104}{FD01}: Es cierto, ¡Oh! ¡Es un\nPoketeléfono! Seguro mamá lo puso\paquí antes de que saliera y no me\pavisó.\f{FC010E}Steven: Contesta, te están\nllamando.
+[17] @723e14 (328) {FC0104}{FD01}: ¿Qué es esto?\f{FC0106}Eso es Destello, una máquina\noculta, con ella podrás enseñarle\pa tus pokémon ese ataque las\pveces que quieras, es muy útil\ppara iluminar cuevas.\f{FC0104}{FD01}: ¡Muchas gracias!\f{FC0106}Al menos podemos ayudarte en\nalgo, como nos ayudaste a\pnosotros. Regresa cuando quieras\p{FC0104}{FD01}{FC0106}, tienes el pase libre a éste\pmuseo.
+[18] @72a1bd (84) Estoy buscando un buen entrenador\npara que cuide a este pequeñín.\f¿Conoces a alguno?
+[19] @72ab3b (94) {FC010C}Mama de ash: Hola {FD01}, ¿Cómo vas\nen tu aventura?\fSeguro que genial, quiero\nobsequiarte esto.
+[20] @72ac2f (77) {FC010C}Mama de ash: Es un mapa de la\nregión, te servirá en tu viaje.\f¡Suerte {FD01}!\n
+[21] @72d5d8 (69)  De día suelo pasármela pescando,\npor eso de noche vengo a la\pciudad.
+[22] @7701ea (331)  {FC0106}Cap. Arenque: Hola {FD01}\ncuanto tiempo sin verte, desde\pque peeko se fue te hecho\pmucho de menos.\f{FC0104}{FD01}:Yo tambien siento lo de Peeko\nalgun día regresará...\f{FC0106}Pero como has crecido tu mamá\ndebe estar orgullosa, por cierto el \pprof Oak te está esperando afuera,\pdale un saludo de mi parte\f{FC0104}{FD01}: No se preocupe capitan se\nlo daré.
+[23] @770715 (206) {FC010E}Ash: Hola prof, que tal?\f{FC010F}Oak: Te estaba esperando, te presento\na {FD01}, el es un entrenador\pde la region Hoenn.{FC010E}Ash: Hoenn eh, yo estuve por ahi\nes un gusto conocerte, mas siendo\pun entrenador como tu.
+[24] @770913 (154) {FC0104}{FD01}: Profesor, disculpe, pero ya\nno lo soporto\f¡QUIERO MI POKÉMON!\f{FC010F}Oak: Bueno no te desesperes\nEn ésas balls hay tres Pokémon.\pEscoge el que quieras.
+[25] @771872 (40)  Hace tiempo que no voy al BOSQUE\nVERDE.
+[26] @7718a9 (78) ¡CATERPIE no tiene veneno; pero\nWEEDLE, sí!\f¡Cuidado con su PICOTAZO\nVENENOSO!
+[27] @7729a2 (71)  Hacia adelante se encuentra el\nBOSQUE VERDE. Todo un desafío\pcruzarlo.
+[28] @7729ea (109)  Gary nunca está en el gimnasio,\nse la pasa investigando con su\pabuelo, si quieres retarlo, debes\paguantarte.
+[29] @772e2f (86)  Inventarse motes es divertido, pero\ndifícil.\fEs más fácil recordar nombres\nsencillos.
+[30] @772eca (60)  ¡Eh!\n¡Hay que tener disciplina para ser\pENTRENADOR POKéMON!
+[31] @7732fa (62) ¡Si una CAJA de POKéMON del PC\nestá llena, cambia a otra CAJA!
+[32] @773b14 (103)  Estoy buscando fósiles en las\nentrañas del MT. LUNA.\fA veces me ayuda BROCK,\ndel GIMNASIO de PLATEADA.
+[33] @77419d (33)  Se ve que te encanta venir\naquí.
+[34] @7741bf (32)  Acabo de ver correr un AZURILL.
+[35] @7748a3 (194)  Actualmente Birch y yo estamos\ntrabajando juntos, y necesitamos\pque vengas a la región de Kanto,\pseguramente ya te lo comentó él\pmismo.\fBien, ahora necesito tus datos\npara completar tu pasaje.\p

@@ -1,0 +1,261 @@
+@17237d [26] (pokémon) Huh?\nI ran out of POKéMON!
+@173999 [23] (pokémon) I love POKéMON!\nDo you?
+@173f55 [45] (pokémon) Personally, I prefer strong and\nrare POKéMON.
+@174239 [34] (pokémon) Even us sailors have POKéMON, too!
+@174ae2 [41] (pokémon) Which POKéMON should I teach\nDOUBLE-EDGE?
+@1757c1 [42] (pokémon) Which POKéMON should I teach\nTHUNDER WAVE?
+@1759ca [17] (pokémon) me study POKéMON.
+@175a90 [31] (pokémon) My POKéMON is my loyal servant.
+@175ab0 [23] (pokémon) Darn!\nYou weak POKéMON!
+@175d89 [86] (pokémon,pokémon) It's a POKéMON REPORT!\fPOKéMON LAB created PORYGON,\nthe first virtual-reality POKéMON.
+@175de0 [71] (pokémon,pokémon) It's a POKéMON REPORT!\fOver 350 POKéMON techniques have\nbeen confirmed.
+@17732b [30] (pokémon) The monitor has POKéMON on it!
+@1794d4 [25] (pokémon) POKéMON fight!\nReady, go!
+@1795a1 [19] (pokémon) I'm out of POKéMON!
+@1795e5 [30] (pokémon) You have POKéMON!\nLet's start!
+@179ae1 [40] (pokémon) Which POKéMON should I teach\nROCK SLIDE?
+@179b7a [61] (pokémon,pokémon) POKéMON TOWER was erected in the\nmemory of POKéMON that died.
+@17e7de [69] (pokémon,pokémon) PEWTER CITY POKéMON GYM\nLEADER: BROCK\pThe Rock-Solid POKéMON TRAINER!
+@17f0d3 [29] (pokémon) POKéMON? That sounds amusing.
+@17f6f7 [43] (pokémon,pokémon) POKéMON TOWER\nBecalm the Spirits of POKéMON
+@17f9a1 [42] (pokémon,pokémon) POKéMON FAN CLUB\nAll POKéMON fans welcome!
+@1806d3 [28] (pokémon) POKéMON PARADISE\nSAFARI ZONE
+@180918 [44] (pokémon)  POKéMON that was\pregenerated from a fossil.
+@180919 [43] (pokémon) POKéMON that was\pregenerated from a fossil.
+@180a57 [40] (pokémon) Which POKéMON wants to learn\nSUBSTITUTE?
+@180c3e [11] (pokémon) POKéMON LAB
+@181362 [71] (pokémon,pokémon) SAFFRON CITY POKéMON GYM\nLEADER: SABRINA\pThe Master of PSYCHIC POKéMON!
+@184268 [17] (pokémon) t so are POKéMON.
+@1845f2 [35] (pokémon) ELI: I caught my POKéMON with\nANNE!
+@184600 [21] (pokémon) my POKéMON with\nANNE!
+@18468b [35] (pokémon) ANNE: I'm raising POKéMON with\nELI.
+@184b18 [25] (pokémon) Go, my super BUG POKéMON!
+@184b24 [13] (pokémon)  BUG POKéMON!
+@184bfb [33] (pokémon) I have more rare POKéMON at home!
+@184ca7 [19] (pokémon) Oh, no!\nMy POKéMON!
+@1855e1 [36] (pokémon) The FISHING FOOL versus POKéMON\nKID!
+@185931 [35] (pokémon) S!\fDon't you have one more POKéMON?
+@18629d [31] (pokémon) Raising POKéMON is a drag, man.
+@186344 [29] (pokémon) POKéMON battle?\nCool! Rumble!
+@186446 [20] (pokémon) ou have\ntwo POKéMON.
+@1869ba [43] (pokémon) What's cool and happening?\nTrading POKéMON!
+@186a22 [29] (pokémon) Want to play with my POKéMON?
+@18806d [32] (pokémon) Riding a POKéMON sure looks fun!
+@18808e [28] (pokémon) I rode my bird POKéMON here.
+@188201 [22] (pokémon) e POKéMON MANSION\nnow.
+@1884d4 [27] (pokémon) I caught my POKéMON at sea.
+@1884ff [31] (pokémon) Where'd you catch your POKéMON?
+@188871 [30] (pokémon) \nSo can you bring two POKéMON?
+@188bff [25] (pokémon) POKéMON LEAGUE\nFront Gate
+@18d168 [38] (pokémon) esting places\nof other mystic POKéMON?
+@18e128 [69] (de,pokémon) Dentro de esas pokéballs te espera\ntu nuevo pokémon, elige sin miedo.
+@18e14b [34] (pokémon) tu nuevo pokémon, elige sin miedo.
+@18f0d0 [21] (pokémon) n\na lot more POKéMON.
+@18f30f [28] (pokémon) My daddy loves POKéMON, too.
+@18ff07 [17] (pokémon) e POKéMON\nLEAGUE!
+@190183 [21] (pokémon) he\nsuffering POKéMON.
+@190189 [15] (pokémon) fering POKéMON.
+@190450 [100] (pokémon,pokémon,pokémon) POKéMON CENTERS heal your tired,\nhurt, or fainted POKéMON.\fThey make all POKéMON completely\nhealthy.
+@19047c [56] (pokémon,pokémon) inted POKéMON.\fThey make all POKéMON completely\nhealthy.
+@190946 [45] (pokémon) ósil AERODACTYL.\nUn primitivo y raro POKéMON.
+@19094c [39] (pokémon) ERODACTYL.\nUn primitivo y raro POKéMON.
+@190966 [13] (pokémon) raro POKéMON.
+@190968 [11] (pokémon) ro POKéMON.
+@190978 [41] (pokémon) il KABUTOPS.\nUn primitivo y raro POKéMON.
+@190a7f [41] (pokémon) C TOSS?\nShould I teach that to a POKéMON?
+@191df8 [26] (pokémon) All POKéMON will obey you!
+@192104 [17] (pokémon) ut\ntheir POKéMON?
+@195907 [32] (pokémon) Red and Green!\nBoth are POKéMON!
+@195a08 [40] (pokémon) Which POKéMON should I teach\nCOUNTER to?
+@199167 [38] (pokémon) Old POKéMON merchandise is on\ndisplay.
+@199421 [35] (pokémon) Which POKéMON should forget a\nmove?
+@199f6a [24] (pokémon) POKéMON LAB\nMeeting Room
+@199f83 [22] (pokémon) POKéMON LAB\nR & D Room
+@199f9a [24] (pokémon) POKéMON LAB\nTesting Room
+@19a1ea [35] (pokémon) Okay!\nWhich POKéMON should I teach?
+@19a43e [30] (pokémon)  make\nthat POKéMON live again!
+@19bae8 [36] (pokémon) You and I, our POKéMON shall\nbattle!
+@19c001 [33] (pokémon) , but it revives\nfainted POKéMON!
+@19ddbe [29] (pokémon) Which POKéMON should I raise?
+@19deaf [31] (pokémon) Thank you!\nHere's your POKéMON.
+@1a045b [29] (pokémon) BILL's favorite POKéMON list!
+@1a0dfc [26] (pokémon) he\nreigning POKéMON CHAMP!
+@1a2cc3 [29] (pokémon) Which POKéMON needs tutoring?
+@1a3a42 [29] (pokémon) Stuffed POKéMON dolls galore!
+@1a50dd [17] (de) PC de {FD01}.        
+@1a50ef [19] (de) PC de BILL.        
+@1a71aa [67] (pokémon,pokémon) And your NATIONAL POKéDEX is:\f{FD02} POKéMON seen and\n{FD03} POKéMON owned.
+@1ae503 [23] (pokémon) \nhis POKéMON to health.
+@1b0c79 [14] (pokémon) POKéMON LEAGUE
+@1b0f11 [14] (pokémon) POKéMON LEAGUE
+@1b0f20 [14] (pokémon) POKéMON LEAGUE
+@1b0f5f [14] (pokémon) POKéMON LEAGUE
+@1b0f6e [14] (pokémon) POKéMON LEAGUE
+@1b0fae [14] (pokémon) POKéMON LEAGUE
+@1b0fe8 [14] (pokémon) POKéMON LEAGUE
+@1b1002 [14] (pokémon) POKéMON LEAGUE
+@1b1011 [14] (pokémon) POKéMON LEAGUE
+@1b10b1 [13] (pokémon) POKéMON TOWER
+@1b115a [15] (pokémon) POKéMON JOURNAL
+@1b1185 [15] (pokémon) POKéMON JOURNAL
+@1b119e [15] (pokémon) POKéMON JOURNAL
+@1b11cb [15] (pokémon) POKéMON JOURNAL
+@1b11fa [15] (pokémon) POKéMON JOURNAL
+@1b122e [15] (pokémon) POKéMON JOURNAL
+@1b125a [15] (pokémon) POKéMON JOURNAL
+@1b1281 [15] (pokémon) POKéMON JOURNAL
+@1b12b4 [15] (pokémon) POKéMON JOURNAL
+@1b12e8 [15] (pokémon) POKéMON JOURNAL
+@1b1310 [15] (pokémon) POKéMON JOURNAL
+@1b1341 [15] (pokémon) POKéMON JOURNAL
+@1b137e [15] (pokémon) POKéMON JOURNAL
+@1b13bc [15] (pokémon) POKéMON JOURNAL
+@1b1429 [15] (pokémon) POKéMON JOURNAL
+@1b3261 [20] (pokémon) My POKéMON are hurt!
+@1b32b6 [22] (pokémon) I can't catch POKéMON!
+@1b332b [24] (pokémon) Where do POKéMON appear?
+@1b3344 [23] (pokémon) What are POKéMON moves?
+@1b33a6 [35] (pokémon) I want to make my POKéMON stronger.
+@1b33ca [31] (pokémon) The foe POKéMON are too strong!
+@1b3427 [24] (pokémon) What's a POKéMON CENTER?
+@1b3440 [22] (pokémon) What's a POKéMON MART?
+@1b346f [17] (pokémon) What's a POKéMON?
+@1b4869 [92] (pokémon,pokémon) d POKéMON with\poverwhelming power. Outnumbering the\pfoe's POKéMON is another obvious\ptactic.
+@1b7dfa [7] (pokémon) POKéMON
+@1b9c1d [17] (pokémon) What are POKéMON?
+@1ba121 [22] (pokémon) Own POKéMON type: DARK
+@1ba14c [22] (pokémon) Own POKéMON type: ROCK
+@1ba17a [25] (pokémon) Own POKéMON type: PSYCHIC
+@1ba1ac [26] (pokémon) Own POKéMON type: FIGHTING
+@1ba1dc [23] (pokémon) Own POKéMON type: GRASS
+@1ba209 [23] (pokémon) Own POKéMON type: GHOST
+@1ba234 [21] (pokémon) Own POKéMON type: ICE
+@1ba260 [24] (pokémon) Own POKéMON type: GROUND
+@1ba291 [26] (pokémon) Own POKéMON type: ELECTRIC
+@1ba2c2 [24] (pokémon) Own POKéMON type: POISON
+@1ba2f1 [24] (pokémon) Own POKéMON type: DRAGON
+@1ba320 [24] (pokémon) Own POKéMON type: NORMAL
+@1ba34e [23] (pokémon) Own POKéMON type: STEEL
+@1ba37c [24] (pokémon) Own POKéMON type: FLYING
+@1ba3a9 [22] (pokémon) Own POKéMON type: FIRE
+@1ba3d5 [23] (pokémon) Own POKéMON type: WATER
+@1ba400 [21] (pokémon) Own POKéMON type: BUG
+@1bd317 [32] (pokémon) Would you like to trade POKéMON?
+@1bfa67 [29] (pokémon) Perfect!\nHere's your POKéMON.
+@1bfae8 [32] (pokémon) Will you take your POKéMON back?
+@1c15d5 [35] (pokémon) with the POKéMON\nI started raising.
+@1c161c [31] (pokémon) h mushroom POKéMON\non MT. MOON.
+@1c1bdc [29] (pokémon) Go win, my super BUG POKéMON!
+@1c2078 [35] (pokémon) g about POKéMON\nof the sea, though.
+@1c207b [32] (pokémon) bout POKéMON\nof the sea, though.
+@1c2080 [27] (pokémon) POKéMON\nof the sea, though.
+@1c21ee [29] (pokémon) My bird POKéMON remember you!
+@1c25d6 [36] (pokémon) POKéMON battle, right?\nCool! Rumble!
+@1c2853 [41] (pokémon) nd happening?\nTrading POKéMON, of course.
+@1c2860 [28] (pokémon) \nTrading POKéMON, of course.
+@1c2884 [28] (pokémon)  play with my POKéMON\nagain?
+@1c2888 [24] (pokémon) y with my POKéMON\nagain?
+@1c288e [18] (pokémon)  my POKéMON\nagain?
+@1c2fd1 [33] (pokémon)  POKéMON.\fI wonder if I'm better?
+@1c312c [28] (pokémon) I rode my bird POKéMON here.
+@1c60d1 [40] (pokémon) makes your POKéMON\nstronger than before.
+@3d4f28 [55] (muy,que)  muy buena. Tiene más índice\nde éxito que la SUPERBALL.
+@3d53a9 [49] (siempre,pokémon) Es la mejor. Atrapa siempre\nal POKéMON. No falla.
+@3d6b00 [14] (pokémon)  by a POKéMON.
+@3d7d78 [40] (que,con) . Puede que al menos\nte quedes con 1 PS.
+@3dad08 [82] (para,las,está,de,de) e sirve para llevar las\nBAYAS. Está en el bolsillo de\nobjetos clave de la MOCHILA.
+@3e7f9a [7] (pokémon) POKéMON
+@3eeef6 [15] (pokémon) POKéMON MANSION
+@3eef12 [14] (pokémon) POKéMON LEAGUE
+@3eef3d [13] (pokémon) POKéMON TOWER
+@3fb359 [17] (pokémon) Use next POKéMON?
+@3fb433 [29] (pokémon) {FD23} is out of\nusable POKéMON!\f
+@3fd700 [23] (pokémon) You missed the POKéMON!
+@3fd718 [31] (pokémon) Oh, no!\nThe POKéMON broke free!
+@3fda8c [36] (pokémon) The POKéMON hearing the FLUTE\nawoke!
+@415a66 [7] (pokémon) POKéMON
+@415de0 [22] (pokémon) {FC010F}{FC030E}POKéMON HABITATS
+@415df7 [17] (pokémon) Grassland POKéMON
+@415e09 [14] (pokémon) Forest POKéMON
+@415e18 [20] (pokémon) Water's-edge POKéMON
+@415e2d [11] (pokémon) Sea POKéMON
+@415e39 [12] (pokémon) Cave POKéMON
+@415e46 [16] (pokémon) Mountain POKéMON
+@415e57 [21] (pokémon) Rough-terrain POKéMON
+@415e6d [13] (pokémon) Urban POKéMON
+@415e7b [12] (pokémon) Rare POKéMON
+@415efb [18] (pokémon) {FC010F}{FC030E}POKéMON LIST
+@415f3d [12] (pokémon) POKéMON LIST
+@415f8f [8] (pokémon)  POKéMON
+@4170bc [33] (pokémon) That POKéMON can't be traded\nnow.
+@4171df [17] (pokémon) Choose a POKéMON.
+@417200 [20] (pokémon) Teach which POKéMON?
+@417215 [21] (pokémon) Use on which POKéMON?
+@41722b [22] (pokémon) Give to which POKéMON?
+@417239 [8] (pokémon) POKéMON?
+@417301 [17] (pokémon) Choose a POKéMON.
+@417396 [25] (pokémon) Choose POKéMON or CANCEL.
+@4173b0 [27] (pokémon) Choose POKéMON and confirm.
+@4173cc [23] (pokémon) Two POKéMON are needed.
+@4175de [18] (pokémon) Lure wild POKéMON.
+@417e72 [12] (pokémon) POKéMON JUMP
+@4182b8 [21] (pokémon) Release this POKéMON?
+@4182ec [18] (pokémon) Mark your POKéMON.
+@4182ff [25] (pokémon) That's your last POKéMON!
+@41832c [25] (pokémon) You're holding a POKéMON!
+@4183dd [18] (pokémon) GIVE to a POKéMON?
+@41856c [16] (pokémon) WITHDRAW POKéMON
+@41857d [15] (pokémon) DEPOSIT POKéMON
+@41858d [12] (pokémon) MOVE POKéMON
+@418690 [31] (pokémon) Can't deposit the last POKéMON!
+@4186b0 [28] (pokémon) Can't take any more POKéMON.
+@4189ee [29] (pokémon) Stop giving the POKéMON MAIL?
+@418c1b [14] (pokémon) POKéMON CENTER
+@419b18 [43] (pokémon) A peculiar POKéMON EGG obtained\nin a trade.
+@419c1d [12] (pokémon) POKéMON INFO
+@419c2a [14] (pokémon) POKéMON SKILLS
+@419d57 [14] (pokémon) POKéMON TRADES
+@41a2b0 [48] (pokémon,pokémon) POKéMON were fully restored\nat a POKéMON CENTER.
+@41a66e [37] (pokémon) Moved a group of POKéMON in\n{F7}  to {F7}À.
+@41a9a9 [42] (pokémon) {F7}È managed to defeat the POKéMON\n{F7}À in {F7} .
+@41aa01 [41] (pokémon) {F7}È managed to catch the POKéMON\n{F7}Â in {F7} .
+@41aaaa [65] (pokémon,pokémon) Defeated the POKéMON {F7}À\nand caught {F7}Ç POKéMON including\n{F7}Â in {F7} .
+@41b0b9 [19] (pokémon) POKéMON LEAGUE GATE
+@41b130 [16] (pokémon) POKéMON FAN CLUB
+@41b172 [13] (pokémon) POKéMON TOWER
+@41b236 [15] (pokémon) POKéMON MANSION
+@41b246 [20] (pokémon) POKéMON RESEARCH LAB
+@41b268 [14] (pokémon) POKéMON LEAGUE
+@41b516 [7] (pokémon) POKéMON
+@41b7ee [24] (pokémon) I want to catch POKéMON.
+@41cb63 [20] (pokémon) POKéMON JUMP RECORDS
+@41d198 [29] (pokémon) Pokémon FireRed Version\nStaff
+@41d5e4 [23] (pokémon) POKéMON Designers\n\n\n\n\n\n
+@41d640 [23] (pokémon) POKéMON Designers\n\n\n\n\n\n
+@41d698 [23] (pokémon) POKéMON Designers\n\n\n\n\n\n
+@41dfde [7] (pokémon) POKéMON
+@41e08a [8] (pokémon) POKéMON2
+@41e0c0 [17] (pokémon) Choose a POKéMON.
+@41e1c5 [35] (pokémon) Your friend wants\nto trade POKéMON.
+@44d9a7 [45] (pokémon,de,tipo,siempre) Pokémon de tipo bicho. Siempre\nve en bandadas
+@4589bc [38] (pokémon) Yeahah!\nI really wanted this POKéMON!\f
+@458a24 [31] (pokémon) I'm trading POKéMON right now.\f
+@4593c4 [14] (pokémon) POKéMON TRADES
+@459400 [12] (pokémon) POKéMON JUMP
+@727258 [63] (centro,pokémon) {FC0104}{FD01}: Todavía debo llevar a éste\npokémon al {FC0106}Centro Pokémon.
+@72c8a9 [70] (día,muy) , solo puedo venderte\nuna vez al día, sino se me\pacabarían muy rápido.
+@770003 [420] (que,de,hola,hola,de,que,que,que,para,parte,que,de,ciudad) iiinnnnnngggggg...\f{FC0104}{FD01}: Eh parece que viene de mi \nmochila. Hola?\f{FC0108}Prof. Birch: Hola {FD01} soy Birch,\nEste número me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770004 [419] (que,de,hola,hola,de,que,que,que,para,parte,que,de,ciudad) iinnnnnngggggg...\f{FC0104}{FD01}: Eh parece que viene de mi \nmochila. Hola?\f{FC0108}Prof. Birch: Hola {FD01} soy Birch,\nEste número me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770008 [415] (que,de,hola,hola,de,que,que,que,para,parte,que,de,ciudad) nnnngggggg...\f{FC0104}{FD01}: Eh parece que viene de mi \nmochila. Hola?\f{FC0108}Prof. Birch: Hola {FD01} soy Birch,\nEste número me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770050 [343] (hola,de,que,que,que,para,parte,que,de,ciudad) Birch: Hola {FD01} soy Birch,\nEste número me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770072 [309] (de,que,que,que,para,parte,que,de,ciudad) ero me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770077 [304] (de,que,que,que,para,parte,que,de,ciudad) e lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770078 [303] (de,que,que,que,para,parte,que,de,ciudad)  lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@77008f [280] (que,que,que,para,parte,que,de,ciudad) má, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+@770200 [309] (tiempo,desde,de,de,día,pero,está,de,parte)  {FD01}\ncuanto tiempo sin verte, desde\pque peeko se fue te hecho\pmucho de menos.\f{FC0104}{FD01}:Yo tambien siento lo de Peeko\nalgun día regresará...\f{FC0106}Pero como has crecido tu mamá\ndebe estar orgullosa, por cierto el \pprof Oak te está esperando afuera,\pdale un saludo de mi parte\f{FC0104}{FD01}: No se preocupe capitan se\nlo daré.
+@770300 [53] (de,parte) de mi parte\f{FC0104}{FD01}: No se preocupe capitan se\nlo daré.
+@770977 [54] (pokémon,que) En ésas balls hay tres Pokémon.\pEscoge el que quieras.
+@771108 [27] (de) renador de la\nregión Hoenn.
+@771901 [9] (nada) ues nada.
+@77346e [42] (hasta) Llevo pantalones cortos hasta\nen invierno.
+@774c3f [19] (todos,los) Le da todos los PS.

@@ -1,0 +1,40 @@
+[400] @771316 (380)  {FC0104}{FD01}: ¡Sí! ¡Es ese!\f{FC010E}Ash: Mmm, lo suponía, ese\npokémon que viste se llama Ho-oh.\f{FC0104}{FD01}: ¿Ho-oh? ¿Qué sabes de él?\f{FC010E}Ash: También lo vi cuando\ncomencé mi viaje como entrenador\ppokémon.\fUna vez, uno de mis amigos de\nJohto me contó que ese pokémon\ppresagia algo, pero nunca me supo\pexplicar qué.\fAl menos eso es todo lo que sé.\f{FC0104}{FD01}: Gracias Ash, es que me\nmoría de curiosidad.
+[401] @771493 (30) es que me\nmoría de curiosidad.
+[402] @7714c3 (73) {FC010E}Ash: ¡Oh!\nMira la hora que es.\pTengo que irme sino voy a llegar\ptarde.
+[403] @771618 (74) {FC0104}{FD01}: ¡Ahh! un enjambre de {FC0106}BEEDRILL{FC0104},\nmejor me ale{FC010F}Birch: ¡AAAHHH!
+[404] @77166c (59) {FC0104}{FD01}: ¡Ahh! un enjambre de\n{FC0106}BEEDRILL{FC0104}, mejor me alejo.
+[405] @7716cc (28)  {FC0108}¡Mi Spearow es el mejor!
+[406] @7716ea (43) ¿Y tú quién eres? No eres de\nPueblo Paleta.
+[407] @7717bd (55)  ¡Hola! Yo soy la hermana de\n{FC0105}Gary{FC0104}.\f¿Cómo está el?
+[408] @7717f5 (66)  Es divertido dar un paseo de vez\nen cuando, ¿Por qué no lo haces?
+[409] @771838 (57)  ¿Quieres saber algo sobre los 2\ntipos de orugas POKéMON?
+[410] @771872 (40)  Hace tiempo que no voy al BOSQUE\nVERDE.
+[411] @7718a9 (78) ¡CATERPIE no tiene veneno; pero\nWEEDLE, sí!\f¡Cuidado con su PICOTAZO\nVENENOSO!
+[412] @771949 (32) {FC010F}Birch: ¡Alguien que me ayude!
+[413] @77196c (86) {FC010F}Birch: ¡{FC0104}{FD01}{FC010F}! Gracias al cielo\nestás aquí, por favor, ayúdame\pcon este pokémon.
+[414] @7719c5 (517) {FC010F}Birch: Gracias {FC0104}{FD01}{FC010F}, te debo\nuna. Si no hubieses estado aquí,\pquien sabe cómo habría terminado,\pintentaba ver de cerca a ese\p{FC0105}Beedrill {FC010F}cuando me\psorprendió, gracias nuevamente.\f{FC0104}{FD01}: De nada profesor, pero me\npuede decir, ¿Qué hace en\p{FC0106}Kanto{FC0104}?\f{FC010F}Birch: Buena pregunta, resulta\nque encontré nuevos datos sobre\pla investigación que estoy\pllevando junto con el profesor\p{FC0105}Oak{FC010F}, esta vez necesito\pdársela personalmente, me has\payudado muchísimo hasta ahora.\f{FC010F}Ven, acompáñame, quiero\nmostrarte algo.
+[415] @771c35 (148) {FC010F}Birch: {FC0104}{FD01} {FC010F}mira eso,\n¿Quiénes son esos tipos?\f{FC0104}{FD01}: Oh no, son los que me crucé\nantes. Seguro que no buscan nada\pbueno, debemos detenerlos.
+[416] @771ced (156) {FC0108}Rocket 1: Jeje, esos son los {FC0106}Kakuna\n{FC0108}que te dije.\f{FC0104}Rocket 2: Bien, no perdamos el tiempo\ny capturémoslos de una vez.\f{FC0104}{FD01}: ¡Alto ahí ustedes dos!
+[417] @771d8c (51) {FC0108}Rocket 1: ¡Deben ser los que\nnos espiaban antes!
+[418] @771dc7 (103) {FC0104}{FD01}: Ustedes no se robarán\nnada, no los dejaré\f{FC0108}Rocket 1: ¿A sí? Entonces te las\nverás con los dos.
+[419] @771e5e (86) {FC0104}Rocket 2: No importa, aún así nos\nllevaremos esos {FC0106}Kakuna{FC0104}.\f{FD01}: ¡No los dejaré!
+[420] @771eb7 (111) {FC0104}{FD01}: ¿Qué está pasando profesor?\f{FC010F}Birch: Me temo que esos {FC0106}Kakuna {FC010F}están\nevolucionando.\f{FC0104}{FD01}: ¿¡QUÉ!? 
+[421] @771f29 (53) {FC0104}Rocket 2: ¡Son demasiados!\f{FC0108}Rocket 1: ¡A correr!
+[422] @771f61 (283) {FC010F}Birch: Uff, eso sí que fue extraño\n¿No crees?, yo solo quería mostrarte\pese gran nido de {FC0106}Kakuna{FC010F} y resultó\pesta desagradable situación. Bueno\p{FC0104}{FD01}{FC010F}, nos veremos pronto,\pcontinuaré mi camino solo hacia\p{FC0106}Pueblo Paleta.\f{FC0104}{FD01}: Bien profesor, salude a {FC0105}Oak{FC0104}\nde mi parte.
+[423] @77207e (222) {FCFC01}È¡Soy BROCK! ¡LÍDER\ndel GIMNASIO de CIUDAD PLATEADA!\f{FC0105}Brock: Supongo que vienes a\ndesafiarme ¿no? Entonces debes\ptener mucho valor, para ser el\pprimer retador en mucho tiempo.\pBueno, no perdamos más tiempo. ¡A\pluchar!
+[424] @772166 (667) {FC0104}{FD01}: ¿Hola?\f{FC010F}Birch: Hola {FC0104}{FD01}{FC010F}, ¿Cómo has\nestado?\f{FC0104}{FD01}: Bien Prof. Ya he ganado mi\nprimer medalla para la liga de\p{FC0106}Kanto.\f{FC010F}Birch: ¡Felicitaciones\n{FC0104}{FD01}!{FC010F}¡Te lo tienes bien\pmerecido!\fBirch: Ahora cuéntame, ¿A dónde\nirás?\f{FC0104}{FD01}: Hacia {FC0106}Ciudad Celeste{FC0104} en\ndonde está el segundo gimnasio.\p¿Por qué pregunta?\f{FC010F}Birch: Es que necesitamos que\nvuelvas a {FC0106}Pueblo Paleta{FC010F}, asíTe he subestimado.\f¡Como prueba de tu victoria, aquí\ntienes la MEDALLA ROCA!\f{FC0602}¡{FD01} obtuvo la MEDALLA ROCA!{FC17FC}ÎÇÀ{FC08FE}{FC0856}{FC18FB}{FC0604}¡Es una MEDALLA oficial de la LIGA\nPOKéMON!\f¡Hará que tus POKéMON sean\nmucho más fuertes!\f¡Y la técnica del DESTELLO podrá\nser utilizada en todo momento!
+[425] @772404 (199) {FC0105}Brock: En el mundo de los\npokémon nunca tendrás nada fácil,\pasí que debes esforzarte para\pcumplir tus sueños.\fSi te gustan los retos, ¿Por qué\nno vas al gimnasio de CIUDAD\pCELESTE y retas a MISTY?
+[426] @772924 (125) smo.¿Llevas POKé BALLS?\n¡Entonces tú tienes POKéMON!\f¡Es genial poder llevar y usar los\nPOKéMON en cualquier momento\py lugar!
+[427] @7729a2 (71)  Hacia adelante se encuentra el\nBOSQUE VERDE. Todo un desafío\pcruzarlo.
+[428] @7729ea (109)  Gary nunca está en el gimnasio,\nse la pasa investigando con su\pabuelo, si quieres retarlo, debes\paguantarte.
+[429] @772a58 (33)  LA CASA del MAR\n¡BILL vive aquí!
+[430] @772a86 (25) ¡Es ahora o nunca joven! 
+[431] @772aa0 (168)  PISTAS ENTRENADOR\fLos ataques de los POKéMON\ndependen de sus PUNTOS de PODER\po PP.\f¡Para rellenar tus PP, deja que\ntus cansados POKéMON descansen\pen un CENTRO POKéMON!
+[432] @772b49 (127)  ¡Éste es el CENTRO POKéMON!\fNosotros curamos a los POKéMON\ndebilitados.\f¿Quieres que nos ocupemos de los\nPOKéMON de tu equipo?
+[433] @772bc9 (80)  Puedes usar ese PC de la esquina.\f¡Me lo dijo la recepcionista!\n¡Es muy amable!
+[434] @772c1a (108)  PISTAS ENTRENADOR\f¡Atrapa los POKéMON y amplía\ntu colección!\f¡Cuantos más tengas, más fácil\nte será luchar!
+[435] @772d04 (28) ¡Vuelve siempre que quieras!
+[436] @772d83 (52) ¡Parece que {FD02} está jugando\nahora mismo! ¡Conéctate!
+[437] @772dd9 (48)  ¡Auch! ¡Tropecé con un POKéMON\nrocoso, GEODUDE!
+[438] @772e17 (23) ¡Vuelve cuando quieras!
+[439] @772e2f (86)  Inventarse motes es divertido, pero\ndifícil.\fEs más fácil recordar nombres\nsencillos.

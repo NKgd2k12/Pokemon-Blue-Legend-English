@@ -1,0 +1,40 @@
+[440] @772eca (60)  ¡Eh!\n¡Hay que tener disciplina para ser\pENTRENADOR POKéMON!
+[441] @772f20 (41) ¿Será posible?\n¡No me quedan más POKéMON!
+[442] @772f72 (40)  ¡Vaya!\n¡Voy a atrapar unos más fuertes!
+[443] @772f9b (42)  ¡Eh, espera!\n¿Por qué tienes tanta prisa?
+[444] @772fdf (10) ¡Me rindo!
+[445] @772fec (91) ¡A veces puedes encontrar cosas\nen el suelo!\f¡Estoy buscando los objetos\nque se me cayeron!
+[446] @773092 (23) ¡Vuelve cuando quieras!
+[447] @7730aa (42)  Los niños pagan 50¥.\f¿Te gustaría entrar?
+[448] @7730ef (59)  ¡Hola!\n¡Me gustan los pantalones cortos!\f¡Son muy cómodos!
+[449] @77312b (39)  GAME HOUSE\n¡Vive los mejores combates!
+[450] @77316b (22) ¡No me lo puedo creer!
+[451] @773184 (75) ¿Estás guardando a tus POKéMON\nen el PC?\f¡Cada CAJA puede tener 30\nPOKéMON!
+[452] @77322d (23) ¡Eres de lo que no hay!
+[453] @773247 (38) ¡Deja de mirarme si no quieres\nluchar!
+[454] @773292 (39)  GAME HOUSE\n¡Vive los mejores combates!
+[455] @7732d2 (37) ¡Con nuevos POKéMON te habría\nganado!
+[456] @7732fa (62) ¡Si una CAJA de POKéMON del PC\nestá llena, cambia a otra CAJA!
+[457] @773339 (42)  ¡Puedes luchar contra mis nuevos\nPOKéMON!
+[458] @7733b6 (57) ¡Los POKéMON entrenados son más\nfuertes que los salvajes!
+[459] @773452 (25) ¡He perdido!\n¡He perdido!
+[460] @773499 (14)  ¿Eso es todo?
+[461] @773568 (23)  ¡Eh!\n¡Me has empujado!
+[462] @773580 (68)  ¡Uff!... Voy a descansar.\nUfff...\f¡Ese túnel a CELESTE es agotador!
+[463] @7735c5 (160)  ¡Anda, la MEDALLA ROCA!\nTe la ha dado BROCK, ¿no?\fBROCK es, además de fuerte, guay.\nTodos lo respetan y admiran mucho.\fYo quiero ser LÍDER de GIMNASIO\ncomo él.
+[464] @773666 (168)  ¡Un puñetazo con rabia\ncontenida!\f¡Condimentado con fuerza\ndescomunal!\f¡Cuando no queda energía,\nMEGAPUÑO es el ataque definitivo!\f¿Qué?\n¿Se lo enseño a algún POKéMON?
+[465] @773774 (29) ¡Oh! ¡Mi pobre hongo POKéMON!
+[466] @77379a (40) ¿A qué POKéMON quieres que se\nlo enseñe?
+[467] @7737c5 (133) ¡Ya usamos los puños de la\nmisma forma!\f¡Hala, vete antes de que le entren\nganas de luchar a mi colega:\pes un flipado de las patadas!
+[468] @77384d (56) ¡Cuando comprendas el significado\nde MEGAPUÑO, volverás!
+[469] @773888 (54) Este movimiento sólo se puede\naprender una vez, ¿vale?
+[470] @7738bf (175)  ¡Una buena patada con rabia\ncontenida!\f¡Condimentada con fuerza\ndescomunal!\f¡Cuando no quede energía,\nMEGAPATADA es el ataque\pdefinitivo!\f¿Qué?\n¿Se lo enseño a algún POKéMON?
+[471] @77396f (69)  ¡Puede que no haya más hongos\npor aquí!\fCreo que ya los tengo todos.
+[472] @7739fa (40) ¿A qué POKéMON quieres que se\nlo enseñe?
+[473] @773a25 (132) ¡Ya damos patadas de la\nmisma forma!\f¡Hala, vete antes de que le entren\nganas de luchar a mi colega:\pes un flipado de los puñetazos!
+[474] @773aac (67) ¡Cuando comprendas el significado\nde MEGAPATADA, volverás llorando!
+[475] @773af0 (35)  ¡Mis POKéMON no lo han conseguido!
+[476] @773b14 (103)  Estoy buscando fósiles en las\nentrañas del MT. LUNA.\fA veces me ayuda BROCK,\ndel GIMNASIO de PLATEADA.
+[477] @773b7c (49)  ¡Uau! ¡Esto es mucho más grande\nde lo que creía!
+[478] @773bc7 (17) ¡Oh!\n¡He perdido!
+[479] @773bd9 (53)  ¡Wow!\n¡Me has impresionado!\p¡Pero si eres muy joven!

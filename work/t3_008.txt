@@ -1,0 +1,40 @@
+[320] @72c822 (35) Está bien, ¡Regresa cuando\nquieras!
+[321] @72c8fb (36) ¡Mi papá es un experto de las\nbayas!
+[322] @72c99b (40) ¡Ahgr! ¡El Equipo Rocket es muy\nmolesto!
+[323] @72c9c6 (72) ¡Qué golpe de suerte!\f¡Nunca pensé que conseguiría\nver huesos de dragón!
+[324] @72ca2e (43) ¡No quiero estar aquí con el\nEquipo Rocket!
+[325] @72ca5c (74) ¡Quiero un PIKACHU!\n¡Es tan mono!\f¡Le pedí a mi padre que me\natrapara uno!
+[326] @72cb0a (37) ¡Sí, pronto tendrás a tu\nPIKACHU!... 
+[327] @72cb4f (45) ¡El Equipo Rocket quiere robarse\nlos fósiles!
+[328] @72cbcd (26) ¡Esos tipos son muy malos!
+[329] @72ce0d (21) ¡Has ganado otra vez!
+[330] @72ce25 (56) ¡Hay otros tipos de POKéMON\ndiferentes a los del bosque!
+[331] @72cf43 (21) ¡Ya llegas a CELESTE!
+[332] @72cfa0 (12) ¡Vas a caer!
+[333] @72d00c (32) ¡Si me ganas te regalo mi gorra!
+[334] @72d02f (22) ¡Claro que no lo haré!
+[335] @72d048 (25) ¡El MT. LUNA fue difícil!
+[336] @72d07b (26) ¿Ya venciste a mi hermano?
+[337] @72d098 (13) ¡Eres la ley!
+[338] @72d0e5 (26) ¡Estoy ansiosa por luchar!
+[339] @72d163 (12) ¡Eres bueno!
+[340] @72d172 (77) ¡Antes esta cueva solía estar\nrepleta de fósiles! Ahora no\pencuentro ninguno.
+[341] @72d1d9 (36) ¡Me encanta explorar cavernas\nsabes!
+[342] @72d200 (16) ¡Pero no perder!
+[343] @72d213 (69) Este túnel es difícil de cruzar,\n¡Y eso que es el más fácil de\pKanto!
+[344] @72d272 (24) ¡Ya casi llego al final!
+[345] @72d28d (23) ¡Pero no quería perder!
+[346] @72d2ed (25) ¡Le falta muy poco joven!
+[347] @72d5d8 (69)  De día suelo pasármela pescando,\npor eso de noche vengo a la\pciudad.
+[348] @72d66e (77) ¡Hey! ¡Puedes ir al\nrestaurante si quieres! ¡Yo\pestoy en mi hora de descanso!
+[349] @72d6c9 (64) ¿Estás haciendo una enciclopedia\nde los POKéMON? ¡Qué increíble!
+[350] @72d715 (74) ¿También entrenas POKéMON?\fAtrapar, luchar, ¡qué vida tan\ndura la nuestra!
+[351] @72d8f9 (71) LÍDER del GIMNASIO POKéMON\nde PLATEADA: BROCK\p¡Es fuerte como una roca!
+[352] @72d94c (55) ¡CIUDAD CELESTE!\n¡Una misteriosa aura azulada la\prodea!
+[353] @72d98f (70) LÍDER del GIMNASIO POKéMON\nde CELESTE: MISTY\p¡La sirena distorsionada!
+[354] @72d9e1 (71) ¡Este BILL!\f¡Dicen que haría lo que fuera para\nconseguir POKéMON raros!
+[355] @72da34 (148) ¿Has oído hablar de BILL?\f¡Dicen que es un POKéMANÍACO!\fPero yo creo que la gente le tiene\nmucha envidia.\f¿Quién no querría presumir de sus\nPOKéMON?
+[356] @72dad4 (57) ¡BILL tiene muchísimos POKéMON!\n¡Y algunos son muy raros!
+[357] @72db19 (33) ¡Quiero intercambiar mis POKéMON!
+[358] @72db46 (219) Usa el REPELENTE para evitar a los\nbichos y a los POKéMON débiles.\f¡Pon a tu POKéMON más fuerte el\nprimero de la lista para conseguir\pmejores resultados!\fSi tu primer POKéMON es fuerte,\nel REPELENTE tendrá mayor efecto.
+[359] @72dc2d (85) ¿Has visto algún CARAMELORARO?\f¡Dicen que los POKéMON suben\nun nivel si se comen uno!

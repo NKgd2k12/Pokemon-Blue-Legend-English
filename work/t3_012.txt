@@ -1,0 +1,37 @@
+[480] @773c4d (32) ¡No tienes edad para estar aquí!
+[481] @773d16 (222)  ¡Hola, aspirante al título!\f¡Un consejo!\f¡La LÍDER, MISTY, es profesional\ny usa POKéMON acuáticos!\f¡Puedes absorber toda su agua con\nlos POKéMON del tipo PLANTA!\f¡O dejarlos hechos polvo usando\nPOKéMON del tipo ELÉCTRICO!
+[482] @773e16 (83) ¡Has ganado a MISTY!\n¡No sé qué decirte!\f¡Tú y yo formaríamos un equipo\ninvencible!
+[483] @773e6a (290)  ¡Hola, aspirante al título!\f¡Un consejo!\f¡La LÍDER, MISTY, es profesional\ny usa POKéMON acuáticos!\f¡Puedes absorber toda su agua con\nlos POKéMON del tipo PLANTA!\f¡O dejarlos hechos polvo usando\nPOKéMON del tipo ELÉCTRICO!\f¿Quieres otra pista? ¿Por qué no\nintentas entrar con menos POKéMON?
+[484] @773f8d (24)  ¿Cómo he podido perder?
+[485] @773fa6 (25)  ¡Oye!\n¡Me has machacado!
+[486] @773fc0 (28)  ¡Hola!\n¡Mi chico es genial!
+[487] @77401f (27) ¡He hecho lo que he podido!
+[488] @774129 (115)  ¡{FD01}! ¡Por fin vienes a retarme!\n¡Espero que no te haya costado\pvenir hasta aquí! ¡Dejemos la\ppalabrería, a luchar!
+[489] @77419d (33)  Se ve que te encanta venir\naquí.
+[490] @7741bf (32)  Acabo de ver correr un AZURILL.
+[491] @7741e0 (31)  ¡No estaba en muy buena forma!
+[492] @774220 (27) ¡Uauu!\n¡Ha sido mucha tela!
+[493] @77423e (27) ¡He hecho lo que he podido!
+[494] @77425c (32) ¡Muy bien, voy a acabar contigo!
+[495] @77427d (31)  ¡Vi tu hazaña desde la hierba!
+[496] @77429d (41)  ¡Ojalá mi chico fuera tan bueno\ncomo tú!
+[497] @7742dd (30) ¡Creía que no me ibas a ganar!
+[498] @774327 (100) ¡Uauuu!\n¡Eres demasiado!\f¡Muy bien!\f¡Toma la MEDALLA CASCADA para que\ntodos sepan que me has ganado!
+[499] @77438e (65) ¡La MT03 enseña HIDROBOMBA!\f¡Úsala con los POKéMON del tipo\nAGUA!
+[500] @7743d2 (243) ¡La MEDALLA CASCADA obligará a\ntodos los POKéMON por debajo del\pnivel 30 a obedecer!\f¡Incluidos los forasteros!\f¡Y podrás usar CORTAR siempre que\nquieras!\f¡Puedes CORTAR pequeños arbustos\npara abrir nuevos caminos!\f¡Voy a darte mi MT favorita!
+[501] @7744c8 (37) ¡{FD01} obtuvo la MT03\nde manos de MISTY!
+[502] @7744f0 (29) ¡Más vale que le hagas sitio!
+[503] @77450e (47)  ¡Me oculté porque me asustaron\nlos de la ruta!
+[504] @77453e (25)  ¡Te has esforzado mucho!
+[505] @774558 (58)  ¡Hola!\n¡Mi chico es genial!\p¡Y hoy me encuentro en forma!
+[506] @7745a7 (53)  Mi amigo tiene unos POKéMON\nmuy monos. ¡Qué envidia!
+[507] @774667 (58)  ¡Estoy buscando a un coleccionista\nde POKéMON en el cabo!
+[508] @7746b9 (42) ¿Vienes del MT. LUNA?\n¿Me das un CLEFAIRY?
+[509] @774721 (75) ¡Hay un POKéMANÍACO viviendo\nen el cabo!\f¿Has visto la colección que tiene?
+[510] @77476d (25)  ¡Sabía que iba a perder!
+[511] @774848 (87)  BULBASAUR es tu elección.\nEs fácil de criar.\f{FD01}, ¿Quieres al Pokémon\nplanta BULBASAUR?
+[512] @7748a3 (194)  Actualmente Birch y yo estamos\ntrabajando juntos, y necesitamos\pque vengas a la región de Kanto,\pseguramente ya te lo comentó él\pmismo.\fBien, ahora necesito tus datos\npara completar tu pasaje.\p
+[513] @774a5f (86) ¡Hm! Ése es SQUIRTLE.\nSí, es muy bonito.\f{FD01}, ¿te decides por el\nPokémon agua SQUIRTLE?
+[514] @774abe (79) ¡Ah! CHARMANDER\nDicen que son leales.\f{FD01}, ¿quieres al Pokémon\nfuego CHARMANDER?
+[515] @774d75 (59) lauta de cristal azul que\ndespierta a los POKéMON\ndormidos.
+[516] @775162 (173) aré.{FC010F}Oak: Además, recuerda, si\nnecesitas curar a tus pokémon,\ppuedes usar la máquina que tienes\pa mi derecha.\f{FD01} tu viaje en Kanto recién\ncomienza, ¡Te deseo mucha suerte!

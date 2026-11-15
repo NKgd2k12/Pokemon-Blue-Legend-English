@@ -1,0 +1,40 @@
+[280] @72b320 (29) ¡Una PC de última generación!
+[281] @72b3e8 (63) ¡Los CENTROS POKéMON curan a tus\nPOKéMON heridos o debilitados!
+[282] @72b433 (32) ¡Mi papá es muy sobre protector!
+[283] @72b45f (37) ¡Mi hermana es muy buena\nentrenadora!
+[284] @72b675 (37) ¡Yo vigilo la parte sur de ésta\nruta!
+[285] @72b6a6 (43) Mmm, tengo mucha hambre, ¿me\nconvidas algo?
+[286] @72b79a (88) Acabo de salir del BOSQUE VERDE,\ncasi me pica un BEEDRILL.\f¡Salí corriendo de inmediato!
+[287] @72b7fe (39) ¡Yo vigilo la parte norte de ésta\nruta!
+[288] @72b83f (38) ¡Eh! ¡Tienes POKéMON!\n¡Sí!\p¡Al ataque!
+[289] @72b868 (30) ¡No!\n¡Mi CATERPIE no pudo más!
+[290] @72b889 (38) ¡Ssh!\n¡Vas a espantar a los bichos!...
+[291] @72b8c9 (24) ¡No vas a poder conmigo!
+[292] @72b8e5 (22) ¡Eso fue sorprendente!
+[293] @72b930 (17) ¡Soy un pescador!
+[294] @72ba08 (64) No soy especialmente grande, ¡pero\ntampoco soy ningún enclenque!
+[295] @72baba (35) ¿Sabes que los POKéMON\nevolucionan?
+[296] @72bae0 (17) ¡Oh! ¡He perdido!
+[297] @72baf4 (50) Los POKéMON evolucionan\nmuy rápido. ¡Son geniales!
+[298] @72bb40 (28) ¡Llegué al final del BOSQUE!
+[299] @72bb5f (12) ¡He perdido!
+[300] @72bb95 (62) ¡Vine aquí con unos amigos!\f¡Van en busca de combates\nPOKéMON!
+[301] @72bbdf (91) ¡Me quedé sin POKé BALLS con\nlas que atrapar a los POKéMON!\f¡Deberías llevar algunas extra!
+[302] @72bc46 (71) ¡Usa ANTÍDOTO contra el veneno!\n¡Lo conseguirás en las TIENDAS\pPOKéMON!
+[303] @72bc99 (82) PISTAS ENTRENADOR\fSi quieres evitar los combates,\n¡aléjate de las zonas de hierba!
+[304] @72bcf7 (108) PISTAS ENTRENADOR\f¡Debilita a los POKéMON antes\nde intentar capturarlos!\f¡Si están fuertes, podrían escapar!
+[305] @72bdc6 (114) ¡No hay muchos ENTRENADORES\nde POKéMON por aquí!\f¡Todos parecen CAZABICHOS, salvo\nBROCK, del GIMNASIO de PLATEADA!
+[306] @72be99 (43) ¡En ésta casa hay un tipo que\nregala bayas!
+[307] @72bf79 (113) ¡Dicen que los CLEFAIRY vinieron\nde la Luna!\f¡Aparecieron tras la caída de\nvarias PIEDRAS LUNARES\pen el MT. LUNA!
+[308] @72c0d8 (35) ¡No debería estar hablando\ncontigo!
+[309] @72c107 (72) ¡El Equipo Rocket arrasa otra vez!\f¡No te entrometas en nuestros\nplanes!
+[310] @72c174 (75) PISTAS ENTRENADOR\f¡Todo POKéMON que luche en un\ncombate ganará EXPERIENCIA!
+[311] @72c275 (107) ¡Los POKéMON aprenden nuevos\nataques a medida que crecen!\f¡Pero hay ciertos ataques que\nhay que enseñarles!
+[312] @72c2ec (95) ¡Los POKéMON serán más fáciles\nde atrapar si están heridos o\pdormidos!\f¡Pero no siempre es así!
+[313] @72c357 (55) Sabes, es muy aburrido vivir\nsolo, ¡Cuida a tu familia!
+[314] @72c474 (92) ¿¡Qué!?\f¿Que el EQUIPO ROCKET está en el\nMUSEO?\f¡Estoy hablando por teléfono!\n¿Será posible?
+[315] @72c4dc (72) ¡Yo quiero un PIKACHU, así que\nvoy a intercambiar a mi CLEFAIRY\ppor uno!
+[316] @72c5e1 (62) ¡Cuantos libros! ¡Espero\nencontrar como evoluciona mi\pMACHOKE!
+[317] @72c62b (87) ¡Un misterioso anciano me vendió\neste extraño pez POKéMON!\f¡Es muy débil y cuesta 500¥!
+[318] @72c68e (95) ¡Podrían suceder cosas buenas si\nentrenaras rápidamente a tus\pPOKéMON, hasta a los más débiles!
+[319] @72c7ee (44) Dime, ¿Quieres comprar un Pack?\nCuesta ¥500.

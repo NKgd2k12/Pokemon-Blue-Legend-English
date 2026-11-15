@@ -1,0 +1,40 @@
+[40] @18ea45 (32) El último pokémon del prof. Oak.
+[41] @18ea66 (28) ¡Pulsar START, abre el MENU!
+[42] @18ebe6 (28) ¡Soy ayudante del PROF. OAK!
+[43] @18ec0b (260) Hola, {FD01}. Seguro que has\nhecho buenas migas con tus\pPOKéMON.\fA todo esto, ¿conoces a DALIA?\fSi le enseñas a DALIA tus POKéMON,\nsabrá decirte si les gustas o no.\fY puede que les dé un lavado de\ncara para que estén presentables.\pPero no vayas diciéndolo por ahí.
+[44] @18ed81 (92) ¡El PROF. OAK es un experto\nen POKéMON!\f¡Es admirado por muchos de los\nENTRENADORES POKéMON!
+[45] @190c8f (48) Meteorito caído en el MT. LUNA.\n«¿PIEDRA LUNAR?)
+[46] @1911ec (65) ¡Alto ahí, enclenque!\f¡Todavía estás a años luz de retar\na BROCK!
+[47] @19126c (38) ¡Eres bueno, pero no\ntanto como BROCK!
+[48] @191298 (152) ¡Puedo decirte lo que se requiere\npara ser un campeón de POKéMON!\f¡No soy ENTRENADOR, pero puedo\ndecirte cómo ganar!\f¡Déjame que te lleve a la\nvictoria!
+[49] @19133c (23) ¡Muy bien!\n¡Vamos allá!
+[50] @191412 (19) ¡Es gratis!\n¡Vamos!
+[51] @19143c (26) ¡Lo sabía!\n¡Tienes madera!
+[52] @192481 (51) ¡Soy demasiado buena para ti!\f¡MISTY puede esperar!
+[53] @1924d0 (18) ¡Me has machacado!
+[54] @192524 (28) ¡Soy el primero!\n¡Al ataque!
+[55] @192556 (63) ¡MISTY es cada vez más fuerte!\f¡No perderá con alguien como tú!
+[56] @198df9 (69) WARDEN: Hif fuff hefifoo!\fHa lof ha feef ee hafahi ho.\nHeff hee fwee!
+[57] @198e63 (32) Ha?\nHe ohay heh ha hoo ee haheh!
+[58] @19da9a (103) HOMBRE: ¡Hola, majo!\n¡Tengo una oferta sólo para ti!\f¡Te daré un MAGIKARP por 500¥\nde nada!\f¿Qué dices?
+[59] @19db34 (103) HOMBRE: ¡Hola, maja!\n¡Tengo una oferta sólo para ti!\f¡Te daré un MAGIKARP por 500¥\nde nada!\f¿Qué dices?
+[60] @19dc07 (31) ¿No? ¡Pues lo hacía como favor!
+[61] @19dc78 (29) ¡No tienes suficiente dinero!
+[62] @19dc9a (46) HOMBRE: ¡Que sepas que no acepto\ndevoluciones!
+[63] @19dcdb (50) ¡Si tienes demasiados POKéMON,\nguárdalos en el PC!
+[64] @19e01e (11) Êîç\nîÛîñÉâ?
+[65] @1a508a (28) ¿A qué PC quieres acceder?  
+[66] @1a56a7 (33) ¿Quieres ponerle un mote a tu\n{FD02}?
+[67] @1a56c9 (52)  ienes demasiados POKéMON.\nNo queda sitio para éste.
+[68] @1a59fe (37) ¡Hola!\f¿Quieres cambiar tu {FD02}\npor {FD03}?
+[69] @1a5a6a (20) ¿Qué?\nÉste no es {FD02}.
+[70] @1a5aa5 (43) ¿Qué tal va el {FD03} que te\nenvié, más fuerte?
+[71] @1a92d0 (11) ÒÀà ÛÌÀéÉéÔ
+[72] @1a92e6 (11) ÒÀà ÛÌÀéÉéÔ
+[73] @1a92fe (11) ÒÀà ÛÌÀéÉéÔ
+[74] @1a932d (10) ÔßÉííÌëÉéÔ
+[75] @1a933f (10) çéÌ Éé ëÌÎ
+[76] @1a9356 (11) ÂçééÌÂí íÒÌ
+[77] @1a937c (10) áç+Ìë çáÌé
+[78] @1c04bb (13) ùÏ! ÉÇñÑ ÒñÉ!
+[79] @1c0db0 (47) ¡Totalmente lleno de libros sobre\nlos POKéMON!.

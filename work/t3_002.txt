@@ -1,0 +1,40 @@
+[80] @1c0e40 (46) ¡Oh! ¡Delicioso!\n¡Alguien está cocinando aquí!
+[81] @1c0e73 (55) Qué mueble tan genial.\n¡Caben muchas cosas allí dentro!
+[82] @1c0ecb (41) TIENDA POKéMON\n¡Compra todos tus objetos!
+[83] @1c0f99 (55) ¡Seguramente está lleno de cosas\nde lo más apetecibles!
+[84] @1c1060 (58) ¿Para que será esta máquina? \n¡Es mejor no meter el dedo!\p
+[85] @1c1217 (48) ¡Lucecitas de colores que\nse encienden y apagan!
+[86] @1c3445 (86) Soy un buen chico.\n¡Y tengo novia!\f¡Verás cómo se queda cuando\nme vea luchar esta vez!
+[87] @1c34d4 (47) ¡Sabía que tendría que luchar\ncontigo otra vez!
+[88] @1c353b (47) ¡Acabo de bajar del MT. LUNA,\npero estoy listo!
+[89] @1c35bc (46) ¿Vas a ver a BILL otra vez?\n¡Luchemos primero!
+[90] @1c3624 (49) Siempre estás de aquí para allá...\n¿No te cansas?
+[91] @1c3685 (51) Aunque perdí cuando luchamos,\nestuvo guay, ¿verdad?
+[92] @1c59d5 (37) Cuéntame. ¿Eres varón?\n¿Eres mujer? \p
+[93] @1c5a04 (228) ¡Bienvenido a Pokémon Blue Legend!\nEste es un hackrom con base en Fire\nRed U v1.0 comenzado en el 2008.\n\nEsta beta se trata de un relanzamiento\nde la beta 1 original, finalizada en \nenero de 2011 con el fin de corregir \nerrores.
+[94] @1c5bb9 (106) Para más información, busca el texto\nadjunto con esta Rom. \n\nSin más palabras,\n\n¡Que comience tu aventura!
+[95] @1c5c78 (125) ¡Bienvenido!\fMi nombre es Oak, soy un profesor \npokémon, como Birch a quien tú ya \pconoces.                                  
+[96] @1c5ec5 (46) ¡Ya lo recuerdo! ¡Lo tenia!\n¡Su nombre es {FD06}!\f
+[97] @1c5ef4 (116) ¡{FD01}!\fViajarás por todo Kanto por nuevas\naventuras.\pUna nueva leyenda en el mundo\pPokémon resurgirá.\pSuerte, vencerás
+[98] @1cc137 (15) Âï9ÎËÈÈéûÁ   Œ 
+[99] @3d4efe (97)                                         Es muy buena. Tiene más índice\nde éxito que la SUPERBALL.
+[100] @3d51bb (48)  distinta.\nFunciona mejor al avanzar\nel combate.
+[101] @3d53a4 (54) MONMeEs la mejor. Atrapa siempre\nal POKéMON. No falla.
+[102] @3d53e0 (49) icina en spray, que cura a un\nPOKéMON paralizado.
+[103] @3d546f (138) Medicina en spray, que cura heridas\ny restaura todos los PS de un\nPOKéMedicina en spray, que cura heridas\ny restaura 200 PS de un POKéMON.
+[104] @3d83ec (93) Al llevarla, la energía telequiné-\ntica de la cuchara fortalece\nlos ataques de tipo PSÍQUICO.
+[105] @3df14c (14) ÑÛó ÀìËÛ ÈÁÏÁ.
+[106] @3df531 (19) ÈÈïÉÏÉú èÇÛÁŒ. ŒËÎ+
+[107] @3e1529 (53) Ó :Ó   x   RÓ  R{FC0000}RRÔ yVhzyVRÓÔVRÓ VSy VRi Vhi :j{FD00} 
+[108] @3e162f (33) T   l               lÓ   yÔ  RiÒ 
+[109] @3e1653 (46)             lTiÔ liÓ  j{FD00} T{FD00} jy l{FDDF}ÓjRiÔghzÔ:
+[110] @3e254a (10)   Ç Ë Ë Ë 
+[111] @3e2b1e (11)   Ç Ê Ë Ê \n
+[112] @3e7358 (20)  Ë  È È  Ë  {FD7F}È     
+[113] @3f895a (29) ÙÙ:ìÙÙ               :   :   
+[114] @3f89c6 (30) ÙÙ ìÙÙ:ìÙÙ:ìÙÙ:ìÙÙ:çÙÙ:çÙÙ:ÙÙÙ
+[115] @3fa1c4 (24) Ô  :Ô  :Ô  :Ô  :Ô  :Ô  :
+[116] @3fa1e8 (20) Ô  :Ô  :Ô  :Ô  :Ô  :
+[117] @3fcc74 (21) ¡Es muy efectivo!    
+[118] @3fd297 (18) ¡Un {FD06} salvaje!   
+[119] @3fdbef (100) Bueno, creo que eso es todo, solo te\nqueda aprender con la experiencia.\f¡Vamos que Ash no te venza!\f

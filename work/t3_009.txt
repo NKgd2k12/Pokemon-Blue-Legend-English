@@ -1,0 +1,40 @@
+[360] @72dd4d (134) A mi marido le gusta intercambiar\nPOKéMON.\fSi eres coleccionista, ¿podrías\nintercambiar con él?\f¡Te vendría de perlas para tu\nPOKéDEX!
+[361] @72dddf (48) ¿Por qué no me dejas ver las\nnoticias tranquilo?
+[362] @72de1f (24) ¿Te gusta mi nueva casa?
+[363] @72dfbf (22) ¡Que lindo es cocinar!
+[364] @72dfe1 (27) ¡Esta sopa tiene una mosca!
+[365] @72e036 (23) ¡Este puré esta rancio!
+[366] @72e050 (12) ¡Eres bueno!
+[367] @72e0bc (37) ¡Si sigo comiendo así voy a\nexplotar!
+[368] @72e0f0 (37) ¡Uff! ¡Cuanta comida! ¡Vuelve\nmañana!
+[369] @72e152 (23) ¡Este puré está rancio!
+[370] @72e16c (12) ¡Eres bueno!
+[371] @72e1d8 (29) ¿Sabes si hacen pescado aquí?
+[372] @72e3f0 (33) ¡El EQUIPO ROCKET ataca de nuevo!
+[373] @72e41e (20) ¡Nos robaremos todo!
+[374] @72e44c (27) ¡No estorbes en los planes!
+[375] @72e474 (27) ¡Y eso no fue nada todavía!
+[376] @72e4a9 (25) ¡Nos robaremos a SUICUNE!
+[377] @72e4da (437)  {FC010E}Ash: ¿Qué deberíamos hacer\nprofesor?\f{FC010F}Oak: De momento, solo esperar.\nPrimero tenemos que saber cuál es\psu objetivo, estamos trabajando\pen eso ahora mismo.\f{FC0104}{FD01}: ¿Y qué pasó con {FC0106}Gary{FC0104}?\nLo vi salir de aquí antes de\pllegar.\f{FC010E}Ash: ¿{FC0106}Gary{FC010E}?\f{FC010F}Oak: Quería que esté en ésta\nreunión, pero prefirió tomar su\pcamino. Él puede cuidarse solo.\f{FC010E}Ash: Bien, entonces haré lo\nmismo. Gracias por el aviso Prof,\pestaré alerta. ¡Adiós!
+[378] @72e6af (227) ¿ {FC0106}Gary{FC010E}?\f{FC010F}Oak: Quería que esté en ésta\nreunión, pero prefirió tomar su\pcamino. Él puede cuidarse solo.\f{FC010E}Ash: Bien, entonces haré lo\nmismo. Gracias por el aviso Prof,\pestaré alerta. Nos vemos {FC0104}{FD01}{FC010E}.\f{FC0104}{FD01}: Adiós Ash.
+[379] @750cb8 (33) ÛŒŒŒŒÛÛÛÛŒŒÛÛÛÛÙÙÙÙÙÙÙÛÛÛŒÛÛÛÛÛÀ\n
+[380] @750cda (33) êêÛŒŒŒÛÛÛÛŒŒÛÛÛÛÙÙÙÙÙÙÙÛÛÛŒÛÛÛÛÀ\n
+[381] @7701aa (38) {FC0106}¡{FD01}, el profesor te\nestá esperando!
+[382] @7701ea (331)  {FC0106}Cap. Arenque: Hola {FD01}\ncuanto tiempo sin verte, desde\pque peeko se fue te hecho\pmucho de menos.\f{FC0104}{FD01}:Yo tambien siento lo de Peeko\nalgun día regresará...\f{FC0106}Pero como has crecido tu mamá\ndebe estar orgullosa, por cierto el \pprof Oak te está esperando afuera,\pdale un saludo de mi parte\f{FC0104}{FD01}: No se preocupe capitan se\nlo daré.
+[383] @770556 (389) {FC010F}Oak: Ahora sí, cuéntame algo de\ntu vida.\f{FC0104}{FD01}: Vengo de Villa Raíz y\nentreno Pokémon, aunque no tengo\pun combate hace mucho tiempo.\f{FC010F}Oak: Bueno aquí en Kanto hay un\ntorneo para gente como tú, talvez\pquieras participar.\f{FC0104}{FD01}: ¡Sí! sería fantástico, pero\nno traje a ninguno de mis pokémon\pconmigo.\f{FC010F}Oak: No te preocupes, puedo\ndarte uno de los míos.\f{FC0104}{FD01}: Sería un placer profesor.
+[384] @7706fc (24) {FC010F}¡Oak: Pero si es Ash!
+[385] @770715 (206) {FC010E}Ash: Hola prof, que tal?\f{FC010F}Oak: Te estaba esperando, te presento\na {FD01}, el es un entrenador\pde la region Hoenn.{FC010E}Ash: Hoenn eh, yo estuve por ahi\nes un gusto conocerte, mas siendo\pun entrenador como tu.
+[386] @7707e4 (101) {FC010E}Ash: Hola Prof, ¿Qué tal?\f{FC010F}Oak: Te estaba esperando, te presento\na {FD01}, viene de la región Hoenn.
+[387] @7708a2 (17) trenador como tu.
+[388] @770913 (154) {FC0104}{FD01}: Profesor, disculpe, pero ya\nno lo soporto\f¡QUIERO MI POKÉMON!\f{FC010F}Oak: Bueno no te desesperes\nEn ésas balls hay tres Pokémon.\pEscoge el que quieras.
+[389] @7709b3 (73) {FC010E}Ash: ¡Hey, {FD01}!\fYa que tienes a tu nuevo Pokémon,\n¿Qué tal si luchamos?
+[390] @770a26 (100) {FC010E}Ash: Excelente batalla {FD01},\nhace mucho que no luchaba así.\fBueno, me despido.\f¡Nos veremos pronto!
+[391] @770a8b (69)  o, he aprendido mucho.\f{FC010E}Ash: Bueno me despido, nos\nveremos pronto!
+[392] @770baa (14)  por el aviso.
+[393] @770d10 (54) {FC010F}Oak: {FD01} tu viaje en\nKanto recién comienza, ¡Suerte!
+[394] @770dec (86) t¡La tecnología es increíble!\f¡Ahora puedes guardar y sacar\nobjetos y POKéMON, vía PC!
+[395] @770e46 (122) {FC0104}Sabes, en este Pueblo han pasado\nmuchísimas cosas, pero en todas\plas oportunidades Ash nos ha\psalvado, ¡El es el mejor!
+[396] @770edc (50) PISTAS ENTRENADOR\f¡Pulsa START para abrir el MENÚ!
+[397] @770f9e (25) {FC0104}{FD01}: ¡QUÉ RAYOS ES ESO!
+[398] @77106c (93) {FC010E}Ash: ¡Hey {FD01}! llegas justo a\ntiempo, estaba a punto de irme.\pVen te presentaré a mi madre.
+[399] @7712df (54) {FC010E}Ash: ¡Lo encontré! ¡Lo encontré!\f¿Se veía algo así?
