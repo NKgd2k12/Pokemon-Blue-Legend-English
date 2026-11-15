@@ -1,0 +1,40 @@
+[0] @172559 (41) y buscando los objetos\nque se me cayeron!
+[1] @17293d (35) Debo encontrar POKéMON\nmás fuertes!
+[2] @1729ac (42) Dicen que aquí hay unos fósiles\nmuy raros.
+[3] @172a26 (28) Esta cueva es muy tenebrosa.
+[4] @172ee7 (26) Lo siento no puedes pasar.
+[5] @17325c (18) es CUT\nto POKéMON!
+[6] @17f2cf (61) Tengo mucha hambre, pero no tengo\ndinero para comprarme nada.
+[7] @17fec3 (47) Pueden verse monedas en el fondo\nde ésta fuente
+[8] @18211c (8) o\nKANTO!
+[9] @1838c0 (16) Ruta 3\nMT. LUNA.
+[10] @1839b4 (32) RUTA 4\nMT. LUNA - CIUDAD CELESTE
+[11] @184c1d (15) Ha-hahah-ah-ha!
+[12] @184c2d (50) Ha-haha!\nNot laughing!\pHa-hay fever! Haha-ha-choo!
+[13] @184c60 (37) Haha-ha-choo!\nHa-choo!\pSnort! Snivel!
+[14] @18921d (27) Bueno, mi chica me animará.
+[15] @18947e (44) El coleccionista tiene muchos\nPOKéMON raros.
+[16] @18951c (46) La ruta de abajo es un atajo\na CIUDAD CELESTE.
+[17] @18dce2 (60) {FC010E}Ash: Vamos {FD01}, elige uno\nde los pokémon, no tengas miedo.
+[18] @18dd75 (39) {FC010E}Ash: {FD01} tu pokémon se ve\nmuy fuerte.
+[19] @18e116 (87) {FC010F}Oak: Bueno {FD01}.\fDentro de esas pokéballs te espera\ntu nuevo pokémon, elige sin miedo.
+[20] @18e330 (111) {FC010F}Oak: Cuando un pokémon salvaje\naparezca, debes luchar contra él\pcon tus pokémon, así ve de ciudad\pen ciudad.
+[21] @18e3ad (69) {FC010F}Oak: {FD01}, a medida de\nque luches, tus pokémon se haran\pmás fuertes.
+[22] @18ea84 (45) La opción guardar sirve mucho,\nÚsala seguido.
+[23] @18eab6 (55) Todos los pokemons tienen\npuntos fuertes y debilidades.
+[24] @18ed15 (52) El profesor Oak tiene su\nprograma de radio en Jhoto!
+[25] @190100 (14) o cure poison!
+[26] @19032c (78) Yo tengo algunas POCIONES.\fNunca sabes cuándo pueden\nnecesitarlas tus POKéMON.
+[27] @190945 (46) Fósil AERODACTYL.\nUn primitivo y raro POKéMON.
+[28] @190975 (44) Fósil KABUTOPS.\nUn primitivo y raro POKéMON.
+[29] @190fdb (25) {FD01} recibió TM39\nde BROCK.
+[30] @1924e4 (20) No vencerás a MISTY.
+[31] @198df9 (69) WARDEN: Hif fuff hefifoo!\fHa lof ha feef ee hafahi ho.\nHeff hee fwee!
+[32] @198e63 (32) Ha?\nHe ohay heh ha hoo ee haheh!
+[33] @19d9d4 (70) Tengo 6 POKé BALLS en mi cinturón.\fPuedes llevar 6 POKéMON como\nmucho.
+[34] @19dc3e (52) Tienes demasiados POKéMON.\nNo queda sitio para éste.
+[35] @1a5075 (20) {FD01} encendió el PC.  
+[36] @1a50a7 (22) Accedió al PC.        
+[37] @1a50be (30) Sistema de almacenamiento\nPKMN
+[38] @1a5375 (60) Puedes asignar un objeto de la \nMOCHILA con el Botón SELECT.
+[39] @1a5420 (32) {FD01}: Ya deberiamos haber llegado.
