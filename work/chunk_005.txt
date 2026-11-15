@@ -1,0 +1,40 @@
+[200] @3e2420 (30) G{F5}ÌËK{F5}ÌË ÌË ÈÇ  ÒÀÁ ÓÀÁ ÔÀÁ zi
+[201] @3e73fc (11) F F     Á {FDFF} È  \n
+[202] @3e838f (6) NORMAL
+[203] @3ecb00 (8) SMELL YA
+[204] @3eed08 (12) CIUDAD VERDE
+[205] @3eed67 (11) ISLA CANELA
+[206] @3eee6a (7) RUTA 24
+[207] @3eee73 (7) RUTA 25
+[208] @3eee7c (12) BOSQUE VERDE
+[209] @3eef21 (10) TUNEL ROCA
+[210] @3eef4b (13) CUEVA CELESTE
+[211] @3fb844 (15) {FD0F} está\nconfuso
+[212] @3fd3f7 (15) {FD20} envía a \n{FD06}!
+[213] @3fd407 (22) {FD20} envía a\n{FD06} y a {FD08}! 
+[214] @3fd466 (14) Ve! {FD05} y\n{FD07}!  
+[215] @3fd57b (10) {FD0F} usó\n{FD01} 
+[216] @3fd650 (11) {FD23} usó\n{FD16}! 
+[217] @3fd688 (14) {FD1C} {FD1D}\nusó {FD16}! 
+[218] @3fdb92 (91) Gana el el ENTRENADOR que consiga\ndebilitar los POKéMON de su rival\preduciendo sus PS a 0.\f
+[219] @3fdc58 (50) OAK: La clave está en causar daño a \ntu oponente.\f
+[220] @3fdc95 (49) OAK: Bajar las estadisticas\ntambien es muy útil.\f
+[221] @3fdcd2 (65) OAK: Observa siempre a tu pokémon.\nSi sus PS llegan a 0 perderá.\f
+[222] @3fe791 (14) {FC0505}{FC040D}ÓÔYes\nNo
+[223] @3fe7a0 (21) {FC0505}{FC040D}ÓÔSwitch\nwhich?
+[224] @417457 (53) OAK: Esto es importante para ti, es\nel menú pokémon.\f
+[225] @417494 (154) Este contiene la lista de tus pokémon,\n{FD01}.\fÁbrela para ver las características\ny los ataques de tus pokémon.\fTambién puedes darle un ítem\na tus pokémon.{FC09FF}
+[226] @41772a (22) Guarda items en el PC.
+[227] @417741 (27) Toma items desde tu PC.    
+[228] @417adc (6) NORMAL
+[229] @4185ad (52) Puedes sacar tus POKéMON\nalmacenados en una caja.   
+[230] @4185e2 (46) Guarda algún POKéMON en alguna\nde tus cajas.  
+[231] @418611 (48) Ordenas los POKéMON de las cajas\ny de tu equipo.
+[232] @418642 (62) Mover los objetos de los POKéMON\nde las cajas o de tu equipo. 
+[233] @419822 (30) {F7}  nature.\nMet in {F7}Á at {F905} {F7}À.
+[234] @419841 (30) {F7}  nature.\nMet in {F7}Á at {F905} {F7}À.
+[235] @419860 (41) {F7}  nature.\nApparently met in {F7}Á\nat {F905} {F7}À.
+[236] @41988a (41) {F7}  nature.\nApparently met in {F7}Á\nat {F905} {F7}À.
+[237] @4198b4 (32) {F7}  nature.\nHatched: {F7}Á\nat {F905} {F7}À.
+[238] @4198d5 (32) {F7}  nature.\nHatched: {F7}Á\nat {F905} {F7}À.
+[239] @41992f (61) {F7}  nature. Met in a fateful\nencounter «hatched: {F7}Á\nat {F905} {F7}À).

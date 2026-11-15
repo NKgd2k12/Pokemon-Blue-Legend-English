@@ -1,0 +1,40 @@
+[240] @41996d (61) {F7}  nature. Met in a fateful\nencounter «hatched: {F7}Á\nat {F905} {F7}À).
+[241] @4199ab (72) {F7}  nature. Apparently met in\na fateful encounter «hatched:\n{F7}Á at {F905} {F7}À).
+[242] @4199f4 (72) {F7}  nature. Apparently met in\na fateful encounter «hatched:\n{F7}Á at {F905} {F7}À).
+[243] @419f76 (68) Contiene importantes datos de los\nPKMN con los que te encuentras.   
+[244] @419fbb (69) Aquí, entre otras cosas, puedes\norganizar los PKMN de tu equipo.     
+[245] @41a001 (67) Guarda en los bolsillos las cosas\nque encuentres, compres o te den.
+[246] @41a049 (37) Muestra tus datos de tu partida.     
+[247] @41a06f (71) Guarda cuando quieras todos los datos\nde tu partida para descansar.    
+[248] @41a0b7 (65) Si quieres cambiar la velocidad del\ntexto, o sonido hazlo aquí.  
+[249] @41a0f9 (23) Sales de este MENU.    
+[250] @41a210 (15) {FD01} usó     \n{FD02}.
+[251] @41a5d9 (32) Switched around {F7}À and\n{F7}Á in {F7} .
+[252] @41a896 (61) Sold items including {F7}À at\nthe POKéMON MART in {F7} ,\nworth ¥{F7}Á.
+[253] @41a9d4 (44) Defeated {F7}Á wild POKéMON including\n{F7}À in {F7} .
+[254] @41aaec (60) {F7}È defeated {F7}Á POKéMON including\n{F7}À and caught one {F7}Â\nin {F7} .
+[255] @41ab29 (74) Defeated {F7}Á POKéMON including\n{F7}À and caught {F7}Ç POKéMON\nincluding {F7}Â in {F7} .
+[256] @41af0c (49) Took on {F7}  GYM LEADER\n{F7}À's {F7}Á with {F7}Â\nand won {F7}Ç!
+[257] @41e2c9 (10) {F7}Á players
+[258] @447abf (86) Suele imitar a sus enemigos. Cuando\nlo hace, su rival no puede apartar\nsus ojos de él.
+[259] @447b17 (88) Viven en zonas frias y forman grupos de\ncuatro o cinco para cazar con gran\ncoordinacion.
+[260] @4483dd (79) Engulle su peso en comida una vez\nal día. Se lo traga todo sin apenas\nmasticar.
+[261] @448d50 (88) Es un pokémon muy precavido. Si siente\npeligro, se envuelve con el pelaje de\nsus orejas.
+[262] @448daa (88) Ataca a sus enemigos con un golpe\nrápido de sus orejas. Sus picotazos\nson muy dolorosos.
+[263] @449896 (113) Tiene un caracter salvaje. No duda en\ndesafiar a rivales mucho mayores. Puede\nllevarse volando Pokémons pequeños.
+[264] @449909 (104) En invierno cierra su capullo para\nprotegerse del frio. En primavera\nel capullo se abre y esparce polen.
+[265] @449973 (92) Atrae a las presas con un dulce aroma\ny las derrota con los latigos espinosos\nde sus brazos.
+[266] @449da9 (92) Lucha con las espadas que salen\nde sus dos codos. Es un maestro\nde la cortesia y el esgrima.
+[267] @449ed2 (94) Si siente peligro, todo su pelaje brilla.\nAprovecha la ceguera temporal de\nsu rival para huir.
+[268] @44a632 (77) Viaja en grandes bandadas. Aunque\nes pequeño, agita las alas con gran\nfuerza.
+[269] @44a93a (95) Le encantan las cosas blancas y\nredondas. Imita a CHANSEY llevando\nuna roca con forma de huevo.
+[270] @44a99b (103) Vive cerca del agua en bosques.\nEn el dia deja el bosque y va a tomar \nsol para endurecer su caparazon.
+[271] @44aa04 (80) Intimida a sus enemigos desplazando\nel fuego en su cola para parecer mas\ngrande.
+[272] @44c3e8 (92) Prefiere entornos aridos. Sus ojos\nexpulsan gua para ajustar sus\nniveles de fluido corporal.
+[273] @44c446 (106) La concha de su espalda es de tierra\ny se endurece cuando bebe agua.\nSi tiene sed, sus hojas se marchitan.
+[274] @44c4b2 (112) Vive en arboles. Crea bolas de pelo\nque crepitan con electricidad estatica.\nLas almacena en agujeros de arboles.
+[275] @44c524 (91) Sus garras emiten electricidad que\npuede debilitar a sus rivales. Viven\nen grupos pequeños.
+[276] @44c581 (121) Cuando infla sus bolsas venenosas emite\nun fuerte sonido para intimidar. Pilla\ndesapersividos a sus rivales para picarles
+[277] @44c9b2 (100) Al igual que una planta, hace la\nfotosintesis. Como consecuencia,\nsiempre está rodeado de aire puro.
+[278] @44ca18 (94) Para protegerse, puede congelar\ncompletamente su pelaje, de modo\nque los pelos parecen agujas.
+[279] @44ce37 (85) Sus brazos disparan bolas de fuego\na más de 4400 grados. Vive en\ncráteres volcanicos.

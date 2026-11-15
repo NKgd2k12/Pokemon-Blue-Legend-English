@@ -1,0 +1,40 @@
+[40] @1a5a71 (13) ste no es {FD02}.
+[41] @1bdfd7 (10) {FD02} usó {FD03}!
+[42] @1c1088 (18) no meter el dedo!\p
+[43] @1c109c (36) Es un teléfono\nSerá mejor no usarlo.
+[44] @1c124b (38) Muchas herramientas POKéMON\nordenadas.
+[45] @1c1300 (55) Está saliendo un POKéMON\npor la TV, se le ve encantado.
+[46] @1c1c4f (38) Ha-hahah-ah-ha!\nI can't stop sneezing!
+[47] @1c2890 (16) y POKéMON\nagain?
+[48] @1c28da (17) le brother\nagain?
+[49] @1c3021 (12) le swimming.
+[50] @1c5aeb (175) También se han agregado algunas\nfuncionalidades y gráficos, adecuando\na lo que será la beta 2, que\nactualmente se encuentra en desarrollo\n\nFecha de lanzamiento -Marzo de 2019-
+[51] @1c5d4b (113) Actualmente hay muchas especies\ndistintas y muchas por conocer.\fParece que ya sabes esto... no voy\na joderte mas\p
+[52] @1c5dbd (42) Ahora necesito tus datos\npara tu pasaje.\f\n
+[53] @1c5dea (38) Bueno ahora debes decirme\ntu nombre.\f\n
+[54] @1c5e13 (26) Así que tu nombre es {FD01}.\f\n
+[55] @1d3228 (10)  ï VÀí Ô T
+[56] @3d2ad0 (55)           Vy  y\n Vz\n yz\nVzz\nyzz\nyzz\nlzz\n zz\n lz\n  z\n  :
+[57] @3d4f26 (57) Es muy buena. Tiene más índice\nde éxito que la SUPERBALL.
+[58] @3d4f78 (84) Es buena. Tiene más índice\nde éxito que la POKé BALL.         \n                     
+[59] @3d4fd0 (71) Sirve para atrapar POKéMON\nsalvajes. Parece una cápsula.       \n       
+[60] @3d501a (89) Tiene una función especial.\nSe usa en la ZONA SAFARI.\nTiene acabado de camuflaje.\n       
+[61] @3d5077 (80) Es algo distinta.\nFunciona bien con los POKéMON\nde tipo AGUA y BICHO.           
+[62] @3d50cc (78) Es algo distinta.\nFunciona mejor con los POKéMON\ndel fondo del mar.           
+[63] @3d511d (70) Es algo distintEs algo distinta.\nFunciona mejor al avanzar\nel combate.
+[64] @3d5165 (85) Es algo distinta. Funciona mejor\ncon los POKéMON que son\niguales a los que ya tienes.
+[65] @3d5216 (74) Es muy acogedora. Hace que\nlos POKéMON se vuelvan cada\nvez más simpáticos.
+[66] @3d5263 (75) Es muy particular. Se hizo\npara conmemorar algo.\n                          
+[67] @3d52b2 (74) Medicina en spray, que cura heridas\ny restaura 20 PS de un POKéMON.\n      
+[68] @3d52ff (52) Medicina en spray, que cura a un\nPOKéMON envenenado.
+[69] @3d533d (49) Medicina en spray, que cura a un\nPOKéMON quemado.
+[70] @3d5374 (47) Medicina en spray, que descongela\na un POKéMON.
+[71] @3d53a7 (51) MeEs la mejor. Atrapa siempre\nal POKéMON. No falla.
+[72] @3d541b (61) Medicina que restaura todos los PS\ny el estado de un POKéMON.
+[73] @3d54b5 (68) Medicina en spray, que cura heridas\ny restaura 200 PS de un POKéMON.
+[74] @3d5503 (67) Medicina en spray, que cura heridas\ny restaura 50 PS de un POKéMON.
+[75] @3d5550 (66) Medicina en spray, que cura\nlos problemas de estado de un\nPOKéMON.
+[76] @3d5598 (76) Medicina que hace revivir a un\nPOKéMON debilitado.\nLe da la mitad de los PS.
+[77] @3d562b (65) Agua de alto contenido mineral,\nque restaura 50 PS de un POKéMON.
+[78] @3d567e (59) Chispeante bebida gaseosa que\nrestaura 60 PS de un POKéMON.
+[79] @3d56c2 (46) Bebida dulce que restaura 80 PS\nde un POKéMON.

@@ -1,0 +1,40 @@
+[480] @770ec1 (12) Casa de Ash.
+[481] @770ece (13) Casa de Gary.
+[482] @771100 (35) À un entrenador de la\nregión Hoenn.
+[483] @771126 (115) {FC0106}Mamá de Ash: Hola {FD01} yo\nsoy la mamá de Ash, es un gusto\ppoder conocerte.\f{FC0104}{FD01}: Igualmente señora, es un\nplacer.
+[484] @7716c0 (11) Eres bueno.
+[485] @771737 (39) Voy a seguir con mi racha de\nvictorias.
+[486] @771766 (31) Tengo que capturar más pokémon.
+[487] @771788 (15) CIUDAD PLATEADA
+[488] @77179c (14) CIUDAD CELESTE
+[489] @771873 (39) Hace tiempo que no voy al BOSQUE\nVERDE.
+[490] @7718fa (16) Vale, pues nada.
+[491] @77190c (37) RUTA 2\nCIUDAD VERDE - CIUDAD PLATEADA
+[492] @771934 (14) PUEBLO LAVANDA
+[493] @771bd0 (50) {FC010F}Birch: {FC0104}{FD01}{FC010F}, más {FC0105}Beedrill{FC010F},\nencárgate.
+[494] @771c0d (37) {FC010F}Birch: Bien {FC0104}{FD01}{FC010F}, continuemos.
+[495] @771e45 (22) {FC0104}Rocket 2: Mi turno.
+[496] @772584 (14) CIUDAD AZULONA
+[497] @7725a0 (260) {FC0105}Brock: Eso es una MT, Máquina\nTécnica, son muy similares a las\pMO, solo que éstas las puedes\putilizar sólo una vez, así que\pdebes pensar a qué pokémon\pse la vas a enseñar.\fLa MT39 contiene TUMBA ROCAS, un\nataque que puede bajarle la\pvelocidad a tu oponente.
+[498] @7729a3 (70) Hacia adelante se encuentra el\nBOSQUE VERDE. Todo un desafío\pcruzarlo.
+[499] @7729eb (108) Gary nunca está en el gimnasio,\nse la pasa investigando con su\pabuelo, si quieres retarlo, debes\paguantarte.
+[500] @772c88 (35) RUTA 1\nPUEBLO PALETA - CIUDAD VERDE
+[501] @772cb0 (13) CIUDAD FUCSIA
+[502] @772cc8 (57) Muy bien. Ten un poco de\npaciencia. Será sólo un momento.
+[503] @772d23 (93) Gracias por esperar.\fMisión cumplida. Somos especialistas\nen devolver la forma a los\pPOKéMON.
+[504] @772e30 (85) Inventarse motes es divertido, pero\ndifícil.\fEs más fácil recordar nombres\nsencillos.
+[505] @772f4d (36) Parece que puedes CORTAR\neste árbol.
+[506] @773300 (56) a CAJA de POKéMON del PC\nestá llena, cambia a otra CAJA!
+[507] @773365 (37) GIMNASIO CIUDAD VERDE\nLIDER: GARY OAK
+[508] @7734e8 (35) La RUTA 4 está debajo del MT.\nLUNA.
+[509] @77354b (28) No tienes suficiente dinero.
+[510] @7739b7 (52) A mí me encanta buscar POKéMON\nhongo en el MT. LUNA.
+[511] @773b15 (102) Estoy buscando fósiles en las\nentrañas del MT. LUNA.\fA veces me ayuda BROCK,\ndel GIMNASIO de PLATEADA.
+[512] @77419e (32) Se ve que te encanta venir\naquí.
+[513] @7741c0 (31) Acabo de ver correr un AZURILL.
+[514] @774594 (18) Eres espectacular.
+[515] @77461e (72) Todo POKéMON tiene sus puntos\ndébiles.\fLo suyo es entrenar varios tipos.
+[516] @7747ef (88) Si tu POKéMON sufre confusión, lo\nmejor es que lo cambies por otro.\fEs la mejor táctica.
+[517] @7748a4 (193) Actualmente Birch y yo estamos\ntrabajando juntos, y necesitamos\pque vengas a la región de Kanto,\pseguramente ya te lo comentó él\pmismo.\fBien, ahora necesito tus datos\npara completar tu pasaje.\p
+[518] @774b1c (55) Es algo distinta.\nFunciona mejor al avanzar\nel combate.
+[519] @774b64 (52) Medicina en spray, que cura a un\nPOKéMON paralizado.

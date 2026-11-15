@@ -1,0 +1,9 @@
+[520] @774bac (74) Medicina en spray, que cura heridas\ny restaura todos los PS de un\nPOKéMON.
+[521] @774c0c (70) Medicina que hace revivir a un\nPOKéMON debilitado.\nLe da todos los PS.
+[522] @774c60 (66) Restaura completamente\nlos PP del ataque que elijas\nde un POKéMON.
+[523] @774cb4 (65) Restaura completamente\nlos PP de todos los ataques\nde un POKéMON.
+[524] @774d08 (86) Dulce típico de PUEBLO LAVACALDA\nque cura todos los problemas de\nestado de un POKéMON.
+[525] @774dbc (69) Recupera del todo a los POKéMON\ndebilitados restaurando todos sus\nPS.
+[526] @774e10 (91) Parte roja de un objeto antiguo.\nParece formar parte de una especie\nde herramienta antigua.
+[527] @774e7c (80) Larga y resistente cuerda.\nSirve para huir de una cueva\nu otros sitios cerrados.
+[528] @774edc (97) Bella escama con forma de corazón.\nEs poco comùn. Brilla levemente\ncon los colores del arco iris.

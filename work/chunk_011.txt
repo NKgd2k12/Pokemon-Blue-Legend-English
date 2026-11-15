@@ -1,0 +1,40 @@
+[440] @72c92b (80) Solía regalar Bayas, pero desde\nque mi papá me regañó, ya no lo\phago, lo siento.
+[441] @72cac6 (65) Antes podía traer a mi hija\ntranquilamente al museo, ahora ya\pno.
+[442] @72cb7f (46) Ahora tenemos una exposición sobre\nel espacio.
+[443] @72cbea (37) Me gusta venir aquí de vez en\ncuando.
+[444] @72cc2f (79) Estos tipos son unos maleantes,\nsi tuviera a mis pokémon se las\pverían conmigo.
+[445] @72cf65 (33) Solo puedo tener hasta 3 pokémon.
+[446] @72cfc5 (45) Ten cuidado, este camino está\nlleno de rocas.
+[447] @72d0a8 (35) Esos karatecas de ahí me dan\nmiedo.
+[448] @72d141 (31) Ya no encuentro muchos fósiles.
+[449] @72d2a7 (44) Ten cuidado con los ZUBAT, son\nmuy molestos.
+[450] @72d313 (34) Acabo de ver correr a un CLEFAIRY.
+[451] @72d56d (106) Los POKéMON pueden CORTAR\npequeños arbustos.\fPor ejemplo, el que está casi\nenfrente de la tienda, también.
+[452] @72d5d9 (68) De día suelo pasármela pescando,\npor eso de noche vengo a la\pciudad.
+[453] @72d629 (57) De noche las cosas se ponen\npeligrosas aquí, ten cuidado.
+[454] @72d76b (118) Antes solía ir al puente pepita a\ndivertirme un poco con mis\pamigos, pero desde que lo\pdemolieron me aburro muchísimo.
+[455] @72d7ed (76) Lo siento, pero el gimnasio está\ncerrado, son órdenes estrictas de\pla líder.
+[456] @72d845 (106) PISTAS ENTRENADOR\fA los POKéMON se les puede\nentregar objetos.\fAdemás, pueden llegar a usarlos\nen combate.
+[457] @72dc8e (57) Sabes, es muy complicado vivir\nsolo. Más si eres como yo.
+[458] @72de79 (81) A veces me gusta esperar a que\nalguien deje una mesa vacía para\ppoder pedir algo.
+[459] @72ded6 (172) Lo siento, aquí no hacemos comida\npara pokémon, solo para personas.\pPero puedes divertirte luchando\pcon nuestros clientes, siempre\pvienen aquí a tener combates\pentre ellos.
+[460] @72df8e (37) Ya no tengo tanta hambre como\nrecién.
+[461] @72e05f (32) Ya luchamos hoy, regresa mañana.
+[462] @72e17b (32) Ya luchamos hoy, regresa mañana.
+[463] @72e202 (46) Por que no vuelves mañana y\nluchamos de nuevo.
+[464] @72e8bf (44) ŒŒŒŒŒŒŒÚÚÚÚÚÚÚÚÙÙÚÚ\n{FC0104}{FD01}: No debería subir.
+[465] @770000 (423) Riiiiinnnnnngggggg...\f{FC0104}{FD01}: Eh parece que viene de mi \nmochila. Hola?\f{FC0108}Prof. Birch: Hola {FD01} soy Birch,\nEste número me lo acaaba de\pdar tu mamá, quiere que te avise\pque te compró un nuevo celular\py lo dejó en tu mochila, por cierto\precuerda que tienes que ver al\pprof. Oak para entregarle ese\ppaquete y saluda al capitan\pde mi parte.\f{FC0104}{FD01}: Tengo que buscar a Oak.\f{FC0108}ATENCION!! Hemos llegado\nal puerto de Ciudad Azafran.
+[466] @7701d6 (19) {FC0106}Hey {FD01} ven aquí.
+[467] @7701eb (330) {FC0106}Cap. Arenque: Hola {FD01}\ncuanto tiempo sin verte, desde\pque peeko se fue te hecho\pmucho de menos.\f{FC0104}{FD01}:Yo tambien siento lo de Peeko\nalgun día regresará...\f{FC0106}Pero como has crecido tu mamá\ndebe estar orgullosa, por cierto el \pprof Oak te está esperando afuera,\pdale un saludo de mi parte\f{FC0104}{FD01}: No se preocupe capitan se\nlo daré.
+[468] @77049e (153) {FC010F}Oak: {FD01}, ya llegamos.\fÉste es mi laboratorio,\nahora cuéntame, que te trae por\paquí.\f{FC0104}{FD01}: El profesor Birch me mandó\na que le entregara éste paquete.
+[469] @77053c (22) {FD01} entregó el paquete.
+[470] @77074a (153) do, te presento\na {FD01}, el es un entrenador\pde la region Hoenn.{FC010E}Ash: Hoenn eh, yo estuve por ahi\nes un gusto conocerte, mas siendo\pun entrenador como tu.
+[471] @770857 (74) {FC010E}Ash: Hoenn eh, es un gusto\nconocerte, más siendo un\pentrenador como tú.
+[472] @7708b4 (90) {FC010E}Ash: Prof, aquí traigo lo que me\npidió.\f{FC010F}Oak: La GS ball, hace mucho que la\nesperaba.
+[473] @770976 (55) \nEn ésas balls hay tres Pokémon.\pEscoge el que quieras.
+[474] @770ad1 (216) {FC010E}Ash: Me olvidaba, antes de que\nsalgas quiero recomendarte que no\pvayas al gimnasio de Ciudad\pVerde, Gary casi nunca está,\paunque con visitarlo no pierdes\pnada.\fPuedes ir al de Ciudad\nPlateada, yo comencé por éste.
+[475] @770bb9 (39) {FC010F}Oak: {FD01} ven aquí, quiero darte\nalgo.
+[476] @770cc5 (36) {FD01} recibió Pokédex del\nProfesor Oak.
+[477] @770cea (32) {FC010F}Oak: Ésto también te servirá.
+[478] @770d48 (13) PUEBLO PALETA
+[479] @770dce (29) {FC0104}Esta es mi casa\fBonita no?

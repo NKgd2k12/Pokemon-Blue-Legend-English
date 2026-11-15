@@ -1,0 +1,40 @@
+[360] @48808a (52) Dispara de 2 a 5\nráfagas consecu-\ntivas de semillas.
+[361] @4880d0 (43) Ataque tremenda-\nmente rápido\ne ineludible.
+[362] @48821f (35) Araña al rival\ncon garras\nafiladas.
+[363] @4882b4 (48) Robustece el\ncuerpo para\nsubir ATAQUE\ny DEFENSA.
+[364] @4884c5 (50) Sube el AT. ESP.\ny la DEF. ESP.\ncon concentración.
+[365] @4885d3 (41) Ataque eléctrico\nmuy rápido\ne ineludible.
+[366] @488614 (33) Lanza agua a\nchorros para\natacar.
+[367] @7203a1 (65) {FC0108}May: Bien, creo que ya tengo\ntodo lo que necesito para partir.
+[368] @7203e5 (69) {FC0108}Brendan: Bien, creo que ya\ntengo todo lo que necesito para\ppartir.
+[369] @721972 (51) Bien, acércate al {FC0106}campo de batalla{FC0104}\npor favor.
+[370] @7219ef (42) Está bien, regresa cuando estés\npreparado.
+[371] @722196 (50) {FC0104}{FD01}: Creo que primero debería ir\nal {FC0106}gimnasio.
+[372] @7222ad (89) {FC0108}Rocket 1: Sígueme, hay algo más\nadelante que quiero mostrarte.\f{FC0104}Rocket 2: Está bien.
+[373] @722309 (39) {FC0108}Rocket 1: Alguien nos está\nespiando.
+[374] @722336 (29) {FC0104}Rocket 2: Vámonos de aquí.
+[375] @722444 (40) {FC0106}Gracias al cielo. Acércate por\nfavor.
+[376] @7224ee (115) mitado por culpa de estos\pdetestables miembros del {FC0104}Equipo\pRocket {FC0106}que están en la ciudad\pdesde hace unos días.
+[377] @7225bd (67) {FC0106}Muchas gracias, te prometo que\nte recompensaré de alguna manera.
+[378] @722636 (63) {FC0104}{FD01}: Debo ir a detener al\n{FC0106}Equipo Rocket {FC0104}antes de salir.
+[379] @7226cb (26) No te saldrás con la tuya.
+[380] @722735 (22) No podrás con el Jefe.
+[381] @722933 (26) No te saldrás con la tuya.
+[382] @722e62 (23) {FC0108}- Una hora después -
+[383] @7235ba (107) éfono! Seguro mamá lo puso\paquí antes de que saliera y no me\pavisó.\f{FC010E}Steven: Contesta, te están\nllamando.
+[384] @72373a (155) pitán {FC010F}de mi parte.\f{FC0104}{FD01}: No hay problema profesor,\nse los daré.\f{FC010F}Birch: Tengo que dejarte {FC0104}{FD01},{FC010F}\nseguro nos veremos pronto.\f{FC0104}{FD01}: Adiós profesor.
+[385] @72387a (83) {FC010E}Steven: Creo que es hora de irme,\nte veré pronto {FC0104}{FD01}.\f{FD01}: Nos vemos {FC010E}Steven.
+[386] @723f00 (92) nos ayudaste a\pnosotros. Regresa cuando quieras\p{FC0104}{FD01}{FC0106}, tienes el pase libre a éste\pmuseo.
+[387] @725667 (50) {FC0106}Birch: Antes de irme, quiero\ndarte un obsequio.
+[388] @726475 (70) {FC0104}{FD01}: Es un pokémon, y está mal\nherido.\fLo llevaré al centro pokémon.
+[389] @7267a5 (26) {FC0108}Grrr, me largo de aquí.
+[390] @727251 (70) ÚÚÚÚÚÚ\n{FC0104}{FD01}: Todavía debo llevar a éste\npokémon al {FC0106}Centro Pokémon.
+[391] @728136 (57) {FC0106}Bill: Observa mi PC, allí\nestán mis pokémon favoritos.
+[392] @7281e1 (85) {FC0106}Bill: Éste huevo lo puso un de\nmis pokémon, no se que especie\pserá, cuídalo mucho.
+[393] @72840f (42)  tres\pque ves ahí.\fSuerte, la necesitarás.
+[394] @728a6e (35) {FC0106}Admin: Ustedes dos, encárguense.
+[395] @7299f0 (57) {FC0106}Bill: Observa mi PC, allí\nestán mis pokémon favoritos.
+[396] @729a9b (85) {FC0106}Bill: Éste huevo lo puso un de\nmis pokémon, no sé qué especie\pserá, cuídalo mucho.
+[397] @729af3 (61) {FC0106}Bill: {FC0104}{FD01}{FC0106}, {FC0104}Lance {FC0106}te\nespera en la Cueva Celeste.
+[398] @72a9ca (44) Ya estoy un poco vieja para ser\nentrenadora.
+[399] @72aa03 (86) Cuando era joven, yo solía\ncapturar muchos pokémon como tú,\pahora ya no tengo ninguno.

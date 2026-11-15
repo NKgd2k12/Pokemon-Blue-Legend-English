@@ -1,0 +1,40 @@
+[280] @44d292 (96) Puede leer los pensamientos de su\nadversario a través de su aura. \nComprende el lenguaje humano.
+[281] @44d2f4 (108) Su aura se intensifica para alertar\na otros cuando está triste o tiene\nmiedo. Su cuerpo es ágil pero fuerte.
+[282] @44d981 (83) Vive por bosques y campos en busca\nde Pokémon de tipo bicho. Siempre\nve en bandadas
+[283] @44dc5a (92) Sus ojos pueden ver a través de\ntodo. Localiza a las presas detrás\nde objetos y las captura.
+[284] @44df2f (106) Es muy orgullosos, por lo que odia\naceptar comida de la gente. Vive\nen las costas de los paises nordicos. 
+[285] @44df9b (103) Vive solo, alejado de los demás. Caza\npresas en mares friois. Cada uno\npiensa que es el más importante.
+[286] @44e004 (99) Escala acantilados escarpados con\nagilidad. Vive en las montañas y su\nfuego se apaga cuando duerme.
+[287] @44e392 (108) Utiliza un tipo de artes marciales con\ntodos sus miembros. Su corona de fuego\ndemuestra su naturaleza ígnea.
+[288] @44e400 (92) Muchos confunden a los grupos de\nTORTERRA que migran en busca de\nagua con bosques vivientes.
+[289] @44e45e (116) Nada tan rapido como un barco. Los tres\ncuernos de su puco son muestra de su\nfuerza. El lider los tiene mas grandes.
+[290] @44e5b3 (118) La toxina producida en su saco de veneno\nes bombeada a las garras de sus nudillos\na través de conductos en sus brazos.
+[291] @44e62b (100) Toca a su enemigo con las puntas\nde sus dos colas y les suelta una\ndescarga de más de 20000 voltios.
+[292] @44e691 (72) Nunca aparece donde hay peleas.\nÚltimamente no se deja ver muy a\nmenudo.
+[293] @453f98 (48)  ÊÀÛÏÔEÁ ÈÓçÉÒñÁ ÀÀÈÇÔßÁ âÔÈÇÔÀÁ àÒÊÉÔcÀ ÁÔèÇÎíÀ
+[294] @45718d (19) 3\n4\n   {FC0100}  ÁÔèÇÓÑ 
+[295] @462e58 (20) {F801}  mï  Hé    ÊíÇÔÀ 
+[296] @46e3dc (68) ÀÁÂ ÀÁ ÂÇÀËÌÀÉÊÀÇÈ   ÂÇâÒÔÀ    ÌÁËyÂ  ÂÌÁËgÂ  ÉÌÁËOÂ ßÂÌÁË¥Â ßÉÌÁË4Â
+[297] @47565c (12) lÀ  OÚ  vÚ  
+[298] @47ab97 (10) {F9E9}{F9DC}{F9DD}{F9DE}{F9D1}
+[299] @47af8c (7) ÁË ÒJAC
+[300] @47c2ec (9) ÊËÁÏJORDY
+[301] @47c6cc (8) ËËÁÓMIKE
+[302] @47d26c (11) ÎË ÓBRANDON
+[303] @47d64c (14) ÏËÀÁRIC & RENE
+[304] @47de0c (14) ÓËÀËISAC & MAG
+[305] @47e1ec (11) ÔËÁÉCHELSEA
+[306] @47e5cc (10) ŒËÁÇCAMRYN
+[307] @47f16c (11) ÛË ÓALBERTO
+[308] @47f54c (14) ÑËÀÏKAT & KIPP
+[309] @4800ec (13) áËÁÀPRISCILLA
+[310] @4804cc (11) âËÁÒBRENNAN
+[311] @481122 (14) {F7}íÔ   ALAKAZAM
+[312] @4823cc (9) îËÁÓMAURA
+[313] @482bd5 (69) Corta con garras,\nguadañas, etc.\nFuera de combate\nse usa para cortar.
+[314] @4833dc (40) Ahuyenta al rival\ny finaliza el\ncombate.
+[315] @4835c2 (42) Fuerte ataque que\npuede causar\nquemaduras.
+[316] @4836d6 (63) Lanza una gran ola\nal rival.\nFuera de combate\nsirve para nadar.
+[317] @48371f (42) Rayo de hielo\nque puede llegar\na congelar.
+[318] @483760 (46) Tormenta de hielo\nque puede llegar\na congelar.
+[319] @48386d (49) Es eficaz, pero\ndeja inmóvil al\natacante 1 turno.

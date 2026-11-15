@@ -1,0 +1,40 @@
+[160] @3d7db1 (83) Al llevarlo, ganarás muchos más\npuntos de EXP. en combate.\nEstá lleno de felicidad.
+[161] @3d7e17 (62) Al llevarlo, la lente aumenta\nla posibilidad de golpe crítico.
+[162] @3d7e7a (70) Al llevarlo, la película metálica\nfortalece los ataques de tipo\nACERO.
+[163] @3d7ede (56) Al llevarlos, van restaurando\nlos PS durante el combate.
+[164] @3d7f37 (61) Peculiar escama que\npueden llevar los POKéMON\nde tipo DRAGÓN.
+[165] @3d7f79 (67) Al llevarla, el AT. ESP. \nde PIKACHU aumentará.\nPuede dar calambre.
+[166] @3d7fd5 (74) Al llevarla, la suavidad de la\narena fortalece los ataques\nde tipo TIERRA.
+[167] @3d8036 (73) Al llevarla, la robustez de la\npiedra fortalece los ataques\nde tipo ROCA.
+[168] @3d8096 (77) Al llevarla, la vitalidad de la\nsemilla fortalece los ataques\nde tipo PLANTA.
+[169] @3d80fa (58) Al llevarlas, se fortalecen\nlos ataques de tipo SINIESTRO.
+[170] @3d8158 (75) Al llevarlo, aumenta la decisión\ny se fortalecen los ataques\nde tipo LUCHA.
+[171] @3d81b3 (74) Al llevarlo, el fuerte magnetismo\nfortalece los ataques de tipo\nELÉCTRICO.
+[172] @3d8214 (93) Al llevarla, la forma de lágrima de\nla gema hace que se fortalezcan\nlos ataques de tipo AGUA.
+[173] @3d8276 (55) Al llevarlo, se fortalecen\nlos ataques de tipo VOLADOR.
+[174] @3d82d6 (70) Al llevarla, el contenido tóxico\nfortalece los ataques de tipo\nVENENO.
+[175] @3d833b (54) Al llevarlo, se fortalezcan\nlos ataques de tipo HIELO.
+[176] @3d8397 (83) Al llevarlo, aumenta la energía\noscura y se fortalecen\nlos ataques de tipo FANTASMA
+[177] @3d844e (74) Al llevarlo, actùa como combustible\ny fortalece los ataques de tipo\nFUEGO.
+[178] @3d84ac (73) Al llevarlo, la dureza del colmillo\nfortalece los ataques de tipo\nDRAGÓN.
+[179] @3d850f (76) Al llevarlo, la delicadeza del\npañuelo fortalece los ataques\nde tipo NORMAL.
+[180] @3d856e (54) Peculiar caja hecha en SILPH S.A.\nEstá llena de cosas.
+[181] @3d85ba (49) Al llevarla y vencer al enemigo,\nrestaura los PS.
+[182] @3d8616 (56) Al llevarlo, los ataques tipo AGUA\nson algo más fuertes.
+[183] @3d8669 (75) Al llevarlo, gracias al aroma\nque libera, baja algo la\nPRECISIÓN del rival.
+[184] @3d86c0 (56) Al llevarlo, CHANSEY dará\nposiblemente un golpe crítico.
+[185] @3d8709 (71) Si lo lleva DITTO, gracias a la\ndureza del polvo, aumentará\nsu DEFENSA.
+[186] @3d8754 (75) Extraño tipo de hueso. Suelen\nllevarlo CUBONE o MAROWAK.\nAumenta el ATAQUE.
+[187] @3d8a14 (68) Te servirá para llevar hasta 9.999\nmonedas. Se obtiene en el CASINO.
+[188] @3d8a66 (93) Detector de objetos invisibles\npor ondas sonoras. Emite una señal\ncuando encuentra un objeto.
+[189] @3d8acc (65) Pesca POKéMON salvajes en todo\ntipo de aguas.\nNo está nada nueva.
+[190] @3d8b23 (69) Una buena caña para pescar\nPOKéMON salvajes.\nEs de muy buena calidad.
+[191] @3d8b7b (69) Es la mejor caña para pescar\nPOKéMON salvajes.\nEs de alta tecnología.
+[192] @3d90d7 (83) Un poketeléfono, obsequio de\nmamá, con él que puedes recibir\nllamadas de tus amigos
+[193] @3d9139 (52) Una rara esfera que tiene un\nbrillo muy llamativo   
+[194] @3da81a (62) Dicen que consigue despertar al\ninstante a cualquier POKéMON.\n
+[195] @3dab59 (65) Bici plegable con la que se va más\nrápido que con las DEPORTIVAS.
+[196] @3dab9f (84) Mapa que puede consultarse\nen cualquier momento.\nTambién indica dónde te encuentras.
+[197] @3dabf7 (61) Dispositivo que busca a los\nENTRENADORES que quieren luchar.\n
+[198] @3daca5 (86) Tubo que contiene las MT y MO.\nEstá en el bolsillo de los objetos\nclave de la MOCHILA.
+[199] @3dad01 (89) Saco que sirve para llevar las\nBAYAS. Está en el bolsillo de\nobjetos clave de la MOCHILA.

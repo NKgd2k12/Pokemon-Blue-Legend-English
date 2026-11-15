@@ -1,0 +1,40 @@
+[400] @72aa90 (46) Una Pokédex 3000, tiene sus\npáginas en blanco.
+[401] @72ab70 (41) guro que genial, quiero\nobsequiarte esto.
+[402] @72abb6 (118) {FC010C}Mama de ash: Últimamente Ash se\nla pasa fuera de casa, viajando\ppara cumplir su sueño, la verdad,\plo extraño mucho.
+[403] @72ad3c (118) {FC0106}Mamá de Ash: Últimamente Ash se\nla pasa fuera de casa, viajando\ppara cumplir su sueño, la verdad,\plo extraño mucho.
+[404] @72ae7b (104) De noche suele haber ladrones por\nestas zonas, por eso la custodio\pde noche. Si sabes algo,\pinfórmamelo.
+[405] @72af8f (72) Sea de día o de noche, tengo que\ncuidar a los ciudadanos de ésta\pciudad.
+[406] @72b0f4 (57) Nos gusta venir a observar las\nbatallas de vez en cuando.
+[407] @72b139 (82) También es divertido ver los\ncombates de otros entrenadores,\ppor eso estamos aquí.
+[408] @72b349 (91) Lo siento, aquí solo pueden pasar\nentrenadores que tengan al menos\puna MEDALLA de GIMNASIO.
+[409] @72b3b0 (44) Muero de ganas de atravesar el\nBOSQUE VERDE.
+[410] @72b4cc (62) Mi nieto es muy escurridizo, si\nlo dejo ir, quizás no regrese.
+[411] @72b516 (41) Hace 50 años que vivimos en\nCIUDAD VERDE.
+[412] @72b54b (114) Antes, solían venir menos\nentrenadores, pero desde que Gary\pes el líder del gimnasio, muchos\phan venido a retarlo.
+[413] @72b65c (13) CUEVA DIGLETT
+[414] @72b6dd (47) No le digas a nadie, pero yo odio\na los bichos.
+[415] @72b718 (53) Dicen que hay LEDYBA aquí, pero\nsolo aparecen de día.
+[416] @72b759 (53) Quiero capturar un WEEDLE, pero\nno encuentro ninguno.
+[417] @72b8fe (24) Mi WEEDLE no evoluciona.
+[418] @72b957 (43) No he pescado nada interesante\nhasta ahora.
+[419] @72b9c3 (43) Dicen que hay muchos BEEDRILL en\nel bosque.
+[420] @72ba4b (52) Vaya, pues se ve que tampoco\nsoy demasiado fuerte...
+[421] @72ba82 (30) Así no hay forma de ahorrar...
+[422] @72bb6e (27) Tengo que volver a empezar.
+[423] @72bd6f (55) SALIENDO DEL BOSQUE VERDE,\nSE ENCUENTRA CIUDAD PLATEADA
+[424] @72be3b (82) Desde que el Equipo Rocket está\naquí, ya no es tan divertido\pandar por las calles.
+[425] @72bf05 (84) No sé por qué estoy aquí, con el\nEquipo Rocket en las calles, no\pdebería estar aquí.
+[426] @72bfed (52) Por culpa del Equipo Rocket no\npuedo ir al MT. LUNA.
+[427] @72c02d (34) Lo siento, no puedo dejarte\npasar.
+[428] @72c05b (107) No puedo decirte que hacemos\naquí, pero te aseguro que no les\pgustará nada a los ciudadanos de\pesta ciudad.
+[429] @72c1cb (18) CASA del BAYOLOGO.
+[430] @72c1e9 (38) MUSEO DE LA CIENCIA DE\nCIUDAD PLATEADA
+[431] @72c21b (43) CIUDAD PLATEADA\nLa ciudad de roca grisácea.
+[432] @72c252 (23) La puerta está cerrada.
+[433] @72c39a (62) Desde que mi mujer no está, tengo\nque criar yo solo a mi hijo.
+[434] @72c439 (56) Ahora la ciudad está más\ntranquila sin el EQUIPO ROCKET.
+[435] @72c530 (94) Voy a intercambiar mi POKéMON\ncon ese chico de ahí.\fComo tengo dos PIKACHU,\nvoy a pasarle uno.
+[436] @72c59a (59) Este mapa se ve muy bonito, Kanto\nes una región muy bonita.
+[437] @72c786 (101) Soy el BAYÓLOGO, dedico mi vida a\nla plantación de estos\pmaravillosos frutos y me dedico a\pvenderlos.
+[438] @72c848 (39) Lo siento, no tienes suficiente\ndinero.
+[439] @72c8a0 (79) Lo siento, solo puedo venderte\nuna vez al día, sino se me\pacabarían muy rápido.

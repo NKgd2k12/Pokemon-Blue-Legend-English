@@ -1,0 +1,40 @@
+[120] @3d6598 (83) Curiosa piedra que hace\nevolucionar a especies de POKéMON.\nTiene dibujada una hoja.
+[121] @3d65ee (57) Seta pequeña y poco comùn.\nHay gente a la que le encanta.
+[122] @3d6633 (56) Seta grande y poco comùn.\nHay gente a la que le encanta.
+[123] @3d6677 (87) Bonita y brillante perla plateada\nde tamaño más bien pequeño\nque se vende a bajo precio
+[124] @3d66d0 (82) Bonita y brillante perla plateada\nde tamaño muy grande que se\nvende a alto precio.
+[125] @3d672c (61) Bonita arena roja de tacto\nsedoso que se vende a alto precio.
+[126] @3d67ce (76) Pepita de oro puro que emite\nun brillo espectacular.\nSe vende a alto precio.
+[127] @3d6c6b (64) Cuando la lleve un POKéMON, lo\nliberará de parálisis en combate.
+[128] @3d6cb0 (53) Cuando la lleve un POKéMON,\nlo despertará en combate.
+[129] @3d6cee (64) Cuando la lleve un PKMN, lo curará\nde envenenamiento en combate.
+[130] @3d6d30 (61) Cuando la lleve un PKMN, le curará\nlas quemaduras en combate.
+[131] @3d6d72 (55) Cuando la lleve un POKéMON,\nlo descongelará en combate.
+[132] @3d6db4 (59) Cuando la lleve un POKéMON,\nle restaurará 10 PP en combate.
+[133] @3d6df8 (59) Cuando la lleve un POKéMON,\nle restaurará 10 PS en combate.
+[134] @3d6e3c (62) Cuando la lleve un POKéMON,\nlo sacará del estado de confusión.
+[135] @3d6e81 (62) Cuando la lleve un POKéMON,\nle curará los problemas de estado.
+[136] @3d6ec8 (59) Cuando la lleve un POKéMON,\nle restaurará 30 PS en combate.
+[137] @3d6f0c (47) Al llevarla, restaura PS,\npero puede confundir.
+[138] @3d6f4c (47) Al llevarla, restaura PS,\npero puede confundir.
+[139] @3d6f8c (47) Al llevarla, restaura PS,\npero puede confundir.
+[140] @3d6fcc (47) Al llevarla, restaura PS,\npero puede confundir.
+[141] @3d700c (47) Al llevarla, restaura PS,\npero puede confundir.
+[142] @3d771e (53) Al llevarlo, lanza un destello\nque baja la PRECISIÓN.
+[143] @3d777c (85) Al llevarla, restaura cualquier\ncaracterística debilitada.\nSólo puede usarse una vez.
+[144] @3d77df (60) Al llevarla, se crece con\nfacilidad, pero baja la VELOCIDAD.
+[145] @3d783d (78) Al llevarlo, se toman puntos\nde EXP. de los combates,\nsin que haya que luchar.
+[146] @3d789f (75) Al llevarla, se puede golpear\nen primer lugar.\nEs una garra ligera y veloz.
+[147] @3d7900 (51) Al llevarla, calma los ánimos\ny fomenta la amistad.
+[148] @3d7969 (81) Al llevarla, los POKéMON\nse liberan del enamoramiento.\nSólo puede usarse una vez.
+[149] @3d79c7 (56) Aumenta la fuerza de un ataque,\npero sólo deja usar ése.
+[150] @3d7a22 (56) Al llevarla, puede debilitarte\ncuando hieres a tu rival.
+[151] @3d7a76 (53) Al llevarlo, se fortalecen\nlos ataques de tipo BICHO.
+[152] @3d7ad6 (58) Si el que lo lleva lucha en un\ncombate, duplica el dinero.
+[153] @3d7b36 (70) Al llevarlo el primero del equipo,\nlos POKéMON salvajes no se\nacercan.
+[154] @3d7b93 (65) Al llevarlo, suben el AT. ESP. y\nla DEF. ESP. de LATIOS y LATIAS.
+[155] @3d7be5 (64) Al llevarlo, sube el AT. ESP.\nde CLAMPERL.\nBrilla como la plata.
+[156] @3d7c45 (67) Al llevarla, sube la DEF. ESP.\nde CLAMPERL.\nTiene un brillo rosado.
+[157] @3d7ca4 (53) Se usa para huir de combates\ncontra POKéMON salvajes.
+[158] @3d7d02 (56) El POKéMON que lleve esta piedra\nmágica no evolucionará.
+[159] @3d7d53 (77) Al llevarla, quizá evites\ndebilitarte. Puede que al menos\nte quedes con 1 PS.

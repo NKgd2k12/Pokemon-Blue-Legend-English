@@ -1,0 +1,40 @@
+[320] @483a3a (65) Potente ataque\nfísico. Fuera de\ncombate sirve para\nmover piedras.
+[321] @483e3e (53) Duro ataque\neléctrico que\npuede paralizar\nal enemigo.
+[322] @483ec2 (44) Un estruendo que\npuede paralizar\nal enemigo.
+[323] @483f44 (37) Fuerte, pero inùtil\ncontra voladores.
+[324] @48400f (38) Envenena al rival\nde forma\nprogresiva.
+[325] @484098 (51) Fuerte ataque\npsíquico que\npuede bajar\nla DEF. ESP.
+[326] @484353 (40) Crea espejismos\npara mejorar\nla EVASIÓN.
+[327] @4845c5 (47) Reduce el daño que\ncausa el AT. ESP.\ndel rival.
+[328] @484647 (46) Pared de luz\nque debilita los\nataques físicos.
+[329] @48493b (52) Llama que lo\nchamusca todo\ny suele causar\nquemadura.
+[330] @484986 (71) Embiste con impulso\npara remontar\nuna cascada incluso\nfuera de combate.
+[331] @484f20 (73) Luz cegadora que\nbaja la PRECISIÓN.\nFuera de combate\nsirve para iluminar.
+[332] @48515e (51) Te duerme durante\n2 turnos para\ncurarte totalmente.
+[333] @48548b (44) Puede quitarle\nal rival el objeto\nque lleve.
+[334] @485857 (53) Frena ataques,\npero puede fallar\nsi se usa sin cesar.
+[335] @4859f2 (47) Explosión de lodo\nque puede llegar\na envenenar.
+[336] @485d77 (41) Tormenta de arena\nque dura varios\nturnos.
+[337] @485dc1 (36) Absorbe la\nmitad del daño\nproducido.
+[338] @48602b (34) Alas rígidas que\ngolpean al rival.
+[339] @4860b7 (47) Reduce la\nposibilidad de que\nel enemigo ataque.
+[340] @486187 (46) Ataque que aumenta\nsus efectos con\nla amistad.
+[341] @48621b (45) Es más fuerte si\nno se aprecia\nal ENTRENADOR.
+[342] @486265 (45) Fuerza mística\nque evita\nproblemas\nde estado.
+[343] @4865bf (51) Ataca con una\ncola férrea\ny puede bajar\nla DEFENSA.
+[344] @486774 (35) Su eficacia varía\nsegùn el agresor.
+[345] @48683a (51) Refuerza los\nataques de\ntipo AGUA\ndurante 5 turnos.
+[346] @48687c (48) Sube los ataques\nde tipo FUEGO\ndurante 5 turnos.
+[347] @486a1b (49) Lanza una bola\nnegra que puede\nbajar la DEF. ESP.
+[348] @486aa6 (66) Ataque que puede\nbajar la DEFENSA.\nFuera de combate\nmachaca rocas.
+[349] @486d1c (45) Tormenta de granizo\nque golpea en cada\nturno.
+[350] @486d64 (46) Agobia e impide\nel uso reiterado\nde un ataque.
+[351] @486e79 (61) Potencia el ATAQUE\nal estar quemado,\nparalizado o\nenvenenado.
+[352] @486ebe (52) Es tardío, pero\nsi el rival\nte golpea\nno te moverás.
+[353] @487014 (35) Hace que el rival\nsólo use ataques.
+[354] @4872f2 (44) Destruye barreras\ncomo REFLEJO\ny causa daño.
+[355] @48743c (51) Intercambia la\nhabilidad especial\ncon otro POKéMON.
+[356] @487558 (51) Roba el efecto\ndel ataque\nque el rival\nuse después.
+[357] @48759a (48) Los efectos de este\nataque varían\nsegùn la zona.
+[358] @487c46 (47) Ataque en toda\nregla que\nbaja mucho\ntu AT. ESP.
+[359] @487cd2 (55) Tira rocas al\nrival, lo para\ny suele bajarle\nVELOCIDAD.
